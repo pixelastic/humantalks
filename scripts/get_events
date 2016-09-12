@@ -1,0 +1,89 @@
+#!/usr/bin/env ruby
+require 'awesome_print'
+require 'json'
+require 'open-uri'
+
+# Create a list of all events associated with the group
+class GetEvents
+  def initialize
+    @group_name = 'HumanTalks-Paris'
+    @api_key = api_key
+
+    if @api_key.nil?
+      puts 'Cannot find your API key.'
+      puts 'Usage:'
+      puts 'MEETUP_API_KEY=XXXXXX ./scripts/get_events'
+      puts 'Or create a ./_meetup_api_key file in the root folder'
+      exit 1
+    end
+  end
+
+  # Read the API key either from ENV or from a _meetup_api_key file in
+  # source folder
+  def api_key
+    # First read in ENV
+    return ENV['MEETUP_API_KEY'] if ENV['MEETUP_API_KEY']
+
+    # Otherwise from file in source directory
+    key_file = '_meetup_api_key'
+    if File.exist?(key_file) && File.size(key_file) > 0
+      return File.open(key_file).read.strip
+    end
+    nil
+  end
+
+  # Get the whole list of events from the meetup API
+  def raw_events
+    url = [
+      'https://api.meetup.com/2/events?',
+      "key=#{@api_key}&",
+      "group_urlname=#{@group_name}&",
+      'status=past'
+    ].join('')
+
+    json = JSON.parse(open(url).read)
+    json
+  end
+
+  # Return a cleaned up list of events
+  def events
+    raw = raw_events['results']
+    events = raw.map do |event|
+      host = event["venue"]["name"]
+      count_max = event["rsvp_limit"]
+      count_actual = event["yes_rsvp_count"]
+      rating = event["rating"]["average"]
+      url = event["event_url"]
+      name = event["name"]
+      talk_id = event["id"]
+      date = event["time"]
+      _description = event["description"]
+
+      {
+        _description: _description,
+        talk_id: talk_id,
+        host: host,
+        name: name,
+        url: url,
+        count_max: count_max,
+        count_actual: count_actual,
+        date: date,
+        rating: rating
+      }
+    end
+    events
+  end
+
+  def write_json(basename, content)
+    path = File.expand_path("./data/#{basename}.json")
+    content = JSON.pretty_generate(content)
+    File.write(path, content)
+  end
+
+
+
+  def run
+    write_json("events", events)
+  end
+end
+GetEvents.new.run
