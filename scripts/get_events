@@ -1,13 +1,13 @@
 #!/usr/bin/env ruby
-require 'awesome_print'
-require 'json'
-require 'open-uri'
+require_relative '../lib/script_helper'
 
 # Create a list of all events associated with the group
 class GetEvents
+  include ScriptHelper
+
   def initialize
     @group_name = 'HumanTalks-Paris'
-    @api_key = api_key
+    @api_key = api_key('meetup')
 
     if @api_key.nil?
       puts 'Cannot find your API key.'
@@ -16,20 +16,6 @@ class GetEvents
       puts 'Or create a ./_meetup_api_key file in the root folder'
       exit 1
     end
-  end
-
-  # Read the API key either from ENV or from a _meetup_api_key file in
-  # source folder
-  def api_key
-    # First read in ENV
-    return ENV['MEETUP_API_KEY'] if ENV['MEETUP_API_KEY']
-
-    # Otherwise from file in source directory
-    key_file = '_meetup_api_key'
-    if File.exist?(key_file) && File.size(key_file) > 0
-      return File.open(key_file).read.strip
-    end
-    nil
   end
 
   # Get the whole list of events from the meetup API
@@ -74,16 +60,8 @@ class GetEvents
     events
   end
 
-  def write_json(basename, content)
-    path = File.expand_path("./data/#{basename}.json")
-    content = JSON.pretty_generate(content)
-    File.write(path, content)
-  end
-
-
-
   def run
-    write_json("events", events)
+    write_json("data/events", events)
   end
 end
 GetEvents.new.run

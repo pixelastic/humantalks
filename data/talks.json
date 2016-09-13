@@ -1,0 +1,129 @@
+[
+  {
+    "title": "Vagrant",
+    "authors": [
+      {
+        "name": "Julien Dubreuil"
+      }
+    ]
+  },
+  {
+    "title": "Découvrons Neo4J",
+    "authors": [
+      {
+        "name": "Florent Biville",
+        "meetup": "32772802"
+      }
+    ]
+  },
+  {
+    "title": "Focus sur les filtres AngularJS",
+    "authors": [
+      {
+        "name": "Thierry Lau",
+        "meetup": "13702160"
+      }
+    ]
+  },
+  {
+    "title": "Le réseau mobile, cette plaie",
+    "authors": [
+      {
+        "name": "Pierre Chapuis",
+        "meetup": "11545318"
+      }
+    ]
+  },
+  {
+    "title": "Présentation du projet Moov' In The City",
+    "authors": [
+      {
+        "name": "l'équipe Moov'Simply"
+      }
+    ]
+  },
+  {
+    "title": "Les bronzés font du dev",
+    "authors": [
+      {
+        "name": "Ellène Siber Dijoux",
+        "twitter": "ElleneSiber"
+      }
+    ]
+  },
+  {
+    "title": "Spring ROO",
+    "authors": [
+      {
+        "name": "Mehdi Ben Haj Abbes",
+        "twitter": "MehdiAbbes"
+      }
+    ]
+  },
+  {
+    "title": "Cloud + API + Marketplace + Hub = Mashape ! ",
+    "authors": [
+      {
+        "name": "Guillaume Bitaudeau",
+        "twitter": "gbitaudeau"
+      }
+    ]
+  },
+  {
+    "title": "Tous freelances ?",
+    "authors": [
+      {
+        "name": "Jean-Baptiste Lemée",
+        "twitter": "jblemee"
+      },
+      {
+        "name": "Vincent Huguet",
+        "twitter": "vhuguet"
+      }
+    ]
+  },
+  {
+    "title": "Girlz in Web, RailsGirls et Duchess France : des femmes dans l'IT",
+    "authors": [
+      {
+        "name": "Duchesses FR",
+        "twitter": "duchessfr"
+      },
+      {
+        "name": "RailsGirlsParis",
+        "twitter": "RailsGirlsParis"
+      },
+      {
+        "name": "Girls In Web",
+        "twitter": "GirlzInWeb"
+      }
+    ]
+  },
+  {
+    "title": "Introduction au robot Nao",
+    "authors": [
+      {
+        "name": "Blandine Bourgois",
+        "twitter": "bbourgois"
+      }
+    ]
+  },
+  {
+    "title": "Checkpoint : sécurité des frameworks web",
+    "authors": [
+      {
+        "name": "Stephanie Ouillon",
+        "twitter": "steph_ouillon"
+      }
+    ]
+  },
+  {
+    "title": "Retour d'expérience sur la conception de l'API Mangopay",
+    "authors": [
+      {
+        "name": "Laure Némée",
+        "twitter": "Zazoun"
+      }
+    ]
+  }
+]
