@@ -1,0 +1,80 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'bundler/setup'
+require_relative '../lib/helper_extract'
+require_relative '../lib/helper_push'
+
+# Remove all record from 2016
+records = JSON.parse(File.open(HelperPath.record('records')).read)
+records = records.reject do |record|
+  true if record['year'] == 2016
+end
+
+# Quick and dirty hacks to improve facets
+records = records.map do |record|
+  # Add readable facet names for the type of conferences
+  record['type'] = 'Atelier' if record['type'] == 'workshop'
+  record['type'] = 'Conférence' if record['type'] == 'conference'
+
+  # Add easy faceting if have slides or videos
+  record['availableRessources'] = []
+  unless record['ressources'].nil?
+    has_slides = !record['ressources']['slides'].nil?
+    has_video = !record['ressources']['video'].nil?
+    record['availableRessources'] << 'Slides' if has_slides
+    record['availableRessources'] << 'Vidéo' if has_video
+  end
+
+  record
+end
+
+app_id = 'O3F8QXYK6R'
+index = 'parisweb'
+index_tmp = 'parisweb_tmp'
+
+settings = {
+  attributesToIndex: [
+    'unordered(title)',
+    'unordered(authors.name)',
+    'unordered(tags)',
+    'unordered(description)'
+  ],
+  customRanking: [
+    'desc(year)'
+  ],
+  attributesForFacetting: [
+    'year',
+    'type',
+    'tags',
+    'authors.name',
+    'availableRessources'
+  ],
+  attributesToSnippet: %w(
+    description:50
+  ),
+  snippetEllipsisText: '…',
+  highlightPreTag: '<span class="search-hit--highlight">',
+  highlightPostTag: '</span>',
+  typoTolerance: 'strict',
+  exactOnSingleWordQuery: 'word'
+}
+
+synonyms = [{
+  objectID: 'javascript',
+  type: 'synonym',
+  synonyms: %w(js javascript)
+}, {
+  objectID: 'ux',
+  type: 'synonym',
+  synonyms: ['ux', 'user experience']
+}, {
+  objectID: 'ui',
+  type: 'synonym',
+  synonyms: ['ui', 'user interface']
+}]
+
+HelperPush.new(app_id)
+          .set_settings(index_tmp, settings)
+          .add_synonyms(synonyms)
+          .push_records(index_tmp, records)
+          .move_index(index_tmp, index)

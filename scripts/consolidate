@@ -1,0 +1,108 @@
+#!/usr/bin/env ruby
+require 'fileutils'
+require 'awesome_print'
+require 'json'
+require 'open-uri'
+require 'shellwords'
+require_relative '../lib/helper_path'
+
+class Consolidate
+  def initialize
+    @inputs = Dir['./records/20*.json']
+    @output = './records/records.json'
+  end
+
+  def run
+    records = []
+    @inputs.each do |input|
+      records += JSON.parse(File.read(input))
+    end
+
+    records = records.map do |record|
+      next record if record['ressources'].nil?
+      video = record['ressources']['video']
+      slides = record['ressources']['slides']
+      ressource = slides || video
+
+      record['thumbnail'] = vimeo_thumbnail(ressource) if vimeo?(ressource)
+      record['thumbnail'] = dailymotion_thumbnail(ressource) if dailymotion?(ressource)
+      record['thumbnail'] = pdf_thumbnail(ressource) if pdf?(ressource)
+
+      record
+    end
+
+    output = HelperPath.record('records')
+    records = JSON.pretty_generate(records)
+    File.write(output, records)
+  end
+
+  def vimeo?(ressource)
+    ressource =~ %r{^https://vimeo.com/}
+  end
+
+  def dailymotion?(ressource)
+    ressource =~ %r{^https://www.dailymotion.com/}
+  end
+
+  def pdf?(ressource)
+    ressource =~ /\.pdf$/
+  end
+
+  def vimeo_thumbnail(ressource)
+    puts "Fetching thumbnail for #{ressource}"
+    id = ressource.split('/').last
+    url = "https://vimeo.com/api/oembed.json?url=http%3A//vimeo.com/#{id}"
+    json = JSON.parse(open(url).read)
+    json['thumbnail_url']
+  end
+
+  def dailymotion_thumbnail(ressource)
+    id = ressource.split('/').last
+    "http://www.dailymotion.com/thumbnail/video/#{id}"
+  end
+
+  def pdf_thumbnail(ressource)
+    puts "Getting thumbnail for #{ressource}"
+    FileUtils.mkdir_p('./tmp/pdf')
+    basename = HelperPath.sanitize(ressource.split('/').last)
+    downloaded_pdf = File.expand_path("./tmp/pdf/#{basename}")
+    firstpage_pdf = downloaded_pdf.gsub('.pdf', '_001.pdf')
+    thumbnail = firstpage_pdf.gsub('_001.pdf', '.png')
+    thumbnail_basename = File.basename(thumbnail)
+    asset_path = "./app/assets/img/thumbnails/#{thumbnail_basename}"
+    url = "./img/thumbnails/#{thumbnail_basename}"
+
+    # Stop if we already extracted the thumbnail
+    if File.exist?(asset_path)
+      puts '✘ Thumbnail already generated'
+      return url
+    end
+    
+    # Downloading the pdf
+    puts 'Downloading pdf'
+    `wget #{ressource} -O #{downloaded_pdf.shellescape}` unless File.exist?(downloaded_pdf)
+
+    # Stop if no such file
+    if File.zero?(downloaded_pdf)
+      puts '✘ No such file'
+      FileUtils.rm(downloaded_pdf)
+      return nil
+    end
+
+    # Extracting the first page
+    puts 'Extracting first page'
+    `pdftk #{downloaded_pdf.shellescape} cat 1 output #{firstpage_pdf.shellescape}`
+
+    # Convert file to png
+    puts 'Converting to png'
+    `convert -flatten -quality 100 -resize 300 #{firstpage_pdf.shellescape} #{thumbnail.shellescape}`
+
+    # Copy the file to the assets
+    puts 'Moving it to assets'
+    FileUtils.mv(thumbnail, asset_path)
+
+    url
+  end
+
+end
+Consolidate.new.run
