@@ -1,0 +1,193 @@
+#!/usr/bin/env ruby
+require 'awesome_print'
+require 'cgi'
+require 'digest/sha1'
+require 'fileutils'
+require 'nokogiri'
+require 'json'
+require 'open-uri'
+require 'shellwords'
+require 'uri'
+
+class Extract
+  def initialize
+    @input = File.expand_path('./data/raw.json')
+    @output = File.expand_path('./data/records.json')
+  end
+
+  def run
+    raw = JSON.parse(File.read(@input))['data']
+    ap raw.length
+
+    records = []
+
+    raw.each do |talk|
+      record = {
+        title: talk['title'],
+        description: talk['description'],
+        authors: authors(talk),
+        slides: talk['slides'],
+        video: talk['video'],
+        thumbnail: thumbnail(talk)
+      }
+
+      records << record
+    end
+  end
+
+  # Given a filepath from the root repo, return a www path to be used from the
+  # website
+  def www_path(path)
+    path.gsub('app/assets', '')
+  end
+
+  def thumbnail(talk)
+    # If the thumbnail already exists locally, we use it
+    existing_thumbnails = Dir["./app/assets/img/thumbnails/#{talk['id']}*"]
+    return www_path(existing_thumbnails[0]) unless existing_thumbnails.empty?
+
+    # No local thumbnail, we got it from the Internets
+    if !talk['slides'].nil?
+      thumbnail = thumbnail_slides(talk)
+    elsif !talk['video'].nil?
+      thumbnail = thumbnail_video(talk)
+    end
+
+    # Still not thumbnail found
+    return nil if thumbnail.nil?
+
+    # We save it locally
+    extension = thumbnail.split('.').last
+    savepath = "./app/assets/img/thumbnails/#{talk['id']}.#{extension}"
+    `wget #{thumbnail} -O #{savepath}`
+    www_path(savepath)
+  end
+
+  # Find the thumbnail of a Youtube video from its url
+  def thumbnail_video(talk)
+    video = talk['video']
+    return nil if video.nil?
+    id = CGI.parse(URI.parse(video).query)['v'][0]
+    "https://img.youtube.com/vi/#{id}/0.jpg"
+  end
+
+  def thumbnail_slides(talk)
+    slides = talk['slides']
+    return nil if slides.nil?
+    return thumbnail_slideshare(slides) if slides['slideshare.net']
+    return thumbnail_gdrive(slides) if slides['drive.google.com']
+    ap slides
+    nil
+  end
+
+  # Get thumbnail from Google drive
+  def thumbnail_gdrive(slides)
+    id = slides.split('/')[5]
+    ap id
+    nil
+
+    # return thumbnail_slideshare(slides) if slides['slideshare.net']
+  end
+
+  # Ask the Slideshare API for the thumbnail
+  def thumbnail_slideshare(slides)
+    baseurl = "https://www.slideshare.net/api/2/get_slideshow"
+    timestamp = Time.now.to_i
+    options = {
+      api_key: slideshare_api_key,
+      ts: timestamp,
+      hash: Digest::SHA1.hexdigest("#{slideshare_shared_secret}#{timestamp}"),
+      slideshow_url: slides
+    }
+    url = URI.parse(baseurl)
+    url.query = URI.encode_www_form(options)
+
+    xml = open(url).read
+    doc = Nokogiri.XML(xml)
+    thumbnail = "https:#{doc.xpath('//Slideshow/ThumbnailXLargeURL').text}"
+    thumbnail = thumbnail.gsub(/\?(.*)/, '')
+    thumbnail
+  end
+
+  # Check if the url is a pdf
+  def pdf?(url)
+    url =~ /\.pdf$/
+  end
+
+  # Return a list of speakers, along with name, picture and twitter handles
+  def authors(talk)
+    speakers = talk['speakers']
+    return [] if speakers.empty?
+
+    speakers.map do |speaker|
+      {
+        name: speaker['name'],
+        twitter: speaker['twitter'],
+        picture: speaker['avatar']
+      }
+    end
+  end
+
+  def slideshare_api_key
+    file = './_slideshare_api_key'
+    unless File.exists?(file)
+      puts "You must create a fle named #{file} with your Slideshare API key in it"
+      exit 1
+    end
+    File.read(file).chomp
+  end
+
+  def slideshare_shared_secret
+    file = './_slideshare_shared_secret'
+    unless File.exists?(file)
+      puts "You must create a fle named #{file} with your Slideshare shared secret"
+      exit 1
+    end
+    File.read(file).chomp
+  end
+
+  # def pdf_thumbnail(ressource)
+  #   puts "Getting thumbnail for #{ressource}"
+  #   FileUtils.mkdir_p('./tmp/pdf')
+  #   basename = HelperPath.sanitize(ressource.split('/').last)
+  #   downloaded_pdf = File.expand_path("./tmp/pdf/#{basename}")
+  #   firstpage_pdf = downloaded_pdf.gsub('.pdf', '_001.pdf')
+  #   thumbnail = firstpage_pdf.gsub('_001.pdf', '.png')
+  #   thumbnail_basename = File.basename(thumbnail)
+  #   asset_path = "./app/assets/img/thumbnails/#{thumbnail_basename}"
+  #   url = "./img/thumbnails/#{thumbnail_basename}"
+
+  #   # Stop if we already extracted the thumbnail
+  #   if File.exist?(asset_path)
+  #     puts '✘ Thumbnail already generated'
+  #     return url
+  #   end
+  #   
+  #   # Downloading the pdf
+  #   puts 'Downloading pdf'
+  #   `wget #{ressource} -O #{downloaded_pdf.shellescape}` unless File.exist?(downloaded_pdf)
+
+  #   # Stop if no such file
+  #   if File.zero?(downloaded_pdf)
+  #     puts '✘ No such file'
+  #     FileUtils.rm(downloaded_pdf)
+  #     return nil
+  #   end
+
+  #   # Extracting the first page
+  #   puts 'Extracting first page'
+  #   `pdftk #{downloaded_pdf.shellescape} cat 1 output #{firstpage_pdf.shellescape}`
+
+  #   # Convert file to png
+  #   puts 'Converting to png'
+  #   `convert -flatten -quality 100 -resize 300 #{firstpage_pdf.shellescape} #{thumbnail.shellescape}`
+
+  #   # Copy the file to the assets
+  #   puts 'Moving it to assets'
+  #   FileUtils.mv(thumbnail, asset_path)
+
+  #   url
+  # end
+
+end
+Extract.new.run

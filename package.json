@@ -17,6 +17,7 @@
     "build:html": "./scripts/build_html",
     "serve": "./scripts/serve",
     "deploy": "./scripts/deploy",
+    "extract": "./scripts/extract",
     "postinstall": "./scripts/postinstall"
   },
   "devDependencies": {
