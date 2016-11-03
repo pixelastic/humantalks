@@ -1,12 +1,14 @@
 #!/usr/bin/env ruby
 require 'awesome_print'
 require 'cgi'
+require 'date'
 require 'digest/sha1'
 require 'fileutils'
-require 'nokogiri'
 require 'json'
+require 'nokogiri'
 require 'open-uri'
 require 'shellwords'
+require 'slugify'
 require 'uri'
 
 class Extract
@@ -17,28 +19,36 @@ class Extract
 
   def run
     raw = JSON.parse(File.read(@input))['data']
-    ap raw.length
 
     records = []
 
     raw.each do |talk|
+      timestamp = talk['meetup']['date'] / 1000
+      date = Time.at(timestamp).to_datetime.strftime('%Y-%m-%d')
       record = {
         title: talk['title'],
         description: talk['description'],
         authors: authors(talk),
         slides: talk['slides'],
         video: talk['video'],
-        thumbnail: thumbnail(talk)
+        thumbnail: thumbnail(talk),
+        location: talk['meetup']['venue']['name'],
+        meetup: talk['meetup']['meetupUrl'],
+        date: date
       }
 
       records << record
     end
+
+
+    content = JSON.pretty_generate(records)
+    File.write(@output, content)
   end
 
   # Given a filepath from the root repo, return a www path to be used from the
   # website
   def www_path(path)
-    path.gsub('app/assets', '')
+    path.gsub('/app/assets', '')
   end
 
   def thumbnail(talk)
@@ -49,8 +59,10 @@ class Extract
     # No local thumbnail, we got it from the Internets
     if !talk['slides'].nil?
       thumbnail = thumbnail_slides(talk)
+      type = 'slides'
     elsif !talk['video'].nil?
       thumbnail = thumbnail_video(talk)
+      type = 'video'
     end
 
     # Still not thumbnail found
@@ -58,8 +70,13 @@ class Extract
 
     # We save it locally
     extension = thumbnail.split('.').last
-    savepath = "./app/assets/img/thumbnails/#{talk['id']}.#{extension}"
-    `wget #{thumbnail} -O #{savepath}`
+    extension = 'png' if extension.length > 3 # Fallback to png if bad ext
+    savepath = "./app/assets/img/thumbnails/#{talk['id']}_#{type}.#{extension}"
+    if thumbnail =~ /^http/
+      `wget "#{thumbnail}" -O #{savepath}`
+    else
+      `mv #{thumbnail} #{savepath}`
+    end
     www_path(savepath)
   end
 
@@ -76,17 +93,40 @@ class Extract
     return nil if slides.nil?
     return thumbnail_slideshare(slides) if slides['slideshare.net']
     return thumbnail_gdrive(slides) if slides['drive.google.com']
-    ap slides
-    nil
+    return thumbnail_speakerdeck(slides) if slides['speakerdeck.com']
+    return thumbnail_slidescom(slides) if slides['slides.com']
+    return thumbnail_pdf(slides) if slides =~ /\.pdf$/
+    # Don't know how to extract thoses
+    return nil if slides['onedrive.live.com']
+    return nil if slides['files.catwell.info']
+
+    thumbnail_screenshot(slides)
   end
 
   # Get thumbnail from Google drive
   def thumbnail_gdrive(slides)
     id = slides.split('/')[5]
-    ap id
-    nil
+    "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=#{id}"
+  end
 
-    # return thumbnail_slideshare(slides) if slides['slideshare.net']
+  def thumbnail_screenshot(slides)
+    FileUtils.mkdir_p('./tmp/screenshots')
+    name = slides.split('/').last.slugify
+    savepath = "./tmp/screenshots/#{name}.png"
+    `screenshot-url "#{slides}" #{savepath}`
+    savepath
+  end
+
+  # Get thumbnail from Speakerdeck
+  def thumbnail_speakerdeck(slides)
+    doc = Nokogiri::HTML(open(slides))
+    doc.css('meta[property="og:image"]').attribute('content').text
+  end
+
+  # Get thumbnail from Slides.com
+  def thumbnail_slidescom(slides)
+    doc = Nokogiri::HTML(open(slides))
+    doc.css('meta[property="og:image"]').attribute('content').text
   end
 
   # Ask the Slideshare API for the thumbnail
@@ -109,9 +149,33 @@ class Extract
     thumbnail
   end
 
-  # Check if the url is a pdf
-  def pdf?(url)
-    url =~ /\.pdf$/
+  def thumbnail_pdf(slides)
+    FileUtils.mkdir_p('./tmp/pdf')
+    basename = slides.split('/').last
+    downloaded_pdf = File.expand_path("./tmp/pdf/#{basename}")
+    firstpage_pdf = downloaded_pdf.gsub('.pdf', '_001.pdf')
+    thumbnail = firstpage_pdf.gsub('_001.pdf', '.png')
+
+    # Downloading the pdf
+    puts 'Downloading pdf'
+    `wget #{slides} -O #{downloaded_pdf}`
+
+    # Stop if no such file
+    if File.zero?(downloaded_pdf)
+      puts '✘ No such file'
+      FileUtils.rm(downloaded_pdf)
+      return nil
+    end
+
+    # Extracting the first page
+    puts 'Extracting first page'
+    `pdftk #{downloaded_pdf.shellescape} cat 1 output #{firstpage_pdf.shellescape}`
+
+    # Convert file to png
+    puts 'Converting to png'
+    `convert -flatten -quality 100 -resize 300 #{firstpage_pdf.shellescape} #{thumbnail.shellescape}`
+
+    thumbnail
   end
 
   # Return a list of speakers, along with name, picture and twitter handles
@@ -146,48 +210,6 @@ class Extract
     File.read(file).chomp
   end
 
-  # def pdf_thumbnail(ressource)
-  #   puts "Getting thumbnail for #{ressource}"
-  #   FileUtils.mkdir_p('./tmp/pdf')
-  #   basename = HelperPath.sanitize(ressource.split('/').last)
-  #   downloaded_pdf = File.expand_path("./tmp/pdf/#{basename}")
-  #   firstpage_pdf = downloaded_pdf.gsub('.pdf', '_001.pdf')
-  #   thumbnail = firstpage_pdf.gsub('_001.pdf', '.png')
-  #   thumbnail_basename = File.basename(thumbnail)
-  #   asset_path = "./app/assets/img/thumbnails/#{thumbnail_basename}"
-  #   url = "./img/thumbnails/#{thumbnail_basename}"
-
-  #   # Stop if we already extracted the thumbnail
-  #   if File.exist?(asset_path)
-  #     puts '✘ Thumbnail already generated'
-  #     return url
-  #   end
-  #   
-  #   # Downloading the pdf
-  #   puts 'Downloading pdf'
-  #   `wget #{ressource} -O #{downloaded_pdf.shellescape}` unless File.exist?(downloaded_pdf)
-
-  #   # Stop if no such file
-  #   if File.zero?(downloaded_pdf)
-  #     puts '✘ No such file'
-  #     FileUtils.rm(downloaded_pdf)
-  #     return nil
-  #   end
-
-  #   # Extracting the first page
-  #   puts 'Extracting first page'
-  #   `pdftk #{downloaded_pdf.shellescape} cat 1 output #{firstpage_pdf.shellescape}`
-
-  #   # Convert file to png
-  #   puts 'Converting to png'
-  #   `convert -flatten -quality 100 -resize 300 #{firstpage_pdf.shellescape} #{thumbnail.shellescape}`
-
-  #   # Copy the file to the assets
-  #   puts 'Moving it to assets'
-  #   FileUtils.mv(thumbnail, asset_path)
-
-  #   url
-  # end
 
 end
 Extract.new.run

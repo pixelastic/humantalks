@@ -4497,8 +4497,8 @@
       "avatar" : "https://secure.gravatar.com/avatar/a2f9d5672798ac7ef42b871652a58fb0?d=404",
       "description" : "Developer Advocate at @Algolia. Web craftsman and vim user. #HumanTalksParis and #TechLunch organizer."
     } ],
-    "slides" : "http://talks.pixelastic.com/marvel-humantalks/",
-    "slidesEmbedCode" : "<iframe src=\"http://talks.pixelastic.com/marvel-humantalks/\" width=\"595\" height=\"485\" frameborder=\"0\"></iframe>",
+    "slides" : "http://talks.pixelastic.com/slides/marvel-humantalks/#/",
+    "slidesEmbedCode" : "<iframe src=\"http://talks.pixelastic.com/slides/marvel-humantalks/#/\" width=\"595\" height=\"485\" frameborder=\"0\"></iframe>",
     "meetup" : {
       "id" : "25d8433a-f375-4945-996e-0b730bce41b3",
       "title" : "Humantalks Paris Mai 2016",
@@ -5392,6 +5392,8 @@
       "avatar" : "https://secure.gravatar.com/avatar/a2f9d5672798ac7ef42b871652a58fb0?d=404",
       "description" : "Developer Advocate at @Algolia. Web craftsman and vim user. #HumanTalksParis and #TechLunch organizer."
     } ],
+    "slides" : "http://talks.pixelastic.com/slides/memory-humantalks-2015/#/",
+    "slidesEmbedCode" : "<iframe src=\"http://talks.pixelastic.com/slides/memory-humantalks-2015/#/\" width=\"595\" height=\"485\" frameborder=\"0\"></iframe>",
     "meetup" : {
       "id" : "e92aa69e-064b-4014-9eec-8101e32b6b88",
       "title" : "Humantalks Paris Octobre 2015",
@@ -5924,7 +5926,7 @@
       "avatar" : "https://secure.gravatar.com/avatar/a2f9d5672798ac7ef42b871652a58fb0?d=404",
       "description" : "Developer Advocate at @Algolia. Web craftsman and vim user. #HumanTalksParis and #TechLunch organizer."
     } ],
-    "slides" : "http://talks.pixelastic.com/vim-humantalks/",
+    "slides" : "http://talks.pixelastic.com/slides/vim-humantalks/",
     "video" : "https://www.youtube.com/watch?v=3AdNd3XYxEo",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3AdNd3XYxEo\" frameborder=\"0\" allowfullscreen></iframe>",
     "meetup" : {
@@ -6004,8 +6006,8 @@
       "avatar" : "https://secure.gravatar.com/avatar/a2f9d5672798ac7ef42b871652a58fb0?d=404",
       "description" : "Developer Advocate at @Algolia. Web craftsman and vim user. #HumanTalksParis and #TechLunch organizer."
     } ],
-    "slides" : "http://talks.pixelastic.com/webperfs-humantalks/",
-    "slidesEmbedCode" : "<iframe src=\"http://talks.pixelastic.com/webperfs-humantalks/\" width=\"595\" height=\"485\" frameborder=\"0\"></iframe>",
+    "slides" : "http://talks.pixelastic.com/slides/webperfs-humantalks/",
+    "slidesEmbedCode" : "<iframe src=\"http://talks.pixelastic.com/slides/webperfs-humantalks/\" width=\"595\" height=\"485\" frameborder=\"0\"></iframe>",
     "video" : "https://www.youtube.com/watch?v=ecc1zudWmX4",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ecc1zudWmX4\" frameborder=\"0\" allowfullscreen></iframe>",
     "meetup" : {
@@ -6280,6 +6282,6 @@
     }
   } ],
   "metas" : {
-    "exec" : 2926
+    "exec" : 331
   }
 }

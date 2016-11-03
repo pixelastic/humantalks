@@ -1,0 +1,12 @@
+.DS_Store
+.sass-cache
+Thumbs.db
+bower_components
+node_modules
+npm-debug.log
+tmp
+*~
+_algolia_api_key
+_slideshare_api_key
+_slideshare_shared_secret
+public

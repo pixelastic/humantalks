@@ -1,0 +1,2632 @@
+[
+  {
+    "title": "\"Congratulations, you did it !\" : Voyage dans le code par une néophyte",
+    "description": "Pharmacienne de profession, ma curiosité me pousse à m'intéresser à d'autres environnements. \r\nUne question me taraudait et j'ai tenté d'y répondre en m'initiant à javascript. \r\nDéveloppeurs voici un retour d'expérience sur des concepts que vous avez compris il y a fort longtemps mais que je découvre à 26 ans. \r\nNon-développeurs, je vais vous prouver qu'il est possible de s'initier au code en s'amusant. \r\nYes you can.",
+    "authors": [
+      {
+        "name": "Lisette Clément",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=UI3xWximGK8",
+    "thumbnail": "./img/thumbnails/a2802e32-5c87-4cf4-8f4d-cc38d0fd9ea9_video.jpg",
+    "location": "ECE",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/",
+    "date": "2014-07-08"
+  },
+  {
+    "title": "1+1 > 2 - l'équation magique qui défie les lois de l'Algèbre",
+    "description": "Dans nos organisations agiles et plates, le travail en équipe est au coeur de l'activité et il est un facteur clef de succès. Quelle implication pour une entreprise digitale? Comment incarner cette équation au quotidien? Des pistes de réflexion basée sur l'expérience à LaFourchette.",
+    "authors": [
+      {
+        "name": "Florent Poissonnet",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "LaFourchette",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/",
+    "date": "2016-05-10"
+  },
+  {
+    "title": "3 méthodes pour être plus productif",
+    "description": "Dans ce talk je vous propose 3 techniques/méthodes simples pour être plus productif. Ces techniques je les ai testées ! Je les utilise même tous les jours. Ça parlera pomodoro, pratique délibérée et matrice d'eisenhower !",
+    "authors": [
+      {
+        "name": "Thibault Vigouroux",
+        "twitter": "teaBough",
+        "picture": "https://pbs.twimg.com/profile_images/651364862799405056/7wWjSoBS_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=zu8evuY-eGY",
+    "thumbnail": "./img/thumbnails/efe390c9-05b0-4f4e-973b-889612c20691_video.jpg",
+    "location": "LeBonCoin",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226509764/",
+    "date": "2015-12-08"
+  },
+  {
+    "title": "6 STEPS to improve your business performance with LEAN UX",
+    "description": "Partage d'expérience sur les étapes lean et agiles pour améliorer les performances d'un produit tout en apportant des objectifs et une direction clair.",
+    "authors": [
+      {
+        "name": "Caroline Besnard",
+        "twitter": "carobesnard",
+        "picture": "https://pbs.twimg.com/profile_images/612215517533863937/yYsReEr__400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=aM2Q6bjo0x8",
+    "thumbnail": "./img/thumbnails/8a15e4b0-3b86-4837-ace9-c73e6a2ed325_video.jpg",
+    "location": "Algolia",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/231710622/",
+    "date": "2016-06-14"
+  },
+  {
+    "title": "AAAR! Adoption Agency for Abandoned Repos",
+    "description": "Présentation du projet AAAR : http://oripekelman.github.io/aaar/",
+    "authors": [
+      {
+        "name": "Ori Pekelman",
+        "twitter": "OriPekelman",
+        "picture": "https://pbs.twimg.com/profile_images/2290008070/bs49edg28e6c5swpaa09_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=Gt8LV5qmpg8",
+    "thumbnail": "./img/thumbnails/ed5aceca-337b-4adf-8115-355eeccf5724_video.jpg",
+    "location": "Zenika",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/148407972/",
+    "date": "2013-11-12"
+  },
+  {
+    "title": "Ameliorer l'accueil de vos contributeurs avec Docker",
+    "description": "Plus un projet devient complexe et plus il est difficile pour un contributeur de rentrer dans le code et de participer à son amélioration. Là où Docker permet de simplifier le le build et le deploiement de solution complexes, il peut aussi en faciliter le développement.Pendant 10 minutes nous nous mettrons dans la peau d'un contributeur et verront comment il possible de rentrer rapidement dans un projet utilisant des conteneurs de dev.",
+    "authors": [
+      {
+        "name": "Olivier Berthonneau",
+        "twitter": "oberthonneau",
+        "picture": "https://pbs.twimg.com/profile_images/700708883929563136/ZlO-Zciz_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=m_0sr0TIkQo",
+    "thumbnail": "./img/thumbnails/c6b792ac-128e-4e6b-b361-04a12df05558_video.jpg",
+    "location": "Algolia",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/231710622/",
+    "date": "2016-06-14"
+  },
+  {
+    "title": "Améliorons nos applications... aux toilettes",
+    "description": "Dans de nombreuses équipes, en l'absence d'un profil dédié, la responsabilité de l'ergonomie de l'application revient aux développeurs et ça n'est pas sans poser certains problèmes. Nous verrons dans le talk comment quelques passages aux toilettes peuvent nourrir la réflexion sur les interfaces utilisateur que nous produisons.",
+    "authors": [
+      {
+        "name": "Christophe Michel",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=BUEx02NDKF8",
+    "thumbnail": "./img/thumbnails/d3b07ac7-a836-4cee-96ba-05498fbab0d8_video.jpg",
+    "location": "Meetic",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/221499748/",
+    "date": "2015-04-14"
+  },
+  {
+    "title": "Application cache, contrôlez finement votre cache applicatif",
+    "description": "Fonctionnalité HTML5, l'application cache, permet de gérer finement votre cache applicatif dans vos applications Web. Je propose de faire ensemble le tour de tout ça et d'apprendre à s'en servir.",
+    "authors": [
+      {
+        "name": "Mathieu Robin",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=iicE_LMKSsw&feature=youtu.be",
+    "thumbnail": "./img/thumbnails/ec4a090a-b050-4d39-adb5-f4b4e3b07c87_video.jpg",
+    "location": "Adobe",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/181483902/",
+    "date": "2014-05-13"
+  },
+  {
+    "title": "Apprendre en s’amusant avec son compteur électrique",
+    "description": "Et si on s'amusait un peu? Prenons un Raspberry Pi et connectons-le à notre compteur électrique. Rajoutons un peu de Docker, de MongoDB, de Nodejs et d'HTML5 et nous obtenons un dashboard temps réel pour analyser notre consommation électrique.  Ce n'est pas très difficile. Mais à quoi cela peut-il servir?",
+    "authors": [
+      {
+        "name": "Cédric Finance",
+        "twitter": "cedricfinance",
+        "picture": "https://pbs.twimg.com/profile_images/586756818128351232/Il91YOhW_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Urban Linker",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/",
+    "date": "2015-10-13"
+  },
+  {
+    "title": "Attitude et éthique du développeur",
+    "description": "Après quelques années dans le service, pour différents clients, projets et contextes, plus pas mal de lectures, je me suis forgé une idée de l’attitude à avoir dans le métier, des valeurs, des habitudes et des comportements à préférer, et j’en ai fait une synthèse que je vous invite à écouter.",
+    "authors": [
+      {
+        "name": "Raphaël Lemaire",
+        "twitter": "rlemaire",
+        "picture": "https://pbs.twimg.com/profile_images/745723687798738945/MOIm9GUc_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=4E7I8-jVg7k",
+    "thumbnail": "./img/thumbnails/e606076d-7653-49d7-b109-24b4aca0c16f_video.jpg",
+    "location": "Zenika",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
+    "date": "2015-01-13"
+  },
+  {
+    "title": "Au fait, c’est quoi un daily ?",
+    "description": "Le daily, ou Stand-up meeting est un rituel agile très simple, très utilisé et dont la valeur est reconnue. Cependant, dans la pratique, il est difficile à bien exécuter. Je vous propose les solutions que nous avons mises en place afin de rendre ces rituels incroyablement efficaces et passionnants.",
+    "authors": [
+      {
+        "name": "Thibaut Cheymol",
+        "twitter": "thibaut_cheymol",
+        "picture": "https://pbs.twimg.com/profile_images/662973004280963072/QcOPXDTH_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=tEyINYJFaFM",
+    "thumbnail": "./img/thumbnails/4d280951-aba1-4922-9e1c-815467b9c5fc_video.jpg",
+    "location": "SFEIR",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/",
+    "date": "2016-09-13"
+  },
+  {
+    "title": "Better tests with mocking and stubbing",
+    "description": "Découvrez  comment utiliser les mocks et les stubs pour mieux isoler les tests.",
+    "authors": [
+      {
+        "name": "Michel Pigassou",
+        "twitter": "dagnan",
+        "picture": "https://pbs.twimg.com/profile_images/526847399814131712/WUrnDe2f_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=xRs1M_5-MWY",
+    "thumbnail": "./img/thumbnails/32fb9f29-91cd-408c-b4f1-5747325b78d9_video.jpg",
+    "location": "Zenika",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
+    "date": "2015-01-13"
+  },
+  {
+    "title": "Bosser en mode commando avec des passionnés dans des endroits de rêves",
+    "description": "Nous sommes une minorité, passionnés, nous n'abandonnons jamais.\r\nDans une capsule d'espace temps nous performons. \r\nPar rapide itération nous produisons. \r\nDe la disruption nous créons. \r\n\r\nRetour d'expérience sur nos missions commando et la bonne formule pour rendre le développement efficace.",
+    "authors": [
+      {
+        "name": "Fabien Mabon",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Mozilla",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/",
+    "date": "2014-09-09"
+  },
+  {
+    "title": "Checkpoint : sécurité des frameworks web",
+    "description": "Rien ne sert de bien tester du point de vue sécurité son application web si l'on oublie de maintenir à jour ses frameworks et son serveur d'application... Retour sur quelques fondamentaux, en pratique souvent négligés ou ignorés.",
+    "authors": [
+      {
+        "name": "Stephanie Ouillon",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=AcvaUhGyTVk",
+    "thumbnail": "./img/thumbnails/be06eb0c-3881-46a8-9579-20a8ac34b791_video.jpg",
+    "location": "Start-Way",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/142883912/",
+    "date": "2013-10-08"
+  },
+  {
+    "title": "Cloud + API + Marketplace + Hub = Mashape !",
+    "description": "Avec l'avènement du Cloud, l'informatique vit aujourd'hui une première révolution comme l'a vécu l'industrie avec l'arrivée des centrales électriques.  \r\nLors de cette révolution industrielle sont nées les lignes d'assemblage : les industriels ne fabriquaient plus 100% de leurs produits mais se sont mis à intégrer des sous-produits les uns aux autres.  \r\nC'est exactement le même chemin que suit l'informatique : après avoir intégré des technologies et/ou des frameworks pour fabriquer du logiciel, nous intégrons de plus en plus d'APIs de services disponibles sur le Cloud. \r\nIl est donc logique que des places de marché d'APIs voient le jour et je vous propose d'en découvrir une : Mashape. \r\nPourquoi ça existe, comment ça marche et quels sont les intérêts pour les consommateurs et pour les producteurs d'APIs : voici le programme !",
+    "authors": [
+      {
+        "name": "Guillaume Bitaudeau",
+        "twitter": "gbitaudeau",
+        "picture": "https://pbs.twimg.com/profile_images/378800000414715638/75e1f5912e5c36304e6a244103ed6210_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=pUTacbi8-tQ",
+    "thumbnail": "./img/thumbnails/6322b941-405b-455f-b26b-efe61e8655bc_video.jpg",
+    "location": "50 Partners",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/",
+    "date": "2013-09-10"
+  },
+  {
+    "title": "Comment trouver des clients en tant que Freelance ?",
+    "description": "Les étapes pour se faire connaître au sein de sa communauté, et trouver des clients.",
+    "authors": [
+      {
+        "name": "Thibaut Assus",
+        "twitter": "tibastral",
+        "picture": "https://pbs.twimg.com/profile_images/378800000846070846/2b3f91e48783ceef89b91ddacd1a02ff_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=cCOTvwCITqs",
+    "thumbnail": "./img/thumbnails/a246899b-3e6c-4018-b87e-b54ad8bc1d09_video.jpg",
+    "location": "Maltem",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/218938429/",
+    "date": "2014-12-09"
+  },
+  {
+    "title": "Common myths about payments APIs",
+    "description": "Drawing on his experience at Stripe working with financial institutions from around the world, Jeremy Hoon challenges some common myths about payments APIs. \r\nAs developers in 2015, we often take for granted the convenience and clean design of modern APIs. We're spoiled by great API products like Twilio and Stripe. It's all too easy to believe that most APIs in use today share the same basic design as these successful products. Yet the world of payments offers plenty of counterexamples. Jeremy will review some common myths about APIs, and debunks them with examples from the interfaces Stripe uses to connect to its financial partners \r\n\r\nJeremy works on financial operations at Stripe. He previously worked on infrastructure at Facebook and studied CS at Harvard.",
+    "authors": [
+      {
+        "name": "Jeremy Hoon",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=2438zQAcIJo",
+    "thumbnail": "./img/thumbnails/2359c916-5226-4108-b6db-8f3648864cc1_video.jpg",
+    "location": "Ecole 42",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
+    "date": "2015-02-10"
+  },
+  {
+    "title": "Construction d’une \"Raspberry pi home alarm\" en moins de 3h",
+    "description": "Ça faisait un moment que je ne savais pas quoi faire de mon raspberry pi. J’en ai fait une alarme connectée pour mon appartement.\r\n\r\nMon alarme détecte la présence d’un inconnu et prend aussitôt des photos en rafale. Ces photos sont immédiatement envoyées sur mon drive google. Je suis notifié par SMS d’une intrusion dans mon appartement. L’alarme fait la distinction entre une présence inconnue et un habitant de l’appartement.\r\n\r\nCe qui m'a le plus surpris c’est que j’ai mis seulement une semaine à raison d'environ 2h tous les soirs pour réaliser mon alarme. Je vous montrerai comment je suis passé de l’idée au produit fini. A l'issue de ce talk, j’espère que chacun de vous pourra réaliser la même alarme en moins de 3 heures.",
+    "authors": [
+      {
+        "name": "Raphaël Dubigny",
+        "twitter": "rdubigny",
+        "picture": "https://pbs.twimg.com/profile_images/734829260809080837/X5XMbWVu_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Viadeo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/229152027/",
+    "date": "2016-03-08"
+  },
+  {
+    "title": "Contexte devops et bluemix",
+    "description": "Description et présentation de Bluemix, le PaaS d'IBM entièrement basé sur Cloud foundry avec des produits open source et d'ibm",
+    "authors": [
+      {
+        "name": "Alain Airom",
+        "twitter": "Aaairom",
+        "picture": "https://pbs.twimg.com/profile_images/576413349031723008/MBxwgypD_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Urban Linker",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/",
+    "date": "2015-10-13"
+  },
+  {
+    "title": "Convaincre en quelques minutes ?",
+    "description": "Comment capter l'attention ? Attitude, langage corporel et synchronisation à adopter... \r\nIntroduction à quelques règles faciles à mettre en oeuvre pour convaincre un auditoire ou un interlocuteur... \r\nRéférence : http://www.amazon.fr/gp/product/2501049837/",
+    "authors": [
+      {
+        "name": "Richard Hanna",
+        "twitter": "richardhanna",
+        "picture": "https://pbs.twimg.com/profile_images/767980654449532929/0_V2rqsK_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Criteo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/",
+    "date": "2014-10-14"
+  },
+  {
+    "title": "Culture Craft",
+    "description": "Avez-vous déjà eu l'impression de vous être assoupis dans votre carrière, de faire moins de veille qu'à d'autres périodes ? A l'inverse, vous êtes-vous déjà demandé comment sortir du ronron ambiant et \"réveiller\" vos collègues qui vous semblaient manquer de curiosité et de passion sur un projet ?\r\n\r\nCette courte session vise à vous présenter toutes les formules et astuces qui ont permis à très peu de gens chez nous de réveiller une grosse organisation qui s'endormait sur ses lauriers. Si on a réussi ici -sandwichs à la main- pourquoi pas vous ? Attention: effet contagieux ;-)",
+    "authors": [
+      {
+        "name": "Thomas Pierrain",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": "http://fr.slideshare.net/ThomasPierrain/culture-craft-humantalks",
+    "video": null,
+    "thumbnail": "./img/thumbnails/5ea2ac1f-5970-4a80-a30f-dfc27040b330_slides.jpg",
+    "location": "Société Générale",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226344243/",
+    "date": "2015-11-10"
+  },
+  {
+    "title": "Customer Solutions Engineer",
+    "description": "Nous partirons à la découverte du (nouveau) métier de Customer Solutions Engineer (CSE), qui est apparu dans les entreprises SaaS commercialisant des produits techniques, dans la Silicon Valley et en Europe.\r\n\r\nAu croisement du commercial, du designer et du développeur, le CSE a pour objectif d’aider le client à tirer le maximum de valeur de l’utilisation d’un produit SaaS, pour augmenter son engagement et réduire le churn.",
+    "authors": [
+      {
+        "name": "Nicolas Baissas",
+        "twitter": "nicolasbaissas",
+        "picture": "https://pbs.twimg.com/profile_images/2684674606/68df59463634245e25218d7de4009557_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Criteo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/228454758/",
+    "date": "2016-02-09"
+  },
+  {
+    "title": "De l'UX dans mon équipe Agile !",
+    "description": "Retour d'expérience et explications de l'Agile UX, le penchant UX de la méthodo Agile. Qu'est-ce que l'Agile UX ? Comment cela fonctionne ? Quels en sont les avantages ? Venez découvrir ma vision de l'UX ;)",
+    "authors": [
+      {
+        "name": "Antoine Pezé",
+        "twitter": "antoine_peze",
+        "picture": "https://pbs.twimg.com/profile_images/699622798411567104/Bk9Wnz_I_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=hqTCFzDj2l4",
+    "thumbnail": "./img/thumbnails/62b1bdda-7d16-4a6a-95da-04d9b00b295c_video.jpg",
+    "location": "Viadeo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222711539/",
+    "date": "2015-06-09"
+  },
+  {
+    "title": "Developers in tech: inventory",
+    "description": "Un état des lieux des développeurs web. Il y sera question de  :\r\n\r\n- statistiques sur les technos frontend/backend utilisées par les 80+ startups/entreprises tech aujourd'hui acceptées par breaz.io\r\n\r\n- retours d’expériences : comment bien identifier la valeur des profils business face à soi lorsqu'on est développeur, comment bien se marketer lorsqu’on souhaite travailler en startup",
+    "authors": [
+      {
+        "name": "Jean-Loup Karst",
+        "twitter": "JeanloupKarst",
+        "picture": "https://pbs.twimg.com/profile_images/731882240280530944/GdhKAvis_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=g30DJ05QN-Y",
+    "thumbnail": "./img/thumbnails/3195788e-9d48-4a0c-815b-06173126491c_video.jpg",
+    "location": "Criteo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/",
+    "date": "2014-10-14"
+  },
+  {
+    "title": "Du 100% pur guice !",
+    "description": "C'est en travaillant sur un backend restful que j'ai découvert Guice. C'est un framwork leger d'injection de dépendances, distribué par google. Au cours de ce talk je partagerai mon expérience sur ce framework, nous verrons comment grace à l'injection nous allons nous débarrasser des \"new\" et des factory et rendre le code plus rapide à développer et facile à tester.",
+    "authors": [
+      {
+        "name": "Pauline Iogna",
+        "twitter": "pauline_io",
+        "picture": "https://pbs.twimg.com/profile_images/772364154896343041/gk42_oZu_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=HiVdTvzXcfs",
+    "thumbnail": "./img/thumbnails/dec6b06b-ba51-47c1-a063-b463e0019ba2_video.jpg",
+    "location": "Meetic",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/221499748/",
+    "date": "2015-04-14"
+  },
+  {
+    "title": "Découvrez Linux Tails: restez anonyme sur le net",
+    "description": "Linux Tails est une distribution conçue pour rester parfaitement anonyme sur internet. Au vu de l'actualité récente, notamment en France, ce sujet peut vous intéresser! Elle a notamment été utilisée par Snowden pour communiquer ses documents aux journalistes qui ont levé l'affaire des écoutes par la NSA. \r\n\r\nBasée sur Debian, elle est particulièrement simple à utiliser! Alors, venez apprendre comment s'en servir, et comment communiquer en passant sous les radars. \r\n\r\nDans une première partie, on verra comment s'en servir, comment la lancer, et de quoi elle est constituée. Ensuite, on passera en revue quelques outils: son navigateur configuré sur Tor et les outils de chat cryptés notamment.",
+    "authors": [
+      {
+        "name": "Jean Baylon",
+        "twitter": "JeanPatxi",
+        "picture": "https://pbs.twimg.com/profile_images/2308718402/xu67al00lbe7ym5gwcju_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=HLta6dfaMS0",
+    "thumbnail": "./img/thumbnails/bb3f76f5-8943-4574-8153-666e8619b4d2_video.jpg",
+    "location": "PrestaShop",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/223305711/",
+    "date": "2015-07-07"
+  },
+  {
+    "title": "Découvrez la programmation par contrat",
+    "description": "La programmation par contrats est un outil développé par Bertrand Meyer avec le langage Eiffel. Elle a petit à petit donné lieu à des frameworks en Java, en C#, python, et Ada l’a inclut dans le core langage. Le but du talk est de : \r\n- rendre intuitive la programmation par contrats (7 minutes avec exemples en ada) et d’en expliquer les avantages immédiats (spécifications du bon comportement au niveau des interfaces notamment)  \r\n- ou moins évidents (preuves formelles, génération de contre exemples et Correctness by Construction)",
+    "authors": [
+      {
+        "name": "Jean Baylon",
+        "twitter": "JeanPatxi",
+        "picture": "https://pbs.twimg.com/profile_images/2308718402/xu67al00lbe7ym5gwcju_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=T05z4PKF6pc",
+    "thumbnail": "./img/thumbnails/b82d4f7a-fa21-4f83-a19e-c81b23ab6d61_video.jpg",
+    "location": "Mobiskill",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/172589822/",
+    "date": "2014-04-08"
+  },
+  {
+    "title": "Découvrez les Brown Bag Lunch",
+    "description": "BrownBagLunch est une communauté rassemblant des experts de l'IT passionnés et désireux de transmettre un savoir. Cette communauté permet à des entreprises de prendre contact avec ces experts, afin qu'ils exposent leur savoir au cours d'un déjeuner (en échange d'une collation). Le site brownbaglunch.fr compte 75 experts réparties dans 13 villes de France. Les sujets couverts comportent le Cloud Computing, l'agilité, l'amélioration des méthodes de développements, l'amélioration des méthodes de livraison, etc. Sachant que la plupart de ces experts ont déjà une expérience de speaker, le tout se passe dans une ambiance détendue.\r\n\r\nJe viendrais vous présenter l'initiative et vous faire un retour sur les 12 mois d'existence du site.",
+    "authors": [
+      {
+        "name": "Nathaniel Richand",
+        "twitter": "nrichand",
+        "picture": "https://pbs.twimg.com/profile_images/473208962024628226/F8TM-Q2v_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=cSWJ-J6F6LY",
+    "thumbnail": "./img/thumbnails/25c13483-83ff-4999-9954-d4ec7daf750a_video.jpg",
+    "location": "Urban Linker",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/162792422/",
+    "date": "2014-02-11"
+  },
+  {
+    "title": "Découvrons Neo4J",
+    "description": "Neo4J est encore le petit poucet du NOSQL mais apparaît comme une alternative de plus en plus sérieuse face à ses concurrents. \r\n\r\nMais commençons par le début : Neo4J est une base de données orientée graphe. Oubliez vos tables, vos colonnes, vos documents... et découvrez un modèle de données hyper-flexible et étonnamment simple à appréhender. \r\n\r\nCe court talk vous donnera un aperçu des possibles et, j'espère, la motivation suffisante pour commencer à l'utiliser !",
+    "authors": [
+      {
+        "name": "Florent Biville",
+        "twitter": "fbiville",
+        "picture": "https://pbs.twimg.com/profile_images/579207538832482304/BhFaArTs_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Le Camping",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
+    "date": "2013-07-09"
+  },
+  {
+    "title": "Développer des applications mobiles avec JavaScript",
+    "description": "Quelles sont les options des developpeurs web pour ne pas s'enfermer dans un écosystème propriétaire et pourtant réussir à créer des applications mobiles de qualité? Comment profiter des fonctionnalités et de l'UI native des différents smartphones en restant dans les standards du web (JavaScript, CSS3, HTML5) ?",
+    "authors": [
+      {
+        "name": "Marc G Gauthier",
+        "twitter": "marcgg",
+        "picture": "https://pbs.twimg.com/profile_images/648864591120891906/7-EYTXGI_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=EbWBNpCuah0",
+    "thumbnail": "./img/thumbnails/f3191cb8-a7fa-4472-a90f-91fef896df95_video.jpg",
+    "location": "SFEIR",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/154147792/",
+    "date": "2013-12-10"
+  },
+  {
+    "title": "Développer des applications pour la TV",
+    "description": "Je vais présenter comment le développement d'application pour la TV est devenu de plus en plus accessible. \r\n\r\n En effet, il y a encore 5 ans, il n'y a que les opérateurs/industriels qui étaient en mesure de réaliser des applications interactives optimisées pour la TV, via leur TV ou STB (box). Il y a eu quelques tentatives de la part de Free, Samsung, et d'autres pour fournir un SDK, qui n'ont pas réellement reçu l'adhésion des développeurs. \r\n\r\nAujourd'hui, avec l'arrivée de chromecast, Android TV, Apple TV et tvOS, et demain des api TV du W3C, il sera de plus en plus simple pour les développeurs de travailler sur ce media.",
+    "authors": [
+      {
+        "name": "Mickaël Gregori",
+        "twitter": "meekah3ll",
+        "picture": "https://pbs.twimg.com/profile_images/620221140888342528/YMIFeGNT_400x400.jpg"
+      }
+    ],
+    "slides": "http://www.slideshare.net/MickalGREGORI/dvelopper-des-applications-pour-la-tv",
+    "video": "https://www.youtube.com/watch?v=1z_Y7rvox9s",
+    "thumbnail": "./img/thumbnails/c2fb8478-45c5-4544-aad2-1c73fc9966de_slides.jpg",
+    "location": "LeBonCoin",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226509764/",
+    "date": "2015-12-08"
+  },
+  {
+    "title": "Développez rapidement vos propres jeux en Ruby",
+    "description": "Ce talk vous montrera étape par étape comment développer un petit jeu 2D en Ruby à l'aide de la bibliothèque Gosu. Nous allons joindre l'utile à l'agréable en découvrant le langage Ruby tout en s'amusant. Cela vous donnera certainement des idées pour développer vos propres jeux.",
+    "authors": [
+      {
+        "name": "Matthieu Segret",
+        "twitter": "MatthieuSegret",
+        "picture": "https://pbs.twimg.com/profile_images/645897878431494144/1AFosCZa_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=0ckw7sxiGoQ",
+    "thumbnail": "./img/thumbnails/d778d38b-f10b-40a8-9016-6a043c12e16e_video.jpg",
+    "location": "Soat",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
+    "date": "2014-06-10"
+  },
+  {
+    "title": "Family.scss, comment créer un projet open source cool",
+    "description": null,
+    "authors": [
+      {
+        "name": "Lucas Bonomi",
+        "twitter": "LukyVj",
+        "picture": "https://pbs.twimg.com/profile_images/684063983322677249/DGnckgnN_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=EAf41LZxoM8",
+    "thumbnail": "./img/thumbnails/87829923-84a8-4c6e-ae81-98c4a2aace83_video.jpg",
+    "location": "Zenika",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
+    "date": "2016-07-12"
+  },
+  {
+    "title": "Focus sur les filtres AngularJS",
+    "description": "Dans le monde des Frameworks JavaScript, AngularJS - des usines Google - a fait une percée remarquable. Mais qu'apporte-il de différents ? Je vous invite à travers ce live coding à découvrir en particulier la puissance des filtres AngularJS.",
+    "authors": [
+      {
+        "name": "Thierry Lau",
+        "twitter": "laut3rry",
+        "picture": "https://pbs.twimg.com/profile_images/686188572957880321/VNlLHEZr_400x400.jpg"
+      }
+    ],
+    "slides": "http://lauterry.github.io/slides-prez-angular/",
+    "video": null,
+    "thumbnail": "./img/thumbnails/802aab56-3b08-4733-800a-e6a5ab604afc_slides.png",
+    "location": "Le Camping",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
+    "date": "2013-07-09"
+  },
+  {
+    "title": "Fonctionnement d’une société open source",
+    "description": "XWiki SAS est une société qui sponsorise le développement du logiciel open source XWiki (http://xwiki.org).De plus le développement du logiciel est communautaire et suit les règles de développement de la fondation Apache.Vincent Massol, directeur technique de XWiki SAS présentera comme la société est organisée de l’intérieur, ses sources de revenus, comment se font les recrutements et quels sont les liens avec le projet open source et les tensions inhérentes entre une société à but commercial et un projet open source communautaire.",
+    "authors": [
+      {
+        "name": "Vincent Massol",
+        "twitter": "vmassol",
+        "picture": "https://pbs.twimg.com/profile_images/1209451958/image_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=d8dkcZWSgHA",
+    "thumbnail": "./img/thumbnails/873fef1b-e3d1-4f55-bad8-c1dea1619168_video.jpg",
+    "location": "Mozilla",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/168226002/",
+    "date": "2014-03-11"
+  },
+  {
+    "title": "Formateur indépendant, mais où est Charlie?!",
+    "description": "Plusieurs milliards d'euros sont investis tous les ans par les entreprises françaises pour la formation continue. Vous voulez votre part du gâteau? Moi aussi. Et voilà ce que j'ai vécu pendant une année de formation. Petites et grandes, belles choses ou pas. Tout ce qu'on ne dit pas à la télé.",
+    "authors": [
+      {
+        "name": "Mathieu Robin",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=SXiOtd8hvsI",
+    "thumbnail": "./img/thumbnails/3b82e721-0ff6-4ee9-872f-53c0683b15de_video.jpg",
+    "location": "OCTO Technology",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/216770782/",
+    "date": "2014-11-18"
+  },
+  {
+    "title": "Framework mongo aggregate",
+    "description": "J'aimerais partager mon retour d'expérience sur le framework aggregate en expliquant son fonctionnement, ses commandes principales, en donnant quelques requêtes d'exemple, en le comparant à ses prédécesseurs : group et map/reduce et en donnant quelques astuces.",
+    "authors": [
+      {
+        "name": "Pauline Iogna",
+        "twitter": "pauline_io",
+        "picture": "https://pbs.twimg.com/profile_images/772364154896343041/gk42_oZu_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=gLULaMovrSc",
+    "thumbnail": "./img/thumbnails/ec4a2955-dd70-4926-9bbd-97103860f1d9_video.jpg",
+    "location": "Mobiskill",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/172589822/",
+    "date": "2014-04-08"
+  },
+  {
+    "title": "Gagner à Hearthstone ou Magic grâce à quelques lignes de code",
+    "description": "L’aléatoire joue une grande part dans une partie de jeux de cartes, et cela les rend difficile à « résoudre » analytiquement. L’informatique nous permet de modéliser les différents composants du jeu et à répondre à certaines questions. Combien de terrains jouer dans un deck de Magic ? Comment tuer son adversaire le plus rapidement à Hearthstone ?",
+    "authors": [
+      {
+        "name": "Gary Mialaret",
+        "twitter": "TolkiCasts",
+        "picture": "https://pbs.twimg.com/profile_images/2651258918/392404d5c4a4bde7d2d55474b95d0e48_400x400.png"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/GaryMialaret/gagner-aux-tcg-grce-linformatique",
+    "video": null,
+    "thumbnail": "./img/thumbnails/a6de072f-5ed7-4390-a6f7-25ee840d4dd0_slides.jpg",
+    "location": "Société Générale",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226344243/",
+    "date": "2015-11-10"
+  },
+  {
+    "title": "Girlz in Web, RailsGirls et Duchess France : des femmes dans l'IT",
+    "description": "Touchant des communautés différentes (Ruby, Java, web...), les Girlz in Web, RailsGirls et Duchess France sont là pour représenter, regrouper les femmes de l'IT. Ce talk sera l'occasion pour ces groupes de se présenter chacun plus en détails.",
+    "authors": [
+
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=WhOIBTpWAvA",
+    "thumbnail": "./img/thumbnails/2912d1d1-0d3e-480d-8446-287c024e4479_video.jpg",
+    "location": "Start-Way",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/142883912/",
+    "date": "2013-10-08"
+  },
+  {
+    "title": "Github Awards, découvrez votre ranking sur Github",
+    "description": "Retour d'expérience sur un side project qui a finit en première page de Hacker News et Product Hunt.",
+    "authors": [
+      {
+        "name": "Vincent Daubry",
+        "twitter": "vdaubry",
+        "picture": "https://pbs.twimg.com/profile_images/761093391841005568/gtmU_lGe_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=vrxW9ae-7UE",
+    "thumbnail": "./img/thumbnails/eabbc73a-a259-42b8-a775-2f19693a5ed7_video.jpg",
+    "location": "Deezer",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/",
+    "date": "2015-05-12"
+  },
+  {
+    "title": "Google prediction API",
+    "description": "Présentation de l'API Google Prediction, qui permet comme sont nom l'indique de faire des prédictions (classification de mails spam/non-spam, préférences utilisateur sur des films, videos...) à partir de vos jeux de donnees.",
+    "authors": [
+      {
+        "name": "Ludwine Probst",
+        "twitter": "nivdul",
+        "picture": "https://pbs.twimg.com/profile_images/767120442817740800/1PEZwr6w_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=G-qW6g0xuwI",
+    "thumbnail": "./img/thumbnails/ec62c832-ac97-41b6-9921-20c84403de6b_video.jpg",
+    "location": "Mozilla",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/168226002/",
+    "date": "2014-03-11"
+  },
+  {
+    "title": "GraphQL",
+    "description": "Pas de description pour le moment",
+    "authors": [
+      {
+        "name": "Stan Chollet",
+        "twitter": "Stan Chollet",
+        "picture": "https://pbs.twimg.com/profile_images/1129897969/stan-social-2010-2-carre_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Google",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
+    "date": "2016-11-08"
+  },
+  {
+    "title": "Génération d'éléments graphiques pour les développeurs web",
+    "description": "Découvrez comment générer automatiquement des images JPEG, PNG ou SVG à partir de Photoshop, ou directement dans la navigateur. Ces nouveaux outils améliorent les échanges entre designers et développeurs. La technologie de génération est open-source et basée sur Node.JS.",
+    "authors": [
+      {
+        "name": "Michael Chaize",
+        "twitter": "mchaize",
+        "picture": "https://pbs.twimg.com/profile_images/544492317839605760/XtitQ0jd_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=JyJu9xZE-Dk",
+    "thumbnail": "./img/thumbnails/a7dfd52d-73d2-4e24-b870-c652fd9c8e39_video.jpg",
+    "location": "Adobe",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/181483902/",
+    "date": "2014-05-13"
+  },
+  {
+    "title": "Gérer les performances applicatives en mode Agile",
+    "description": "Et si on livrait demain, que se passerait t'il ? Nous allons voir ensemble comment aborder l'évaluation des performances applicatives dans un contexte Agile et Devops.",
+    "authors": [
+      {
+        "name": "Claude  Falguière",
+        "twitter": "cfalguiere",
+        "picture": "https://pbs.twimg.com/profile_images/1117335774/cfalguiere_300_clair_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=9upDU-sfc50",
+    "thumbnail": "./img/thumbnails/fbb7afc9-367e-400d-90d7-eb1f1da418c6_video.jpg",
+    "location": "Valtech",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220728329/",
+    "date": "2015-03-10"
+  },
+  {
+    "title": "Gérer son budget en 10 minutes? Facile!",
+    "description": "En France, l'argent reste un sujet ultra tabou, et gérer ses comptes nous renvoie encore à une image à papa, avec la calculette et la pile de papiers. Mais cette époque est bien finie, et gérer efficacement son argent, en 2015, est super simple! Nous verrons ça ensemble.",
+    "authors": [
+      {
+        "name": "Brice Coquereau",
+        "twitter": "BriceCq",
+        "picture": "https://pbs.twimg.com/profile_images/537979055987892224/GfFxE5DC_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Viadeo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/229152027/",
+    "date": "2016-03-08"
+  },
+  {
+    "title": "Gérez votre processus de développement avec Kanban",
+    "description": "Après avoir envahi l'industrie, le \"lean\", le système de management de Toyota, s'étend à tous les domaines d'activités. \r\n\r\nKanban est un système de gestion d'un processus de production, extrait du lean. Il a été adapté au monde du développement informatique. Il permet de produire \"juste à temps\" en lissant les charges de travail et en permettant de contrôler et d'optimiser le processus de développement. \r\n\r\nCette présentation introduira les concepts et l'intérêt de Kanban, basée sur 4 ans d'expérience.",
+    "authors": [
+      {
+        "name": "Antoine Roux",
+        "twitter": "antoine_roux",
+        "picture": "https://pbs.twimg.com/profile_images/107066095/arfavico_400x400.png"
+      }
+    ],
+    "slides": "https://speakerdeck.com/antoineroux/gerez-votre-processus-avec-kanban",
+    "video": "https://www.youtube.com/watch?v=U1o0_oX2iIY",
+    "thumbnail": "./img/thumbnails/eb91aade-46c6-4cbe-806c-17ba550531d8_slides.jpg",
+    "location": "Criteo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/",
+    "date": "2014-10-14"
+  },
+  {
+    "title": "Hackathon ? Ou comment hacker sa culture d’entreprise",
+    "description": "Découvrez la vie de 2 consultants qui au sein d’une société qui essaye d’unifier ses agences à travers différentes actions, tentent le pari fou de lancer un hackathon externe afin de fédérer autour d’un même objectif et à procurer enfin le saint graal du bonheur au travail. Parviendront-ils à réussir là ou la direction a échoué jusqu’à présent ?",
+    "authors": [
+      {
+        "name": "Anthony Coulon",
+        "twitter": "anthonycoulon",
+        "picture": "https://pbs.twimg.com/profile_images/483909515147214850/VjoPGrm1_400x400.jpeg"
+      },
+      {
+        "name": "Andre De Sousa",
+        "twitter": "_adesousa",
+        "picture": "https://pbs.twimg.com/profile_images/785768614829944832/92RXQ0ym_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "LaFourchette",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/",
+    "date": "2016-05-10"
+  },
+  {
+    "title": "Hacker-Dev API on the Way",
+    "description": "Plus un jour ne se passe sans que la sécurité informatique fasse la Une de l’actualité de l’IT, quand ce n’est pas de l’actualité en général. La loi, sous peu, imposera aux entreprises de lourdes sanctions en cas de fuite d’information, or celles-ci sont elles aussi devenues quotidiennes. Conséquence logique, on parle de plus en plus de faire du développement sécurisé. Mais n’est-ce pas là une injonction paradoxale quand on sait que l’état d’esprit du hacker est pour ainsi dire l’inverse de celui du dev ? A travers ce talk, nous allons voir qu'aujourd'hui il est possible de collaborer avec les hackers afin d'intégrer la sécurité au coeur des processus de développement.",
+    "authors": [
+      {
+        "name": "Kévin Liagre",
+        "twitter": "_k33n_",
+        "picture": "https://pbs.twimg.com/profile_images/706143360965279744/8GIrtA_b_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Google",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
+    "date": "2016-11-08"
+  },
+  {
+    "title": "Hardware Design: The Programmer's Paradox",
+    "description": "Exploring  why many software dev steer clear of electronics and hardware design, when in fact it's often the exact same design process as you use to write code.",
+    "authors": [
+      {
+        "name": "Alex Bucknall",
+        "twitter": "AlexRBucknall",
+        "picture": "https://pbs.twimg.com/profile_images/759529744689991680/weu_vkVs_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=emqb0qq7UrI",
+    "thumbnail": "./img/thumbnails/94471337-a4f7-47a2-86cb-3ababbb279ef_video.jpg",
+    "location": "SFEIR",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/",
+    "date": "2016-09-13"
+  },
+  {
+    "title": "Haskell : Pure Functional Programming and it's Benefits",
+    "description": "Au programme : \r\n\r\n- Rappel de l'origine et des principes de la programmation fonctionnelle et de Haskell.\r\n\r\n- Avantages et inconvénients de la programmation fonctionnelle pure\r\n\r\n- Comment Haskell peut vous aider à être un bon développeur et comment faire la transition",
+    "authors": [
+      {
+        "name": "Massil Nait Mouloud",
+        "twitter": "nmassyl",
+        "picture": "https://pbs.twimg.com/profile_images/1575131175/Photo0550_400x400.jpg"
+      }
+    ],
+    "slides": "http://loic.knuchel.org/blog/wp-content/uploads/2013/11/HumanTalks11_FPhaskell_by_nmassyl.pdf",
+    "video": "https://www.youtube.com/watch?v=2XNTPk1kMxk",
+    "thumbnail": "./img/thumbnails/7a0ea78a-6c60-408a-82e5-da37379ba626_slides.png",
+    "location": "Zenika",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/148407972/",
+    "date": "2013-11-12"
+  },
+  {
+    "title": "Hier, j'ai fait un cauchemar",
+    "description": "Une introduction rapide et pratique sur nightmarejs un outil d'automatisation de tâches \"navigateur\"",
+    "authors": [
+      {
+        "name": "Mickaël Andrieu",
+        "twitter": "mickael_andrieu",
+        "picture": "https://pbs.twimg.com/profile_images/672716508427104256/6oyONEar_400x400.jpg"
+      }
+    ],
+    "slides": "http://slides.com/mickaelandrieu/introduction-to-nightmarejs",
+    "video": "https://www.youtube.com/watch?v=mGdZHXCv3RU",
+    "thumbnail": "./img/thumbnails/6b47bf57-3fab-46b0-8a70-cb4d2abd3df0_slides.jpg",
+    "location": "Maltem",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/218938429/",
+    "date": "2014-12-09"
+  },
+  {
+    "title": "Il me faut juste...",
+    "description": "\"C'est facile, il me faut juste... tu peux faire ça en 5mn non ?\"Cette phrase, vous l'aimez ou la détestez.Les jeunes devs le peuvent, les vieux devs l'interdisent.Pourquoi, comment ? Ça n'est pas forcément le problème.\r\n\r\nCe que je veux approcher ici, ce sont quelques besoins classiques,les pièges qu'ils cachent, et les évolutions probables que j'ai puconstater dans quelques cas d'exemple.",
+    "authors": [
+      {
+        "name": "Sylvain Abélard",
+        "twitter": "abelar_s",
+        "picture": "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png"
+      }
+    ],
+    "slides": "https://speakerdeck.com/abelar_s/little-needs-big-problems",
+    "video": "https://www.youtube.com/watch?v=X0dbTu-uXP8",
+    "thumbnail": "./img/thumbnails/f7b8afec-056f-47be-b0b8-68199fd86827_slides.jpg",
+    "location": "Zenika",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/148407972/",
+    "date": "2013-11-12"
+  },
+  {
+    "title": "Informatique en milieu hospitalier. Bienvenue homme de cro-magnon",
+    "description": "Salut à toi noble informaticien,\r\n\r\nJe souhaite te raconter quelques petites histoires sur l'un des organes les plus importants de la société moderne : l’hôpital ! Lieu sacré, où on utilise l'informatique au quotidien pour gérer des dizaines de milliers de patients par jour, rien qu'à Paris. Et pourtant, ce monde datant d'une période ancestrale est ponctué de quelques désagréments par rapport à notre monde moderne. Bienvenue dans l'enfer quotidien de nos médecins.",
+    "authors": [
+      {
+        "name": "Mathieu Robin",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Deezer",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/",
+    "date": "2015-05-12"
+  },
+  {
+    "title": "Instant Search - A la recherche du prochain paradigme de l'UX",
+    "description": "Deux acteurs ont changé ces dernières années le monde de l’UX: Google et Amazon qui ont montré qu’un accès ultra rapide et intuitif au contenu était un élément crucial de l’engagement utilisateur. \r\n\r\nPendant cette présentation, nous allons tenter de comprendre ce lien en découvrant la théorie de \"l'information foraging\" de Pirelli au travers de l’exemple de la recherche \"as-you-type\".",
+    "authors": [
+      {
+        "name": "Gaetan Gachet",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Société Générale",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226344243/",
+    "date": "2015-11-10"
+  },
+  {
+    "title": "Introduction au robot Nao",
+    "description": "Nao est un robot humanoïde concu par Aldebaran Robotics à Paris. Lors de cette introduction, j'aborderai les points suivants : Qu'est-ce qu'il y a dans le robot ? Comment le programmer ? Comment devenir Nao Developper ?\r\n\r\nIl y aura bien sûr des démos.",
+    "authors": [
+      {
+        "name": "Blandine Bourgois",
+        "twitter": "bbourgois",
+        "picture": "https://pbs.twimg.com/profile_images/1523927929/axellebb_yahoo.fr_8b9ccfcf_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=uWpnYTti48s",
+    "thumbnail": "./img/thumbnails/5fbd831f-d6ef-4103-aba5-19c17d768b2a_video.jpg",
+    "location": "Start-Way",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/142883912/",
+    "date": "2013-10-08"
+  },
+  {
+    "title": "Introduction à Apache Flink",
+    "description": "Flink est un outil de d'analyse et de traitement de la données : Streaming, Batch, Machine Learning, Graph. Il se positionne aujourd'hui comme concurrent de Spark en proposant le même type d'API. \r\n\r\n Cependant les 2 outils sont fondamentalement différent dans leur conception et leur approche de la données. Je vous propose de découvrir les concepts fondamentaux ainsi que les API disponibles afin de bien débuter avec Flink.",
+    "authors": [
+      {
+        "name": "Thomas Le Naour",
+        "twitter": "_tlenaour",
+        "picture": "https://pbs.twimg.com/profile_images/627606732567642113/ZEhB9QmJ_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "BeMyApp",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230195850/",
+    "date": "2016-04-12"
+  },
+  {
+    "title": "Introduction à Apache Zeppelin",
+    "description": "Analyser, manipuler et visualiser de gros volumes de données font partie des besoins récurrent des entreprises. Apache Zeppelin est un notebook web proposant une interface permettant d'analyser et mettre en forme simplement de gros volumes de données traités par Spark. \r\n\r\n Au cours de cette présentation je vous propose de découvrir quelques unes des fonctionnalités de Zeppelin et comment cet outil peut vous aider à analyser vos données avec Spark.",
+    "authors": [
+      {
+        "name": "Saad Ansari",
+        "twitter": "LeFreelance",
+        "picture": "https://pbs.twimg.com/profile_images/1330907939/freelance_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=NaPj52fJQoU",
+    "thumbnail": "./img/thumbnails/9a6b7baf-774d-4c7f-909d-0f23bba78120_video.jpg",
+    "location": "Deezer",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/",
+    "date": "2016-01-12"
+  },
+  {
+    "title": "Introduction à Protocol Buffers",
+    "description": "L'objectif est de présenter Protocol Buffers, un système de sérialisation de données développé initialement par Google et désormais Open Source.",
+    "authors": [
+      {
+        "name": "Eulriet Estelle",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=IIwQGb3hQCU",
+    "thumbnail": "./img/thumbnails/2153037a-5bf3-4ebc-a76c-84efa61a84ff_video.jpg",
+    "location": "OCTO Technology",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/216770782/",
+    "date": "2014-11-18"
+  },
+  {
+    "title": "Introduction à Scala",
+    "description": "Ce rapide aperçu de Scala vous expliquera les concepts basiques du langage ainsi qu'une introduction au paradigme fonctionnel.",
+    "authors": [
+      {
+        "name": "Firas Bessadok",
+        "twitter": "fbessadok",
+        "picture": "https://pbs.twimg.com/profile_images/2743487060/ea64a7405a1165aea20d33cb62dd7290_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=3TngMciGn_E",
+    "thumbnail": "./img/thumbnails/99dabce0-3a88-4c43-9f48-d38998e96a32_video.jpg",
+    "location": "SFEIR",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/154147792/",
+    "date": "2013-12-10"
+  },
+  {
+    "title": "JHipster, un générateur Yeoman pour AngularJS et Spring Boot",
+    "description": "JHipster est un générateur d'application qui créé une applications Javascript moderne (avec AngularJs, Grunt, Bower, ..) et qui s'intègre de manière transparente dans un back-end Java classique (avec Spring Boot, Spring Data, Hibernate, Maven). \r\nAvec plus de 900 étoiles sur GitHub, 50 contributeurs, et des articles sur infoword et SDTimes, JHipster est devenue en moins d'un an le générateur d'application Spring le plus utilisé. Il est également le 3e générateur Yeoman le plus populaire. \r\nDans cette session vous découvrirez comment créer rapidement une application, la modifier, faire du rechargement à chaud pour le code Java et javascript et déployer le résultat dans le cloud.",
+    "authors": [
+      {
+        "name": "Julien Dubois",
+        "twitter": "juliendubois",
+        "picture": "https://pbs.twimg.com/profile_images/729555955030044673/jBxOqmsB_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=36v6DIk2jwY",
+    "thumbnail": "./img/thumbnails/63e1aa66-12a4-48eb-bdc2-f22548019ca6_video.jpg",
+    "location": "Criteo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/",
+    "date": "2014-10-14"
+  },
+  {
+    "title": "JSweet: un nouveau transpileur pour développer des applications JavaScript... en Java",
+    "description": "Nous parlerons de JSweet (http://www.jsweet.org) un transpileur de Java vers JavaScript développé au dessus de TypeScript. Nous nous arrêterons tout d'abord sur la genèse de JSweet, et les motivations qui justifient la création de ce transpiler. Nous entrerons ensuite dans quelques éléments de conception, et en particulier sur la manière dont JSweet parvient à donner accès aux librairies JavaScript. Enfin, nous verrons quelques exemples d'applications.",
+    "authors": [
+      {
+        "name": "Renaud Pawlak",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Criteo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/228454758/",
+    "date": "2016-02-09"
+  },
+  {
+    "title": "L'Agile expliqué en 10 minutes",
+    "description": "Peut être avez vous connu les méthodes agiles par ouï dire, en collaborant de loin avec une équipe, ou dans un projet, mais certains disait qu'\"il est pas vraiment agile, en fait\". Quand vos copains ont commencé à dire \"on bosse plutôt en Kanban qu'en Scrum, tu vois\", vous avez opiné du chef, dans le doute... mais vous êtes pas sur de comprendre. Pis maintenant c'est trop tard pour poser des questions, vous allez vous griller. Ça fait deux ans que ça dure. Des matins ça vous énerve. \"Je vais quand même pas me taper 2 jours de formation juste pour savoir ce que c'est ? Y'a pas un de ces foutu coachs agile pour m'expliquer le truc au global, le temps d'une bière ? \". Me voilà, M.Agile. \"Foutu Coach\", c'est mon prénom. Je vous explique tout sur les méthodes agiles en 10 minutes. Non, non, ça me dérange pas, je le fais à longueur de journée, de toute façon. Si vous voulez vous pouvez même sortir le chrono. Mais n'oubliez pas la bière.",
+    "authors": [
+      {
+        "name": "Guillaume Duquesnay",
+        "twitter": "duquesnay",
+        "picture": "https://pbs.twimg.com/profile_images/600719141583085570/JIvwfYWT_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Ecole 42",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
+    "date": "2015-02-10"
+  },
+  {
+    "title": "L'Holacratie, un moyen de travailler sans managers ?",
+    "description": "Le management n'est pas naturel, c'est une technologie, et comme toutes les technos, elle finit forcément par devenir obsolète. L'agilité, en redistribuant les cartes au sein d'équipes auto-organisées a accéléré ce phénomène.Ne serait-il pas possible de concevoir une nouvelle technologie, au sein de laquelle il n'y aurait plus de manager ? L'holacratie, système de gouvernance récent créé en 2007 redéfinit la hiérarchie et la gouvernance de l'équipe jusqu'à l'entreprise. J'ai commencé depuis 1 an à experimenter à notre niveau cette approche chez Soat Agile. Je vous propose de vous présenter l'Holacratie suivi d'un retour d'experience qui répondra à la question que tout le monde se pose ; la disparition prochaine des managers est-elle annoncé ?",
+    "authors": [
+      {
+        "name": "Olivier Lelan",
+        "twitter": "o_olelan",
+        "picture": "https://pbs.twimg.com/profile_images/2215872688/lol7_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=Wp19qp_ETxs",
+    "thumbnail": "./img/thumbnails/88e9731b-1842-4863-a849-3f1e97078c06_video.jpg",
+    "location": "Valtech",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220728329/",
+    "date": "2015-03-10"
+  },
+  {
+    "title": "L'aventure Famous/Angular",
+    "description": "Prenez le framework JS en vogue du moment, le moteur de rendu 3D aux mille et une demos et partez à l’aventure pour une mise en production !\r\n\r\nDans ce retour d’experience je vous ferais découvrir ce qui se cache derrière cette vitrine technologique et sa viabilité en entreprise.",
+    "authors": [
+      {
+        "name": "Jean-Christophe Honde",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=mCCW2uTOF7g",
+    "thumbnail": "./img/thumbnails/29cd1850-5ca7-4e71-9578-f1ce878fd3ef_video.jpg",
+    "location": "Meetic",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/221499748/",
+    "date": "2015-04-14"
+  },
+  {
+    "title": "L'entreprise comme malade mental",
+    "description": "Nous ne savons toujours pas ce qu'est la conscience, mais nous commençons à connaître les symptômes et les troubles mentaux les plus courants. \r\n\r\nJ'illustrerai à travers quelques exemples très courts qu'une entreprise d'une certaine taille peut présenter, en tant qu'organisme collectif, la plupart des maladies mentales graves qui justifieraient chez un être humain un enfermement ou un traitement médical intensif, ou comment faire de \"grands malades\" à partir de personnes relativement saines. \r\n\r\nC'est une façon de prendre avec humour et culture le caractère souvent déshumanisant du travail en entreprise. On le rapprochera de points de vue de plus en plus à la mode comme \"l'émergence\". A chacun d'utiliser cette autre grille de lecture à son profit.",
+    "authors": [
+      {
+        "name": "Olivier Gerard",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=STsrVWhx4jQ",
+    "thumbnail": "./img/thumbnails/0081c2b0-db66-4fc0-8b7e-cc7bee48d783_video.jpg",
+    "location": "La cordée",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/156823782/",
+    "date": "2014-01-14"
+  },
+  {
+    "title": "L'infini ou pourquoi il pourrait être plus petit que vous le pensez",
+    "description": "Survol de quelques notion sur l'infini, les ordinaux, les cardinaux, l’arithmétique non standard, la double négation et enfin pourquoi le fini pourrait finalement être plus grand.",
+    "authors": [
+      {
+        "name": "Frédéric Fadel",
+        "twitter": "FredyFadel",
+        "picture": "https://pbs.twimg.com/profile_images/3587765306/e148a2af3a0dc74b925e3ff89944e6b8_400x400.png"
+      }
+    ],
+    "slides": "http://www.slideshare.net/fredyfadel/linfinie-ou-lhistoire-de-la-mathmatisation-de-la-logique",
+    "video": "https://www.youtube.com/watch?v=xg1b6_XXyAo",
+    "thumbnail": "./img/thumbnails/f7761d7b-4cd4-4133-9494-8877b2ff7ed3_slides.jpg",
+    "location": "Deezer",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/",
+    "date": "2016-01-12"
+  },
+  {
+    "title": "L'intrapreneuriat, qu'est-ce que c'est ?",
+    "description": "Les intrapreneurs, ces entrepreneurs à l’intérieur des entreprises, soulèvent toujours de nombreuses questions. Comment innover dans une entreprises ? Quel statut juridique pour ces innovations ? Comment les financer ? A travers l’histoire d’elCurator, je vous proposerais mon retour d'expérience d’intrapreneur et les éléments à ne surtout pas rater !",
+    "authors": [
+      {
+        "name": "Christopher Parola",
+        "twitter": "chrisparola",
+        "picture": "https://pbs.twimg.com/profile_images/606475233332215808/c8WY_zBg_400x400.jpg"
+      }
+    ],
+    "slides": "http://www.slideshare.net/christopherparola/elcurator-un-exemple-dintrapreneuriat-conduisant-la-cration-dune-entreprise",
+    "video": "https://www.youtube.com/watch?v=_TmJ8MuhAdI&feature=youtu.be",
+    "thumbnail": "./img/thumbnails/9fa52ce8-43e8-4e8f-b29d-d1ddac4f8142_slides.jpg",
+    "location": "Valtech",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220728329/",
+    "date": "2015-03-10"
+  },
+  {
+    "title": "L'ordre sans le pouvoir",
+    "description": "Confiance & numérique : pour une industrie informatique au service de la débureaucratisation.",
+    "authors": [
+      {
+        "name": "Pierre Pezziardi",
+        "twitter": "ppezziardi",
+        "picture": "https://pbs.twimg.com/profile_images/635828826866642944/nOvN6C7A_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=dvjsf8FRhY8",
+    "thumbnail": "./img/thumbnails/46b73dd1-41c8-4006-8b31-706b1c946a56_video.jpg",
+    "location": "SFEIR",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/154147792/",
+    "date": "2013-12-10"
+  },
+  {
+    "title": "La 3D temps-réel pour tous avec Babylon.js",
+    "description": "Matrices, quaternion, shader, vertex, accélération trilinéaire cocyclique à inversion de phase transdimensionnelle. Des termes barbares prévus pour repousser les plus téméraires d’entre vous à se lancer dans l’incroyable aventure de la 3D sur le web. Quelle tristesse ! Mais ça, c’était avant. Babylon.js a justement été conçu pour être facilement utilisable par tous afin de créer des jeux vidéo en WebGL/Web Audio ou tout autre type d’interactions 3D. Nous verrons ensemble comment ce projet open-source, écrit en TypeScript et conçu par des petits frenchies, peut facilement être appréhendé. Nous verrons également quelques productions l’utilisant aujourd’hui.",
+    "authors": [
+      {
+        "name": "David Rousset",
+        "twitter": "davrous",
+        "picture": "https://pbs.twimg.com/profile_images/657221270279462912/tEnlrmuz_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Zenika",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
+    "date": "2016-07-12"
+  },
+  {
+    "title": "La Gamification",
+    "description": null,
+    "authors": [
+      {
+        "name": "Yannick Grenzinger",
+        "twitter": "ygrenzinger",
+        "picture": "https://pbs.twimg.com/profile_images/668349256932171776/7Ma808uw_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=0z2kyjie3LU",
+    "thumbnail": "./img/thumbnails/a13e5a48-3dbe-43a1-a120-17a76a1096de_video.jpg",
+    "location": "Soat",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
+    "date": "2014-06-10"
+  },
+  {
+    "title": "La production d'un jeu \"triple A\" à Quantic Dream",
+    "description": "Trois ans employé de Quantic Dream en 2008, Alexis Moroz (Game Builder sur le jeu Heavy Rain puis Game Designer sur divers projets) détaillera les spécificités d'une production vidéoludique à gros budget.",
+    "authors": [
+      {
+        "name": "Alexis Moroz",
+        "twitter": "Alexis_Moroz",
+        "picture": "https://pbs.twimg.com/profile_images/1228859868/Avatar_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=CxtnIa2ss50",
+    "thumbnail": "./img/thumbnails/4d1e36ea-f0e7-43db-ba1d-1b2652387342_video.jpg",
+    "location": "Soat",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
+    "date": "2014-06-10"
+  },
+  {
+    "title": "La révolution des MOOCs",
+    "description": "Si le 20ème nous a apporté un accès massif et peu couteux à l'information, ce début de 21ème siècle nous apporte un accès massif et peu couteux à l'éducation grace en particulier aux cours en ligne ouverts et massifs ou MOOC. \r\n\r\nCe qui est bien c'est que ça coincide avec un environnement qui évolue de plus en plus vite, des innovations disruptives de plus en plus fréquentes et donc un besoin de se remettre régulièrement en question, en particulier nous développeurs !\r\n\r\nJe vous ferais un rapide panorama des moyens de se former en ligne en s'attachant à Coursera et mon expérience d'une vingtaine de cours sur l'année 2013.",
+    "authors": [
+      {
+        "name": "Yannick Grenzinger",
+        "twitter": "ygrenzinger",
+        "picture": "https://pbs.twimg.com/profile_images/668349256932171776/7Ma808uw_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=rrMwbQf7D7M",
+    "thumbnail": "./img/thumbnails/7c608a50-dbde-4ce4-9732-fdf3af02a8fb_video.jpg",
+    "location": "La cordée",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/156823782/",
+    "date": "2014-01-14"
+  },
+  {
+    "title": "Lancement d'API.gouv.fr",
+    "description": "A travers un retour d'expérience du lancement d'API.gouv.fr, je présenterai comment nous avons emprunté les méthodes des startups du numérique et les avons appliquées au sein de l'administration française.",
+    "authors": [
+      {
+        "name": "Thibaut Gery",
+        "twitter": "ThibautGery",
+        "picture": "https://pbs.twimg.com/profile_images/745283319592529920/UxwjYh0q_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=Tf1cHTVCGO4",
+    "thumbnail": "./img/thumbnails/9f19d8ff-1749-4d64-8b1f-7aa0dae8fdf0_video.jpg",
+    "location": "Zenika",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
+    "date": "2016-07-12"
+  },
+  {
+    "title": "Le développement email désormais accessible à tous avec MJML",
+    "description": "Durant cette session, je vous présenterai le challenge du développement email en 2016, notre approche du problème, désormais concrétisé en MJML (disponible sur https://mjml.io), un framework écrit en Javascript / React avec une syntaxe proche du HTML. MJML abstrait toute la complexité du développement email et le rend accessible à tout développeur ayant au moins une expérience avec HTML.",
+    "authors": [
+      {
+        "name": "Arnaud Breton",
+        "twitter": "arnaud_breton",
+        "picture": "https://pbs.twimg.com/profile_images/716241066375180288/HqG-hhnh_400x400.jpg"
+      }
+    ],
+    "slides": "https://drive.google.com/file/d/0B9jbd4WmNPaeOFMzczhQSmFHZE0/view",
+    "video": "https://www.youtube.com/watch?v=ylxksb0GfoI",
+    "thumbnail": "./img/thumbnails/1d1206ac-9fb8-4368-aa06-3d22d9efdb75_slides.png",
+    "location": "Algolia",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/231710622/",
+    "date": "2016-06-14"
+  },
+  {
+    "title": "Le futur des CSS pour le web design",
+    "description": "Michaël présentera les travaux réalisés par Adobe et le W3C pour améliorer le web en matière de design: CSS Regions, CSS Shapes, CSS Blend... Par le biais d'exemples, vous pourrez vous préparer aux futur du web design.",
+    "authors": [
+      {
+        "name": "Michael Chaize",
+        "twitter": "mchaize",
+        "picture": "https://pbs.twimg.com/profile_images/544492317839605760/XtitQ0jd_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=et5-OnTrUn4",
+    "thumbnail": "./img/thumbnails/a4794fda-04ab-4b49-8558-6a00b84ffda9_video.jpg",
+    "location": "Urban Linker",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/162792422/",
+    "date": "2014-02-11"
+  },
+  {
+    "title": "Le retour de la fonction",
+    "description": "\"Less is more\", c'est une citation bien connue et qui a une portée très universelle (design, startup, mode...). Et si finalement, les nombreuses restrictions de la programmation fonctionnelle nous permettaient de faire plus et mieux ? L'objectif de ce talk est de démystifier la programmation fonctionnelle et introduire les éléments basiques qui vous permettront d'améliorer grandement vos programmes, peut importe la techno !",
+    "authors": [
+      {
+        "name": "Loïc Knuchel",
+        "twitter": "loicknuchel",
+        "picture": "https://secure.gravatar.com/avatar/f755e6e8914df5cbaa74d30dd7de1ae2?d=404"
+      }
+    ],
+    "slides": "http://www.slideshare.net/loicknuchel/le-retour-de-la-fonction-humantalks-le-11102016",
+    "video": null,
+    "thumbnail": "./img/thumbnails/ac0cd318-67e7-43cd-88c5-0ea98fbdb90e_slides.jpg",
+    "location": "PrestaShop",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463072/",
+    "date": "2016-10-11"
+  },
+  {
+    "title": "Le réseau mobile, cette plaie",
+    "description": "Qui n'a jamais râlé en essayant 15 fois de charger une carte Google Maps dans le métro ? Maudit un jeu qui prenait 20 minutes à télécharger ses quelques mégaoctets de mises à jour en 3G ? Renoncé à lire ses mails dans la file d'attente de la caisse du supermarché ? \r\n\r\nCertains parlent d'un futur où les données sont dans les nuages et le réseau omniprésent et infiniment rapide. Force est de constater que ce futur n'est pas encore là. Par contre, les usages mobiles, eux, sont bel et bien d'actualités. \r\n\r\nNous verrons donc quelques concepts pour raisonner sur les réseaux mobiles, certaines de leurs limites, et quelques approches pour limiter leurs dégâts. \r\n\r\ntl;dr: comment faire des applications mobiles \"qui marchent\" en ville ou à la campagne, dans un train ou à l'étranger, en wifi, 3G, edge ou sans accès au réseau.",
+    "authors": [
+      {
+        "name": "Pierre Chapuis",
+        "twitter": "pchapuis",
+        "picture": "https://pbs.twimg.com/profile_images/378800000274174191/a5cde2b996e7609d073603edc8b365dc_400x400.png"
+      }
+    ],
+    "slides": "http://files.catwell.info/presentations/2013-07-human-talks-mobile-perf/",
+    "video": null,
+    "thumbnail": null,
+    "location": "Le Camping",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
+    "date": "2013-07-09"
+  },
+  {
+    "title": "Le web scraping",
+    "description": "Le web scraping (aka web crawling), qu'est ce que c'est ? Pourquoi ? Est ce que j'ai le droit d'en faire ? Comment ? ça se vend ? Je me fixe comme objectif de vous apporter des réponses à ces questions par la présentation d'outils et de REX sur des projets que j'ai pu faire.",
+    "authors": [
+      {
+        "name": "Alexandre Gindre",
+        "twitter": "alexgindre",
+        "picture": "https://pbs.twimg.com/profile_images/758058616704364544/xKQxhfhr_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=45EurjpgqhI",
+    "thumbnail": "./img/thumbnails/28ced70f-f6c1-4d23-9df0-c03766f47728_video.jpg",
+    "location": "Deezer",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/",
+    "date": "2015-05-12"
+  },
+  {
+    "title": "Learn You a Brainfuck for Great Good !",
+    "description": "Ce talk a pour vocation de faire un tour rapide des langages ésotériques, et de détailler leurs fondements théoriques. \r\n\r\nL'idée est de mettre en avant le fait qu'apprendre et comprendre des langages ésotériques aide à avoir une meilleur vision du développement en général. Illustrations en Brainfuck et en Piet.",
+    "authors": [
+      {
+        "name": "Antoine Leblanc",
+        "twitter": "nicuveo",
+        "picture": "https://pbs.twimg.com/profile_images/717503130456494081/EPfSRMJQ_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=1LEDsHHR6PA",
+    "thumbnail": "./img/thumbnails/3b87acd3-5260-4c8c-98bd-75f84a3a5d29_video.jpg",
+    "location": "La cordée",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/156823782/",
+    "date": "2014-01-14"
+  },
+  {
+    "title": "Les 7 pièges à éviter en lean & agile UX",
+    "description": "Le lean & agile UX puise ses sources dans les principes lean. Cette pratique a pour objectif de diminuer le gâchis et permettre de créer des produits de manière plus rapide et efficace en favorisant les moments collaboratifs en équipe interdisciplinaire et en étant le plus possible au contact des utilisateurs. En théorie ces objectifs sont atteints en travaillant sur l’expérience utilisateur du produit en parallèle des développements. En pratique, il est facile de tomber dans des pièges qui viennent compromettre l’efficacité de cette méthode!",
+    "authors": [
+      {
+        "name": "Caroline Besnard",
+        "twitter": "carobesnard",
+        "picture": "https://pbs.twimg.com/profile_images/612215517533863937/yYsReEr__400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "PrestaShop",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463072/",
+    "date": "2016-10-11"
+  },
+  {
+    "title": "Les algorithmes génétiques dans tous leurs états",
+    "description": "Nous présenterons les algorithmes génétiques, appartenant à la famille des algorithmes évolutionnistes. Ils permettent d'obtenir une solution approchée à un problème d'optimisation, lorsqu'il n'existe pas de méthode exacte (ou que la solution est inconnue) pour le résoudre en un temps raisonnable.Des exemples ludiques d'application seront présentés (\"tobeornottobe', smart rockets) afin d'illustrer leur comportement.",
+    "authors": [
+      {
+        "name": "Julien Sebrien",
+        "twitter": "jsebrien",
+        "picture": "https://pbs.twimg.com/profile_images/490492816078823424/FItrRv6o_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "PrestaShop",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463072/",
+    "date": "2016-10-11"
+  },
+  {
+    "title": "Les bronzés font du dev",
+    "description": "Martin 23 ans et fraîchement diplômé vient d'être embauché chez SSII Consulting. Son commercial lui a proposé une superbe mission où il pourra développer ses compétences en Java/J2EE ! Chouette car c'est exactement ce qu'il cherchait : \"Spring, Hibernate et Struts les technos du moment !\" lui dit son commercial. \"Mais avec un petit peu de maintenance sur l'ancienne appli en PHP mais c'est vraiment minime !\" rassure-t-il. \r\n\r\nEt c'est tout enthousiaste qu'il commence sa première journée de mission, dans une équipe ... un peu particulière ... \r\n\r\nAu travers de cette histoire, je souhaite illustrer (en dessin) le quotidien d'une équipe caricaturée mais pas si éloignée que ça de la réalité de nos projets ... \r\n\r\nRemarque : les dessins seront de meilleurs qualités pour le quickie par rapport à ce que l'on trouve sur mon blog (http://uneviededev.wordpress.com/)",
+    "authors": [
+      {
+        "name": "Ellène Siber Dijoux",
+        "twitter": "ElleneSiber",
+        "picture": "https://pbs.twimg.com/profile_images/634674964/ellene.dijoux_gmail.com_ed2d144c_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=CTEwKK2Bpno",
+    "thumbnail": "./img/thumbnails/24b24650-9a66-4fd0-938d-98c79dbb4580_video.jpg",
+    "location": "50 Partners",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/",
+    "date": "2013-09-10"
+  },
+  {
+    "title": "Les enjeux de la latence applicative",
+    "description": "Découvrez les impacts de la latence applicative sur l'usage, les objectifs pour améliorer la réactivité d'une application et le type d’efforts en cours chez les précurseurs technologiques",
+    "authors": [
+      {
+        "name": "Nicolas Babel",
+        "twitter": "nicbaboul",
+        "picture": "https://pbs.twimg.com/profile_images/578610229786644482/UR4qrVLf_400x400.png"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/motwin_community/20150126-latence-10-minutes-human-talk",
+    "video": "https://www.youtube.com/watch?v=c_fw42unkqw",
+    "thumbnail": "./img/thumbnails/87aa4e4b-4a25-4663-920d-bcd9dd9cb059_slides.jpg",
+    "location": "Ecole 42",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
+    "date": "2015-02-10"
+  },
+  {
+    "title": "Les générateurs de code, pour se simplifier la vie au quotidien",
+    "description": "Que ce soit au lancement d’un nouveau petit projet perso ou au quotidien d’un projet pro, survient régulièrement un moment où il faut le faire : créer de nouveaux fichiers, à partir de rien.  \r\nUn certain nombre de questions surgissent : Dois-je copier-coller un autre fichier existant ? Lequel ? Faut-il que je le déclare quelque part ? Y a-t-il une convention de nommage ?… \r\nÇa peut souvent s’avérer répétitif et propice aux erreurs, sans avoir beaucoup de valeur ajoutée. \r\nDans ce genre de situation, les générateurs de code peuvent nous donner un sacré coup de pouce, voire nous simplifier la vie au quotidien.",
+    "authors": [
+      {
+        "name": "Nicolas Carlo",
+        "twitter": "nicoespeon",
+        "picture": "https://pbs.twimg.com/profile_images/750429808346198017/S414ftFU_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Viadeo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/229152027/",
+    "date": "2016-03-08"
+  },
+  {
+    "title": "Les outils et les procédés utilisés dans la production d'un jeu AAA",
+    "description": "Antoine a passé quelques années chez Ubisoft à Annecy où il a principalement travaillé sur les outils de développement utilisés par la série Assassin's Creed. Il nous présente comment coordonner des équipes entre 3 sites mondiaux travaillant sur un jeu de plusieurs millions de dollars",
+    "authors": [
+      {
+        "name": "Antoine Reux",
+        "twitter": "CrankFlash",
+        "picture": "https://pbs.twimg.com/profile_images/3081520350/8a3fb24b1b9bc65c035cd493e5b9a130_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=Lu8nwkgfVIg",
+    "thumbnail": "./img/thumbnails/b2ec91f0-f448-4fa8-8ef0-2383674e7d72_video.jpg",
+    "location": "ECE",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/",
+    "date": "2014-07-08"
+  },
+  {
+    "title": "Lithium: Comment isoler la sources des erreurs",
+    "description": "Lithium est un outil qui a pour but de reproduire la réaction d'un programme en réduisant le fichier fournie en entrée.  Cette outil est très pratique quand il est utilisé avec de la génération automatique de tests ou que les tests sont trop large pour s'y attaquer rapidement à la main.",
+    "authors": [
+      {
+        "name": "Nicolas B. Pierron",
+        "twitter": "nbpname",
+        "picture": "https://pbs.twimg.com/profile_images/3348548011/5e7bfe36304265d5cc5c6f79a9af7622_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=TB4o3ztUaQw",
+    "thumbnail": "./img/thumbnails/f3484200-a84a-411d-8bc3-5304c1b36d98_video.jpg",
+    "location": "Mozilla",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/168226002/",
+    "date": "2014-03-11"
+  },
+  {
+    "title": "Live Coding Meteor",
+    "description": "Meteor (http://meteor.com) est une plateforme 100% JS et libre pour développer des applications modernes web et mobiles. Ce live coding vous montrera quelques fonctionnalités intéressantes de cette plateforme qui vient de sortir en version 1.0.",
+    "authors": [
+      {
+        "name": "Vianney Lecroart",
+        "twitter": "acemtp",
+        "picture": "https://pbs.twimg.com/profile_images/782980862505877509/PlaZ3Qzi_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=Kirit9Xl6ZM",
+    "thumbnail": "./img/thumbnails/e0645084-98a9-4fd2-b8d4-0228e0356134_video.jpg",
+    "location": "OCTO Technology",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/216770782/",
+    "date": "2014-11-18"
+  },
+  {
+    "title": "Logiciel libre ou open source ? Faisons le point !",
+    "description": "Mini guide à l'usage des personnes qui souhaiteraient open sourcer un projet ou qui se sont toujours demandé qu'est que l'open source, qu'est-ce qu'un logiciel libre et pourquoi tout n'est pas gratuit en ce bas monde ...",
+    "authors": [
+      {
+        "name": "Mickaël Andrieu",
+        "twitter": "mickael_andrieu",
+        "picture": "https://pbs.twimg.com/profile_images/672716508427104256/6oyONEar_400x400.jpg"
+      }
+    ],
+    "slides": "https://speakerdeck.com/mickaelandrieu/10-minutes-pour-choisir-sa-licence-open-source",
+    "video": "https://www.youtube.com/watch?v=j2n6MargPj8",
+    "thumbnail": "./img/thumbnails/6a793d64-bf1c-41a9-bcdd-9dab63008b3f_slides.jpg",
+    "location": "Deezer",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/",
+    "date": "2015-05-12"
+  },
+  {
+    "title": "Make your business SPOF-Less",
+    "description": "Comment l'analyse de vos points faibles vous permet de repenser votre organisation",
+    "authors": [
+      {
+        "name": "Alex Centar",
+        "twitter": "jumboweb",
+        "picture": "https://pbs.twimg.com/profile_images/698075326727913472/BH-YHft7_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=IYE9ih9EGJk",
+    "thumbnail": "./img/thumbnails/1edcce4f-8b09-4897-b9c9-ab3d6f58eb36_video.jpg",
+    "location": "PrestaShop",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/223305711/",
+    "date": "2015-07-07"
+  },
+  {
+    "title": "Mettez de l'émotion dans vos interfaces",
+    "description": "L'émotion est un vecteur très fort pour faire passer un message auprès des gens. Je vous présenterais rapidement comment intégrer le design émotionnel pour que vos sites ou vos applications soient encore plus efficaces. Le tout illustré par des exemples concrets.",
+    "authors": [
+      {
+        "name": "Mathieu Parisot",
+        "twitter": "matparisot",
+        "picture": "https://pbs.twimg.com/profile_images/684439807603400704/CS8z0qCK_400x400.jpg"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/matparisot/design-emotionnel-44596712",
+    "video": "https://www.youtube.com/watch?v=kKD0o1t92lY",
+    "thumbnail": "./img/thumbnails/499b5a7a-7a02-4e46-a402-5e68ada1ba01_slides.jpg",
+    "location": "Ecole 42",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
+    "date": "2015-02-10"
+  },
+  {
+    "title": "Modular coverage tools for the modern web",
+    "description": "Je vous présenterai esnext-coverage, un nouvel outil de mesure de qualité de code JavaScript (ES6+). On parlera (sans trop rentrer dans les détails) du concept d’instrumentation de code en utilisant le transformer plugin de Babel, du workflow d’utilisation et de génération de rapports dynamiques de couverture de tests unitaires ou d'intégration.",
+    "authors": [
+      {
+        "name": "Oleg Sklyanchuk",
+        "twitter": "olegskl",
+        "picture": "https://pbs.twimg.com/profile_images/474156955745808385/27Yg6B2D_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=RUh4QOaT_60",
+    "thumbnail": "./img/thumbnails/7cf50a0c-75ee-4798-874e-ca0077360b4a_video.jpg",
+    "location": "SFEIR",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/",
+    "date": "2016-09-13"
+  },
+  {
+    "title": "Move fast don't break your API",
+    "description": "Brian Krausz, API engineer at Stripe and head of their Marketplaces product, discusses how to build and scale an API from the inside out.Most of what you see in an API like Stripe's is the results: a well-organized, consistent, well-documented product. However, a lot goes on under the hood to ensure that as Stripe grows the product stays that way. Brian will talk about some of the core philosophies and abstractions Stripe uses to keep their API easy to use while still iterating quickly",
+    "authors": [
+      {
+        "name": "Brian Krausz",
+        "twitter": "bkrausz",
+        "picture": "https://pbs.twimg.com/profile_images/1781342187/285002_2031688916582_1374900027_32195258_5276307_n_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=i3hcwsIJ-Hw",
+    "thumbnail": "./img/thumbnails/2391b543-75af-49df-87ba-c123ff31be3f_video.jpg",
+    "location": "Zenika",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
+    "date": "2015-01-13"
+  },
+  {
+    "title": "Nuun Framework : Standard building blocks for framework designers",
+    "description": "Créez votre propre framework Java avec Nuun: vos conventions, vos règles, votre framework.",
+    "authors": [
+      {
+        "name": "Epo Jemba",
+        "twitter": "ejemba",
+        "picture": "https://pbs.twimg.com/profile_images/1191495685/AD34hIhSAxrYTTAGx1499QqfebYGhRVdNvJ0r7wudF6miSyLAX-7dCAcY1cccFrGRrEQcttDyW688ukZ7ART7ItleYNu-m-kPWkIJDgPFq7MWnYtZOxSo6Y_400x400.jpg"
+      }
+    ],
+    "slides": "http://slides.com/epojemba/nuun-framework",
+    "video": "https://www.youtube.com/watch?v=8KRhwA_XC-I",
+    "thumbnail": "./img/thumbnails/d7363d44-9d0f-427e-9883-1cdbdf0490ef_slides.jpg",
+    "location": "SFEIR",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/154147792/",
+    "date": "2013-12-10"
+  },
+  {
+    "title": "OpenIDConnect : le nouveau standard d'identification sur le Web",
+    "description": "Pour faciliter la vie des utilisateurs de nos sites Web et leur éviter de jongler entre des centaines de mots de passe, on est aujourd'hui amené à leur proposer de s'identifier via leurs comptes Facebook ou Google...\r\n\r\nEnvie de ne pas être dépendant d'un fournisseur et laisser le maximum de choix aux utilisateurs ? De proposer votre propre annuaire d'identités interopérable ?\r\n\r\nOpenID Connect est fait pour vous !Ce protocole ouvert basé sur OAuth2, successeur de OpenID, et soutenu par des grands acteurs, permet à une application cliente d'utiliser n'importe quel fournisseur d'identité.\r\n\r\nNous verrons dans cette présentation quels sont les cas d'usages de ce protocole (authentification sur le Web, sur des applications mobiles...), quels sont ses avantages et inconvénients, et les premières pistes de mise en œuvre.",
+    "authors": [
+      {
+        "name": "François Petitit",
+        "twitter": "francoispetitit",
+        "picture": "https://pbs.twimg.com/profile_images/721016337225621506/TbB6Vbdf_400x400.jpg"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/fpetitit/human-talks-paris-openidconnect-et-franceconnect-francois-petitit-7-juillet-2015",
+    "video": "https://www.youtube.com/watch?v=moNZ1jrazsc",
+    "thumbnail": "./img/thumbnails/9f99a3ef-6cc9-437b-901f-160422131b5f_slides.jpg",
+    "location": "PrestaShop",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/223305711/",
+    "date": "2015-07-07"
+  },
+  {
+    "title": "OpenStack: Cloud Computing for Humans",
+    "description": "OpenStack a été mis en orbite il y a moins de 4 ans par la NASA et Rackspace. Des milliers de contributeurs ont ensuite rejoint l'aventure. Aujourd'hui, il est l'un des plus gros projets open source du monde.",
+    "authors": [
+      {
+        "name": "Cédric Soulas",
+        "twitter": "CedricSoulas",
+        "picture": "https://pbs.twimg.com/profile_images/785487236460584962/7DhBm960_400x400.jpg"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/CdricSoulas/open-stack-human-talks-cdric-soulas",
+    "video": "https://www.youtube.com/watch?v=bS5ZQkIHuwU",
+    "thumbnail": "./img/thumbnails/66485a2d-8033-4535-8e8e-3de0b522a616_slides.jpg",
+    "location": "Urban Linker",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/162792422/",
+    "date": "2014-02-11"
+  },
+  {
+    "title": "Orienté Objet : erreur historique ou voie à poursuivre ?",
+    "description": "une revue historique et rapide sur l’émergence et la transformation de l'idée d'orienté Objet, ses hauts et ses bas.",
+    "authors": [
+      {
+        "name": "Frédéric Fadel",
+        "twitter": "FredyFadel",
+        "picture": "https://pbs.twimg.com/profile_images/3587765306/e148a2af3a0dc74b925e3ff89944e6b8_400x400.png"
+      }
+    ],
+    "slides": "https://onedrive.live.com/view.aspx?resid=E66DEE7C5AA54223!42602&ithint=file%2cpptx&app=PowerPoint&authkey=!AFm6uCuoXSDMFMM",
+    "video": "https://www.youtube.com/watch?v=Okz-tFyfu64",
+    "thumbnail": null,
+    "location": "OCTO Technology",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/224944580/",
+    "date": "2015-09-08"
+  },
+  {
+    "title": "Owasp Zaproxy - Devenir un hacker en 10 minutes",
+    "description": "Une présentation du proxy développé par OWASP, un super outil, cool et intuitif de pentesting pour trouver des vulnérabilités dans les applis Web.",
+    "authors": [
+      {
+        "name": "Paul Molin",
+        "twitter": "paulmolin42",
+        "picture": "https://pbs.twimg.com/profile_images/578117892048191488/gMoyWVZU_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Viadeo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/229152027/",
+    "date": "2016-03-08"
+  },
+  {
+    "title": "PIT, pour savoir si vos tests vous protègent des mutants",
+    "description": "Vous écrivez des tests, et c'est bien. Mais êtes-vous sûrs qu'ils sont vraiment efficaces ? PIT est un outil de mutation testing. Cette technique consiste à vérifier que vos tests unitaires passent au rouge lorsque le code testé est modifié, quand on y injecte des bugs, des mutants... Venez voir par vous même comment il est facile de mettre en place PIT, de l'intégrer à votre build et à SonarQube. Avec PIT, les mutants n'ont qu'à bien se tenir !",
+    "authors": [
+      {
+        "name": "Alexandre Victoor",
+        "twitter": "alex_victoor",
+        "picture": "https://pbs.twimg.com/profile_images/658643249742114816/VPD3w3Iy_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=ck2dIrrVTWs",
+    "thumbnail": "./img/thumbnails/1233841d-ba4c-49d3-9581-e835bbe1662b_video.jpg",
+    "location": "ECE",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/",
+    "date": "2014-07-08"
+  },
+  {
+    "title": "Parcours d'une application mobile De l'idée à sa publication",
+    "description": "Au fond de chaque développeur, sommeille un créateur qui veut réaliser son projet, son application, qui veut laisser sa marque dans l’histoire du numérique. J’en fais parti. Ainsi, en 2014, je me suis challengé pour réaliser une application mobile pour Android.\r\n\r\nCette présentation est l'occasion de faire un retour sur sa création, son développement, sa publication ainsi que les succès/échecs rencontrés",
+    "authors": [
+      {
+        "name": "David Wursteisen",
+        "twitter": "dwursteisen",
+        "picture": "https://pbs.twimg.com/profile_images/428227925/20090817-IMG_3207-2_carre_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=wsAMdKKHjck",
+    "thumbnail": "./img/thumbnails/9b59c39b-2e77-4502-9d96-89c7c40d8539_video.jpg",
+    "location": "PrestaShop",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/223305711/",
+    "date": "2015-07-07"
+  },
+  {
+    "title": "Polyfill and Transpilers, one code for every browser",
+    "description": "Ce talk a pour but d'expliquer le concept des polyfills et de la transpilation dans le cadre du développement front end. Ce sont les deux stratégies qui permettent d'arriver à un même but : écrire un seul code pour tous les navigateurs, en utilisant les technologies/api les plus récentes.",
+    "authors": [
+      {
+        "name": "Alexandre Barbier",
+        "twitter": "alexbrbr",
+        "picture": "https://pbs.twimg.com/profile_images/549275373389611009/3_xju-F-_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=e_qBM4oPcFQ",
+    "thumbnail": "./img/thumbnails/78afabb8-0e88-4b06-8c5b-6b3fa9d69605_video.jpg",
+    "location": "LeBonCoin",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226509764/",
+    "date": "2015-12-08"
+  },
+  {
+    "title": "Pourquoi est-ce si difficile de concevoir une API ?",
+    "description": "Concevoir une API est aujourd'hui une belle occasion de mélanger une absence de standards à des abstractions philosophiques pour cause d'un effet de mode. Essayons d'y voir plus clair en identifiant quelques bonnes pratiques.",
+    "authors": [
+      {
+        "name": "Alexandre Estela",
+        "twitter": "alx_estela",
+        "picture": "https://pbs.twimg.com/profile_images/780667822267588609/dB657o4L_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=-7LWklt079c",
+    "thumbnail": "./img/thumbnails/31ec4a8b-34d4-461d-ab19-21fd9cf3faab_video.jpg",
+    "location": "Deezer",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/",
+    "date": "2016-01-12"
+  },
+  {
+    "title": "Pourquoi et comment apprendre à coder aux enfants ?",
+    "description": "L'équipe Programatoo s'est fixée un objectif : ramener l'apprentissage de la programmation à l'école. ça vous parait fou voire inutile ? Nous allons vous prouver le contraire et nous vous montrerons comment nous le faisons pour que vous puissez à votre tour, partager votre passion avec les plus grands ... et les plus petits !",
+    "authors": [
+
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=TLwoG11cgSE&feature=youtu.be",
+    "thumbnail": "./img/thumbnails/bbe27201-41a2-48af-ad06-210ffe983023_video.jpg",
+    "location": "Mobiskill",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/172589822/",
+    "date": "2014-04-08"
+  },
+  {
+    "title": "Pourquoi je passe au business model Open Source ?",
+    "description": "Pourquoi je suis passé de salarié à temps plein, à freelance, à créateur de logiciel, à fournisseur de services ! \r\n\r\nComment j'ai créé ma communauté d'utilisateurs \r\n\r\nPourquoi j'opte pour l'open source",
+    "authors": [
+      {
+        "name": "Christophe Robillard",
+        "twitter": "krichtof",
+        "picture": "https://pbs.twimg.com/profile_images/3156909329/f8431b847ce237c186ebdbb782e32eb3_400x400.jpeg"
+      }
+    ],
+    "slides": "http://slides.com/krichtof/pourquoi-je-passe-au-business-model-open-source",
+    "video": "https://www.youtube.com/watch?v=yJCIHEF_lOM",
+    "thumbnail": "./img/thumbnails/a91f8280-66ac-4929-a46e-74f13df2c62c_slides.jpg",
+    "location": "Ecole 42",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
+    "date": "2015-02-10"
+  },
+  {
+    "title": "Pourquoi vous ne devriez jamais écrire AES ou SHA dans votre code ?",
+    "description": "L'utilisation directe d'algorithmes cryptographiques réputés sûrs ne suffit pas à garantir la sécurité de nos applications. Par ex., l'emploi de SHA + un salt pour l'authentification par mot de passe ou l'usage seul de l'AES pour le chiffrement des données ne sont pas sûrs. Lors de ce talk, à travers un rapide panorama des attaques possibles et le cassage en live d'un système basé sur AES, vous comprendrez que le développeur doit se placer à un niveau d'abstraction plus élevé qu'il n'a l'habitude de le faire. Vous découvriez également des bibliothèques dont l'API résouds ces problèmes.",
+    "authors": [
+      {
+        "name": "Thierry Abaléa",
+        "twitter": "thierryabalea",
+        "picture": "https://pbs.twimg.com/profile_images/642763456727412736/baeG-8tq_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=h30-7VCFMvw",
+    "thumbnail": "./img/thumbnails/8640b52a-26a2-483a-bb9b-c390178347a4_video.jpg",
+    "location": "ECE",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/",
+    "date": "2014-07-08"
+  },
+  {
+    "title": "Prise de parole en public, quelques conseils",
+    "description": "Vous avez envie de partager votre experience mais vous avez peur de monter sur scène ? Ou alors vous pensez que ce que vous avez à raconter n'intéressera personne ? Dans ce talk je vais vous partager quelques conseils qui m'ont beaucoup aidés pour vaincre mon stress et écrire mes présentations. Je prends désormais beaucoup de plaisir à monter sur scène et je souhaite vous partager ces petits secrets.",
+    "authors": [
+      {
+        "name": "Tim Carry",
+        "twitter": "pixelastic",
+        "picture": "https://secure.gravatar.com/avatar/a2f9d5672798ac7ef42b871652a58fb0?d=404"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Google",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
+    "date": "2016-11-08"
+  },
+  {
+    "title": "Procrastination : ce que dit la science",
+    "description": "« Mouais je vais plutôt commencer ça demain tiens » ou « j’ai ce super projet en tête depuis 6 mois mais impossible de m’y mettre ». \r\nProcrastiner c’est volontairement retarder une action même en sachant que la situation va se dégrader suite à ce retard. \r\nMais alors pourquoi sommes-nous tous de grands procrastinateurs ? Et surtout comment nous en sortir ? \r\nZoom sur quelques résultats des sciences cognitives pour comprendre les ressorts et les remèdes à la procrastination.",
+    "authors": [
+      {
+        "name": "Ismaël Héry",
+        "twitter": "Ismael_Hery",
+        "picture": "https://pbs.twimg.com/profile_images/1409535623/Photo_IHE_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "PrestaShop",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463072/",
+    "date": "2016-10-11"
+  },
+  {
+    "title": "Présentation de Scrapoxy",
+    "description": "Avec lui, fini le blacklisting ! Il gère un pool de proxies, change les adresses IPs et simule les navigateurs actuels.\r\n\r\nC'est du Node.js et surtout, open-source!\r\n\r\nVenez découvrir une présentation de l'outil pendant ce talk :)\r\n\r\nhttps://github.com/fabienvauchelles/scrapoxy",
+    "authors": [
+      {
+        "name": "Fabien Vauchelles",
+        "twitter": "fabienv",
+        "picture": "https://pbs.twimg.com/profile_images/601035621252083712/e7q362D6_400x400.jpg"
+      }
+    ],
+    "slides": "http://fabienvauchelles.github.io/scrapoxy-talk-ht2015/",
+    "video": "https://www.youtube.com/watch?v=3ydT-5UbDC4",
+    "thumbnail": "./img/thumbnails/6d79e0e4-3195-4028-81f5-78442d2a7349_slides.png",
+    "location": "OCTO Technology",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/224944580/",
+    "date": "2015-09-08"
+  },
+  {
+    "title": "Présentation de l'association Fier d'être développeur",
+    "description": "L’association Fier d'être développeur a été créée il y a 2 ans, par des individus passionnés par leur métier de développeur, métier qui malheureusement n'est pas reconnu à sa juste valeur, tout du moins en France. L'idée principale de l'association est donc de le revaloriser et de porter le message qu'il peut être pratiqué de 7 à 77 ans et qu'à 50 ans si tu es encore développeur tu n'a pas forcement raté ta vie.",
+    "authors": [
+      {
+        "name": "Eric Vernié",
+        "twitter": "EricVernie",
+        "picture": "https://pbs.twimg.com/profile_images/2730086448/42f9f79157f601f94fea46da0e52f171_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=07VPVTCV4cc",
+    "thumbnail": "./img/thumbnails/e00ad5a2-22a9-462f-8c43-516111890888_video.jpg",
+    "location": "Mobiskill",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/172589822/",
+    "date": "2014-04-08"
+  },
+  {
+    "title": "Présentation du projet Moov' In The City",
+    "description": "Moov’ In The City est un grand concours organisé autour de l’ouverture des données des transports parisiens entre autres. Désireuses de participer à un tel projet depuis plusieurs mois, les duchess se sont lancées dans l’aventure ! \r\n\r\nTout s’est fait très vite : monter une équipe, trouver une idée, étudier les données fournies par la ville, définir les fonctionnalités, le design, le logo, les pages puis choisir les technos, développer, livrer en Prod et faire une vidéo. \r\nMoov’ In The CityMoov’ In The CityEt voilà notre application Moov’Simply a vu le jour :). Voici son histoire !",
+    "authors": [
+      {
+        "name": "Ludwine Probst",
+        "twitter": "nivdul",
+        "picture": "https://pbs.twimg.com/profile_images/767120442817740800/1PEZwr6w_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Le Camping",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
+    "date": "2013-07-09"
+  },
+  {
+    "title": "REX - Plonge-toi dans la vie d’un manager pendant 10 minutes",
+    "description": "Le manager d’une équipe de développeurs est souvent pris entre son équipe (qu’il doit protéger en restant \"juste\") et ses propres chefs (qui sont souvent étrangers au monde de l’informatique).\r\n\r\nQuelles sont les clefs d’un manager pour avoir des développeurs motivés et réussir ses projets ?Je vous propose de vous plonger dans cet univers en découvrant les différentes pratiques que j’ai mises en oeuvre, les succès et les échecs que j’ai rencontrés.\r\n\r\nPlus jamais tu ne diras « ça ne changera jamais » ou regarderas ton manager de la même manière.",
+    "authors": [
+      {
+        "name": "Antoine Berthelin",
+        "twitter": "aberthelin",
+        "picture": "https://pbs.twimg.com/profile_images/862849747/photo_copy_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=1HUBzpaDEZU",
+    "thumbnail": "./img/thumbnails/1dd41aeb-c901-417d-b882-f2ae2eac5a82_video.jpg",
+    "location": "Adobe",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/181483902/",
+    "date": "2014-05-13"
+  },
+  {
+    "title": "REX: Comment j'ai scrappé les superheros Marvel",
+    "description": "Je vous propose de faire un REX sur un side-project récent: https://pixelastic.github.io/marvel/\r\n\r\nJ'ai récupéré l'ensemble des ~2000 superheros (et supervillains) de l'univers Marvel et créé une UI pour permettre leur recherche facilement.\r\n\r\nOn verra comment j'ai scrappé la Wikipedia (et pourquoi c'est plus facile que d'utiliser les API dispos) ainsi que quelques autres API publiques, les bons outils en node pour faire ça, comment le TDD m'a sauvé la vie, les quelques services cloud gratuits qui aident bien (Github, Algolia et Cloudinary) et la facilité de création de la UI qui va avec.\r\n\r\nCe talk est sans prétention, un retour d'experience sur ce que j'ai appris en m'amusant, et que je souhaite partager. Il y a beaucoup de data disponible facilement, et avec quelques services en ligne gratuits on peut construire de très belles choses avec.",
+    "authors": [
+      {
+        "name": "Tim Carry",
+        "twitter": "pixelastic",
+        "picture": "https://secure.gravatar.com/avatar/a2f9d5672798ac7ef42b871652a58fb0?d=404"
+      }
+    ],
+    "slides": "http://talks.pixelastic.com/slides/marvel-humantalks/#/",
+    "video": null,
+    "thumbnail": "./img/thumbnails/8e1a55d9-a732-432b-8e1a-a960345fa3b8_slides.png",
+    "location": "LaFourchette",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/",
+    "date": "2016-05-10"
+  },
+  {
+    "title": "Raml : spécifiez vos API REST",
+    "description": "Présentation de RAML qui permet de décrire des API REST.",
+    "authors": [
+      {
+        "name": "Yves Pasteur",
+        "twitter": "ypasteur",
+        "picture": "https://pbs.twimg.com/profile_images/3586468713/cfb696b80ca5430cb051f00893706e05_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=dOmL1QVbx4Q",
+    "thumbnail": "./img/thumbnails/db75eaa6-254c-4265-84a6-a29e7b59d758_video.jpg",
+    "location": "Viadeo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222711539/",
+    "date": "2015-06-09"
+  },
+  {
+    "title": "Ratez vos revues de code en 5 leçons !",
+    "description": "La revue de code, tout le monde connait, bien sûr. C'est d'ailleurs une des plus vieilles pratiques de développement, dont l'efficacité est prouvée depuis longtemps pour détecter des défauts au plus tôt. Alors pourquoi tant d'équipes n'utilisent elles pas la revue de code, ou n'en tirent pas les bénéfices qu'évoquent de nombreuses études ? Au cours de cette session, on explorera les nombreux écueils à éviter au travers de situations de revue de code qui se passent mal, et on proposera des pistes pour corriger le tir.",
+    "authors": [
+      {
+        "name": "Michel Domenjoud",
+        "twitter": "mdomenjoud",
+        "picture": "https://pbs.twimg.com/profile_images/712757181444190210/oxNyatGc_400x400.jpg"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/mdomenjoud/human-talks-ratez-vos-revues-de-code-en-5-leons",
+    "video": null,
+    "thumbnail": "./img/thumbnails/1c17439f-b047-4bbd-8e15-efcfd2b6201d_slides.jpg",
+    "location": "Urban Linker",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/",
+    "date": "2015-10-13"
+  },
+  {
+    "title": "ReactJS : retour d'expérience sur une mise en production",
+    "description": "ReactJS, vous en avez surement déjà entendu parler. \r\n\r\nNous utilisons cette librairie depuis maintenant plusieurs mois pour la refonte d’un grand site de e-commerce français.\r\n\r\nDans cette présentation je vais tenter de vous présenter ce qu’est ReactJS, ce qu’il permet, ce qui nous a poussés à l’utiliser et comment on s’en est servi.",
+    "authors": [
+      {
+        "name": "Clément Dubois",
+        "twitter": "clement_d",
+        "picture": "https://pbs.twimg.com/profile_images/378800000600048586/8dc0b2d1cf1438fd79382e984926b73e_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=Mg7oTkrMT2U",
+    "thumbnail": "./img/thumbnails/88c1ce37-703c-437e-9cd2-57ee69a682d2_video.jpg",
+    "location": "OCTO Technology",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/224944580/",
+    "date": "2015-09-08"
+  },
+  {
+    "title": "Renforcer votre équipe et votre produit avec une activité de team building pas comme les autres",
+    "description": "Améliorer son produit tout en stimulant la créativité de sa team et en renforçant l'esprit d'équipe c'est possible ? En 10 minutes nous reviendrons sur une expérience innovante durant laquelle toute notre entreprise était encouragé à former des groupes et à travailler sur un projet libre.Nous verrons ensemble comment cette expérience a parmi de renforcer à la fois le produit mais aussi la cohésion au sein des équipes.",
+    "authors": [
+      {
+        "name": "Sarah Cigdem",
+        "twitter": "Sarah_cgd",
+        "picture": "https://pbs.twimg.com/profile_images/769246065170284544/2CprHtbR_400x400.jpg"
+      },
+      {
+        "name": "Olivier Berthonneau",
+        "twitter": "oberthonneau",
+        "picture": "https://pbs.twimg.com/profile_images/700708883929563136/ZlO-Zciz_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=tq5jbplFlHA",
+    "thumbnail": "./img/thumbnails/6c9a8098-2fb6-4284-8ae5-892214f3bd05_video.jpg",
+    "location": "SFEIR",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/",
+    "date": "2016-09-13"
+  },
+  {
+    "title": "Retour d'expérience : De Heroku à EC2 @ Youboox",
+    "description": "Chez Youboox fait pas mal de processing de livres (beaucoup de livres). \r\nComment et pourquoi nous sommes passé d'une infra 100% PaaS sur Heroku à une infra hybride avec Heroku pour l'API et AWS pour les jobs",
+    "authors": [
+      {
+        "name": "Vincent Daubry",
+        "twitter": "vdaubry",
+        "picture": "https://pbs.twimg.com/profile_images/761093391841005568/gtmU_lGe_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=OPKSuqm5RvA",
+    "thumbnail": "./img/thumbnails/bb567e3c-b4c5-4555-a786-5526cff1e4ba_video.jpg",
+    "location": "Maltem",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/218938429/",
+    "date": "2014-12-09"
+  },
+  {
+    "title": "Retour d'expérience : le Sprint, chez les virtuoses",
+    "description": "Découvrez le Sprint, cette nouvelle méthodologie, inspirée par Google Ventures, qui permet de concrétiser en 5 jours une idée. A travers un retour d'expérience, venez comprendre les enjeux ainsi que les objectifs de cette méthode.",
+    "authors": [
+      {
+        "name": "Antoine Pezé",
+        "twitter": "antoine_peze",
+        "picture": "https://pbs.twimg.com/profile_images/699622798411567104/Bk9Wnz_I_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "BeMyApp",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230195850/",
+    "date": "2016-04-12"
+  },
+  {
+    "title": "Retour d'expérience d'une création d'école de dév en milieu rural",
+    "description": "Anciennement développeur web en Freelance à Paris, Romain Coeur est parti à La Loupe (Eure-et-Loir) pour créer une école de développement web. La Wild Code School propose une formation initiale ouverte à tout profils et fortement intégrée au tissus social et économique du territoire. Cela passe par des intervenants locaux qui animent des ateliers, des projets réalisés avec des partenaires et des étudiants issus en majorité du département. Aujourd'hui la promo version beta est formée et les enseignements tirés par les fondateurs de l'école sont nombreux.",
+    "authors": [
+      {
+        "name": "Romain Coeur",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=_JxOriDFwbY",
+    "thumbnail": "./img/thumbnails/854bc89b-99ff-48c5-bd7b-73ea21620b50_video.jpg",
+    "location": "Viadeo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222711539/",
+    "date": "2015-06-09"
+  },
+  {
+    "title": "Retour d'expérience sur la conception de l'API Mangopay",
+    "description": "A l'occasion de la sortie de la deuxième version de l'API Mangopay, l'API de monétique développée par Leetchi, j'exposerai les erreurs de conception commises sur l'interface la première fois, et comment nous les avons corrigé.",
+    "authors": [
+      {
+        "name": "Laure Némée",
+        "twitter": "Zazoun",
+        "picture": "https://pbs.twimg.com/profile_images/133826900/n770482651_398589_3194_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=A_A3gm11Ttc",
+    "thumbnail": "./img/thumbnails/4b2e70de-3169-4878-9d90-aeab07b58552_video.jpg",
+    "location": "Start-Way",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/142883912/",
+    "date": "2013-10-08"
+  },
+  {
+    "title": "RxJava, Getting Started",
+    "description": "Les applications sont de plus en plus interconnectées. Une architecture type WOA (Web Oriented Archiecture) et l’utilisation des micros-services nécessitent de faire de plus en plus d’appel à différents services web. Comment composer un résultat à partir de ces différents services, sans avoir à ce soucier de l’ordre dans lequel les serveurs vont répondre ? \r\n\r\nRxJava offre une manière élégante de faire de l’asynchrone et de la composition au sein de son application. Nous vous exposerons les concepts de Rx (Reactive eXtension) avant de vous montrer une mise en application.",
+    "authors": [
+      {
+        "name": "David Wursteisen",
+        "twitter": "dwursteisen",
+        "picture": "https://pbs.twimg.com/profile_images/428227925/20090817-IMG_3207-2_carre_400x400.jpg"
+      },
+      {
+        "name": "Brice Dutheil",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": "https://speakerdeck.com/dwursteisen/rxjava-getting-started",
+    "video": null,
+    "thumbnail": "./img/thumbnails/2750574c-1754-49fd-88ba-df890235980e_slides.jpg",
+    "location": "Mozilla",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/",
+    "date": "2014-09-09"
+  },
+  {
+    "title": "Réseaux de neurones: introduction et applications",
+    "description": "Longtemps relégués au second plan de l'intelligence artificielle, les réseaux de neurones reviennent à la charge depuis quelques années et sont de plus en plus présents dans notre quotidien: reconnaissance de caractères manuscrits, diagnostic médical, détection d'objets, etc.\r\n\r\nNous aborderons ce sujet par le biais d'exemples d'applications et nous tenterons d'approcher l'aspect mathématique de manière simple et visuelle.",
+    "authors": [
+      {
+        "name": "Joseph Ghafari",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=KVNhk6uGmr8",
+    "thumbnail": "./img/thumbnails/4618943e-0b3d-459e-97f9-db9c741164ec_video.jpg",
+    "location": "Urban Linker",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/162792422/",
+    "date": "2014-02-11"
+  },
+  {
+    "title": "S'amuser avec la dette techniques",
+    "description": "La dette technique vous fait pleurer ? Si on décidait d'en rire pour une fois. Voici quelques réactions absurdes / geeky / innovantes (au choix) face à du mauvais code.",
+    "authors": [
+      {
+        "name": "Philippe Bourgau",
+        "twitter": "pbourgau",
+        "picture": "https://pbs.twimg.com/profile_images/588790851708579842/eJcm96b8_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=Ph6NVoRpBgE",
+    "thumbnail": "./img/thumbnails/78cf720d-be3e-4928-ad18-fcb4a86953c9_video.jpg",
+    "location": "Zenika",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
+    "date": "2016-07-12"
+  },
+  {
+    "title": "S.A.R.A.H, un framework de Maison Connectée qui fête ses 4ans",
+    "description": null,
+    "authors": [
+      {
+        "name": "Jean-Philippe Encausse",
+        "twitter": "JpEncausse",
+        "picture": "https://pbs.twimg.com/profile_images/458869214158131202/dU-p9aEm_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Zenika",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
+    "date": "2016-07-12"
+  },
+  {
+    "title": "Scoring d’un moteur de recherche, un coup d’œil sous le capot",
+    "description": "Les moteurs de recherche comme SOLR ou Elasticsearch sont de plus en plus utilisés. Cependant, l'algorithme utilisé pour organiser les résultats n'est pas toujours bien compris et le travail de tuning peut parfois s'avérer délicat. Ce talk propose une brève explication du modèle utilisé pour estimer la pertinence des documents ainsi qu'une présentation des métriques permettant d'évaluer la qualité des résultats du moteur.",
+    "authors": [
+      {
+        "name": "Julien Piquot",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=HfGjEEfxXf0",
+    "thumbnail": "./img/thumbnails/6d1c6d36-9875-43f1-88a4-8d82bbc5ce08_video.jpg",
+    "location": "Zenika",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
+    "date": "2015-01-13"
+  },
+  {
+    "title": "Serious Games",
+    "description": null,
+    "authors": [
+      {
+        "name": "Sébastien Ménétrier",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=q5tbKFJcOnw",
+    "thumbnail": "./img/thumbnails/7787ebf4-a41e-4fb8-8416-18657632a9c6_video.jpg",
+    "location": "Soat",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
+    "date": "2014-06-10"
+  },
+  {
+    "title": "ShadowIT : inévitable ou pas ?",
+    "description": "(re)découvrez ce qu'est le Shadow IT, un mot peu connu pour un phénomène que tous le monde constate : détourner les outils du SI. Avec ses risques et les problèmes qu'il provoque mais aussi les solutions qu'il apporte et surtout quel forme il prendra dans le futur. Enfin, nous verrons également ce que pourrai être le système d'information de demain pour lutter contre le Shadow IT avec le système d'information 3-tiers.",
+    "authors": [
+      {
+        "name": "Lucas Girardin",
+        "twitter": "pykpyky",
+        "picture": "https://pbs.twimg.com/profile_images/490876444138950656/mSla9bpA_400x400.jpeg"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/LucasGirardin/human-talk-shadow-it-invitable-ou-pas-par-lucas-girardin-pykpyky",
+    "video": null,
+    "thumbnail": "./img/thumbnails/159ccc07-ac50-4a31-8ddd-eb445cf0a050_slides.jpg",
+    "location": "Criteo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/228454758/",
+    "date": "2016-02-09"
+  },
+  {
+    "title": "Sociologie appliquée... aux devs",
+    "description": "Un ensemble d'effets bien connus de la sociologie,qui tiennent dans une liste de règles et vérifications à retenir quand vous interagissez avec des développeurs. Pour manager, ou pour expliquer à votre manager.",
+    "authors": [
+      {
+        "name": "Sylvain Abélard",
+        "twitter": "abelar_s",
+        "picture": "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=ZxHgqw8a08c",
+    "thumbnail": "./img/thumbnails/7e0e5b23-5eab-425f-9466-74dc1446db81_video.jpg",
+    "location": "Viadeo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222711539/",
+    "date": "2015-06-09"
+  },
+  {
+    "title": "Sondage sur l'Agilité en France",
+    "description": "Actuellement il existe assez peu d'état des lieux concernant l'Agilité en France. Quelques rapports existent mais soit très anciens soit principalement à l'étranger. \r\nL'idée est de vous présenter la démarche de cette création de sondage ainsi que les thèmes et questions abordés pour recueillir vos avis et vous inviter à y répondre !",
+    "authors": [
+      {
+        "name": "Pascal Poussard",
+        "twitter": "ppastis",
+        "picture": "https://pbs.twimg.com/profile_images/456761557741887488/mwxEpsVd_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=56mqvH6bksE",
+    "thumbnail": "./img/thumbnails/6d162bbe-5f68-4acd-b52b-a0101590eb6c_video.jpg",
+    "location": "Zenika",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
+    "date": "2015-01-13"
+  },
+  {
+    "title": "Spring ROO",
+    "description": "Rejoignez nous sur cette session de live coding de 10 minutes. Je souhaite vous montrer comment vous pouvez gagner en productivité avec Spring Roo. Grâce à cet outil, on va mettre en place une application web MVC en Java en quelques minutes.",
+    "authors": [
+      {
+        "name": "Mehdi Ben Haj Abbes",
+        "twitter": "MehdiAbbes",
+        "picture": "https://pbs.twimg.com/profile_images/756216038497267712/nwP3m3M__400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "50 Partners",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/",
+    "date": "2013-09-10"
+  },
+  {
+    "title": "Startup Validation",
+    "description": "Amit, one of the founders of Talent.io is going to explain us what is startup validation.",
+    "authors": [
+      {
+        "name": "Amit Aharoni",
+        "twitter": "vaharoni",
+        "picture": "https://pbs.twimg.com/profile_images/1611563276/001_400x400.JPG"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=3CldnObRbf0",
+    "thumbnail": "./img/thumbnails/c2507b7f-ab5a-44dd-936c-0285d59256af_video.jpg",
+    "location": "Algolia",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/231710622/",
+    "date": "2016-06-14"
+  },
+  {
+    "title": "Synchronisez vos appareils avec Javascript et PouchDB",
+    "description": "Bientôt, 2 milliards de clouds personnels seront actifs sur le web. Les clouds persos actuels nous proposent de synchroniser nos fichiers avec tous nos appareils. Mais en tant que développeurs nous savons qu'il nous faut bien plus : l'ensemble des données de l'utilisateur. Cela permettrait aux applications natives de ne plus être sensibles aux latences réseau. Même mieux elle continuerait à fonctionner en mode hors ligne. \r\nC'est là qu'interviennent les technos Javascript: PouchDB, Cordova et NodeWebkit. Nous verrons dans ce talk comment développer, sans trop d'efforts, des applications natives qui se synchronisent avec le serveur distant.",
+    "authors": [
+      {
+        "name": "Frank Rousseau",
+        "twitter": "gelnior",
+        "picture": "https://pbs.twimg.com/profile_images/762041842506534912/fKkJeCSV_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=AbMNR2P29p4",
+    "thumbnail": "./img/thumbnails/1f89db06-57d9-48aa-832a-5a1945ef7b49_video.jpg",
+    "location": "Maltem",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/218938429/",
+    "date": "2014-12-09"
+  },
+  {
+    "title": "Table Driven Testing : Ecrire des tests unitaires succincts mais complets",
+    "description": "Au fur et à mesure d'un projet, les fichiers de tests sont de plus en plus imposants et peuvent vite devenir complexes à lire et comprendre. Je vous donnerais quelques astuces pour arriver à des tests plus simples et plus facile à comprendre, mais toujours aussi robustes.",
+    "authors": [
+      {
+        "name": "Nicolas Mérouze",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Mozilla",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/",
+    "date": "2014-09-09"
+  },
+  {
+    "title": "Techniques de mémorisation",
+    "description": "Pourquoi on se souvient de certaines choses et on en oublie d'autres ? Comment faire pour améliorer sa mémoire ? Dans cette session je vous partagerai un retour d'experience sur des méthodes pour se souvenir de n'importe quoi, facilement et ludiquement.",
+    "authors": [
+      {
+        "name": "Tim Carry",
+        "twitter": "pixelastic",
+        "picture": "https://secure.gravatar.com/avatar/a2f9d5672798ac7ef42b871652a58fb0?d=404"
+      }
+    ],
+    "slides": "http://talks.pixelastic.com/slides/memory-humantalks-2015/#/",
+    "video": null,
+    "thumbnail": "./img/thumbnails/c80fdf31-f58c-48a8-a536-6982ec74d14b_slides.png",
+    "location": "Urban Linker",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/",
+    "date": "2015-10-13"
+  },
+  {
+    "title": "Tests sur tout les fronts",
+    "description": "Maîtriser et fiabiliser son code est aujourd’hui incontournable pour tout développeur devant faire face à des architectures web de plus en plus riches et complexes. Trop souvent délaissés, il existe pourtant des outils pour réaliser des tests front-end d’applications Web et répondre aux besoins d’un développement de qualité.",
+    "authors": [
+      {
+        "name": "William Ong",
+        "twitter": "Wyam",
+        "picture": "https://pbs.twimg.com/profile_images/478922840469954560/aZsSkJdA_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Société Générale",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226344243/",
+    "date": "2015-11-10"
+  },
+  {
+    "title": "The Criteo R&D Hero team",
+    "description": "La croissance fulgurante du chiffre d’affaires et du nombre de clients de Criteo sur ces dernières années a entraîné la croissance d’autres éléments: taille de la PROD, taille de la R&D et bien d’autres. Sans surprise, une telle croissance a un impact sur la manière de travailler tant sur l’organisation et les process que sur la gestion de la PROD. C’est là que la HERO team intervient ! Elle est le gardien de la R&D et s’assure du bon fonctionnement de la plate-forme. Chez Criteo, la HERO team veille !",
+    "authors": [
+      {
+        "name": "Michel Nguyen",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Criteo",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/228454758/",
+    "date": "2016-02-09"
+  },
+  {
+    "title": "The reverse side of VCs",
+    "description": "Pauline Roux, Investment Manger au sein du fonds Elaia Partners, présentera l’envers du décor des Vcs. \r\n\r\nComment sélectionnent-ils leurs futurs investissements, quels sont leurs critères, et comment ils fonctionnent.Elle abordera aussi la question de la relation entre le management et le VC au cours de leur vie commune : l’actionnaire comme partenaire.",
+    "authors": [
+      {
+        "name": "Pauline Roux",
+        "twitter": "RouxPau",
+        "picture": "https://pbs.twimg.com/profile_images/535117986303324160/r-VLYodY_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "BeMyApp",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230195850/",
+    "date": "2016-04-12"
+  },
+  {
+    "title": "Tour d’horizon de Windows Azure",
+    "description": "Windows Azure est la plateforme de Cloud Computing de Microsoft elle est disponible en production depuis un peu plus de 4 ans. Venez découvrir ce qu’offre cette plateforme pour les développeurs que ce soit en terme de technologies utilisables ou bien les modules déjà disponible sur celle-ci tel que Media Services ou le Service Bus.",
+    "authors": [
+      {
+        "name": "Wilfried Woivre",
+        "twitter": "wilfriedwoivre",
+        "picture": "https://pbs.twimg.com/profile_images/2751803686/c36d2a261a411585d49df88335af637d_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=mOKlilD4Pco",
+    "thumbnail": "./img/thumbnails/6439686e-a199-4c43-bc2a-f1d65e3bbf46_video.jpg",
+    "location": "Mozilla",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/168226002/",
+    "date": "2014-03-11"
+  },
+  {
+    "title": "Tous freelances ?",
+    "description": "Nous parlerons d'un phénomène de société : le développement du travail en freelance, ses causes, ses avantages, ses inconvénients, et ses impacts sur la société. \r\n\r\nJean-Baptiste nous présentera en particulier son retour d'expérience en tant que d'être développeur freelance depuis quelques années.\r\n\r\nJean-Baptiste Lemée, 30 ans, est développeur java freelance depuis plusieurs années, auteur du blog http://www.java-freelance.fr/ et co-fondateur de Hopwork.com.\r\n\r\nVincent Huguet, 38 ans, a une expérience d'entrepreneur (ooprint.fr, dromadaire.com) et co-fondateur de Hopwork.com.",
+    "authors": [
+      {
+        "name": "Jean-Baptiste Lemée",
+        "twitter": "jblemee",
+        "picture": "https://pbs.twimg.com/profile_images/712730547588571136/NguMd0Fu_400x400.jpg"
+      },
+      {
+        "name": "Vincent Huguet",
+        "twitter": "vhuguet",
+        "picture": "https://pbs.twimg.com/profile_images/517757068153864192/zbFzbWe8_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=QvzCnHUlIgA",
+    "thumbnail": "./img/thumbnails/934740dd-f130-4468-b2d9-2b21032f7fa7_video.jpg",
+    "location": "50 Partners",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/",
+    "date": "2013-09-10"
+  },
+  {
+    "title": "Tout ce que vous pensez savoir sur la couleur est faux",
+    "description": "Où comment j'ai appris beaucoup trop de choses sur la couleur en travaillant sur un appareil photo. La couleur a-t-elle vraiment trois dimensions ? Pourquoi ça n'a pas de sens de faire des calculs en RGB ? C'est quoi la balance des blancs ?",
+    "authors": [
+      {
+        "name": "Maryla",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Google",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
+    "date": "2016-11-08"
+  },
+  {
+    "title": "Transhumanisme, l’avènement de la singularité",
+    "description": "Ce talk a pour but d’expliquer le fondement de ce courant techno-philosophique, qui risque d’arriver bientôt dans notre société. Quelles technologies sont inventés dans les laboratoires pour le monde de demain ? Quelle direction nos vies vont-elles prendre ?",
+    "authors": [
+      {
+        "name": "Pierre Cointe",
+        "twitter": "pierre_cointe",
+        "picture": "https://pbs.twimg.com/profile_images/707335695187185664/-V4GtEiR_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=F5AfJYEtoY8",
+    "thumbnail": "./img/thumbnails/c6f03502-52ba-486f-b4a6-c6905c966879_video.jpg",
+    "location": "LeBonCoin",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226509764/",
+    "date": "2015-12-08"
+  },
+  {
+    "title": "UX / Créa - Les dévs et les créas devraient mieux s'entendre !",
+    "description": "En moins de 10 ans, le métier de web designer a évolué aussi vite que les technologies ce qui implique une remise en question régulière et peut-être même permanente sur cette profession et ses limites d'intervention dans la conception et execution d'un projet. Comme pour les Chasseurs*, il y a le bon designer et le mauvais designer. Cette intervention a pour but de partager mes retours d'expériences via des anecdotes en tant que formatrice en école, webdesigner pour l'annonceur / en agence et aujourd'hui en tant qu'entrepreneuse. \r\n\r\n*Référence aux sketch des Inconnus : http://www.youtube.com/watch?v=QuGcoOJKXT8",
+    "authors": [
+      {
+        "name": "Jacinthe Busson",
+        "twitter": "jacinthe_",
+        "picture": "https://pbs.twimg.com/profile_images/506860208371404800/qYavmqCa_400x400.jpeg"
+      }
+    ],
+    "slides": "http://jacinthebusson.com/humantalks/index.html",
+    "video": "https://www.youtube.com/watch?v=SORZkklLKCk",
+    "thumbnail": "./img/thumbnails/2ce8c493-acd5-48bb-b408-eabdc1e205cd_slides.png",
+    "location": "Zenika",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/148407972/",
+    "date": "2013-11-12"
+  },
+  {
+    "title": "Un jour pour prototyper une application mobile avec Ionic",
+    "description": "De nos jours, tout le monde veut son application mobile. Pour tester une nouvelle idée, pour avoir ses données et communiquer de partout, pour rendre accessible sur mobile ce qui l'est déjà sur l'ordinateur, parce que c'est la mode... Mais malheureusement, pas toujours avec le budget qui va avec. Récemment, le développement hybride a fait un bond en avant et permet maintenant de sortir de bonnes applications en un temps record. Je vous propose donc de découvrir ces (pas si) nouveaux outils pour en tirer le meilleur parti.",
+    "authors": [
+      {
+        "name": "Loïc Knuchel",
+        "twitter": "loicknuchel",
+        "picture": "https://secure.gravatar.com/avatar/f755e6e8914df5cbaa74d30dd7de1ae2?d=404"
+      }
+    ],
+    "slides": "http://www.slideshare.net/loicknuchel/ionic-humantalks-11032015",
+    "video": "https://www.youtube.com/watch?v=EB2CZndGU9A&feature=youtu.be",
+    "thumbnail": "./img/thumbnails/aaed6def-b416-4f96-aedf-d4bb41d627fa_slides.jpg",
+    "location": "Valtech",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220728329/",
+    "date": "2015-03-10"
+  },
+  {
+    "title": "Un serveur de jeu en temps réel avec Comet",
+    "description": "De plus en plus de sites web ont besoin de permettre une interaction en temps réel avec leurs visiteurs, en poussant des information vers les navigateurs clients à l'initiative du serveur. \r\nDans ce talk, je vous expliquerai comment mettre en oeuvre un système de \"push server\" sur un site web, à travers le cas concret du site de jeu en ligne Board Game Arena.",
+    "authors": [
+      {
+        "name": "Gregory Isabelli",
+        "twitter": "boardgamearena",
+        "picture": "https://pbs.twimg.com/profile_images/745914996123643904/UGqutrlf_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=gCotCm5qYmE",
+    "thumbnail": "./img/thumbnails/08a3ca35-7eaf-490e-b2dd-974bf661764c_video.jpg",
+    "location": "Soat",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
+    "date": "2014-06-10"
+  },
+  {
+    "title": "Une stack pour passer de l'idée au produit en quelques heures",
+    "description": "Que ce soit votre client si vous travaillez dans une société de service, ou vous même parce que vous avez un l'esprit entrepreneur, on cherche tous à savoir si notre idée est une bonne idée. Le meilleur moyen de le savoir, c'est d'avoir un produit en ligne.",
+    "authors": [
+      {
+        "name": "Jonathan Beurel",
+        "twitter": "jonathanbeurel",
+        "picture": "https://pbs.twimg.com/profile_images/710159694514556929/VRhRCmg0_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=qvaYpzTHRBc",
+    "thumbnail": "./img/thumbnails/3d4952b9-7000-4063-b53c-d6bfd6f8463a_video.jpg",
+    "location": "OCTO Technology",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/216770782/",
+    "date": "2014-11-18"
+  },
+  {
+    "title": "Vagrant",
+    "description": "Vagrant est un outil vous permettant de créer des gabarits d'environnements de développement préconfigurés et de les déployer & mettre à jour en un instant.",
+    "authors": [
+      {
+        "name": "Julien Dubreuil",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": "http://fr.slideshare.net/Juliendubreuil/vagrant-concept",
+    "video": null,
+    "thumbnail": "./img/thumbnails/aea764c3-53bd-4186-8e4a-d64784ec3b45_slides.jpg",
+    "location": "Le Camping",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
+    "date": "2013-07-09"
+  },
+  {
+    "title": "Vim. Y a vraiment des gens qui codent avec ça ?",
+    "description": "Hey oui, je code sous vim. Et j'aime ça.\r\n\r\nDans ce talk je voudrais démystifier un peu vim. En tant que développeur on passe nos journées devant notre éditeur, autant que celui-ci nous simplifie la vie. J'expliquerai ce que fait vim et ce qu'il ne fait pas .\r\n\r\nJe présenterai pourquoi j'ai switché à vim, ce que j'y ai trouvé, comment ça marche, quelques exemples et des conseils pour se lancer.",
+    "authors": [
+      {
+        "name": "Tim Carry",
+        "twitter": "pixelastic",
+        "picture": "https://secure.gravatar.com/avatar/a2f9d5672798ac7ef42b871652a58fb0?d=404"
+      }
+    ],
+    "slides": "http://talks.pixelastic.com/slides/vim-humantalks/",
+    "video": "https://www.youtube.com/watch?v=3AdNd3XYxEo",
+    "thumbnail": "./img/thumbnails/d0a456ea-0b11-4eff-aa80-421b9639cab1_slides.png",
+    "location": "Meetic",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/221499748/",
+    "date": "2015-04-14"
+  },
+  {
+    "title": "Vorlon.js",
+    "description": "Quand on est sur son PC avec un navigateur : F12 nous rend toujours un très bon service. Cependant comment avoir la même expérience quand veut débugger le site sur un téléphone ? Des solutions existent mais rien de très simple d’utilisation ou qui fonctionne dans tous les cas. Dans ce talk, je vous présenterais Vorlon.js, un nouvel outil que j'ai co-créé et qui permet d’obtenir l’expérience F12, en remote et pour tous les navigateurs. Teaser : on fera un démo collaborative, tout le monde participera !",
+    "authors": [
+      {
+        "name": "Etienne Margraff",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "LaFourchette",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/",
+    "date": "2016-05-10"
+  },
+  {
+    "title": "Webperfs : Concatenate, compress, cache",
+    "description": "Vous avez optimisé les requêtes à votre base de donnée, les accès disques et les routines de votre code back-end. Et vous pensiez que c'était fini ? Mais avez-vous pensé à optimiser la manière dont votre serveur retourne ses assets statiques ?  Nous verrons ensemble rapidement les trois règles fondamentales de webperf coté serveur : Concatenate, Compress, Cache.",
+    "authors": [
+      {
+        "name": "Tim Carry",
+        "twitter": "pixelastic",
+        "picture": "https://secure.gravatar.com/avatar/a2f9d5672798ac7ef42b871652a58fb0?d=404"
+      }
+    ],
+    "slides": "http://talks.pixelastic.com/slides/webperfs-humantalks/",
+    "video": "https://www.youtube.com/watch?v=ecc1zudWmX4",
+    "thumbnail": "./img/thumbnails/63158f20-752a-4172-a222-4eccd44815b6_slides.png",
+    "location": "Mozilla",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/",
+    "date": "2014-09-09"
+  },
+  {
+    "title": "Why do Tech people hate Sales People",
+    "description": "Nous travaillons dans un monde où les employés \"tech\" ont des rapports extrêmement tendus avec les profils \"sales\".\r\n\r\nNous allons donc voir pourquoi, mais également comment améliorer les relations entre deux départements qui ne se comprennent pas.",
+    "authors": [
+      {
+        "name": "Benjamin Digne",
+        "twitter": "Bndigne",
+        "picture": "https://pbs.twimg.com/profile_images/2576924505/lg00ebeuepjbsqjbaucs_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=oObnt3CvDRs",
+    "thumbnail": "./img/thumbnails/7cedcf5f-f63a-41ba-86ba-bb179922ac1a_video.jpg",
+    "location": "Deezer",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/",
+    "date": "2016-01-12"
+  },
+  {
+    "title": "Why do you fix bugs?",
+    "description": "\"Here's the list of bugs I'd like you to fix\" the manager said. \r\n\r\n\"Sure, give me couple hours\" I replied and did my job for the whole afternoon. \r\n\r\nI turned in my work, satisfying the manager but feeling totally exhausted hacking the damn code to get it fixed. \r\n\r\nClassical scenario of majority of bugfix processes everywhere : get instructions, do everything as fast as possible to fix everything and move on. Nothing interesting here....WRONG, WRONG and WRONG. Bugfixes are the most crucial part in learning - it's the little things we overlooked when writing the code. The little things that distinguish junior from a senior. The little things that make the difference between a good programmer and a great one. Let me take you on a discovery tour to show you why bugfixes are good.",
+    "authors": [
+      {
+        "name": "Michal Svacha",
+        "twitter": "miguelitinho",
+        "picture": "https://pbs.twimg.com/profile_images/588375564156796929/CZp_4MW5_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=k2lJiiDzhaE",
+    "thumbnail": "./img/thumbnails/f5ffa716-1f2b-468d-98dd-991d785d4f04_video.jpg",
+    "location": "OCTO Technology",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/224944580/",
+    "date": "2015-09-08"
+  },
+  {
+    "title": "Zero imprévu dans son application avec le Defensive Design",
+    "description": "Manque ou absence de réseau, permissions non données par l'utilisateur (géolocalisation, notifications), données inexistantes... \r\n\r\nLes applications sont plus que jamais confrontées à des situations imprévues et inhabituelles.Plutôt que de laisser l'utilisateur dans le flou, le defensive design vise à prévoir l'imprévu en pensant en amont aux écrans vides, au chargement et aux cas d'erreurs.\r\n\r\nDes conseils et best practices pour ne plus jamais perdre ses utilisateurs lors de ces situations.",
+    "authors": [
+      {
+        "name": "Woody Rousseau",
+        "twitter": "WoodyRousseau",
+        "picture": "https://pbs.twimg.com/profile_images/529182053690916864/JSgvKvRr_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "BeMyApp",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230195850/",
+    "date": "2016-04-12"
+  },
+  {
+    "title": "git-deliver : le déploiement pro pour tous",
+    "description": "On est souvent réduit à écrire des scripts bancals pour gérer le déploiement de fichiers de configuration, de scripts, ou de code en langages dynamiques (PHP, Ruby, Nodejs, Perl...)Vous avez été impressionnés par la simplicité du déploiement Ruby on Rails de Heroku par un simple \"git push\" ? Savez-vous que vous pouvez faire la même chose sur vos propres serveurs avec git deliver ? Déployez de manière simple, traçable et atomique grâce à la puissance de Git et de SSH.",
+    "authors": [
+      {
+        "name": "Arnaud Bétrémieux",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=8ISf4n4VXpk",
+    "thumbnail": "./img/thumbnails/deca9bf2-30a1-4e83-b8f0-4d5d44de0261_video.jpg",
+    "location": "Adobe",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/181483902/",
+    "date": "2014-05-13"
+  },
+  {
+    "title": "www : The Web Will Win",
+    "description": "La plupart de nous écrivons tous les jours sur un clavier. Cependant nous nous demandons pas souvent pourquoi les touches sont organisées comme cela. Nous connaissons au moins l'existence du QWERTY et de l'AZERTY mais il existe bien plus de layouts. Il y a un an (et demi) j'ai commencé à apprendre le dvorak. Un mois plus tard j'ai commencé à l'utiliser dans la vie de tous les jours. Trois mois après cela j'ai doublé ma vitesse de frappe. Aujourd'hui je l'utilise toujours. Je vais donc vous parler de pourquoi j'ai décidé de changer de layout de clavier, comment je m'y suis pris, quels sont les résultats et comment vous pouvez faire, vous, pour changer de layout de clavier. J'aborderais des sujets tels que la santé des mains, les types de clavier, la vitesse de frappe et le touch typing.",
+    "authors": [
+      {
+        "name": "Olivier Leplus",
+        "twitter": "olivierleplus",
+        "picture": "https://pbs.twimg.com/profile_images/459265225221353473/xilGJIvG_400x400.jpeg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Google",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
+    "date": "2016-11-08"
+  },
+  {
+    "title": "Écrire sur Internet, c'est plus facile avec Markdown !",
+    "description": "\"Écrire un article par semaine dans mon blog\" fait partie de tes bonnes résolutions de l'année (chaque année) ? \r\n\r\nPermets-moi de te parler d'un langage taillé pour un usage bien particulier : écrire sur Internet. Markdown te permet de te concentrer sur ton contenu sans te prendre la tête avec les balises HTML, et ça s'apprend en quelques minutes. Peut-être même que tu connais déjà sans le savoir.",
+    "authors": [
+      {
+        "name": "Pascal Batty",
+        "twitter": "scalbatty",
+        "picture": "https://pbs.twimg.com/profile_images/687025215298256896/YqxkaaUw_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=hdM1wltUTyQ",
+    "thumbnail": "./img/thumbnails/3818ddb4-16dc-412b-9eef-596e2a995dbb_video.jpg",
+    "location": "La cordée",
+    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/156823782/",
+    "date": "2014-01-14"
+  }
+]
