@@ -34,7 +34,8 @@ class Extract
         thumbnail: thumbnail(talk),
         location: talk['meetup']['venue']['name'],
         meetup: talk['meetup']['meetupUrl'],
-        date: date
+        date: date,
+        timestamp: timestamp
       }
 
       records << record

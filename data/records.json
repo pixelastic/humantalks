@@ -14,7 +14,8 @@
     "thumbnail": "./img/thumbnails/a2802e32-5c87-4cf4-8f4d-cc38d0fd9ea9_video.jpg",
     "location": "ECE",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/",
-    "date": "2014-07-08"
+    "date": "2014-07-08",
+    "timestamp": 1404846000
   },
   {
     "title": "1+1 > 2 - l'équation magique qui défie les lois de l'Algèbre",
@@ -31,7 +32,8 @@
     "thumbnail": null,
     "location": "LaFourchette",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/",
-    "date": "2016-05-10"
+    "date": "2016-05-10",
+    "timestamp": 1462906800
   },
   {
     "title": "3 méthodes pour être plus productif",
@@ -48,7 +50,8 @@
     "thumbnail": "./img/thumbnails/efe390c9-05b0-4f4e-973b-889612c20691_video.jpg",
     "location": "LeBonCoin",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226509764/",
-    "date": "2015-12-08"
+    "date": "2015-12-08",
+    "timestamp": 1449601200
   },
   {
     "title": "6 STEPS to improve your business performance with LEAN UX",
@@ -65,7 +68,8 @@
     "thumbnail": "./img/thumbnails/8a15e4b0-3b86-4837-ace9-c73e6a2ed325_video.jpg",
     "location": "Algolia",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/231710622/",
-    "date": "2016-06-14"
+    "date": "2016-06-14",
+    "timestamp": 1465930800
   },
   {
     "title": "AAAR! Adoption Agency for Abandoned Repos",
@@ -82,7 +86,8 @@
     "thumbnail": "./img/thumbnails/ed5aceca-337b-4adf-8115-355eeccf5724_video.jpg",
     "location": "Zenika",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/148407972/",
-    "date": "2013-11-12"
+    "date": "2013-11-12",
+    "timestamp": 1384282800
   },
   {
     "title": "Ameliorer l'accueil de vos contributeurs avec Docker",
@@ -99,7 +104,8 @@
     "thumbnail": "./img/thumbnails/c6b792ac-128e-4e6b-b361-04a12df05558_video.jpg",
     "location": "Algolia",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/231710622/",
-    "date": "2016-06-14"
+    "date": "2016-06-14",
+    "timestamp": 1465930800
   },
   {
     "title": "Améliorons nos applications... aux toilettes",
@@ -116,7 +122,8 @@
     "thumbnail": "./img/thumbnails/d3b07ac7-a836-4cee-96ba-05498fbab0d8_video.jpg",
     "location": "Meetic",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/221499748/",
-    "date": "2015-04-14"
+    "date": "2015-04-14",
+    "timestamp": 1429038000
   },
   {
     "title": "Application cache, contrôlez finement votre cache applicatif",
@@ -133,7 +140,8 @@
     "thumbnail": "./img/thumbnails/ec4a090a-b050-4d39-adb5-f4b4e3b07c87_video.jpg",
     "location": "Adobe",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/181483902/",
-    "date": "2014-05-13"
+    "date": "2014-05-13",
+    "timestamp": 1400007600
   },
   {
     "title": "Apprendre en s’amusant avec son compteur électrique",
@@ -150,7 +158,8 @@
     "thumbnail": null,
     "location": "Urban Linker",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/",
-    "date": "2015-10-13"
+    "date": "2015-10-13",
+    "timestamp": 1444762800
   },
   {
     "title": "Attitude et éthique du développeur",
@@ -167,7 +176,8 @@
     "thumbnail": "./img/thumbnails/e606076d-7653-49d7-b109-24b4aca0c16f_video.jpg",
     "location": "Zenika",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
-    "date": "2015-01-13"
+    "date": "2015-01-13",
+    "timestamp": 1421175600
   },
   {
     "title": "Au fait, c’est quoi un daily ?",
@@ -184,7 +194,8 @@
     "thumbnail": "./img/thumbnails/4d280951-aba1-4922-9e1c-815467b9c5fc_video.jpg",
     "location": "SFEIR",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/",
-    "date": "2016-09-13"
+    "date": "2016-09-13",
+    "timestamp": 1473793200
   },
   {
     "title": "Better tests with mocking and stubbing",
@@ -201,7 +212,8 @@
     "thumbnail": "./img/thumbnails/32fb9f29-91cd-408c-b4f1-5747325b78d9_video.jpg",
     "location": "Zenika",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
-    "date": "2015-01-13"
+    "date": "2015-01-13",
+    "timestamp": 1421175600
   },
   {
     "title": "Bosser en mode commando avec des passionnés dans des endroits de rêves",
@@ -218,7 +230,8 @@
     "thumbnail": null,
     "location": "Mozilla",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/",
-    "date": "2014-09-09"
+    "date": "2014-09-09",
+    "timestamp": 1410289200
   },
   {
     "title": "Checkpoint : sécurité des frameworks web",
@@ -235,7 +248,8 @@
     "thumbnail": "./img/thumbnails/be06eb0c-3881-46a8-9579-20a8ac34b791_video.jpg",
     "location": "Start-Way",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/142883912/",
-    "date": "2013-10-08"
+    "date": "2013-10-08",
+    "timestamp": 1381258800
   },
   {
     "title": "Cloud + API + Marketplace + Hub = Mashape !",
@@ -252,7 +266,8 @@
     "thumbnail": "./img/thumbnails/6322b941-405b-455f-b26b-efe61e8655bc_video.jpg",
     "location": "50 Partners",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/",
-    "date": "2013-09-10"
+    "date": "2013-09-10",
+    "timestamp": 1378839600
   },
   {
     "title": "Comment trouver des clients en tant que Freelance ?",
@@ -269,7 +284,8 @@
     "thumbnail": "./img/thumbnails/a246899b-3e6c-4018-b87e-b54ad8bc1d09_video.jpg",
     "location": "Maltem",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/218938429/",
-    "date": "2014-12-09"
+    "date": "2014-12-09",
+    "timestamp": 1418151600
   },
   {
     "title": "Common myths about payments APIs",
@@ -286,7 +302,8 @@
     "thumbnail": "./img/thumbnails/2359c916-5226-4108-b6db-8f3648864cc1_video.jpg",
     "location": "Ecole 42",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
-    "date": "2015-02-10"
+    "date": "2015-02-10",
+    "timestamp": 1423594800
   },
   {
     "title": "Construction d’une \"Raspberry pi home alarm\" en moins de 3h",
@@ -303,7 +320,8 @@
     "thumbnail": null,
     "location": "Viadeo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/229152027/",
-    "date": "2016-03-08"
+    "date": "2016-03-08",
+    "timestamp": 1457463600
   },
   {
     "title": "Contexte devops et bluemix",
@@ -320,7 +338,8 @@
     "thumbnail": null,
     "location": "Urban Linker",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/",
-    "date": "2015-10-13"
+    "date": "2015-10-13",
+    "timestamp": 1444762800
   },
   {
     "title": "Convaincre en quelques minutes ?",
@@ -337,7 +356,8 @@
     "thumbnail": null,
     "location": "Criteo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/",
-    "date": "2014-10-14"
+    "date": "2014-10-14",
+    "timestamp": 1413313200
   },
   {
     "title": "Culture Craft",
@@ -354,7 +374,8 @@
     "thumbnail": "./img/thumbnails/5ea2ac1f-5970-4a80-a30f-dfc27040b330_slides.jpg",
     "location": "Société Générale",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226344243/",
-    "date": "2015-11-10"
+    "date": "2015-11-10",
+    "timestamp": 1447182000
   },
   {
     "title": "Customer Solutions Engineer",
@@ -371,7 +392,8 @@
     "thumbnail": null,
     "location": "Criteo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/228454758/",
-    "date": "2016-02-09"
+    "date": "2016-02-09",
+    "timestamp": 1455044400
   },
   {
     "title": "De l'UX dans mon équipe Agile !",
@@ -388,7 +410,8 @@
     "thumbnail": "./img/thumbnails/62b1bdda-7d16-4a6a-95da-04d9b00b295c_video.jpg",
     "location": "Viadeo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222711539/",
-    "date": "2015-06-09"
+    "date": "2015-06-09",
+    "timestamp": 1433876400
   },
   {
     "title": "Developers in tech: inventory",
@@ -405,7 +428,8 @@
     "thumbnail": "./img/thumbnails/3195788e-9d48-4a0c-815b-06173126491c_video.jpg",
     "location": "Criteo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/",
-    "date": "2014-10-14"
+    "date": "2014-10-14",
+    "timestamp": 1413313200
   },
   {
     "title": "Du 100% pur guice !",
@@ -422,7 +446,8 @@
     "thumbnail": "./img/thumbnails/dec6b06b-ba51-47c1-a063-b463e0019ba2_video.jpg",
     "location": "Meetic",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/221499748/",
-    "date": "2015-04-14"
+    "date": "2015-04-14",
+    "timestamp": 1429038000
   },
   {
     "title": "Découvrez Linux Tails: restez anonyme sur le net",
@@ -439,7 +464,8 @@
     "thumbnail": "./img/thumbnails/bb3f76f5-8943-4574-8153-666e8619b4d2_video.jpg",
     "location": "PrestaShop",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/223305711/",
-    "date": "2015-07-07"
+    "date": "2015-07-07",
+    "timestamp": 1436295600
   },
   {
     "title": "Découvrez la programmation par contrat",
@@ -456,7 +482,8 @@
     "thumbnail": "./img/thumbnails/b82d4f7a-fa21-4f83-a19e-c81b23ab6d61_video.jpg",
     "location": "Mobiskill",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/172589822/",
-    "date": "2014-04-08"
+    "date": "2014-04-08",
+    "timestamp": 1396983600
   },
   {
     "title": "Découvrez les Brown Bag Lunch",
@@ -473,7 +500,8 @@
     "thumbnail": "./img/thumbnails/25c13483-83ff-4999-9954-d4ec7daf750a_video.jpg",
     "location": "Urban Linker",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/162792422/",
-    "date": "2014-02-11"
+    "date": "2014-02-11",
+    "timestamp": 1392145200
   },
   {
     "title": "Découvrons Neo4J",
@@ -490,7 +518,8 @@
     "thumbnail": null,
     "location": "Le Camping",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
-    "date": "2013-07-09"
+    "date": "2013-07-09",
+    "timestamp": 1373396400
   },
   {
     "title": "Développer des applications mobiles avec JavaScript",
@@ -507,7 +536,8 @@
     "thumbnail": "./img/thumbnails/f3191cb8-a7fa-4472-a90f-91fef896df95_video.jpg",
     "location": "SFEIR",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/154147792/",
-    "date": "2013-12-10"
+    "date": "2013-12-10",
+    "timestamp": 1386702000
   },
   {
     "title": "Développer des applications pour la TV",
@@ -524,7 +554,8 @@
     "thumbnail": "./img/thumbnails/c2fb8478-45c5-4544-aad2-1c73fc9966de_slides.jpg",
     "location": "LeBonCoin",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226509764/",
-    "date": "2015-12-08"
+    "date": "2015-12-08",
+    "timestamp": 1449601200
   },
   {
     "title": "Développez rapidement vos propres jeux en Ruby",
@@ -541,7 +572,8 @@
     "thumbnail": "./img/thumbnails/d778d38b-f10b-40a8-9016-6a043c12e16e_video.jpg",
     "location": "Soat",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
-    "date": "2014-06-10"
+    "date": "2014-06-10",
+    "timestamp": 1402426800
   },
   {
     "title": "Family.scss, comment créer un projet open source cool",
@@ -558,7 +590,8 @@
     "thumbnail": "./img/thumbnails/87829923-84a8-4c6e-ae81-98c4a2aace83_video.jpg",
     "location": "Zenika",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
-    "date": "2016-07-12"
+    "date": "2016-07-12",
+    "timestamp": 1468350000
   },
   {
     "title": "Focus sur les filtres AngularJS",
@@ -575,7 +608,8 @@
     "thumbnail": "./img/thumbnails/802aab56-3b08-4733-800a-e6a5ab604afc_slides.png",
     "location": "Le Camping",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
-    "date": "2013-07-09"
+    "date": "2013-07-09",
+    "timestamp": 1373396400
   },
   {
     "title": "Fonctionnement d’une société open source",
@@ -592,7 +626,8 @@
     "thumbnail": "./img/thumbnails/873fef1b-e3d1-4f55-bad8-c1dea1619168_video.jpg",
     "location": "Mozilla",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/168226002/",
-    "date": "2014-03-11"
+    "date": "2014-03-11",
+    "timestamp": 1394564400
   },
   {
     "title": "Formateur indépendant, mais où est Charlie?!",
@@ -609,7 +644,8 @@
     "thumbnail": "./img/thumbnails/3b82e721-0ff6-4ee9-872f-53c0683b15de_video.jpg",
     "location": "OCTO Technology",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/216770782/",
-    "date": "2014-11-18"
+    "date": "2014-11-18",
+    "timestamp": 1416337200
   },
   {
     "title": "Framework mongo aggregate",
@@ -626,7 +662,8 @@
     "thumbnail": "./img/thumbnails/ec4a2955-dd70-4926-9bbd-97103860f1d9_video.jpg",
     "location": "Mobiskill",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/172589822/",
-    "date": "2014-04-08"
+    "date": "2014-04-08",
+    "timestamp": 1396983600
   },
   {
     "title": "Gagner à Hearthstone ou Magic grâce à quelques lignes de code",
@@ -643,7 +680,8 @@
     "thumbnail": "./img/thumbnails/a6de072f-5ed7-4390-a6f7-25ee840d4dd0_slides.jpg",
     "location": "Société Générale",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226344243/",
-    "date": "2015-11-10"
+    "date": "2015-11-10",
+    "timestamp": 1447182000
   },
   {
     "title": "Girlz in Web, RailsGirls et Duchess France : des femmes dans l'IT",
@@ -656,7 +694,8 @@
     "thumbnail": "./img/thumbnails/2912d1d1-0d3e-480d-8446-287c024e4479_video.jpg",
     "location": "Start-Way",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/142883912/",
-    "date": "2013-10-08"
+    "date": "2013-10-08",
+    "timestamp": 1381258800
   },
   {
     "title": "Github Awards, découvrez votre ranking sur Github",
@@ -673,7 +712,8 @@
     "thumbnail": "./img/thumbnails/eabbc73a-a259-42b8-a775-2f19693a5ed7_video.jpg",
     "location": "Deezer",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/",
-    "date": "2015-05-12"
+    "date": "2015-05-12",
+    "timestamp": 1431457200
   },
   {
     "title": "Google prediction API",
@@ -690,7 +730,8 @@
     "thumbnail": "./img/thumbnails/ec62c832-ac97-41b6-9921-20c84403de6b_video.jpg",
     "location": "Mozilla",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/168226002/",
-    "date": "2014-03-11"
+    "date": "2014-03-11",
+    "timestamp": 1394564400
   },
   {
     "title": "GraphQL",
@@ -707,7 +748,8 @@
     "thumbnail": null,
     "location": "Google",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
-    "date": "2016-11-08"
+    "date": "2016-11-08",
+    "timestamp": 1478631600
   },
   {
     "title": "Génération d'éléments graphiques pour les développeurs web",
@@ -724,7 +766,8 @@
     "thumbnail": "./img/thumbnails/a7dfd52d-73d2-4e24-b870-c652fd9c8e39_video.jpg",
     "location": "Adobe",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/181483902/",
-    "date": "2014-05-13"
+    "date": "2014-05-13",
+    "timestamp": 1400007600
   },
   {
     "title": "Gérer les performances applicatives en mode Agile",
@@ -741,7 +784,8 @@
     "thumbnail": "./img/thumbnails/fbb7afc9-367e-400d-90d7-eb1f1da418c6_video.jpg",
     "location": "Valtech",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220728329/",
-    "date": "2015-03-10"
+    "date": "2015-03-10",
+    "timestamp": 1426014000
   },
   {
     "title": "Gérer son budget en 10 minutes? Facile!",
@@ -758,7 +802,8 @@
     "thumbnail": null,
     "location": "Viadeo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/229152027/",
-    "date": "2016-03-08"
+    "date": "2016-03-08",
+    "timestamp": 1457463600
   },
   {
     "title": "Gérez votre processus de développement avec Kanban",
@@ -775,7 +820,8 @@
     "thumbnail": "./img/thumbnails/eb91aade-46c6-4cbe-806c-17ba550531d8_slides.jpg",
     "location": "Criteo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/",
-    "date": "2014-10-14"
+    "date": "2014-10-14",
+    "timestamp": 1413313200
   },
   {
     "title": "Hackathon ? Ou comment hacker sa culture d’entreprise",
@@ -797,7 +843,8 @@
     "thumbnail": null,
     "location": "LaFourchette",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/",
-    "date": "2016-05-10"
+    "date": "2016-05-10",
+    "timestamp": 1462906800
   },
   {
     "title": "Hacker-Dev API on the Way",
@@ -814,7 +861,8 @@
     "thumbnail": null,
     "location": "Google",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
-    "date": "2016-11-08"
+    "date": "2016-11-08",
+    "timestamp": 1478631600
   },
   {
     "title": "Hardware Design: The Programmer's Paradox",
@@ -831,7 +879,8 @@
     "thumbnail": "./img/thumbnails/94471337-a4f7-47a2-86cb-3ababbb279ef_video.jpg",
     "location": "SFEIR",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/",
-    "date": "2016-09-13"
+    "date": "2016-09-13",
+    "timestamp": 1473793200
   },
   {
     "title": "Haskell : Pure Functional Programming and it's Benefits",
@@ -848,7 +897,8 @@
     "thumbnail": "./img/thumbnails/7a0ea78a-6c60-408a-82e5-da37379ba626_slides.png",
     "location": "Zenika",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/148407972/",
-    "date": "2013-11-12"
+    "date": "2013-11-12",
+    "timestamp": 1384282800
   },
   {
     "title": "Hier, j'ai fait un cauchemar",
@@ -865,7 +915,8 @@
     "thumbnail": "./img/thumbnails/6b47bf57-3fab-46b0-8a70-cb4d2abd3df0_slides.jpg",
     "location": "Maltem",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/218938429/",
-    "date": "2014-12-09"
+    "date": "2014-12-09",
+    "timestamp": 1418151600
   },
   {
     "title": "Il me faut juste...",
@@ -882,7 +933,8 @@
     "thumbnail": "./img/thumbnails/f7b8afec-056f-47be-b0b8-68199fd86827_slides.jpg",
     "location": "Zenika",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/148407972/",
-    "date": "2013-11-12"
+    "date": "2013-11-12",
+    "timestamp": 1384282800
   },
   {
     "title": "Informatique en milieu hospitalier. Bienvenue homme de cro-magnon",
@@ -899,7 +951,8 @@
     "thumbnail": null,
     "location": "Deezer",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/",
-    "date": "2015-05-12"
+    "date": "2015-05-12",
+    "timestamp": 1431457200
   },
   {
     "title": "Instant Search - A la recherche du prochain paradigme de l'UX",
@@ -916,7 +969,8 @@
     "thumbnail": null,
     "location": "Société Générale",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226344243/",
-    "date": "2015-11-10"
+    "date": "2015-11-10",
+    "timestamp": 1447182000
   },
   {
     "title": "Introduction au robot Nao",
@@ -933,7 +987,8 @@
     "thumbnail": "./img/thumbnails/5fbd831f-d6ef-4103-aba5-19c17d768b2a_video.jpg",
     "location": "Start-Way",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/142883912/",
-    "date": "2013-10-08"
+    "date": "2013-10-08",
+    "timestamp": 1381258800
   },
   {
     "title": "Introduction à Apache Flink",
@@ -950,7 +1005,8 @@
     "thumbnail": null,
     "location": "BeMyApp",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230195850/",
-    "date": "2016-04-12"
+    "date": "2016-04-12",
+    "timestamp": 1460487600
   },
   {
     "title": "Introduction à Apache Zeppelin",
@@ -967,7 +1023,8 @@
     "thumbnail": "./img/thumbnails/9a6b7baf-774d-4c7f-909d-0f23bba78120_video.jpg",
     "location": "Deezer",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/",
-    "date": "2016-01-12"
+    "date": "2016-01-12",
+    "timestamp": 1452625200
   },
   {
     "title": "Introduction à Protocol Buffers",
@@ -984,7 +1041,8 @@
     "thumbnail": "./img/thumbnails/2153037a-5bf3-4ebc-a76c-84efa61a84ff_video.jpg",
     "location": "OCTO Technology",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/216770782/",
-    "date": "2014-11-18"
+    "date": "2014-11-18",
+    "timestamp": 1416337200
   },
   {
     "title": "Introduction à Scala",
@@ -1001,7 +1059,8 @@
     "thumbnail": "./img/thumbnails/99dabce0-3a88-4c43-9f48-d38998e96a32_video.jpg",
     "location": "SFEIR",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/154147792/",
-    "date": "2013-12-10"
+    "date": "2013-12-10",
+    "timestamp": 1386702000
   },
   {
     "title": "JHipster, un générateur Yeoman pour AngularJS et Spring Boot",
@@ -1018,7 +1077,8 @@
     "thumbnail": "./img/thumbnails/63e1aa66-12a4-48eb-bdc2-f22548019ca6_video.jpg",
     "location": "Criteo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/",
-    "date": "2014-10-14"
+    "date": "2014-10-14",
+    "timestamp": 1413313200
   },
   {
     "title": "JSweet: un nouveau transpileur pour développer des applications JavaScript... en Java",
@@ -1035,7 +1095,8 @@
     "thumbnail": null,
     "location": "Criteo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/228454758/",
-    "date": "2016-02-09"
+    "date": "2016-02-09",
+    "timestamp": 1455044400
   },
   {
     "title": "L'Agile expliqué en 10 minutes",
@@ -1052,7 +1113,8 @@
     "thumbnail": null,
     "location": "Ecole 42",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
-    "date": "2015-02-10"
+    "date": "2015-02-10",
+    "timestamp": 1423594800
   },
   {
     "title": "L'Holacratie, un moyen de travailler sans managers ?",
@@ -1069,7 +1131,8 @@
     "thumbnail": "./img/thumbnails/88e9731b-1842-4863-a849-3f1e97078c06_video.jpg",
     "location": "Valtech",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220728329/",
-    "date": "2015-03-10"
+    "date": "2015-03-10",
+    "timestamp": 1426014000
   },
   {
     "title": "L'aventure Famous/Angular",
@@ -1086,7 +1149,8 @@
     "thumbnail": "./img/thumbnails/29cd1850-5ca7-4e71-9578-f1ce878fd3ef_video.jpg",
     "location": "Meetic",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/221499748/",
-    "date": "2015-04-14"
+    "date": "2015-04-14",
+    "timestamp": 1429038000
   },
   {
     "title": "L'entreprise comme malade mental",
@@ -1103,7 +1167,8 @@
     "thumbnail": "./img/thumbnails/0081c2b0-db66-4fc0-8b7e-cc7bee48d783_video.jpg",
     "location": "La cordée",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/156823782/",
-    "date": "2014-01-14"
+    "date": "2014-01-14",
+    "timestamp": 1389726000
   },
   {
     "title": "L'infini ou pourquoi il pourrait être plus petit que vous le pensez",
@@ -1120,7 +1185,8 @@
     "thumbnail": "./img/thumbnails/f7761d7b-4cd4-4133-9494-8877b2ff7ed3_slides.jpg",
     "location": "Deezer",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/",
-    "date": "2016-01-12"
+    "date": "2016-01-12",
+    "timestamp": 1452625200
   },
   {
     "title": "L'intrapreneuriat, qu'est-ce que c'est ?",
@@ -1137,7 +1203,8 @@
     "thumbnail": "./img/thumbnails/9fa52ce8-43e8-4e8f-b29d-d1ddac4f8142_slides.jpg",
     "location": "Valtech",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220728329/",
-    "date": "2015-03-10"
+    "date": "2015-03-10",
+    "timestamp": 1426014000
   },
   {
     "title": "L'ordre sans le pouvoir",
@@ -1154,7 +1221,8 @@
     "thumbnail": "./img/thumbnails/46b73dd1-41c8-4006-8b31-706b1c946a56_video.jpg",
     "location": "SFEIR",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/154147792/",
-    "date": "2013-12-10"
+    "date": "2013-12-10",
+    "timestamp": 1386702000
   },
   {
     "title": "La 3D temps-réel pour tous avec Babylon.js",
@@ -1171,7 +1239,8 @@
     "thumbnail": null,
     "location": "Zenika",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
-    "date": "2016-07-12"
+    "date": "2016-07-12",
+    "timestamp": 1468350000
   },
   {
     "title": "La Gamification",
@@ -1188,7 +1257,8 @@
     "thumbnail": "./img/thumbnails/a13e5a48-3dbe-43a1-a120-17a76a1096de_video.jpg",
     "location": "Soat",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
-    "date": "2014-06-10"
+    "date": "2014-06-10",
+    "timestamp": 1402426800
   },
   {
     "title": "La production d'un jeu \"triple A\" à Quantic Dream",
@@ -1205,7 +1275,8 @@
     "thumbnail": "./img/thumbnails/4d1e36ea-f0e7-43db-ba1d-1b2652387342_video.jpg",
     "location": "Soat",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
-    "date": "2014-06-10"
+    "date": "2014-06-10",
+    "timestamp": 1402426800
   },
   {
     "title": "La révolution des MOOCs",
@@ -1222,7 +1293,8 @@
     "thumbnail": "./img/thumbnails/7c608a50-dbde-4ce4-9732-fdf3af02a8fb_video.jpg",
     "location": "La cordée",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/156823782/",
-    "date": "2014-01-14"
+    "date": "2014-01-14",
+    "timestamp": 1389726000
   },
   {
     "title": "Lancement d'API.gouv.fr",
@@ -1239,7 +1311,8 @@
     "thumbnail": "./img/thumbnails/9f19d8ff-1749-4d64-8b1f-7aa0dae8fdf0_video.jpg",
     "location": "Zenika",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
-    "date": "2016-07-12"
+    "date": "2016-07-12",
+    "timestamp": 1468350000
   },
   {
     "title": "Le développement email désormais accessible à tous avec MJML",
@@ -1256,7 +1329,8 @@
     "thumbnail": "./img/thumbnails/1d1206ac-9fb8-4368-aa06-3d22d9efdb75_slides.png",
     "location": "Algolia",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/231710622/",
-    "date": "2016-06-14"
+    "date": "2016-06-14",
+    "timestamp": 1465930800
   },
   {
     "title": "Le futur des CSS pour le web design",
@@ -1273,7 +1347,8 @@
     "thumbnail": "./img/thumbnails/a4794fda-04ab-4b49-8558-6a00b84ffda9_video.jpg",
     "location": "Urban Linker",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/162792422/",
-    "date": "2014-02-11"
+    "date": "2014-02-11",
+    "timestamp": 1392145200
   },
   {
     "title": "Le retour de la fonction",
@@ -1290,7 +1365,8 @@
     "thumbnail": "./img/thumbnails/ac0cd318-67e7-43cd-88c5-0ea98fbdb90e_slides.jpg",
     "location": "PrestaShop",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463072/",
-    "date": "2016-10-11"
+    "date": "2016-10-11",
+    "timestamp": 1476212400
   },
   {
     "title": "Le réseau mobile, cette plaie",
@@ -1307,7 +1383,8 @@
     "thumbnail": null,
     "location": "Le Camping",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
-    "date": "2013-07-09"
+    "date": "2013-07-09",
+    "timestamp": 1373396400
   },
   {
     "title": "Le web scraping",
@@ -1324,7 +1401,8 @@
     "thumbnail": "./img/thumbnails/28ced70f-f6c1-4d23-9df0-c03766f47728_video.jpg",
     "location": "Deezer",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/",
-    "date": "2015-05-12"
+    "date": "2015-05-12",
+    "timestamp": 1431457200
   },
   {
     "title": "Learn You a Brainfuck for Great Good !",
@@ -1341,7 +1419,8 @@
     "thumbnail": "./img/thumbnails/3b87acd3-5260-4c8c-98bd-75f84a3a5d29_video.jpg",
     "location": "La cordée",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/156823782/",
-    "date": "2014-01-14"
+    "date": "2014-01-14",
+    "timestamp": 1389726000
   },
   {
     "title": "Les 7 pièges à éviter en lean & agile UX",
@@ -1358,7 +1437,8 @@
     "thumbnail": null,
     "location": "PrestaShop",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463072/",
-    "date": "2016-10-11"
+    "date": "2016-10-11",
+    "timestamp": 1476212400
   },
   {
     "title": "Les algorithmes génétiques dans tous leurs états",
@@ -1375,7 +1455,8 @@
     "thumbnail": null,
     "location": "PrestaShop",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463072/",
-    "date": "2016-10-11"
+    "date": "2016-10-11",
+    "timestamp": 1476212400
   },
   {
     "title": "Les bronzés font du dev",
@@ -1392,7 +1473,8 @@
     "thumbnail": "./img/thumbnails/24b24650-9a66-4fd0-938d-98c79dbb4580_video.jpg",
     "location": "50 Partners",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/",
-    "date": "2013-09-10"
+    "date": "2013-09-10",
+    "timestamp": 1378839600
   },
   {
     "title": "Les enjeux de la latence applicative",
@@ -1409,7 +1491,8 @@
     "thumbnail": "./img/thumbnails/87aa4e4b-4a25-4663-920d-bcd9dd9cb059_slides.jpg",
     "location": "Ecole 42",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
-    "date": "2015-02-10"
+    "date": "2015-02-10",
+    "timestamp": 1423594800
   },
   {
     "title": "Les générateurs de code, pour se simplifier la vie au quotidien",
@@ -1426,7 +1509,8 @@
     "thumbnail": null,
     "location": "Viadeo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/229152027/",
-    "date": "2016-03-08"
+    "date": "2016-03-08",
+    "timestamp": 1457463600
   },
   {
     "title": "Les outils et les procédés utilisés dans la production d'un jeu AAA",
@@ -1443,7 +1527,8 @@
     "thumbnail": "./img/thumbnails/b2ec91f0-f448-4fa8-8ef0-2383674e7d72_video.jpg",
     "location": "ECE",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/",
-    "date": "2014-07-08"
+    "date": "2014-07-08",
+    "timestamp": 1404846000
   },
   {
     "title": "Lithium: Comment isoler la sources des erreurs",
@@ -1460,7 +1545,8 @@
     "thumbnail": "./img/thumbnails/f3484200-a84a-411d-8bc3-5304c1b36d98_video.jpg",
     "location": "Mozilla",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/168226002/",
-    "date": "2014-03-11"
+    "date": "2014-03-11",
+    "timestamp": 1394564400
   },
   {
     "title": "Live Coding Meteor",
@@ -1477,7 +1563,8 @@
     "thumbnail": "./img/thumbnails/e0645084-98a9-4fd2-b8d4-0228e0356134_video.jpg",
     "location": "OCTO Technology",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/216770782/",
-    "date": "2014-11-18"
+    "date": "2014-11-18",
+    "timestamp": 1416337200
   },
   {
     "title": "Logiciel libre ou open source ? Faisons le point !",
@@ -1494,7 +1581,8 @@
     "thumbnail": "./img/thumbnails/6a793d64-bf1c-41a9-bcdd-9dab63008b3f_slides.jpg",
     "location": "Deezer",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/",
-    "date": "2015-05-12"
+    "date": "2015-05-12",
+    "timestamp": 1431457200
   },
   {
     "title": "Make your business SPOF-Less",
@@ -1511,7 +1599,8 @@
     "thumbnail": "./img/thumbnails/1edcce4f-8b09-4897-b9c9-ab3d6f58eb36_video.jpg",
     "location": "PrestaShop",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/223305711/",
-    "date": "2015-07-07"
+    "date": "2015-07-07",
+    "timestamp": 1436295600
   },
   {
     "title": "Mettez de l'émotion dans vos interfaces",
@@ -1528,7 +1617,8 @@
     "thumbnail": "./img/thumbnails/499b5a7a-7a02-4e46-a402-5e68ada1ba01_slides.jpg",
     "location": "Ecole 42",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
-    "date": "2015-02-10"
+    "date": "2015-02-10",
+    "timestamp": 1423594800
   },
   {
     "title": "Modular coverage tools for the modern web",
@@ -1545,7 +1635,8 @@
     "thumbnail": "./img/thumbnails/7cf50a0c-75ee-4798-874e-ca0077360b4a_video.jpg",
     "location": "SFEIR",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/",
-    "date": "2016-09-13"
+    "date": "2016-09-13",
+    "timestamp": 1473793200
   },
   {
     "title": "Move fast don't break your API",
@@ -1562,7 +1653,8 @@
     "thumbnail": "./img/thumbnails/2391b543-75af-49df-87ba-c123ff31be3f_video.jpg",
     "location": "Zenika",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
-    "date": "2015-01-13"
+    "date": "2015-01-13",
+    "timestamp": 1421175600
   },
   {
     "title": "Nuun Framework : Standard building blocks for framework designers",
@@ -1579,7 +1671,8 @@
     "thumbnail": "./img/thumbnails/d7363d44-9d0f-427e-9883-1cdbdf0490ef_slides.jpg",
     "location": "SFEIR",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/154147792/",
-    "date": "2013-12-10"
+    "date": "2013-12-10",
+    "timestamp": 1386702000
   },
   {
     "title": "OpenIDConnect : le nouveau standard d'identification sur le Web",
@@ -1596,7 +1689,8 @@
     "thumbnail": "./img/thumbnails/9f99a3ef-6cc9-437b-901f-160422131b5f_slides.jpg",
     "location": "PrestaShop",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/223305711/",
-    "date": "2015-07-07"
+    "date": "2015-07-07",
+    "timestamp": 1436295600
   },
   {
     "title": "OpenStack: Cloud Computing for Humans",
@@ -1613,7 +1707,8 @@
     "thumbnail": "./img/thumbnails/66485a2d-8033-4535-8e8e-3de0b522a616_slides.jpg",
     "location": "Urban Linker",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/162792422/",
-    "date": "2014-02-11"
+    "date": "2014-02-11",
+    "timestamp": 1392145200
   },
   {
     "title": "Orienté Objet : erreur historique ou voie à poursuivre ?",
@@ -1630,7 +1725,8 @@
     "thumbnail": null,
     "location": "OCTO Technology",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/224944580/",
-    "date": "2015-09-08"
+    "date": "2015-09-08",
+    "timestamp": 1441738800
   },
   {
     "title": "Owasp Zaproxy - Devenir un hacker en 10 minutes",
@@ -1647,7 +1743,8 @@
     "thumbnail": null,
     "location": "Viadeo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/229152027/",
-    "date": "2016-03-08"
+    "date": "2016-03-08",
+    "timestamp": 1457463600
   },
   {
     "title": "PIT, pour savoir si vos tests vous protègent des mutants",
@@ -1664,7 +1761,8 @@
     "thumbnail": "./img/thumbnails/1233841d-ba4c-49d3-9581-e835bbe1662b_video.jpg",
     "location": "ECE",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/",
-    "date": "2014-07-08"
+    "date": "2014-07-08",
+    "timestamp": 1404846000
   },
   {
     "title": "Parcours d'une application mobile De l'idée à sa publication",
@@ -1681,7 +1779,8 @@
     "thumbnail": "./img/thumbnails/9b59c39b-2e77-4502-9d96-89c7c40d8539_video.jpg",
     "location": "PrestaShop",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/223305711/",
-    "date": "2015-07-07"
+    "date": "2015-07-07",
+    "timestamp": 1436295600
   },
   {
     "title": "Polyfill and Transpilers, one code for every browser",
@@ -1698,7 +1797,8 @@
     "thumbnail": "./img/thumbnails/78afabb8-0e88-4b06-8c5b-6b3fa9d69605_video.jpg",
     "location": "LeBonCoin",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226509764/",
-    "date": "2015-12-08"
+    "date": "2015-12-08",
+    "timestamp": 1449601200
   },
   {
     "title": "Pourquoi est-ce si difficile de concevoir une API ?",
@@ -1715,7 +1815,8 @@
     "thumbnail": "./img/thumbnails/31ec4a8b-34d4-461d-ab19-21fd9cf3faab_video.jpg",
     "location": "Deezer",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/",
-    "date": "2016-01-12"
+    "date": "2016-01-12",
+    "timestamp": 1452625200
   },
   {
     "title": "Pourquoi et comment apprendre à coder aux enfants ?",
@@ -1728,7 +1829,8 @@
     "thumbnail": "./img/thumbnails/bbe27201-41a2-48af-ad06-210ffe983023_video.jpg",
     "location": "Mobiskill",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/172589822/",
-    "date": "2014-04-08"
+    "date": "2014-04-08",
+    "timestamp": 1396983600
   },
   {
     "title": "Pourquoi je passe au business model Open Source ?",
@@ -1745,7 +1847,8 @@
     "thumbnail": "./img/thumbnails/a91f8280-66ac-4929-a46e-74f13df2c62c_slides.jpg",
     "location": "Ecole 42",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
-    "date": "2015-02-10"
+    "date": "2015-02-10",
+    "timestamp": 1423594800
   },
   {
     "title": "Pourquoi vous ne devriez jamais écrire AES ou SHA dans votre code ?",
@@ -1762,7 +1865,8 @@
     "thumbnail": "./img/thumbnails/8640b52a-26a2-483a-bb9b-c390178347a4_video.jpg",
     "location": "ECE",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/",
-    "date": "2014-07-08"
+    "date": "2014-07-08",
+    "timestamp": 1404846000
   },
   {
     "title": "Prise de parole en public, quelques conseils",
@@ -1779,7 +1883,8 @@
     "thumbnail": null,
     "location": "Google",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
-    "date": "2016-11-08"
+    "date": "2016-11-08",
+    "timestamp": 1478631600
   },
   {
     "title": "Procrastination : ce que dit la science",
@@ -1796,7 +1901,8 @@
     "thumbnail": null,
     "location": "PrestaShop",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463072/",
-    "date": "2016-10-11"
+    "date": "2016-10-11",
+    "timestamp": 1476212400
   },
   {
     "title": "Présentation de Scrapoxy",
@@ -1813,7 +1919,8 @@
     "thumbnail": "./img/thumbnails/6d79e0e4-3195-4028-81f5-78442d2a7349_slides.png",
     "location": "OCTO Technology",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/224944580/",
-    "date": "2015-09-08"
+    "date": "2015-09-08",
+    "timestamp": 1441738800
   },
   {
     "title": "Présentation de l'association Fier d'être développeur",
@@ -1830,7 +1937,8 @@
     "thumbnail": "./img/thumbnails/e00ad5a2-22a9-462f-8c43-516111890888_video.jpg",
     "location": "Mobiskill",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/172589822/",
-    "date": "2014-04-08"
+    "date": "2014-04-08",
+    "timestamp": 1396983600
   },
   {
     "title": "Présentation du projet Moov' In The City",
@@ -1847,7 +1955,8 @@
     "thumbnail": null,
     "location": "Le Camping",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
-    "date": "2013-07-09"
+    "date": "2013-07-09",
+    "timestamp": 1373396400
   },
   {
     "title": "REX - Plonge-toi dans la vie d’un manager pendant 10 minutes",
@@ -1864,7 +1973,8 @@
     "thumbnail": "./img/thumbnails/1dd41aeb-c901-417d-b882-f2ae2eac5a82_video.jpg",
     "location": "Adobe",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/181483902/",
-    "date": "2014-05-13"
+    "date": "2014-05-13",
+    "timestamp": 1400007600
   },
   {
     "title": "REX: Comment j'ai scrappé les superheros Marvel",
@@ -1881,7 +1991,8 @@
     "thumbnail": "./img/thumbnails/8e1a55d9-a732-432b-8e1a-a960345fa3b8_slides.png",
     "location": "LaFourchette",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/",
-    "date": "2016-05-10"
+    "date": "2016-05-10",
+    "timestamp": 1462906800
   },
   {
     "title": "Raml : spécifiez vos API REST",
@@ -1898,7 +2009,8 @@
     "thumbnail": "./img/thumbnails/db75eaa6-254c-4265-84a6-a29e7b59d758_video.jpg",
     "location": "Viadeo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222711539/",
-    "date": "2015-06-09"
+    "date": "2015-06-09",
+    "timestamp": 1433876400
   },
   {
     "title": "Ratez vos revues de code en 5 leçons !",
@@ -1915,7 +2027,8 @@
     "thumbnail": "./img/thumbnails/1c17439f-b047-4bbd-8e15-efcfd2b6201d_slides.jpg",
     "location": "Urban Linker",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/",
-    "date": "2015-10-13"
+    "date": "2015-10-13",
+    "timestamp": 1444762800
   },
   {
     "title": "ReactJS : retour d'expérience sur une mise en production",
@@ -1932,7 +2045,8 @@
     "thumbnail": "./img/thumbnails/88c1ce37-703c-437e-9cd2-57ee69a682d2_video.jpg",
     "location": "OCTO Technology",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/224944580/",
-    "date": "2015-09-08"
+    "date": "2015-09-08",
+    "timestamp": 1441738800
   },
   {
     "title": "Renforcer votre équipe et votre produit avec une activité de team building pas comme les autres",
@@ -1954,7 +2068,8 @@
     "thumbnail": "./img/thumbnails/6c9a8098-2fb6-4284-8ae5-892214f3bd05_video.jpg",
     "location": "SFEIR",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/",
-    "date": "2016-09-13"
+    "date": "2016-09-13",
+    "timestamp": 1473793200
   },
   {
     "title": "Retour d'expérience : De Heroku à EC2 @ Youboox",
@@ -1971,7 +2086,8 @@
     "thumbnail": "./img/thumbnails/bb567e3c-b4c5-4555-a786-5526cff1e4ba_video.jpg",
     "location": "Maltem",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/218938429/",
-    "date": "2014-12-09"
+    "date": "2014-12-09",
+    "timestamp": 1418151600
   },
   {
     "title": "Retour d'expérience : le Sprint, chez les virtuoses",
@@ -1988,7 +2104,8 @@
     "thumbnail": null,
     "location": "BeMyApp",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230195850/",
-    "date": "2016-04-12"
+    "date": "2016-04-12",
+    "timestamp": 1460487600
   },
   {
     "title": "Retour d'expérience d'une création d'école de dév en milieu rural",
@@ -2005,7 +2122,8 @@
     "thumbnail": "./img/thumbnails/854bc89b-99ff-48c5-bd7b-73ea21620b50_video.jpg",
     "location": "Viadeo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222711539/",
-    "date": "2015-06-09"
+    "date": "2015-06-09",
+    "timestamp": 1433876400
   },
   {
     "title": "Retour d'expérience sur la conception de l'API Mangopay",
@@ -2022,7 +2140,8 @@
     "thumbnail": "./img/thumbnails/4b2e70de-3169-4878-9d90-aeab07b58552_video.jpg",
     "location": "Start-Way",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/142883912/",
-    "date": "2013-10-08"
+    "date": "2013-10-08",
+    "timestamp": 1381258800
   },
   {
     "title": "RxJava, Getting Started",
@@ -2044,7 +2163,8 @@
     "thumbnail": "./img/thumbnails/2750574c-1754-49fd-88ba-df890235980e_slides.jpg",
     "location": "Mozilla",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/",
-    "date": "2014-09-09"
+    "date": "2014-09-09",
+    "timestamp": 1410289200
   },
   {
     "title": "Réseaux de neurones: introduction et applications",
@@ -2061,7 +2181,8 @@
     "thumbnail": "./img/thumbnails/4618943e-0b3d-459e-97f9-db9c741164ec_video.jpg",
     "location": "Urban Linker",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/162792422/",
-    "date": "2014-02-11"
+    "date": "2014-02-11",
+    "timestamp": 1392145200
   },
   {
     "title": "S'amuser avec la dette techniques",
@@ -2078,7 +2199,8 @@
     "thumbnail": "./img/thumbnails/78cf720d-be3e-4928-ad18-fcb4a86953c9_video.jpg",
     "location": "Zenika",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
-    "date": "2016-07-12"
+    "date": "2016-07-12",
+    "timestamp": 1468350000
   },
   {
     "title": "S.A.R.A.H, un framework de Maison Connectée qui fête ses 4ans",
@@ -2095,7 +2217,8 @@
     "thumbnail": null,
     "location": "Zenika",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
-    "date": "2016-07-12"
+    "date": "2016-07-12",
+    "timestamp": 1468350000
   },
   {
     "title": "Scoring d’un moteur de recherche, un coup d’œil sous le capot",
@@ -2112,7 +2235,8 @@
     "thumbnail": "./img/thumbnails/6d1c6d36-9875-43f1-88a4-8d82bbc5ce08_video.jpg",
     "location": "Zenika",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
-    "date": "2015-01-13"
+    "date": "2015-01-13",
+    "timestamp": 1421175600
   },
   {
     "title": "Serious Games",
@@ -2129,7 +2253,8 @@
     "thumbnail": "./img/thumbnails/7787ebf4-a41e-4fb8-8416-18657632a9c6_video.jpg",
     "location": "Soat",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
-    "date": "2014-06-10"
+    "date": "2014-06-10",
+    "timestamp": 1402426800
   },
   {
     "title": "ShadowIT : inévitable ou pas ?",
@@ -2146,7 +2271,8 @@
     "thumbnail": "./img/thumbnails/159ccc07-ac50-4a31-8ddd-eb445cf0a050_slides.jpg",
     "location": "Criteo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/228454758/",
-    "date": "2016-02-09"
+    "date": "2016-02-09",
+    "timestamp": 1455044400
   },
   {
     "title": "Sociologie appliquée... aux devs",
@@ -2163,7 +2289,8 @@
     "thumbnail": "./img/thumbnails/7e0e5b23-5eab-425f-9466-74dc1446db81_video.jpg",
     "location": "Viadeo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222711539/",
-    "date": "2015-06-09"
+    "date": "2015-06-09",
+    "timestamp": 1433876400
   },
   {
     "title": "Sondage sur l'Agilité en France",
@@ -2180,7 +2307,8 @@
     "thumbnail": "./img/thumbnails/6d162bbe-5f68-4acd-b52b-a0101590eb6c_video.jpg",
     "location": "Zenika",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
-    "date": "2015-01-13"
+    "date": "2015-01-13",
+    "timestamp": 1421175600
   },
   {
     "title": "Spring ROO",
@@ -2197,7 +2325,8 @@
     "thumbnail": null,
     "location": "50 Partners",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/",
-    "date": "2013-09-10"
+    "date": "2013-09-10",
+    "timestamp": 1378839600
   },
   {
     "title": "Startup Validation",
@@ -2214,7 +2343,8 @@
     "thumbnail": "./img/thumbnails/c2507b7f-ab5a-44dd-936c-0285d59256af_video.jpg",
     "location": "Algolia",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/231710622/",
-    "date": "2016-06-14"
+    "date": "2016-06-14",
+    "timestamp": 1465930800
   },
   {
     "title": "Synchronisez vos appareils avec Javascript et PouchDB",
@@ -2231,7 +2361,8 @@
     "thumbnail": "./img/thumbnails/1f89db06-57d9-48aa-832a-5a1945ef7b49_video.jpg",
     "location": "Maltem",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/218938429/",
-    "date": "2014-12-09"
+    "date": "2014-12-09",
+    "timestamp": 1418151600
   },
   {
     "title": "Table Driven Testing : Ecrire des tests unitaires succincts mais complets",
@@ -2248,7 +2379,8 @@
     "thumbnail": null,
     "location": "Mozilla",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/",
-    "date": "2014-09-09"
+    "date": "2014-09-09",
+    "timestamp": 1410289200
   },
   {
     "title": "Techniques de mémorisation",
@@ -2265,7 +2397,8 @@
     "thumbnail": "./img/thumbnails/c80fdf31-f58c-48a8-a536-6982ec74d14b_slides.png",
     "location": "Urban Linker",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/",
-    "date": "2015-10-13"
+    "date": "2015-10-13",
+    "timestamp": 1444762800
   },
   {
     "title": "Tests sur tout les fronts",
@@ -2282,7 +2415,8 @@
     "thumbnail": null,
     "location": "Société Générale",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226344243/",
-    "date": "2015-11-10"
+    "date": "2015-11-10",
+    "timestamp": 1447182000
   },
   {
     "title": "The Criteo R&D Hero team",
@@ -2299,7 +2433,8 @@
     "thumbnail": null,
     "location": "Criteo",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/228454758/",
-    "date": "2016-02-09"
+    "date": "2016-02-09",
+    "timestamp": 1455044400
   },
   {
     "title": "The reverse side of VCs",
@@ -2316,7 +2451,8 @@
     "thumbnail": null,
     "location": "BeMyApp",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230195850/",
-    "date": "2016-04-12"
+    "date": "2016-04-12",
+    "timestamp": 1460487600
   },
   {
     "title": "Tour d’horizon de Windows Azure",
@@ -2333,7 +2469,8 @@
     "thumbnail": "./img/thumbnails/6439686e-a199-4c43-bc2a-f1d65e3bbf46_video.jpg",
     "location": "Mozilla",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/168226002/",
-    "date": "2014-03-11"
+    "date": "2014-03-11",
+    "timestamp": 1394564400
   },
   {
     "title": "Tous freelances ?",
@@ -2355,7 +2492,8 @@
     "thumbnail": "./img/thumbnails/934740dd-f130-4468-b2d9-2b21032f7fa7_video.jpg",
     "location": "50 Partners",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/",
-    "date": "2013-09-10"
+    "date": "2013-09-10",
+    "timestamp": 1378839600
   },
   {
     "title": "Tout ce que vous pensez savoir sur la couleur est faux",
@@ -2372,7 +2510,8 @@
     "thumbnail": null,
     "location": "Google",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
-    "date": "2016-11-08"
+    "date": "2016-11-08",
+    "timestamp": 1478631600
   },
   {
     "title": "Transhumanisme, l’avènement de la singularité",
@@ -2389,7 +2528,8 @@
     "thumbnail": "./img/thumbnails/c6f03502-52ba-486f-b4a6-c6905c966879_video.jpg",
     "location": "LeBonCoin",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226509764/",
-    "date": "2015-12-08"
+    "date": "2015-12-08",
+    "timestamp": 1449601200
   },
   {
     "title": "UX / Créa - Les dévs et les créas devraient mieux s'entendre !",
@@ -2406,7 +2546,8 @@
     "thumbnail": "./img/thumbnails/2ce8c493-acd5-48bb-b408-eabdc1e205cd_slides.png",
     "location": "Zenika",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/148407972/",
-    "date": "2013-11-12"
+    "date": "2013-11-12",
+    "timestamp": 1384282800
   },
   {
     "title": "Un jour pour prototyper une application mobile avec Ionic",
@@ -2423,7 +2564,8 @@
     "thumbnail": "./img/thumbnails/aaed6def-b416-4f96-aedf-d4bb41d627fa_slides.jpg",
     "location": "Valtech",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220728329/",
-    "date": "2015-03-10"
+    "date": "2015-03-10",
+    "timestamp": 1426014000
   },
   {
     "title": "Un serveur de jeu en temps réel avec Comet",
@@ -2440,7 +2582,8 @@
     "thumbnail": "./img/thumbnails/08a3ca35-7eaf-490e-b2dd-974bf661764c_video.jpg",
     "location": "Soat",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
-    "date": "2014-06-10"
+    "date": "2014-06-10",
+    "timestamp": 1402426800
   },
   {
     "title": "Une stack pour passer de l'idée au produit en quelques heures",
@@ -2457,7 +2600,8 @@
     "thumbnail": "./img/thumbnails/3d4952b9-7000-4063-b53c-d6bfd6f8463a_video.jpg",
     "location": "OCTO Technology",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/216770782/",
-    "date": "2014-11-18"
+    "date": "2014-11-18",
+    "timestamp": 1416337200
   },
   {
     "title": "Vagrant",
@@ -2474,7 +2618,8 @@
     "thumbnail": "./img/thumbnails/aea764c3-53bd-4186-8e4a-d64784ec3b45_slides.jpg",
     "location": "Le Camping",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
-    "date": "2013-07-09"
+    "date": "2013-07-09",
+    "timestamp": 1373396400
   },
   {
     "title": "Vim. Y a vraiment des gens qui codent avec ça ?",
@@ -2491,7 +2636,8 @@
     "thumbnail": "./img/thumbnails/d0a456ea-0b11-4eff-aa80-421b9639cab1_slides.png",
     "location": "Meetic",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/221499748/",
-    "date": "2015-04-14"
+    "date": "2015-04-14",
+    "timestamp": 1429038000
   },
   {
     "title": "Vorlon.js",
@@ -2508,7 +2654,8 @@
     "thumbnail": null,
     "location": "LaFourchette",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/",
-    "date": "2016-05-10"
+    "date": "2016-05-10",
+    "timestamp": 1462906800
   },
   {
     "title": "Webperfs : Concatenate, compress, cache",
@@ -2525,7 +2672,8 @@
     "thumbnail": "./img/thumbnails/63158f20-752a-4172-a222-4eccd44815b6_slides.png",
     "location": "Mozilla",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/",
-    "date": "2014-09-09"
+    "date": "2014-09-09",
+    "timestamp": 1410289200
   },
   {
     "title": "Why do Tech people hate Sales People",
@@ -2542,7 +2690,8 @@
     "thumbnail": "./img/thumbnails/7cedcf5f-f63a-41ba-86ba-bb179922ac1a_video.jpg",
     "location": "Deezer",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/",
-    "date": "2016-01-12"
+    "date": "2016-01-12",
+    "timestamp": 1452625200
   },
   {
     "title": "Why do you fix bugs?",
@@ -2559,7 +2708,8 @@
     "thumbnail": "./img/thumbnails/f5ffa716-1f2b-468d-98dd-991d785d4f04_video.jpg",
     "location": "OCTO Technology",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/224944580/",
-    "date": "2015-09-08"
+    "date": "2015-09-08",
+    "timestamp": 1441738800
   },
   {
     "title": "Zero imprévu dans son application avec le Defensive Design",
@@ -2576,7 +2726,8 @@
     "thumbnail": null,
     "location": "BeMyApp",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230195850/",
-    "date": "2016-04-12"
+    "date": "2016-04-12",
+    "timestamp": 1460487600
   },
   {
     "title": "git-deliver : le déploiement pro pour tous",
@@ -2593,7 +2744,8 @@
     "thumbnail": "./img/thumbnails/deca9bf2-30a1-4e83-b8f0-4d5d44de0261_video.jpg",
     "location": "Adobe",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/181483902/",
-    "date": "2014-05-13"
+    "date": "2014-05-13",
+    "timestamp": 1400007600
   },
   {
     "title": "www : The Web Will Win",
@@ -2610,7 +2762,8 @@
     "thumbnail": null,
     "location": "Google",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
-    "date": "2016-11-08"
+    "date": "2016-11-08",
+    "timestamp": 1478631600
   },
   {
     "title": "Écrire sur Internet, c'est plus facile avec Markdown !",
@@ -2627,6 +2780,7 @@
     "thumbnail": "./img/thumbnails/3818ddb4-16dc-412b-9eef-596e2a995dbb_video.jpg",
     "location": "La cordée",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/156823782/",
-    "date": "2014-01-14"
+    "date": "2014-01-14",
+    "timestamp": 1389726000
   }
 ]
