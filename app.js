@@ -198,19 +198,27 @@ var Search = {
     // <!--Lien sur le logo de clear all-->
     // <!--RWD petit écran un résultat par ligne-->
 
-    // Title
-    var title = Search.getHighlightedValue(data, 'title');
-
-    // Description
-    var description = data._snippetResult.description.value;
-    description = description.replace(' …', '…');
-
     // Various urls
     var videoUrl = data.video;
     var slidesUrl = data.slides;
     var meetupUrl = data.meetup;
     var hasVideo = !!videoUrl;
     var hasSlides = !!slidesUrl;
+
+    // Title
+    var title = Search.getHighlightedValue(data, 'title');
+    // Default link goes to video, fallback on slides or meetup page
+    var titleLink = videoUrl;
+    if (!titleLink) {
+      titleLink = slidesUrl;
+    }
+    if (!titleLink) {
+      titleLink = meetupUrl;
+    }
+
+    // Description
+    var description = data._snippetResult.description.value;
+    description = description.replace(' …', '…');
 
     // Thumbnail
     var thumbnail = data.thumbnail;
@@ -270,6 +278,7 @@ var Search = {
 
     var displayedData = {
       title: title,
+      titleLink: titleLink,
       description: description,
       thumbnail: thumbnail,
       thumbnailLink: thumbnailLink,
