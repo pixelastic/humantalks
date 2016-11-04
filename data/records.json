@@ -13,6 +13,7 @@
     "video": "https://www.youtube.com/watch?v=UI3xWximGK8",
     "thumbnail": "./img/thumbnails/a2802e32-5c87-4cf4-8f4d-cc38d0fd9ea9_video.jpg",
     "location": "ECE",
+    "location_logo": "./img/thumbnails/541b4f2f-3d2a-42f1-958e-0988822c8ef7_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/",
     "date": "2014-07-08",
     "timestamp": 1404846000
@@ -31,6 +32,7 @@
     "video": null,
     "thumbnail": null,
     "location": "LaFourchette",
+    "location_logo": "./img/thumbnails/d2bd4be8-1593-474a-9806-bd1a0cada37f_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/",
     "date": "2016-05-10",
     "timestamp": 1462906800
@@ -49,6 +51,7 @@
     "video": "https://www.youtube.com/watch?v=zu8evuY-eGY",
     "thumbnail": "./img/thumbnails/efe390c9-05b0-4f4e-973b-889612c20691_video.jpg",
     "location": "LeBonCoin",
+    "location_logo": "./img/thumbnails/32d7c587-dd88-4f43-a58a-fe537f447e4c_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226509764/",
     "date": "2015-12-08",
     "timestamp": 1449601200
@@ -67,6 +70,7 @@
     "video": "https://www.youtube.com/watch?v=aM2Q6bjo0x8",
     "thumbnail": "./img/thumbnails/8a15e4b0-3b86-4837-ace9-c73e6a2ed325_video.jpg",
     "location": "Algolia",
+    "location_logo": "./img/thumbnails/a4d89a44-2818-4163-adf3-f88de6cf9d7e_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/231710622/",
     "date": "2016-06-14",
     "timestamp": 1465930800
@@ -85,6 +89,7 @@
     "video": "https://www.youtube.com/watch?v=Gt8LV5qmpg8",
     "thumbnail": "./img/thumbnails/ed5aceca-337b-4adf-8115-355eeccf5724_video.jpg",
     "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/148407972/",
     "date": "2013-11-12",
     "timestamp": 1384282800
@@ -103,6 +108,7 @@
     "video": "https://www.youtube.com/watch?v=m_0sr0TIkQo",
     "thumbnail": "./img/thumbnails/c6b792ac-128e-4e6b-b361-04a12df05558_video.jpg",
     "location": "Algolia",
+    "location_logo": "./img/thumbnails/a4d89a44-2818-4163-adf3-f88de6cf9d7e_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/231710622/",
     "date": "2016-06-14",
     "timestamp": 1465930800
@@ -121,6 +127,7 @@
     "video": "https://www.youtube.com/watch?v=BUEx02NDKF8",
     "thumbnail": "./img/thumbnails/d3b07ac7-a836-4cee-96ba-05498fbab0d8_video.jpg",
     "location": "Meetic",
+    "location_logo": "./img/thumbnails/a0e2be65-2385-4933-9e33-133408d80614_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/221499748/",
     "date": "2015-04-14",
     "timestamp": 1429038000
@@ -139,6 +146,7 @@
     "video": "https://www.youtube.com/watch?v=iicE_LMKSsw&feature=youtu.be",
     "thumbnail": "./img/thumbnails/ec4a090a-b050-4d39-adb5-f4b4e3b07c87_video.jpg",
     "location": "Adobe",
+    "location_logo": "./img/thumbnails/558dd8ea-bf21-4326-a0d7-6c57ba1c9fff_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/181483902/",
     "date": "2014-05-13",
     "timestamp": 1400007600
@@ -157,6 +165,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Urban Linker",
+    "location_logo": "./img/thumbnails/fe61504c-7626-4fc2-8101-2221c024a94a_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/",
     "date": "2015-10-13",
     "timestamp": 1444762800
@@ -175,6 +184,7 @@
     "video": "https://www.youtube.com/watch?v=4E7I8-jVg7k",
     "thumbnail": "./img/thumbnails/e606076d-7653-49d7-b109-24b4aca0c16f_video.jpg",
     "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
     "date": "2015-01-13",
     "timestamp": 1421175600
@@ -193,6 +203,7 @@
     "video": "https://www.youtube.com/watch?v=tEyINYJFaFM",
     "thumbnail": "./img/thumbnails/4d280951-aba1-4922-9e1c-815467b9c5fc_video.jpg",
     "location": "SFEIR",
+    "location_logo": "./img/thumbnails/4546fddc-70c2-45a7-a2e2-88af936a8193_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/",
     "date": "2016-09-13",
     "timestamp": 1473793200
@@ -211,6 +222,7 @@
     "video": "https://www.youtube.com/watch?v=xRs1M_5-MWY",
     "thumbnail": "./img/thumbnails/32fb9f29-91cd-408c-b4f1-5747325b78d9_video.jpg",
     "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
     "date": "2015-01-13",
     "timestamp": 1421175600
@@ -229,6 +241,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Mozilla",
+    "location_logo": "./img/thumbnails/f62cf102-9fcc-4a25-b528-c20efac11775_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/",
     "date": "2014-09-09",
     "timestamp": 1410289200
@@ -247,6 +260,7 @@
     "video": "https://www.youtube.com/watch?v=AcvaUhGyTVk",
     "thumbnail": "./img/thumbnails/be06eb0c-3881-46a8-9579-20a8ac34b791_video.jpg",
     "location": "Start-Way",
+    "location_logo": "./img/thumbnails/13b400ab-475c-4cb8-8144-64b648d2ff46_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/142883912/",
     "date": "2013-10-08",
     "timestamp": 1381258800
@@ -265,6 +279,7 @@
     "video": "https://www.youtube.com/watch?v=pUTacbi8-tQ",
     "thumbnail": "./img/thumbnails/6322b941-405b-455f-b26b-efe61e8655bc_video.jpg",
     "location": "50 Partners",
+    "location_logo": "./img/thumbnails/362dc49e-30cf-467a-b936-beb3daa0e9a4_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/",
     "date": "2013-09-10",
     "timestamp": 1378839600
@@ -283,6 +298,7 @@
     "video": "https://www.youtube.com/watch?v=cCOTvwCITqs",
     "thumbnail": "./img/thumbnails/a246899b-3e6c-4018-b87e-b54ad8bc1d09_video.jpg",
     "location": "Maltem",
+    "location_logo": "./img/thumbnails/5f4a41ff-eada-4f4a-8044-91ae428a77c6_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/218938429/",
     "date": "2014-12-09",
     "timestamp": 1418151600
@@ -301,6 +317,7 @@
     "video": "https://www.youtube.com/watch?v=2438zQAcIJo",
     "thumbnail": "./img/thumbnails/2359c916-5226-4108-b6db-8f3648864cc1_video.jpg",
     "location": "Ecole 42",
+    "location_logo": "./img/thumbnails/1569e9a0-a1c6-4b72-a0eb-ee39f5112d53_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
     "date": "2015-02-10",
     "timestamp": 1423594800
@@ -319,6 +336,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Viadeo",
+    "location_logo": "./img/thumbnails/7385f832-3d88-4ffa-82be-1279f238e464_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/229152027/",
     "date": "2016-03-08",
     "timestamp": 1457463600
@@ -337,6 +355,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Urban Linker",
+    "location_logo": "./img/thumbnails/fe61504c-7626-4fc2-8101-2221c024a94a_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/",
     "date": "2015-10-13",
     "timestamp": 1444762800
@@ -355,6 +374,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Criteo",
+    "location_logo": "./img/thumbnails/cf9bd9ca-3ce9-4487-b2a9-c4c9cada182b_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/",
     "date": "2014-10-14",
     "timestamp": 1413313200
@@ -373,6 +393,7 @@
     "video": null,
     "thumbnail": "./img/thumbnails/5ea2ac1f-5970-4a80-a30f-dfc27040b330_slides.jpg",
     "location": "Société Générale",
+    "location_logo": "./img/thumbnails/33c26550-5dcc-4896-81eb-c75fd81436ca_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226344243/",
     "date": "2015-11-10",
     "timestamp": 1447182000
@@ -391,6 +412,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Criteo",
+    "location_logo": "./img/thumbnails/cf9bd9ca-3ce9-4487-b2a9-c4c9cada182b_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/228454758/",
     "date": "2016-02-09",
     "timestamp": 1455044400
@@ -409,6 +431,7 @@
     "video": "https://www.youtube.com/watch?v=hqTCFzDj2l4",
     "thumbnail": "./img/thumbnails/62b1bdda-7d16-4a6a-95da-04d9b00b295c_video.jpg",
     "location": "Viadeo",
+    "location_logo": "./img/thumbnails/7385f832-3d88-4ffa-82be-1279f238e464_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222711539/",
     "date": "2015-06-09",
     "timestamp": 1433876400
@@ -427,6 +450,7 @@
     "video": "https://www.youtube.com/watch?v=g30DJ05QN-Y",
     "thumbnail": "./img/thumbnails/3195788e-9d48-4a0c-815b-06173126491c_video.jpg",
     "location": "Criteo",
+    "location_logo": "./img/thumbnails/cf9bd9ca-3ce9-4487-b2a9-c4c9cada182b_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/",
     "date": "2014-10-14",
     "timestamp": 1413313200
@@ -445,6 +469,7 @@
     "video": "https://www.youtube.com/watch?v=HiVdTvzXcfs",
     "thumbnail": "./img/thumbnails/dec6b06b-ba51-47c1-a063-b463e0019ba2_video.jpg",
     "location": "Meetic",
+    "location_logo": "./img/thumbnails/a0e2be65-2385-4933-9e33-133408d80614_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/221499748/",
     "date": "2015-04-14",
     "timestamp": 1429038000
@@ -463,6 +488,7 @@
     "video": "https://www.youtube.com/watch?v=HLta6dfaMS0",
     "thumbnail": "./img/thumbnails/bb3f76f5-8943-4574-8153-666e8619b4d2_video.jpg",
     "location": "PrestaShop",
+    "location_logo": "./img/thumbnails/7d7d8d35-884a-4e55-af39-6a41c6932a63_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/223305711/",
     "date": "2015-07-07",
     "timestamp": 1436295600
@@ -481,6 +507,7 @@
     "video": "https://www.youtube.com/watch?v=T05z4PKF6pc",
     "thumbnail": "./img/thumbnails/b82d4f7a-fa21-4f83-a19e-c81b23ab6d61_video.jpg",
     "location": "Mobiskill",
+    "location_logo": "./img/thumbnails/ab274f6a-2700-41ce-8e48-e769a00244fd_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/172589822/",
     "date": "2014-04-08",
     "timestamp": 1396983600
@@ -499,6 +526,7 @@
     "video": "https://www.youtube.com/watch?v=cSWJ-J6F6LY",
     "thumbnail": "./img/thumbnails/25c13483-83ff-4999-9954-d4ec7daf750a_video.jpg",
     "location": "Urban Linker",
+    "location_logo": "./img/thumbnails/fe61504c-7626-4fc2-8101-2221c024a94a_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/162792422/",
     "date": "2014-02-11",
     "timestamp": 1392145200
@@ -517,6 +545,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Le Camping",
+    "location_logo": "./img/thumbnails/5fceecf1-9b8f-4bff-9a59-9be970cecf77_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
     "date": "2013-07-09",
     "timestamp": 1373396400
@@ -535,6 +564,7 @@
     "video": "https://www.youtube.com/watch?v=EbWBNpCuah0",
     "thumbnail": "./img/thumbnails/f3191cb8-a7fa-4472-a90f-91fef896df95_video.jpg",
     "location": "SFEIR",
+    "location_logo": "./img/thumbnails/4546fddc-70c2-45a7-a2e2-88af936a8193_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/154147792/",
     "date": "2013-12-10",
     "timestamp": 1386702000
@@ -553,6 +583,7 @@
     "video": "https://www.youtube.com/watch?v=1z_Y7rvox9s",
     "thumbnail": "./img/thumbnails/c2fb8478-45c5-4544-aad2-1c73fc9966de_slides.jpg",
     "location": "LeBonCoin",
+    "location_logo": "./img/thumbnails/32d7c587-dd88-4f43-a58a-fe537f447e4c_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226509764/",
     "date": "2015-12-08",
     "timestamp": 1449601200
@@ -571,6 +602,7 @@
     "video": "https://www.youtube.com/watch?v=0ckw7sxiGoQ",
     "thumbnail": "./img/thumbnails/d778d38b-f10b-40a8-9016-6a043c12e16e_video.jpg",
     "location": "Soat",
+    "location_logo": "./img/thumbnails/ddb870f9-754c-47b8-9daf-6fa4c015444e_location.svg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
     "date": "2014-06-10",
     "timestamp": 1402426800
@@ -589,6 +621,7 @@
     "video": "https://www.youtube.com/watch?v=EAf41LZxoM8",
     "thumbnail": "./img/thumbnails/87829923-84a8-4c6e-ae81-98c4a2aace83_video.jpg",
     "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
     "date": "2016-07-12",
     "timestamp": 1468350000
@@ -607,6 +640,7 @@
     "video": null,
     "thumbnail": "./img/thumbnails/802aab56-3b08-4733-800a-e6a5ab604afc_slides.png",
     "location": "Le Camping",
+    "location_logo": "./img/thumbnails/5fceecf1-9b8f-4bff-9a59-9be970cecf77_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
     "date": "2013-07-09",
     "timestamp": 1373396400
@@ -625,6 +659,7 @@
     "video": "https://www.youtube.com/watch?v=d8dkcZWSgHA",
     "thumbnail": "./img/thumbnails/873fef1b-e3d1-4f55-bad8-c1dea1619168_video.jpg",
     "location": "Mozilla",
+    "location_logo": "./img/thumbnails/f62cf102-9fcc-4a25-b528-c20efac11775_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/168226002/",
     "date": "2014-03-11",
     "timestamp": 1394564400
@@ -643,6 +678,7 @@
     "video": "https://www.youtube.com/watch?v=SXiOtd8hvsI",
     "thumbnail": "./img/thumbnails/3b82e721-0ff6-4ee9-872f-53c0683b15de_video.jpg",
     "location": "OCTO Technology",
+    "location_logo": "./img/thumbnails/58e72bd3-be7b-4aa7-850c-f2ea2b73c226_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/216770782/",
     "date": "2014-11-18",
     "timestamp": 1416337200
@@ -661,6 +697,7 @@
     "video": "https://www.youtube.com/watch?v=gLULaMovrSc",
     "thumbnail": "./img/thumbnails/ec4a2955-dd70-4926-9bbd-97103860f1d9_video.jpg",
     "location": "Mobiskill",
+    "location_logo": "./img/thumbnails/ab274f6a-2700-41ce-8e48-e769a00244fd_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/172589822/",
     "date": "2014-04-08",
     "timestamp": 1396983600
@@ -679,6 +716,7 @@
     "video": null,
     "thumbnail": "./img/thumbnails/a6de072f-5ed7-4390-a6f7-25ee840d4dd0_slides.jpg",
     "location": "Société Générale",
+    "location_logo": "./img/thumbnails/33c26550-5dcc-4896-81eb-c75fd81436ca_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226344243/",
     "date": "2015-11-10",
     "timestamp": 1447182000
@@ -693,6 +731,7 @@
     "video": "https://www.youtube.com/watch?v=WhOIBTpWAvA",
     "thumbnail": "./img/thumbnails/2912d1d1-0d3e-480d-8446-287c024e4479_video.jpg",
     "location": "Start-Way",
+    "location_logo": "./img/thumbnails/13b400ab-475c-4cb8-8144-64b648d2ff46_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/142883912/",
     "date": "2013-10-08",
     "timestamp": 1381258800
@@ -711,6 +750,7 @@
     "video": "https://www.youtube.com/watch?v=vrxW9ae-7UE",
     "thumbnail": "./img/thumbnails/eabbc73a-a259-42b8-a775-2f19693a5ed7_video.jpg",
     "location": "Deezer",
+    "location_logo": "./img/thumbnails/650e7214-df4b-4cbf-bc54-243e3f1b5138_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/",
     "date": "2015-05-12",
     "timestamp": 1431457200
@@ -729,6 +769,7 @@
     "video": "https://www.youtube.com/watch?v=G-qW6g0xuwI",
     "thumbnail": "./img/thumbnails/ec62c832-ac97-41b6-9921-20c84403de6b_video.jpg",
     "location": "Mozilla",
+    "location_logo": "./img/thumbnails/f62cf102-9fcc-4a25-b528-c20efac11775_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/168226002/",
     "date": "2014-03-11",
     "timestamp": 1394564400
@@ -747,6 +788,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Google",
+    "location_logo": "./img/thumbnails/4e7ff2ef-94d1-4ace-82d7-31b3e746e43a_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
     "date": "2016-11-08",
     "timestamp": 1478631600
@@ -765,6 +807,7 @@
     "video": "https://www.youtube.com/watch?v=JyJu9xZE-Dk",
     "thumbnail": "./img/thumbnails/a7dfd52d-73d2-4e24-b870-c652fd9c8e39_video.jpg",
     "location": "Adobe",
+    "location_logo": "./img/thumbnails/558dd8ea-bf21-4326-a0d7-6c57ba1c9fff_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/181483902/",
     "date": "2014-05-13",
     "timestamp": 1400007600
@@ -783,6 +826,7 @@
     "video": "https://www.youtube.com/watch?v=9upDU-sfc50",
     "thumbnail": "./img/thumbnails/fbb7afc9-367e-400d-90d7-eb1f1da418c6_video.jpg",
     "location": "Valtech",
+    "location_logo": "./img/thumbnails/96d0991e-12ca-4dd2-a4d6-e2efb47a19dd_location.gif",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220728329/",
     "date": "2015-03-10",
     "timestamp": 1426014000
@@ -801,6 +845,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Viadeo",
+    "location_logo": "./img/thumbnails/7385f832-3d88-4ffa-82be-1279f238e464_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/229152027/",
     "date": "2016-03-08",
     "timestamp": 1457463600
@@ -819,6 +864,7 @@
     "video": "https://www.youtube.com/watch?v=U1o0_oX2iIY",
     "thumbnail": "./img/thumbnails/eb91aade-46c6-4cbe-806c-17ba550531d8_slides.jpg",
     "location": "Criteo",
+    "location_logo": "./img/thumbnails/cf9bd9ca-3ce9-4487-b2a9-c4c9cada182b_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/",
     "date": "2014-10-14",
     "timestamp": 1413313200
@@ -842,6 +888,7 @@
     "video": null,
     "thumbnail": null,
     "location": "LaFourchette",
+    "location_logo": "./img/thumbnails/d2bd4be8-1593-474a-9806-bd1a0cada37f_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/",
     "date": "2016-05-10",
     "timestamp": 1462906800
@@ -860,6 +907,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Google",
+    "location_logo": "./img/thumbnails/4e7ff2ef-94d1-4ace-82d7-31b3e746e43a_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
     "date": "2016-11-08",
     "timestamp": 1478631600
@@ -878,6 +926,7 @@
     "video": "https://www.youtube.com/watch?v=emqb0qq7UrI",
     "thumbnail": "./img/thumbnails/94471337-a4f7-47a2-86cb-3ababbb279ef_video.jpg",
     "location": "SFEIR",
+    "location_logo": "./img/thumbnails/4546fddc-70c2-45a7-a2e2-88af936a8193_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/",
     "date": "2016-09-13",
     "timestamp": 1473793200
@@ -896,6 +945,7 @@
     "video": "https://www.youtube.com/watch?v=2XNTPk1kMxk",
     "thumbnail": "./img/thumbnails/7a0ea78a-6c60-408a-82e5-da37379ba626_slides.png",
     "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/148407972/",
     "date": "2013-11-12",
     "timestamp": 1384282800
@@ -914,6 +964,7 @@
     "video": "https://www.youtube.com/watch?v=mGdZHXCv3RU",
     "thumbnail": "./img/thumbnails/6b47bf57-3fab-46b0-8a70-cb4d2abd3df0_slides.jpg",
     "location": "Maltem",
+    "location_logo": "./img/thumbnails/5f4a41ff-eada-4f4a-8044-91ae428a77c6_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/218938429/",
     "date": "2014-12-09",
     "timestamp": 1418151600
@@ -932,6 +983,7 @@
     "video": "https://www.youtube.com/watch?v=X0dbTu-uXP8",
     "thumbnail": "./img/thumbnails/f7b8afec-056f-47be-b0b8-68199fd86827_slides.jpg",
     "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/148407972/",
     "date": "2013-11-12",
     "timestamp": 1384282800
@@ -950,6 +1002,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Deezer",
+    "location_logo": "./img/thumbnails/650e7214-df4b-4cbf-bc54-243e3f1b5138_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/",
     "date": "2015-05-12",
     "timestamp": 1431457200
@@ -968,6 +1021,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Société Générale",
+    "location_logo": "./img/thumbnails/33c26550-5dcc-4896-81eb-c75fd81436ca_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226344243/",
     "date": "2015-11-10",
     "timestamp": 1447182000
@@ -986,6 +1040,7 @@
     "video": "https://www.youtube.com/watch?v=uWpnYTti48s",
     "thumbnail": "./img/thumbnails/5fbd831f-d6ef-4103-aba5-19c17d768b2a_video.jpg",
     "location": "Start-Way",
+    "location_logo": "./img/thumbnails/13b400ab-475c-4cb8-8144-64b648d2ff46_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/142883912/",
     "date": "2013-10-08",
     "timestamp": 1381258800
@@ -1004,6 +1059,7 @@
     "video": null,
     "thumbnail": null,
     "location": "BeMyApp",
+    "location_logo": "./img/thumbnails/f5edecf0-712e-4cff-b7da-563858fc1ac1_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230195850/",
     "date": "2016-04-12",
     "timestamp": 1460487600
@@ -1022,6 +1078,7 @@
     "video": "https://www.youtube.com/watch?v=NaPj52fJQoU",
     "thumbnail": "./img/thumbnails/9a6b7baf-774d-4c7f-909d-0f23bba78120_video.jpg",
     "location": "Deezer",
+    "location_logo": "./img/thumbnails/650e7214-df4b-4cbf-bc54-243e3f1b5138_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/",
     "date": "2016-01-12",
     "timestamp": 1452625200
@@ -1040,6 +1097,7 @@
     "video": "https://www.youtube.com/watch?v=IIwQGb3hQCU",
     "thumbnail": "./img/thumbnails/2153037a-5bf3-4ebc-a76c-84efa61a84ff_video.jpg",
     "location": "OCTO Technology",
+    "location_logo": "./img/thumbnails/58e72bd3-be7b-4aa7-850c-f2ea2b73c226_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/216770782/",
     "date": "2014-11-18",
     "timestamp": 1416337200
@@ -1058,6 +1116,7 @@
     "video": "https://www.youtube.com/watch?v=3TngMciGn_E",
     "thumbnail": "./img/thumbnails/99dabce0-3a88-4c43-9f48-d38998e96a32_video.jpg",
     "location": "SFEIR",
+    "location_logo": "./img/thumbnails/4546fddc-70c2-45a7-a2e2-88af936a8193_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/154147792/",
     "date": "2013-12-10",
     "timestamp": 1386702000
@@ -1076,6 +1135,7 @@
     "video": "https://www.youtube.com/watch?v=36v6DIk2jwY",
     "thumbnail": "./img/thumbnails/63e1aa66-12a4-48eb-bdc2-f22548019ca6_video.jpg",
     "location": "Criteo",
+    "location_logo": "./img/thumbnails/cf9bd9ca-3ce9-4487-b2a9-c4c9cada182b_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/",
     "date": "2014-10-14",
     "timestamp": 1413313200
@@ -1094,6 +1154,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Criteo",
+    "location_logo": "./img/thumbnails/cf9bd9ca-3ce9-4487-b2a9-c4c9cada182b_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/228454758/",
     "date": "2016-02-09",
     "timestamp": 1455044400
@@ -1112,6 +1173,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Ecole 42",
+    "location_logo": "./img/thumbnails/1569e9a0-a1c6-4b72-a0eb-ee39f5112d53_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
     "date": "2015-02-10",
     "timestamp": 1423594800
@@ -1130,6 +1192,7 @@
     "video": "https://www.youtube.com/watch?v=Wp19qp_ETxs",
     "thumbnail": "./img/thumbnails/88e9731b-1842-4863-a849-3f1e97078c06_video.jpg",
     "location": "Valtech",
+    "location_logo": "./img/thumbnails/96d0991e-12ca-4dd2-a4d6-e2efb47a19dd_location.gif",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220728329/",
     "date": "2015-03-10",
     "timestamp": 1426014000
@@ -1148,6 +1211,7 @@
     "video": "https://www.youtube.com/watch?v=mCCW2uTOF7g",
     "thumbnail": "./img/thumbnails/29cd1850-5ca7-4e71-9578-f1ce878fd3ef_video.jpg",
     "location": "Meetic",
+    "location_logo": "./img/thumbnails/a0e2be65-2385-4933-9e33-133408d80614_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/221499748/",
     "date": "2015-04-14",
     "timestamp": 1429038000
@@ -1166,6 +1230,7 @@
     "video": "https://www.youtube.com/watch?v=STsrVWhx4jQ",
     "thumbnail": "./img/thumbnails/0081c2b0-db66-4fc0-8b7e-cc7bee48d783_video.jpg",
     "location": "La cordée",
+    "location_logo": "./img/thumbnails/5c6c9449-a153-4cb2-b66d-d903b3a50eb2_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/156823782/",
     "date": "2014-01-14",
     "timestamp": 1389726000
@@ -1184,6 +1249,7 @@
     "video": "https://www.youtube.com/watch?v=xg1b6_XXyAo",
     "thumbnail": "./img/thumbnails/f7761d7b-4cd4-4133-9494-8877b2ff7ed3_slides.jpg",
     "location": "Deezer",
+    "location_logo": "./img/thumbnails/650e7214-df4b-4cbf-bc54-243e3f1b5138_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/",
     "date": "2016-01-12",
     "timestamp": 1452625200
@@ -1202,6 +1268,7 @@
     "video": "https://www.youtube.com/watch?v=_TmJ8MuhAdI&feature=youtu.be",
     "thumbnail": "./img/thumbnails/9fa52ce8-43e8-4e8f-b29d-d1ddac4f8142_slides.jpg",
     "location": "Valtech",
+    "location_logo": "./img/thumbnails/96d0991e-12ca-4dd2-a4d6-e2efb47a19dd_location.gif",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220728329/",
     "date": "2015-03-10",
     "timestamp": 1426014000
@@ -1220,6 +1287,7 @@
     "video": "https://www.youtube.com/watch?v=dvjsf8FRhY8",
     "thumbnail": "./img/thumbnails/46b73dd1-41c8-4006-8b31-706b1c946a56_video.jpg",
     "location": "SFEIR",
+    "location_logo": "./img/thumbnails/4546fddc-70c2-45a7-a2e2-88af936a8193_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/154147792/",
     "date": "2013-12-10",
     "timestamp": 1386702000
@@ -1238,6 +1306,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
     "date": "2016-07-12",
     "timestamp": 1468350000
@@ -1256,6 +1325,7 @@
     "video": "https://www.youtube.com/watch?v=0z2kyjie3LU",
     "thumbnail": "./img/thumbnails/a13e5a48-3dbe-43a1-a120-17a76a1096de_video.jpg",
     "location": "Soat",
+    "location_logo": "./img/thumbnails/ddb870f9-754c-47b8-9daf-6fa4c015444e_location.svg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
     "date": "2014-06-10",
     "timestamp": 1402426800
@@ -1274,6 +1344,7 @@
     "video": "https://www.youtube.com/watch?v=CxtnIa2ss50",
     "thumbnail": "./img/thumbnails/4d1e36ea-f0e7-43db-ba1d-1b2652387342_video.jpg",
     "location": "Soat",
+    "location_logo": "./img/thumbnails/ddb870f9-754c-47b8-9daf-6fa4c015444e_location.svg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
     "date": "2014-06-10",
     "timestamp": 1402426800
@@ -1292,6 +1363,7 @@
     "video": "https://www.youtube.com/watch?v=rrMwbQf7D7M",
     "thumbnail": "./img/thumbnails/7c608a50-dbde-4ce4-9732-fdf3af02a8fb_video.jpg",
     "location": "La cordée",
+    "location_logo": "./img/thumbnails/5c6c9449-a153-4cb2-b66d-d903b3a50eb2_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/156823782/",
     "date": "2014-01-14",
     "timestamp": 1389726000
@@ -1310,6 +1382,7 @@
     "video": "https://www.youtube.com/watch?v=Tf1cHTVCGO4",
     "thumbnail": "./img/thumbnails/9f19d8ff-1749-4d64-8b1f-7aa0dae8fdf0_video.jpg",
     "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
     "date": "2016-07-12",
     "timestamp": 1468350000
@@ -1328,6 +1401,7 @@
     "video": "https://www.youtube.com/watch?v=ylxksb0GfoI",
     "thumbnail": "./img/thumbnails/1d1206ac-9fb8-4368-aa06-3d22d9efdb75_slides.png",
     "location": "Algolia",
+    "location_logo": "./img/thumbnails/a4d89a44-2818-4163-adf3-f88de6cf9d7e_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/231710622/",
     "date": "2016-06-14",
     "timestamp": 1465930800
@@ -1346,6 +1420,7 @@
     "video": "https://www.youtube.com/watch?v=et5-OnTrUn4",
     "thumbnail": "./img/thumbnails/a4794fda-04ab-4b49-8558-6a00b84ffda9_video.jpg",
     "location": "Urban Linker",
+    "location_logo": "./img/thumbnails/fe61504c-7626-4fc2-8101-2221c024a94a_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/162792422/",
     "date": "2014-02-11",
     "timestamp": 1392145200
@@ -1364,6 +1439,7 @@
     "video": null,
     "thumbnail": "./img/thumbnails/ac0cd318-67e7-43cd-88c5-0ea98fbdb90e_slides.jpg",
     "location": "PrestaShop",
+    "location_logo": "./img/thumbnails/7d7d8d35-884a-4e55-af39-6a41c6932a63_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463072/",
     "date": "2016-10-11",
     "timestamp": 1476212400
@@ -1382,6 +1458,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Le Camping",
+    "location_logo": "./img/thumbnails/5fceecf1-9b8f-4bff-9a59-9be970cecf77_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
     "date": "2013-07-09",
     "timestamp": 1373396400
@@ -1400,6 +1477,7 @@
     "video": "https://www.youtube.com/watch?v=45EurjpgqhI",
     "thumbnail": "./img/thumbnails/28ced70f-f6c1-4d23-9df0-c03766f47728_video.jpg",
     "location": "Deezer",
+    "location_logo": "./img/thumbnails/650e7214-df4b-4cbf-bc54-243e3f1b5138_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/",
     "date": "2015-05-12",
     "timestamp": 1431457200
@@ -1418,6 +1496,7 @@
     "video": "https://www.youtube.com/watch?v=1LEDsHHR6PA",
     "thumbnail": "./img/thumbnails/3b87acd3-5260-4c8c-98bd-75f84a3a5d29_video.jpg",
     "location": "La cordée",
+    "location_logo": "./img/thumbnails/5c6c9449-a153-4cb2-b66d-d903b3a50eb2_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/156823782/",
     "date": "2014-01-14",
     "timestamp": 1389726000
@@ -1436,6 +1515,7 @@
     "video": null,
     "thumbnail": null,
     "location": "PrestaShop",
+    "location_logo": "./img/thumbnails/7d7d8d35-884a-4e55-af39-6a41c6932a63_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463072/",
     "date": "2016-10-11",
     "timestamp": 1476212400
@@ -1454,6 +1534,7 @@
     "video": null,
     "thumbnail": null,
     "location": "PrestaShop",
+    "location_logo": "./img/thumbnails/7d7d8d35-884a-4e55-af39-6a41c6932a63_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463072/",
     "date": "2016-10-11",
     "timestamp": 1476212400
@@ -1472,6 +1553,7 @@
     "video": "https://www.youtube.com/watch?v=CTEwKK2Bpno",
     "thumbnail": "./img/thumbnails/24b24650-9a66-4fd0-938d-98c79dbb4580_video.jpg",
     "location": "50 Partners",
+    "location_logo": "./img/thumbnails/362dc49e-30cf-467a-b936-beb3daa0e9a4_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/",
     "date": "2013-09-10",
     "timestamp": 1378839600
@@ -1490,6 +1572,7 @@
     "video": "https://www.youtube.com/watch?v=c_fw42unkqw",
     "thumbnail": "./img/thumbnails/87aa4e4b-4a25-4663-920d-bcd9dd9cb059_slides.jpg",
     "location": "Ecole 42",
+    "location_logo": "./img/thumbnails/1569e9a0-a1c6-4b72-a0eb-ee39f5112d53_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
     "date": "2015-02-10",
     "timestamp": 1423594800
@@ -1508,6 +1591,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Viadeo",
+    "location_logo": "./img/thumbnails/7385f832-3d88-4ffa-82be-1279f238e464_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/229152027/",
     "date": "2016-03-08",
     "timestamp": 1457463600
@@ -1526,6 +1610,7 @@
     "video": "https://www.youtube.com/watch?v=Lu8nwkgfVIg",
     "thumbnail": "./img/thumbnails/b2ec91f0-f448-4fa8-8ef0-2383674e7d72_video.jpg",
     "location": "ECE",
+    "location_logo": "./img/thumbnails/541b4f2f-3d2a-42f1-958e-0988822c8ef7_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/",
     "date": "2014-07-08",
     "timestamp": 1404846000
@@ -1544,6 +1629,7 @@
     "video": "https://www.youtube.com/watch?v=TB4o3ztUaQw",
     "thumbnail": "./img/thumbnails/f3484200-a84a-411d-8bc3-5304c1b36d98_video.jpg",
     "location": "Mozilla",
+    "location_logo": "./img/thumbnails/f62cf102-9fcc-4a25-b528-c20efac11775_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/168226002/",
     "date": "2014-03-11",
     "timestamp": 1394564400
@@ -1562,6 +1648,7 @@
     "video": "https://www.youtube.com/watch?v=Kirit9Xl6ZM",
     "thumbnail": "./img/thumbnails/e0645084-98a9-4fd2-b8d4-0228e0356134_video.jpg",
     "location": "OCTO Technology",
+    "location_logo": "./img/thumbnails/58e72bd3-be7b-4aa7-850c-f2ea2b73c226_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/216770782/",
     "date": "2014-11-18",
     "timestamp": 1416337200
@@ -1580,6 +1667,7 @@
     "video": "https://www.youtube.com/watch?v=j2n6MargPj8",
     "thumbnail": "./img/thumbnails/6a793d64-bf1c-41a9-bcdd-9dab63008b3f_slides.jpg",
     "location": "Deezer",
+    "location_logo": "./img/thumbnails/650e7214-df4b-4cbf-bc54-243e3f1b5138_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/",
     "date": "2015-05-12",
     "timestamp": 1431457200
@@ -1598,6 +1686,7 @@
     "video": "https://www.youtube.com/watch?v=IYE9ih9EGJk",
     "thumbnail": "./img/thumbnails/1edcce4f-8b09-4897-b9c9-ab3d6f58eb36_video.jpg",
     "location": "PrestaShop",
+    "location_logo": "./img/thumbnails/7d7d8d35-884a-4e55-af39-6a41c6932a63_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/223305711/",
     "date": "2015-07-07",
     "timestamp": 1436295600
@@ -1616,6 +1705,7 @@
     "video": "https://www.youtube.com/watch?v=kKD0o1t92lY",
     "thumbnail": "./img/thumbnails/499b5a7a-7a02-4e46-a402-5e68ada1ba01_slides.jpg",
     "location": "Ecole 42",
+    "location_logo": "./img/thumbnails/1569e9a0-a1c6-4b72-a0eb-ee39f5112d53_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
     "date": "2015-02-10",
     "timestamp": 1423594800
@@ -1634,6 +1724,7 @@
     "video": "https://www.youtube.com/watch?v=RUh4QOaT_60",
     "thumbnail": "./img/thumbnails/7cf50a0c-75ee-4798-874e-ca0077360b4a_video.jpg",
     "location": "SFEIR",
+    "location_logo": "./img/thumbnails/4546fddc-70c2-45a7-a2e2-88af936a8193_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/",
     "date": "2016-09-13",
     "timestamp": 1473793200
@@ -1652,6 +1743,7 @@
     "video": "https://www.youtube.com/watch?v=i3hcwsIJ-Hw",
     "thumbnail": "./img/thumbnails/2391b543-75af-49df-87ba-c123ff31be3f_video.jpg",
     "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
     "date": "2015-01-13",
     "timestamp": 1421175600
@@ -1670,6 +1762,7 @@
     "video": "https://www.youtube.com/watch?v=8KRhwA_XC-I",
     "thumbnail": "./img/thumbnails/d7363d44-9d0f-427e-9883-1cdbdf0490ef_slides.jpg",
     "location": "SFEIR",
+    "location_logo": "./img/thumbnails/4546fddc-70c2-45a7-a2e2-88af936a8193_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/154147792/",
     "date": "2013-12-10",
     "timestamp": 1386702000
@@ -1688,6 +1781,7 @@
     "video": "https://www.youtube.com/watch?v=moNZ1jrazsc",
     "thumbnail": "./img/thumbnails/9f99a3ef-6cc9-437b-901f-160422131b5f_slides.jpg",
     "location": "PrestaShop",
+    "location_logo": "./img/thumbnails/7d7d8d35-884a-4e55-af39-6a41c6932a63_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/223305711/",
     "date": "2015-07-07",
     "timestamp": 1436295600
@@ -1706,6 +1800,7 @@
     "video": "https://www.youtube.com/watch?v=bS5ZQkIHuwU",
     "thumbnail": "./img/thumbnails/66485a2d-8033-4535-8e8e-3de0b522a616_slides.jpg",
     "location": "Urban Linker",
+    "location_logo": "./img/thumbnails/fe61504c-7626-4fc2-8101-2221c024a94a_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/162792422/",
     "date": "2014-02-11",
     "timestamp": 1392145200
@@ -1724,6 +1819,7 @@
     "video": "https://www.youtube.com/watch?v=Okz-tFyfu64",
     "thumbnail": null,
     "location": "OCTO Technology",
+    "location_logo": "./img/thumbnails/58e72bd3-be7b-4aa7-850c-f2ea2b73c226_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/224944580/",
     "date": "2015-09-08",
     "timestamp": 1441738800
@@ -1742,6 +1838,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Viadeo",
+    "location_logo": "./img/thumbnails/7385f832-3d88-4ffa-82be-1279f238e464_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/229152027/",
     "date": "2016-03-08",
     "timestamp": 1457463600
@@ -1760,6 +1857,7 @@
     "video": "https://www.youtube.com/watch?v=ck2dIrrVTWs",
     "thumbnail": "./img/thumbnails/1233841d-ba4c-49d3-9581-e835bbe1662b_video.jpg",
     "location": "ECE",
+    "location_logo": "./img/thumbnails/541b4f2f-3d2a-42f1-958e-0988822c8ef7_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/",
     "date": "2014-07-08",
     "timestamp": 1404846000
@@ -1778,6 +1876,7 @@
     "video": "https://www.youtube.com/watch?v=wsAMdKKHjck",
     "thumbnail": "./img/thumbnails/9b59c39b-2e77-4502-9d96-89c7c40d8539_video.jpg",
     "location": "PrestaShop",
+    "location_logo": "./img/thumbnails/7d7d8d35-884a-4e55-af39-6a41c6932a63_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/223305711/",
     "date": "2015-07-07",
     "timestamp": 1436295600
@@ -1796,6 +1895,7 @@
     "video": "https://www.youtube.com/watch?v=e_qBM4oPcFQ",
     "thumbnail": "./img/thumbnails/78afabb8-0e88-4b06-8c5b-6b3fa9d69605_video.jpg",
     "location": "LeBonCoin",
+    "location_logo": "./img/thumbnails/32d7c587-dd88-4f43-a58a-fe537f447e4c_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226509764/",
     "date": "2015-12-08",
     "timestamp": 1449601200
@@ -1814,6 +1914,7 @@
     "video": "https://www.youtube.com/watch?v=-7LWklt079c",
     "thumbnail": "./img/thumbnails/31ec4a8b-34d4-461d-ab19-21fd9cf3faab_video.jpg",
     "location": "Deezer",
+    "location_logo": "./img/thumbnails/650e7214-df4b-4cbf-bc54-243e3f1b5138_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/",
     "date": "2016-01-12",
     "timestamp": 1452625200
@@ -1828,6 +1929,7 @@
     "video": "https://www.youtube.com/watch?v=TLwoG11cgSE&feature=youtu.be",
     "thumbnail": "./img/thumbnails/bbe27201-41a2-48af-ad06-210ffe983023_video.jpg",
     "location": "Mobiskill",
+    "location_logo": "./img/thumbnails/ab274f6a-2700-41ce-8e48-e769a00244fd_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/172589822/",
     "date": "2014-04-08",
     "timestamp": 1396983600
@@ -1846,6 +1948,7 @@
     "video": "https://www.youtube.com/watch?v=yJCIHEF_lOM",
     "thumbnail": "./img/thumbnails/a91f8280-66ac-4929-a46e-74f13df2c62c_slides.jpg",
     "location": "Ecole 42",
+    "location_logo": "./img/thumbnails/1569e9a0-a1c6-4b72-a0eb-ee39f5112d53_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
     "date": "2015-02-10",
     "timestamp": 1423594800
@@ -1864,6 +1967,7 @@
     "video": "https://www.youtube.com/watch?v=h30-7VCFMvw",
     "thumbnail": "./img/thumbnails/8640b52a-26a2-483a-bb9b-c390178347a4_video.jpg",
     "location": "ECE",
+    "location_logo": "./img/thumbnails/541b4f2f-3d2a-42f1-958e-0988822c8ef7_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/",
     "date": "2014-07-08",
     "timestamp": 1404846000
@@ -1882,6 +1986,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Google",
+    "location_logo": "./img/thumbnails/4e7ff2ef-94d1-4ace-82d7-31b3e746e43a_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
     "date": "2016-11-08",
     "timestamp": 1478631600
@@ -1900,6 +2005,7 @@
     "video": null,
     "thumbnail": null,
     "location": "PrestaShop",
+    "location_logo": "./img/thumbnails/7d7d8d35-884a-4e55-af39-6a41c6932a63_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463072/",
     "date": "2016-10-11",
     "timestamp": 1476212400
@@ -1918,6 +2024,7 @@
     "video": "https://www.youtube.com/watch?v=3ydT-5UbDC4",
     "thumbnail": "./img/thumbnails/6d79e0e4-3195-4028-81f5-78442d2a7349_slides.png",
     "location": "OCTO Technology",
+    "location_logo": "./img/thumbnails/58e72bd3-be7b-4aa7-850c-f2ea2b73c226_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/224944580/",
     "date": "2015-09-08",
     "timestamp": 1441738800
@@ -1936,6 +2043,7 @@
     "video": "https://www.youtube.com/watch?v=07VPVTCV4cc",
     "thumbnail": "./img/thumbnails/e00ad5a2-22a9-462f-8c43-516111890888_video.jpg",
     "location": "Mobiskill",
+    "location_logo": "./img/thumbnails/ab274f6a-2700-41ce-8e48-e769a00244fd_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/172589822/",
     "date": "2014-04-08",
     "timestamp": 1396983600
@@ -1954,6 +2062,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Le Camping",
+    "location_logo": "./img/thumbnails/5fceecf1-9b8f-4bff-9a59-9be970cecf77_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
     "date": "2013-07-09",
     "timestamp": 1373396400
@@ -1972,6 +2081,7 @@
     "video": "https://www.youtube.com/watch?v=1HUBzpaDEZU",
     "thumbnail": "./img/thumbnails/1dd41aeb-c901-417d-b882-f2ae2eac5a82_video.jpg",
     "location": "Adobe",
+    "location_logo": "./img/thumbnails/558dd8ea-bf21-4326-a0d7-6c57ba1c9fff_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/181483902/",
     "date": "2014-05-13",
     "timestamp": 1400007600
@@ -1990,6 +2100,7 @@
     "video": null,
     "thumbnail": "./img/thumbnails/8e1a55d9-a732-432b-8e1a-a960345fa3b8_slides.png",
     "location": "LaFourchette",
+    "location_logo": "./img/thumbnails/d2bd4be8-1593-474a-9806-bd1a0cada37f_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/",
     "date": "2016-05-10",
     "timestamp": 1462906800
@@ -2008,6 +2119,7 @@
     "video": "https://www.youtube.com/watch?v=dOmL1QVbx4Q",
     "thumbnail": "./img/thumbnails/db75eaa6-254c-4265-84a6-a29e7b59d758_video.jpg",
     "location": "Viadeo",
+    "location_logo": "./img/thumbnails/7385f832-3d88-4ffa-82be-1279f238e464_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222711539/",
     "date": "2015-06-09",
     "timestamp": 1433876400
@@ -2026,6 +2138,7 @@
     "video": null,
     "thumbnail": "./img/thumbnails/1c17439f-b047-4bbd-8e15-efcfd2b6201d_slides.jpg",
     "location": "Urban Linker",
+    "location_logo": "./img/thumbnails/fe61504c-7626-4fc2-8101-2221c024a94a_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/",
     "date": "2015-10-13",
     "timestamp": 1444762800
@@ -2044,6 +2157,7 @@
     "video": "https://www.youtube.com/watch?v=Mg7oTkrMT2U",
     "thumbnail": "./img/thumbnails/88c1ce37-703c-437e-9cd2-57ee69a682d2_video.jpg",
     "location": "OCTO Technology",
+    "location_logo": "./img/thumbnails/58e72bd3-be7b-4aa7-850c-f2ea2b73c226_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/224944580/",
     "date": "2015-09-08",
     "timestamp": 1441738800
@@ -2067,6 +2181,7 @@
     "video": "https://www.youtube.com/watch?v=tq5jbplFlHA",
     "thumbnail": "./img/thumbnails/6c9a8098-2fb6-4284-8ae5-892214f3bd05_video.jpg",
     "location": "SFEIR",
+    "location_logo": "./img/thumbnails/4546fddc-70c2-45a7-a2e2-88af936a8193_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/",
     "date": "2016-09-13",
     "timestamp": 1473793200
@@ -2085,6 +2200,7 @@
     "video": "https://www.youtube.com/watch?v=OPKSuqm5RvA",
     "thumbnail": "./img/thumbnails/bb567e3c-b4c5-4555-a786-5526cff1e4ba_video.jpg",
     "location": "Maltem",
+    "location_logo": "./img/thumbnails/5f4a41ff-eada-4f4a-8044-91ae428a77c6_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/218938429/",
     "date": "2014-12-09",
     "timestamp": 1418151600
@@ -2103,6 +2219,7 @@
     "video": null,
     "thumbnail": null,
     "location": "BeMyApp",
+    "location_logo": "./img/thumbnails/f5edecf0-712e-4cff-b7da-563858fc1ac1_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230195850/",
     "date": "2016-04-12",
     "timestamp": 1460487600
@@ -2121,6 +2238,7 @@
     "video": "https://www.youtube.com/watch?v=_JxOriDFwbY",
     "thumbnail": "./img/thumbnails/854bc89b-99ff-48c5-bd7b-73ea21620b50_video.jpg",
     "location": "Viadeo",
+    "location_logo": "./img/thumbnails/7385f832-3d88-4ffa-82be-1279f238e464_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222711539/",
     "date": "2015-06-09",
     "timestamp": 1433876400
@@ -2139,6 +2257,7 @@
     "video": "https://www.youtube.com/watch?v=A_A3gm11Ttc",
     "thumbnail": "./img/thumbnails/4b2e70de-3169-4878-9d90-aeab07b58552_video.jpg",
     "location": "Start-Way",
+    "location_logo": "./img/thumbnails/13b400ab-475c-4cb8-8144-64b648d2ff46_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/142883912/",
     "date": "2013-10-08",
     "timestamp": 1381258800
@@ -2162,6 +2281,7 @@
     "video": null,
     "thumbnail": "./img/thumbnails/2750574c-1754-49fd-88ba-df890235980e_slides.jpg",
     "location": "Mozilla",
+    "location_logo": "./img/thumbnails/f62cf102-9fcc-4a25-b528-c20efac11775_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/",
     "date": "2014-09-09",
     "timestamp": 1410289200
@@ -2180,6 +2300,7 @@
     "video": "https://www.youtube.com/watch?v=KVNhk6uGmr8",
     "thumbnail": "./img/thumbnails/4618943e-0b3d-459e-97f9-db9c741164ec_video.jpg",
     "location": "Urban Linker",
+    "location_logo": "./img/thumbnails/fe61504c-7626-4fc2-8101-2221c024a94a_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/162792422/",
     "date": "2014-02-11",
     "timestamp": 1392145200
@@ -2198,6 +2319,7 @@
     "video": "https://www.youtube.com/watch?v=Ph6NVoRpBgE",
     "thumbnail": "./img/thumbnails/78cf720d-be3e-4928-ad18-fcb4a86953c9_video.jpg",
     "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
     "date": "2016-07-12",
     "timestamp": 1468350000
@@ -2216,6 +2338,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
     "date": "2016-07-12",
     "timestamp": 1468350000
@@ -2234,6 +2357,7 @@
     "video": "https://www.youtube.com/watch?v=HfGjEEfxXf0",
     "thumbnail": "./img/thumbnails/6d1c6d36-9875-43f1-88a4-8d82bbc5ce08_video.jpg",
     "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
     "date": "2015-01-13",
     "timestamp": 1421175600
@@ -2252,6 +2376,7 @@
     "video": "https://www.youtube.com/watch?v=q5tbKFJcOnw",
     "thumbnail": "./img/thumbnails/7787ebf4-a41e-4fb8-8416-18657632a9c6_video.jpg",
     "location": "Soat",
+    "location_logo": "./img/thumbnails/ddb870f9-754c-47b8-9daf-6fa4c015444e_location.svg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
     "date": "2014-06-10",
     "timestamp": 1402426800
@@ -2270,6 +2395,7 @@
     "video": null,
     "thumbnail": "./img/thumbnails/159ccc07-ac50-4a31-8ddd-eb445cf0a050_slides.jpg",
     "location": "Criteo",
+    "location_logo": "./img/thumbnails/cf9bd9ca-3ce9-4487-b2a9-c4c9cada182b_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/228454758/",
     "date": "2016-02-09",
     "timestamp": 1455044400
@@ -2288,6 +2414,7 @@
     "video": "https://www.youtube.com/watch?v=ZxHgqw8a08c",
     "thumbnail": "./img/thumbnails/7e0e5b23-5eab-425f-9466-74dc1446db81_video.jpg",
     "location": "Viadeo",
+    "location_logo": "./img/thumbnails/7385f832-3d88-4ffa-82be-1279f238e464_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222711539/",
     "date": "2015-06-09",
     "timestamp": 1433876400
@@ -2306,6 +2433,7 @@
     "video": "https://www.youtube.com/watch?v=56mqvH6bksE",
     "thumbnail": "./img/thumbnails/6d162bbe-5f68-4acd-b52b-a0101590eb6c_video.jpg",
     "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
     "date": "2015-01-13",
     "timestamp": 1421175600
@@ -2324,6 +2452,7 @@
     "video": null,
     "thumbnail": null,
     "location": "50 Partners",
+    "location_logo": "./img/thumbnails/362dc49e-30cf-467a-b936-beb3daa0e9a4_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/",
     "date": "2013-09-10",
     "timestamp": 1378839600
@@ -2342,6 +2471,7 @@
     "video": "https://www.youtube.com/watch?v=3CldnObRbf0",
     "thumbnail": "./img/thumbnails/c2507b7f-ab5a-44dd-936c-0285d59256af_video.jpg",
     "location": "Algolia",
+    "location_logo": "./img/thumbnails/a4d89a44-2818-4163-adf3-f88de6cf9d7e_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/231710622/",
     "date": "2016-06-14",
     "timestamp": 1465930800
@@ -2360,6 +2490,7 @@
     "video": "https://www.youtube.com/watch?v=AbMNR2P29p4",
     "thumbnail": "./img/thumbnails/1f89db06-57d9-48aa-832a-5a1945ef7b49_video.jpg",
     "location": "Maltem",
+    "location_logo": "./img/thumbnails/5f4a41ff-eada-4f4a-8044-91ae428a77c6_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/218938429/",
     "date": "2014-12-09",
     "timestamp": 1418151600
@@ -2378,6 +2509,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Mozilla",
+    "location_logo": "./img/thumbnails/f62cf102-9fcc-4a25-b528-c20efac11775_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/",
     "date": "2014-09-09",
     "timestamp": 1410289200
@@ -2396,6 +2528,7 @@
     "video": null,
     "thumbnail": "./img/thumbnails/c80fdf31-f58c-48a8-a536-6982ec74d14b_slides.png",
     "location": "Urban Linker",
+    "location_logo": "./img/thumbnails/fe61504c-7626-4fc2-8101-2221c024a94a_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/",
     "date": "2015-10-13",
     "timestamp": 1444762800
@@ -2414,6 +2547,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Société Générale",
+    "location_logo": "./img/thumbnails/33c26550-5dcc-4896-81eb-c75fd81436ca_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226344243/",
     "date": "2015-11-10",
     "timestamp": 1447182000
@@ -2432,6 +2566,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Criteo",
+    "location_logo": "./img/thumbnails/cf9bd9ca-3ce9-4487-b2a9-c4c9cada182b_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/228454758/",
     "date": "2016-02-09",
     "timestamp": 1455044400
@@ -2450,6 +2585,7 @@
     "video": null,
     "thumbnail": null,
     "location": "BeMyApp",
+    "location_logo": "./img/thumbnails/f5edecf0-712e-4cff-b7da-563858fc1ac1_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230195850/",
     "date": "2016-04-12",
     "timestamp": 1460487600
@@ -2468,6 +2604,7 @@
     "video": "https://www.youtube.com/watch?v=mOKlilD4Pco",
     "thumbnail": "./img/thumbnails/6439686e-a199-4c43-bc2a-f1d65e3bbf46_video.jpg",
     "location": "Mozilla",
+    "location_logo": "./img/thumbnails/f62cf102-9fcc-4a25-b528-c20efac11775_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/168226002/",
     "date": "2014-03-11",
     "timestamp": 1394564400
@@ -2491,6 +2628,7 @@
     "video": "https://www.youtube.com/watch?v=QvzCnHUlIgA",
     "thumbnail": "./img/thumbnails/934740dd-f130-4468-b2d9-2b21032f7fa7_video.jpg",
     "location": "50 Partners",
+    "location_logo": "./img/thumbnails/362dc49e-30cf-467a-b936-beb3daa0e9a4_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/",
     "date": "2013-09-10",
     "timestamp": 1378839600
@@ -2509,6 +2647,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Google",
+    "location_logo": "./img/thumbnails/4e7ff2ef-94d1-4ace-82d7-31b3e746e43a_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
     "date": "2016-11-08",
     "timestamp": 1478631600
@@ -2527,6 +2666,7 @@
     "video": "https://www.youtube.com/watch?v=F5AfJYEtoY8",
     "thumbnail": "./img/thumbnails/c6f03502-52ba-486f-b4a6-c6905c966879_video.jpg",
     "location": "LeBonCoin",
+    "location_logo": "./img/thumbnails/32d7c587-dd88-4f43-a58a-fe537f447e4c_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226509764/",
     "date": "2015-12-08",
     "timestamp": 1449601200
@@ -2545,6 +2685,7 @@
     "video": "https://www.youtube.com/watch?v=SORZkklLKCk",
     "thumbnail": "./img/thumbnails/2ce8c493-acd5-48bb-b408-eabdc1e205cd_slides.png",
     "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/148407972/",
     "date": "2013-11-12",
     "timestamp": 1384282800
@@ -2563,6 +2704,7 @@
     "video": "https://www.youtube.com/watch?v=EB2CZndGU9A&feature=youtu.be",
     "thumbnail": "./img/thumbnails/aaed6def-b416-4f96-aedf-d4bb41d627fa_slides.jpg",
     "location": "Valtech",
+    "location_logo": "./img/thumbnails/96d0991e-12ca-4dd2-a4d6-e2efb47a19dd_location.gif",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220728329/",
     "date": "2015-03-10",
     "timestamp": 1426014000
@@ -2581,6 +2723,7 @@
     "video": "https://www.youtube.com/watch?v=gCotCm5qYmE",
     "thumbnail": "./img/thumbnails/08a3ca35-7eaf-490e-b2dd-974bf661764c_video.jpg",
     "location": "Soat",
+    "location_logo": "./img/thumbnails/ddb870f9-754c-47b8-9daf-6fa4c015444e_location.svg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/185423162/",
     "date": "2014-06-10",
     "timestamp": 1402426800
@@ -2599,6 +2742,7 @@
     "video": "https://www.youtube.com/watch?v=qvaYpzTHRBc",
     "thumbnail": "./img/thumbnails/3d4952b9-7000-4063-b53c-d6bfd6f8463a_video.jpg",
     "location": "OCTO Technology",
+    "location_logo": "./img/thumbnails/58e72bd3-be7b-4aa7-850c-f2ea2b73c226_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/216770782/",
     "date": "2014-11-18",
     "timestamp": 1416337200
@@ -2617,6 +2761,7 @@
     "video": null,
     "thumbnail": "./img/thumbnails/aea764c3-53bd-4186-8e4a-d64784ec3b45_slides.jpg",
     "location": "Le Camping",
+    "location_logo": "./img/thumbnails/5fceecf1-9b8f-4bff-9a59-9be970cecf77_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
     "date": "2013-07-09",
     "timestamp": 1373396400
@@ -2635,6 +2780,7 @@
     "video": "https://www.youtube.com/watch?v=3AdNd3XYxEo",
     "thumbnail": "./img/thumbnails/d0a456ea-0b11-4eff-aa80-421b9639cab1_slides.png",
     "location": "Meetic",
+    "location_logo": "./img/thumbnails/a0e2be65-2385-4933-9e33-133408d80614_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/221499748/",
     "date": "2015-04-14",
     "timestamp": 1429038000
@@ -2653,6 +2799,7 @@
     "video": null,
     "thumbnail": null,
     "location": "LaFourchette",
+    "location_logo": "./img/thumbnails/d2bd4be8-1593-474a-9806-bd1a0cada37f_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/",
     "date": "2016-05-10",
     "timestamp": 1462906800
@@ -2671,6 +2818,7 @@
     "video": "https://www.youtube.com/watch?v=ecc1zudWmX4",
     "thumbnail": "./img/thumbnails/63158f20-752a-4172-a222-4eccd44815b6_slides.png",
     "location": "Mozilla",
+    "location_logo": "./img/thumbnails/f62cf102-9fcc-4a25-b528-c20efac11775_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/",
     "date": "2014-09-09",
     "timestamp": 1410289200
@@ -2689,6 +2837,7 @@
     "video": "https://www.youtube.com/watch?v=oObnt3CvDRs",
     "thumbnail": "./img/thumbnails/7cedcf5f-f63a-41ba-86ba-bb179922ac1a_video.jpg",
     "location": "Deezer",
+    "location_logo": "./img/thumbnails/650e7214-df4b-4cbf-bc54-243e3f1b5138_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/",
     "date": "2016-01-12",
     "timestamp": 1452625200
@@ -2707,6 +2856,7 @@
     "video": "https://www.youtube.com/watch?v=k2lJiiDzhaE",
     "thumbnail": "./img/thumbnails/f5ffa716-1f2b-468d-98dd-991d785d4f04_video.jpg",
     "location": "OCTO Technology",
+    "location_logo": "./img/thumbnails/58e72bd3-be7b-4aa7-850c-f2ea2b73c226_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/224944580/",
     "date": "2015-09-08",
     "timestamp": 1441738800
@@ -2725,6 +2875,7 @@
     "video": null,
     "thumbnail": null,
     "location": "BeMyApp",
+    "location_logo": "./img/thumbnails/f5edecf0-712e-4cff-b7da-563858fc1ac1_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230195850/",
     "date": "2016-04-12",
     "timestamp": 1460487600
@@ -2743,6 +2894,7 @@
     "video": "https://www.youtube.com/watch?v=8ISf4n4VXpk",
     "thumbnail": "./img/thumbnails/deca9bf2-30a1-4e83-b8f0-4d5d44de0261_video.jpg",
     "location": "Adobe",
+    "location_logo": "./img/thumbnails/558dd8ea-bf21-4326-a0d7-6c57ba1c9fff_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/181483902/",
     "date": "2014-05-13",
     "timestamp": 1400007600
@@ -2761,6 +2913,7 @@
     "video": null,
     "thumbnail": null,
     "location": "Google",
+    "location_logo": "./img/thumbnails/4e7ff2ef-94d1-4ace-82d7-31b3e746e43a_location.jpg",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
     "date": "2016-11-08",
     "timestamp": 1478631600
@@ -2779,6 +2932,7 @@
     "video": "https://www.youtube.com/watch?v=hdM1wltUTyQ",
     "thumbnail": "./img/thumbnails/3818ddb4-16dc-412b-9eef-596e2a995dbb_video.jpg",
     "location": "La cordée",
+    "location_logo": "./img/thumbnails/5c6c9449-a153-4cb2-b66d-d903b3a50eb2_location.png",
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/156823782/",
     "date": "2014-01-14",
     "timestamp": 1389726000

@@ -33,6 +33,7 @@ class Extract
         video: talk['video'],
         thumbnail: thumbnail(talk),
         location: talk['meetup']['venue']['name'],
+        location_logo: location_logo(talk['meetup']['venue']),
         meetup: talk['meetup']['meetupUrl'],
         date: date,
         timestamp: timestamp
@@ -79,6 +80,33 @@ class Extract
       `mv #{thumbnail} #{savepath}`
     end
     www_path(savepath)
+  end
+
+  def location_logo(venue)
+    # If the thumbnail already exists locally, we use it
+    existing_thumbnails = Dir["./app/assets/img/thumbnails/#{venue['id']}*"]
+    return www_path(existing_thumbnails[0]) unless existing_thumbnails.empty?
+
+    logo = venue['logo']
+    return nil unless logo
+    extension = logo.split('.').last
+    savepath = "./app/assets/img/thumbnails/#{venue['id']}_location.#{extension}"
+    `wget "#{logo}" -O #{savepath}`
+
+    # Some of those files are actually png in disguise
+    if (extension != 'png' && png?(savepath))
+      newpath = savepath.gsub(/#{extension}$/, 'png')
+      command = "mv #{savepath} #{newpath}"
+      `#{command}`
+      savepath = newpath
+    end
+
+    www_path(savepath)
+  end
+
+  def png?(file)
+    raw = `file #{file.shellescape}`
+    raw =~ /PNG image data/
   end
 
   # Find the thumbnail of a Youtube video from its url
