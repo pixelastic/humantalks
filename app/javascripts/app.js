@@ -23,7 +23,7 @@ let Search = {
     // this.search.on('render', this.onRender);
 
     this.addSearchBoxWidget();
-    // this.addStatsWidget();
+    this.addStatsWidget();
     // this.addTagsWidget();
     // this.addAuthorsWidget();
     // this.addTypeWidget();
@@ -275,7 +275,12 @@ let Search = {
   addStatsWidget() {
     this.search.addWidget(
       instantsearch.widgets.stats({
-        container: '#stats'
+        container: '#js-stats',
+        templates: {
+          body: (options) => {
+            return `${options.nbHits} résultats trouvés en ${options.processingTimeMS}ms`
+          }
+        }
       })
     );
   },
