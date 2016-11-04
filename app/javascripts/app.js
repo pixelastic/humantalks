@@ -6,11 +6,6 @@ let Search = {
       apiKey: '36caf26b37562229d205f0eeceeac37f',
       indexName: 'humantalks',
       urlSync: true,
-      // searchFunction: (helper) => {
-      //   // Reset the lazyloadCounter
-      //   Search.lazyloadCounter = 0;
-      //   helper.search();
-      // }
     });
 
     this.showMoreTemplates = {
@@ -20,12 +15,9 @@ let Search = {
 
     this.websiteUrl = 'https://pixelastic.github.io/humantalks/';
 
-    // this.search.on('render', this.onRender);
-
     this.addSearchBoxWidget();
     this.addStatsWidget();
-    // this.addTagsWidget();
-    // this.addAuthorsWidget();
+    this.addSpeakersWidget();
     // this.addTypeWidget();
     // this.addRessourcesWidget();
     // this.addYearWidget();
@@ -34,21 +26,6 @@ let Search = {
 
     this.search.start();
   },
-  // onRender() {
-  //   // Enable lazyloading of images below the fold
-  //   let hits = $('.hit');
-  //   function onVisible(hit) {
-  //     $(hit).addClass('hit__inViewport');
-  //   }
-  //   _.each(hits, (hit) => {
-  //     inViewport(hit, {offset: 50}, onVisible);
-  //   });
-  // },
-  // // Check if the specified facet value is currently refined
-  // isRefined(facetName, facetValue) {
-  //   let facetRefinements = Search.search.helper.getRefinements(facetName);
-  //   return !!_.find(facetRefinements, { value: facetValue });
-  // },
   cloudinary(url, options) {
     if (!url) {
       return url;
@@ -99,7 +76,6 @@ let Search = {
 // <!--Facetting sur les lieux dans la sidebar-->
 // <!--Facetting sur la date dans la sidebar-->
 // <!--Facetting sur les lieux/speakers/évenement dans les hits-->
-// <!--Pagination-->
 // <!--Lien sur le logo de clear all-->
 // <!--RWD petit écran un résultat par ligne-->
     
@@ -298,13 +274,21 @@ let Search = {
       })
     );
   },
-  addAuthorsWidget() {
+  addSpeakersWidget() {
     this.search.addWidget(
       instantsearch.widgets.refinementList({
-        container: '#authors',
+        container: '#js-speakers',
         attributeName: 'authors.name',
         operator: 'or',
-        sortBy: ['isRefined', 'name:asc', 'count:desc'],
+        sortBy: ['isRefined', 'count:desc', 'name:asc'],
+        cssClasses: {
+          root: '',
+          item: '',
+          label: 'db relative pointer pa1 hover-purple',
+          count: 'absolute right-0 top-0 mr1 br-pill bg-purple white pa1 f6',
+          active: 'b purple',
+          checkbox: 'dn'
+        },
         limit: 10,
         showMore: {
           limit: 20,
