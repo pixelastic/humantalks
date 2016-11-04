@@ -4,3 +4,12 @@
 - description = "Recherchez dans l'ensemble des talks des HumanTalks Paris"
 - short_description = "Recherche HumanTalks Paris"
 - opengraph_image = "https://pixelastic.github.io/humantalks/img/opengraph.png"
+
+
+mixin cloudinary_logo(logo)
+  - cloudinary_base = 'https://res.cloudinary.com/pixelastic-humantalks/image/fetch/'
+  - effects = 'h_20,c_scale,q_90,f_auto'
+  - websiteurl = `${baseurl}img/sponsors/${logo}.png`
+  - fullurl = `${cloudinary_base}${effects}/${websiteurl}`
+  img(src=fullurl)
+
