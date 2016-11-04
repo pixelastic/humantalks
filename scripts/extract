@@ -27,7 +27,7 @@ class Extract
       date = Time.at(timestamp).to_datetime.strftime('%Y-%m-%d')
       record = {
         title: talk['title'],
-        description: talk['description'],
+        description: talk['description'] || '',
         authors: authors(talk),
         slides: talk['slides'],
         video: talk['video'],

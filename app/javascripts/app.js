@@ -106,6 +106,7 @@ let Search = {
     let title = Search.getHighlightedValue(data, 'title');
 
     // Description
+    console.info(data, data._snippetResult);
     let description = data._snippetResult.description.value;
     description = description.replace(' …', '…');
 

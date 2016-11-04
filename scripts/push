@@ -4,6 +4,12 @@ require 'algoliasearch'
 
 records = JSON.parse(File.open('./data/records.json').read)
 
+# Filtering records
+now = Time.new.to_datetime.strftime('%Y-%m-%d')
+records = records.reject do |record|
+  record['date'] > now
+end
+
 app_id = 'O3F8QXYK6R'
 api_key = File.read('./_algolia_api_key').chomp
 index_name = 'humantalks'
