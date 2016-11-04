@@ -201,6 +201,7 @@ var Search = {
     var title = Search.getHighlightedValue(data, 'title');
 
     // Description
+    console.info(data, data._snippetResult);
     var description = data._snippetResult.description.value;
     description = description.replace(' …', '…');
 
