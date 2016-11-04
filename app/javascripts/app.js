@@ -103,19 +103,28 @@ let Search = {
 // <!--Lien sur le logo de clear all-->
 // <!--RWD petit écran un résultat par ligne-->
     
-    // Title
-    let title = Search.getHighlightedValue(data, 'title');
-
-    // Description
-    let description = data._snippetResult.description.value;
-    description = description.replace(' …', '…');
-
     // Various urls
     let videoUrl = data.video;
     let slidesUrl = data.slides;
     let meetupUrl = data.meetup;
     let hasVideo = !!videoUrl;
     let hasSlides = !!slidesUrl;
+
+    // Title
+    let title = Search.getHighlightedValue(data, 'title');
+    // Default link goes to video, fallback on slides or meetup page
+    let titleLink = videoUrl;
+    if (!titleLink) {
+      titleLink = slidesUrl;
+    }
+    if (!titleLink) {
+      titleLink = meetupUrl;
+    }
+
+    // Description
+    let description = data._snippetResult.description.value;
+    description = description.replace(' …', '…');
+
 
     // Thumbnail
     let thumbnail = data.thumbnail;
@@ -177,6 +186,7 @@ let Search = {
 
     let displayedData = {
       title,
+      titleLink,
       description,
       thumbnail,
       thumbnailLink,
