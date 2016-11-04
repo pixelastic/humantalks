@@ -1,11 +1,11 @@
 <script id="js-template-hits" language="x-template">
   <div class="flex-auto flex-row-nowrap mr2 mt2 bg-white shadow-3 pa2">
 
-    <div class="flex-none w-33 flex-column-nowrap">
+    <div class="flex-none w5 flex-column-nowrap">
       <a href="{{thumbnailLink}}" class="flex-auto flex-center flex link">
-        <img src="{{thumbnail}}" class="" />
+        <img src="{{thumbnail}}" class="br2 h4" />
       </a>
-      <div class="flex-auto flex-row-nowrap items-end">
+      <div class="flex-auto flex-row-nowrap items-end mt2">
         <a href="{{meetupUrl}}" class="flex-auto link hover-purple tc f6 dark-gray hit--meetup">
           <span class="fa fa-meetup db f3 mb1"></span>
           Meetup
@@ -26,10 +26,10 @@
     </div>
 
     <div class="flex-auto flex-column-nowrap pl2 f6 dark-gray">
-      <a href="{{titleLink}}" target="_blank" class="hit--title flex-auto link purple b mv2 db f4">{{{title}}}</a>
-      <div class="mb2 flex-auto">
+      <a href="{{titleLink}}" target="_blank" class="hit--title flex-none link purple b mv2 db f4">{{{title}}}</a>
+      <div class="mb2 flex-none flex-row-wrap">
         {{#authors}}
-          <a href="{{link}}" class="flex-row-nowrap flex-vcenter link dark-gray hover-purple" link dark-gray hover-purple">
+          <a href="{{link}}" class="flex-none mr2 flex-row-nowrap flex-vcenter link dark-gray hover-purple" link dark-gray hover-purple">
             <img src="{{picture}}" class="h2 flex-none mr2"/>
             <div class="flex-none">{{{highlightedName}}}</div>
           </a>

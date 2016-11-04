@@ -30,7 +30,7 @@ let Search = {
     // this.addRessourcesWidget();
     // this.addYearWidget();
     this.addHitsWidget();
-    // this.addPaginationWidget();
+    this.addPaginationWidget();
 
     this.search.start();
   },
@@ -344,10 +344,10 @@ let Search = {
     this.search.addWidget(
       instantsearch.widgets.hits({
         container: '#js-hits',
-        hitsPerPage: 10,
+        hitsPerPage: 20,
         cssClasses: {
-          root: 'flex-row-wrap mb3 debu',
-          item: 'flex-auto w-50 flex'
+          root: 'flex-row-wrap mb3',
+          item: 'flex-auto flex'
         },
         templates: {
           item: hitTemplate,
@@ -372,7 +372,13 @@ let Search = {
   addPaginationWidget() {
     this.search.addWidget(
       instantsearch.widgets.pagination({
-        container: '#pagination',
+        container: '#js-pagination',
+        cssClasses: {
+          root: 'flex-row-nowrap justify-center',
+          item: 'flex-none flex mh1 bg-purple pa0 shadow-4',
+          link: 'white db pa2 link hover-bg-blue',
+          active: 'underline b'
+        },
         labels: {
           previous: '‹ Précédent',
           next: 'Suivant ›'
