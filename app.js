@@ -112,6 +112,8 @@ var Search = {
       active: '<a class="ais-show-more ais-show-more__active">Voir moins</a>'
     };
 
+    this.websiteUrl = 'https://pixelastic.github.io/humantalks/';
+
     // this.search.on('render', this.onRender);
 
     this.addSearchBoxWidget();
@@ -126,22 +128,22 @@ var Search = {
 
     this.search.start();
   },
-  onRender: function onRender() {
-    // Enable lazyloading of images below the fold
-    var hits = $('.hit');
-    function onVisible(hit) {
-      $(hit).addClass('hit__inViewport');
-    }
-    _.each(hits, function (hit) {
-      inViewport(hit, { offset: 50 }, onVisible);
-    });
-  },
 
-  // Check if the specified facet value is currently refined
-  isRefined: function isRefined(facetName, facetValue) {
-    var facetRefinements = Search.search.helper.getRefinements(facetName);
-    return !!_.find(facetRefinements, { value: facetValue });
-  },
+  // onRender() {
+  //   // Enable lazyloading of images below the fold
+  //   let hits = $('.hit');
+  //   function onVisible(hit) {
+  //     $(hit).addClass('hit__inViewport');
+  //   }
+  //   _.each(hits, (hit) => {
+  //     inViewport(hit, {offset: 50}, onVisible);
+  //   });
+  // },
+  // // Check if the specified facet value is currently refined
+  // isRefined(facetName, facetValue) {
+  //   let facetRefinements = Search.search.helper.getRefinements(facetName);
+  //   return !!_.find(facetRefinements, { value: facetValue });
+  // },
   cloudinary: function cloudinary(url, options) {
     if (!url) {
       return url;
@@ -196,12 +198,10 @@ var Search = {
     // <!--Lien sur le logo de clear all-->
     // <!--RWD petit écran un résultat par ligne-->
 
-    var websiteUrl = 'https://pixelastic.github.io/humantalks/';
     // Title
     var title = Search.getHighlightedValue(data, 'title');
 
     // Description
-    console.info(data, data._snippetResult);
     var description = data._snippetResult.description.value;
     description = description.replace(' …', '…');
 
@@ -215,7 +215,7 @@ var Search = {
     // Thumbnail
     var thumbnail = data.thumbnail;
     if (!thumbnail) {
-      thumbnail = websiteUrl + '/img/default.png';
+      thumbnail = Search.websiteUrl + '/img/default.png';
     }
     var thumbnailLink = meetupUrl;
     if (hasSlides) {
@@ -227,7 +227,7 @@ var Search = {
     // Authors
     var authors = _.map(data.authors, function (author, index) {
       if (!author.picture) {
-        author.picture = websiteUrl + '/img/default-speaker.png';
+        author.picture = Search.websiteUrl + '/img/default-speaker.png';
       }
       var picture = Search.cloudinary(author.picture, {
         height: 50,
@@ -252,11 +252,21 @@ var Search = {
     });
 
     // Date
-    var readableDate = _.capitalize(moment(data.date, 'YYYY-MM-DD').format('MMMM YYYY'));
+    var readableDate = _.capitalize(moment(data.date, 'YYYY-MM-DD').format('DD MMMM YYYY'));
 
     // Location
-    var location = data.location;
-    var locationUrl = meetupUrl;
+    var locationName = data.location;
+    var locationLogo = '' + Search.websiteUrl + data.location_logo;
+    var readableLocation = locationName;
+    if (locationLogo) {
+      var logoPicture = Search.cloudinary(locationLogo, {
+        height: 20,
+        quality: 90,
+        crop: 'scale',
+        format: 'auto'
+      });
+      readableLocation = '<img class="v-textbottom" src="' + logoPicture + '" alt="' + locationName + '" />';
+    }
 
     var displayedData = {
       title: title,
@@ -270,9 +280,7 @@ var Search = {
       meetupUrl: meetupUrl,
       authors: authors,
       readableDate: readableDate,
-      location: location,
-      locationUrl: locationUrl
-
+      readableLocation: readableLocation
     };
 
     return displayedData;
