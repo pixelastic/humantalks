@@ -117,7 +117,7 @@ var Search = {
     // this.search.on('render', this.onRender);
 
     this.addSearchBoxWidget();
-    // this.addStatsWidget();
+    this.addStatsWidget();
     // this.addTagsWidget();
     // this.addAuthorsWidget();
     // this.addTypeWidget();
@@ -364,7 +364,12 @@ var Search = {
   },
   addStatsWidget: function addStatsWidget() {
     this.search.addWidget(instantsearch.widgets.stats({
-      container: '#stats'
+      container: '#js-stats',
+      templates: {
+        body: function body(options) {
+          return options.nbHits + ' r\xE9sultats trouv\xE9s en ' + options.processingTimeMS + 'ms';
+        }
+      }
     }));
   },
   addTagsWidget: function addTagsWidget() {
