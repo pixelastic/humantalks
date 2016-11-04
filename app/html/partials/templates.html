@@ -1,10 +1,11 @@
 <script id="js-template-hits" language="x-template">
   <div class="flex-auto flex-row-nowrap mr2 mt2 bg-white shadow-3 pa2">
+
     <div class="flex-none w-33 flex-column-nowrap">
-      <a href="{{thumbnailLink}}" class="link flex-auto tc">
+      <a href="{{thumbnailLink}}" class="flex-auto flex-center flex link">
         <img src="{{thumbnail}}" class="" />
       </a>
-      <div class="flex-auto flex-row-nowrap self-bottom">
+      <div class="flex-auto flex-row-nowrap items-end">
         <a href="{{meetupUrl}}" class="flex-auto link hover-purple tc f6 dark-gray hit--meetup">
           <span class="fa fa-meetup db f3 mb1"></span>
           Meetup
@@ -24,9 +25,9 @@
       </div>
     </div>
 
-    <div class="flex-auto pl2">
-      <a href="{{link}}" class="link near-black b mv2 db">{{{title}}}</a>
-      <div class="mb2 f6">
+    <div class="flex-auto flex-column-nowrap pl2 f6 dark-gray">
+      <a href="{{link}}" class="hit--title flex-auto link purple b mv2 db f4">{{{title}}}</a>
+      <div class="mb2 flex-auto">
         {{#authors}}
           <a href="{{link}}" class="flex-row-nowrap flex-vcenter link dark-gray hover-purple" link dark-gray hover-purple">
             <img src="{{picture}}" class="h2 flex-none mr2"/>
@@ -34,11 +35,12 @@
           </a>
         {{/authors}}
       </div>
-      <div class="oh dark-gray mb2">
-        <div class="fl f6">{{readableDate}}</div>
-        <a href="{{locationUrl}}" class="link fr dark-gray hover-purple">{{{location}}}</a>
+      <div class="flex-auto justify lh-copy">{{{description}}}</div>
+      <a href="{{meetupUrl}}" class="hit--location flex-none self-end mt2 link dark-gray hover-purple">
+        <div class="tr">
+          Présenté le {{readableDate}} chez {{{readableLocation}}}
+        </div>
       </div>
-      <div class="justify f6 lh-copy dark-gray">{{{description}}}</div>
     </div>
   </div>
 </script>

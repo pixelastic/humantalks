@@ -1,8 +1,15 @@
 .hit--highlight {
   color: $purple;
   font-weight: bold;
+  .hit--title & {
+    background-color: #FFDFDF;
+    padding-left: .1rem;
+    padding-right: .1rem;
+  }
 }
 
-.hit--meetup, .hit--video, .hit--slides {
-
+.hit--location {
+  line-height: 30px;
+  height: 30px;
 }
+

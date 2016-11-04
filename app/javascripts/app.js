@@ -18,6 +18,8 @@ let Search = {
       active:'<a class="ais-show-more ais-show-more__active">Voir moins</a>'
     }
 
+    this.websiteUrl = 'https://pixelastic.github.io/humantalks/';
+
     // this.search.on('render', this.onRender);
 
     this.addSearchBoxWidget();
@@ -32,21 +34,21 @@ let Search = {
 
     this.search.start();
   },
-  onRender() {
-    // Enable lazyloading of images below the fold
-    let hits = $('.hit');
-    function onVisible(hit) {
-      $(hit).addClass('hit__inViewport');
-    }
-    _.each(hits, (hit) => {
-      inViewport(hit, {offset: 50}, onVisible);
-    });
-  },
-  // Check if the specified facet value is currently refined
-  isRefined(facetName, facetValue) {
-    let facetRefinements = Search.search.helper.getRefinements(facetName);
-    return !!_.find(facetRefinements, { value: facetValue });
-  },
+  // onRender() {
+  //   // Enable lazyloading of images below the fold
+  //   let hits = $('.hit');
+  //   function onVisible(hit) {
+  //     $(hit).addClass('hit__inViewport');
+  //   }
+  //   _.each(hits, (hit) => {
+  //     inViewport(hit, {offset: 50}, onVisible);
+  //   });
+  // },
+  // // Check if the specified facet value is currently refined
+  // isRefined(facetName, facetValue) {
+  //   let facetRefinements = Search.search.helper.getRefinements(facetName);
+  //   return !!_.find(facetRefinements, { value: facetValue });
+  // },
   cloudinary(url, options) {
     if (!url) {
       return url;
@@ -101,12 +103,10 @@ let Search = {
 // <!--Lien sur le logo de clear all-->
 // <!--RWD petit écran un résultat par ligne-->
     
-    let websiteUrl = 'https://pixelastic.github.io/humantalks/';
     // Title
     let title = Search.getHighlightedValue(data, 'title');
 
     // Description
-    console.info(data, data._snippetResult);
     let description = data._snippetResult.description.value;
     description = description.replace(' …', '…');
 
@@ -120,7 +120,7 @@ let Search = {
     // Thumbnail
     let thumbnail = data.thumbnail;
     if (!thumbnail) {
-      thumbnail = `${websiteUrl}/img/default.png`;
+      thumbnail = `${Search.websiteUrl}/img/default.png`;
     }
     let thumbnailLink = meetupUrl;
     if (hasSlides) {
@@ -132,7 +132,7 @@ let Search = {
     // Authors
     let authors = _.map(data.authors, (author, index) => {
       if (!author.picture) {
-        author.picture = `${websiteUrl}/img/default-speaker.png`;
+        author.picture = `${Search.websiteUrl}/img/default-speaker.png`;
       }
       let picture = Search.cloudinary(author.picture, {
         height: 50,
@@ -157,11 +157,21 @@ let Search = {
     });
 
     // Date
-    let readableDate = _.capitalize(moment(data.date, 'YYYY-MM-DD').format('MMMM YYYY'));
+    let readableDate = _.capitalize(moment(data.date, 'YYYY-MM-DD').format('DD MMMM YYYY'));
 
     // Location
-    let location = data.location;
-    let locationUrl = meetupUrl;
+    let locationName = data.location;
+    let locationLogo = `${Search.websiteUrl}${data.location_logo}`;
+    let readableLocation = locationName;
+    if (locationLogo) {
+      let logoPicture = Search.cloudinary(locationLogo, {
+        height: 20,
+        quality: 90,
+        crop: 'scale',
+        format: 'auto'
+      });
+      readableLocation = `<img class="v-textbottom" src="${logoPicture}" alt="${locationName}" />`
+    }
     
 
 
@@ -177,9 +187,7 @@ let Search = {
       meetupUrl,
       authors,
       readableDate,
-      location,
-      locationUrl
-
+      readableLocation
     }
 
     return displayedData;
