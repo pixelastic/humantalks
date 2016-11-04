@@ -1,16 +1,12 @@
-// 
-//     <header class="l-header">
-//       <a href="./" class="header--home">
-//         <img src="img/logo.png" class="header--logo" alt="Home logo" />
-//       </a>
-//       <div class="header--input-wrapper">
-//         <input type="text" class="header--input" id="q" />
-//       </div>
-//       <div class="header--infos">
-//         <div id="current-refined-values" class="header--current-refined-values"></div>
-//         <div id="stats" class="header--stats"></div>
-//       </div>
-//       <a href="https://www.algolia.com/" class="header--algolia">
-//         Recherche et ♥ par <img src="img/logo-algolia.svg" class="header--algolia-logo" alt="Algolia logo" />
-//       </a>
-//     </header>
+header.fixed.top-0.w-100.h3.bg-purple.white
+  .flex-row-nowrap.mh3.h3
+    .flex-none.lh-0.flex.flex-vcenter
+      img.db.w4.mr4(src='./img/humantalks.png')
+
+    .flex-auto.flex.flex-vcenter.w-20
+      input#js-searchbar.w-100.h2.bg-purple.bt0.br0.bl0.bb.bw1.b--white.mr3.mt2.outline-0.white.f3
+
+    .flex-auto.self-end.tr.pb1
+      |Recherche par 
+      img.h1.v-textbottom(src='./img/algolia.svg')
+

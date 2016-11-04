@@ -1,8 +1,5 @@
 // Fonts
-.palooka { font-family: 'Palooka'; }
-.palooka.small-caps { letter-spacing: .05rem;}
-.crime { font-family: 'Crime'; }
-.hack { font-family: 'Hack'; }
+.galano { font-family: 'Galano'; }
 // Flexbox
 .flex-nogrow { flex-grow: 0; }
 .flex-grow { flex-grow: 1; }
@@ -21,27 +18,51 @@
 .prewrap { white-space: pre-wrap; }
 // Line-height
 .lh-0 { line-height: 0; }
+// Align
+.justify { text-align: justify; }
 // Overflow
 .oh { overflow: hidden; }
 // Font-size
 .f7 { font-size: .65rem; }
 .f8 { font-size: .5rem; }
 // Colors
-.red { color: $red };
-.green { color: $green };
-.dark-green { color: $dark-green };
 .purple { color: $purple };
-.blue { color: $blue };
-.yellow { color: $yellow };
 .transparent { color: $background; }
 // Backgrounds
-.bg-red { background-color: $red };
-.bg-green { background-color: $green };
-.bg-dark-green { background-color: $dark-green };
 .bg-purple { background-color: $purple };
-.bg-blue { background-color: $blue };
-.bg-yellow { background-color: $yellow };
+// Hover
+.hover-purple:hover { color: $purple; }
 // Text shadow
 .no-text-shadow { text-shadow: none; }
-.text-shadow-1 { text-shadow: 2px 2px 1px black; }
-.text-shadow-2 { text-shadow: 4px 4px 3px black; }
+// Vertical align
+.v-textbottom { vertical-align: text-bottom; }
+// Borders
+.bt0 { border-top-width: 0; }
+.br0 { border-right-width: 0; }
+.bb0 { border-bottom-width: 0; }
+.bl0 { border-left-width: 0; }
+
+
+// Font Awesome
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.fa-meetup:before { content: "\f2e0"; }
+.fa-youtube:before { content: "\f167"; }
+.fa-slideshare:before { content: "\f1e7"; }
+// Let Font Awesome scale with Tachyons
+.fa.f1 { font-size:3rem; }
+.fa.f2 { font-size:2.25rem; }
+.fa.f3 { font-size:1.5rem; }
+.fa.f4 { font-size:1.25rem; }
+.fa.f5 { font-size:1rem; }
+.fa.f6 { font-size:.875rem; }
+// Override Font Awesome display
+.fa.db { display: block; }
+.fa.dib { display: inline-block; }
+.fa.di { display: inline; }

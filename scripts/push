@@ -28,7 +28,7 @@ settings = {
     description:50
   ),
   snippetEllipsisText: '…',
-  highlightPreTag: '<span class="search-hit--highlight">',
+  highlightPreTag: '<span class="hit--highlight">',
   highlightPostTag: '</span>',
   typoTolerance: 'strict',
   exactOnSingleWordQuery: 'word',

@@ -4,9 +4,12 @@ include ./partials/head.pug
 
 body
   include ./partials/header.pug
-  include ./partials/sidebar.pug
-  include ./partials/hits.pug
-  include ./partials/templates.pug
+  .flex-row-nowrap.mt5
+    .flex-none.w5.pa2
+      include ./partials/sidebar.pug
+    .flex-auto
+      include ./partials/hits.pug
+      include ./partials/templates.html
 
 
 include ./partials/foot.pug

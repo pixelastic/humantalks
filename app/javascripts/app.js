@@ -1,15 +1,16 @@
 let Search = {
   init() {
+    moment.locale('fr');
     this.search = instantsearch({
       appId: 'O3F8QXYK6R',
-      apiKey: 'cb3f3d3a43a5996e9f5ba74003462a4f',
-      indexName: 'parisweb',
+      apiKey: '36caf26b37562229d205f0eeceeac37f',
+      indexName: 'humantalks',
       urlSync: true,
-      searchFunction: (helper) => {
-        // Reset the lazyloadCounter
-        Search.lazyloadCounter = 0;
-        helper.search();
-      }
+      // searchFunction: (helper) => {
+      //   // Reset the lazyloadCounter
+      //   Search.lazyloadCounter = 0;
+      //   helper.search();
+      // }
     });
 
     this.showMoreTemplates = {
@@ -17,17 +18,17 @@ let Search = {
       active:'<a class="ais-show-more ais-show-more__active">Voir moins</a>'
     }
 
-    this.search.on('render', this.onRender);
+    // this.search.on('render', this.onRender);
 
     this.addSearchBoxWidget();
-    this.addStatsWidget();
-    this.addTagsWidget();
-    this.addAuthorsWidget();
-    this.addTypeWidget();
-    this.addRessourcesWidget();
-    this.addYearWidget();
+    // this.addStatsWidget();
+    // this.addTagsWidget();
+    // this.addAuthorsWidget();
+    // this.addTypeWidget();
+    // this.addRessourcesWidget();
+    // this.addYearWidget();
     this.addHitsWidget();
-    this.addPaginationWidget();
+    // this.addPaginationWidget();
 
     this.search.start();
   },
@@ -47,7 +48,10 @@ let Search = {
     return !!_.find(facetRefinements, { value: facetValue });
   },
   cloudinary(url, options) {
-    let baseUrl = 'https://res.cloudinary.com/pixelastic-parisweb/image/fetch/';
+    if (!url) {
+      return url;
+    }
+    let baseUrl = 'https://res.cloudinary.com/pixelastic-humantalks/image/fetch/';
     let stringOptions = [];
 
     // Handle common Cloudinary options
@@ -88,41 +92,47 @@ let Search = {
     return `${baseUrl}${stringOptions.join(',')}/${url}`;
   },
   transformItem(data) {
-    // All items are defered loading their images until in viewport, except
-    // the 4 first
-    let inViewport = false;
-    if (Search.lazyloadCounter === undefined || Search.lazyloadCounter < 4) {
-      inViewport = true;
-    }
-    Search.lazyloadCounter++;
-
-    // Conference / Workshop
-    let isConference = data.type == 'Conférence';
-    let isWorkshop = data.type == 'Atelier';
+// <!--Todo:-->
+// <!--Facetting sur les speakers dans la sidebar-->
+// <!--Facetting sur les lieux dans la sidebar-->
+// <!--Facetting sur la date dans la sidebar-->
+// <!--Facetting sur les lieux/speakers/évenement dans les hits-->
+// <!--Pagination-->
+// <!--Lien sur le logo de clear all-->
+// <!--RWD petit écran un résultat par ligne-->
+    
+    let websiteUrl = 'https://pixelastic.github.io/humantalks/';
+    // Title
+    let title = Search.getHighlightedValue(data, 'title');
 
     // Description
     let description = data._snippetResult.description.value;
     description = description.replace(' …', '…');
 
-    // Ressources
-    let video = _.get(data, 'ressources.video');
-    let slides = _.get(data, 'ressources.slides');
+    // Various urls
+    let videoUrl = data.video;
+    let slidesUrl = data.slides;
+    let meetupUrl = data.meetup;
+    let hasVideo = !!videoUrl;
+    let hasSlides = !!slidesUrl;
 
     // Thumbnail
     let thumbnail = data.thumbnail;
-    if (thumbnail) {
-      if (_.startsWith(thumbnail, './img')) {
-        thumbnail = `https://pixelastic.github.io/parisweb/${thumbnail}`;
-      }
-      thumbnail = Search.cloudinary(thumbnail, {
-        quality: 90,
-        format: 'auto'
-      });
+    if (!thumbnail) {
+      thumbnail = `${websiteUrl}/img/default.png`;
     }
-    let thumbnailLink = video || slides;
+    let thumbnailLink = meetupUrl;
+    if (hasSlides) {
+      thumbnailLink = slidesUrl;
+    } else if (hasVideo) {
+      thumbnailLink = videoUrl;
+    }
 
     // Authors
     let authors = _.map(data.authors, (author, index) => {
+      if (!author.picture) {
+        author.picture = `${websiteUrl}/img/default-speaker.png`;
+      }
       let picture = Search.cloudinary(author.picture, {
         height: 50,
         width: 50,
@@ -132,42 +142,101 @@ let Search = {
         radius: 'max',
         format: 'auto'
       });
+
+      let link = '#';
+      if (author.twitter) {
+        link = `https://twitter.com/${author.twitter}`
+      }
       return {
         plainName: author.name,
         highlightedName: data._highlightResult.authors[index].name.value,
-        isRefined: Search.isRefined('authors.name', author.name),
+        link,
         picture
       }
     });
 
-    // Tags
-    let tags = _.map(data.tags, (tag, index) => {
-      return {
-        plainValue: tag,
-        highlightedValue: data._highlightResult.tags[index].value,
-        isRefined: Search.isRefined('tags', tag),
-      }
-    });
+    // Date
+    let readableDate = _.capitalize(moment(data.date, 'YYYY-MM-DD').format('MMMM YYYY'));
 
-    let displayData = {
-      uuid: data.objectID,
-      inViewport,
-      isConference,
-      isWorkshop,
-      title: Search.getHighlightedValue(data, 'title'),
-      url: data.url,
+    // Location
+    let location = data.location;
+    let locationUrl = meetupUrl;
+    
+
+
+    let displayedData = {
+      title,
       description,
-      year: data.year,
       thumbnail,
       thumbnailLink,
-      video,
-      slides,
-      tags,
+      hasVideo,
+      videoUrl,
+      hasSlides,
+      slidesUrl,
+      meetupUrl,
       authors,
-      objectID: data.objectID
-    };
+      readableDate,
+      location,
+      locationUrl
 
-    return displayData;
+    }
+
+    return displayedData;
+    // // All items are defered loading their images until in viewport, except
+    // // the 4 first
+    // let inViewport = false;
+    // if (Search.lazyloadCounter === undefined || Search.lazyloadCounter < 4) {
+    //   inViewport = true;
+    // }
+    // Search.lazyloadCounter++;
+
+
+    // // Ressources
+    // let video = _.get(data, 'ressources.video');
+    // let slides = _.get(data, 'ressources.slides');
+
+    // // Thumbnail
+    // let thumbnail = data.thumbnail;
+    // if (thumbnail) {
+    //   if (_.startsWith(thumbnail, './img')) {
+    //     thumbnail = `https://pixelastic.github.io/parisweb/${thumbnail}`;
+    //   }
+    //   thumbnail = Search.cloudinary(thumbnail, {
+    //     quality: 90,
+    //     format: 'auto'
+    //   });
+    // }
+    // let thumbnailLink = video || slides;
+
+
+    // // Tags
+    // let tags = _.map(data.tags, (tag, index) => {
+    //   return {
+    //     plainValue: tag,
+    //     highlightedValue: data._highlightResult.tags[index].value,
+    //     isRefined: Search.isRefined('tags', tag),
+    //   }
+    // });
+
+    // let displayData = {
+    //   uuid: data.objectID,
+    //   inViewport,
+    //   isConference,
+    //   isWorkshop,
+    //   title: Search.getHighlightedValue(data, 'title'),
+    //   url: data.url,
+    //   description,
+    //   year: data.year,
+    //   thumbnail,
+    //   thumbnailLink,
+    //   video,
+    //   slides,
+    //   tags,
+    //   authors,
+    //   objectID: data.objectID
+    // };
+
+    // return displayData;
   },
   getHighlightedValue(object, property) {
     if (!_.has(object, `_highlightResult.${property}.value`)) {
@@ -178,8 +247,9 @@ let Search = {
   addSearchBoxWidget() {
     this.search.addWidget(
       instantsearch.widgets.searchBox({
-        container: '#q',
-        placeholder: 'Rechercher une conférence, un orateur, un thème...'
+        container: '#js-searchbar',
+        wrapInput: false,
+        placeholder: 'Rechercher un thème, un speaker, un lieu'
       })
     );
   },
@@ -250,12 +320,16 @@ let Search = {
     );
   },
   addHitsWidget() {
-    let hitTemplate = $('#hitTemplate').html();
-    let noResults = $('#noResults').html();
+    let hitTemplate = $('#js-template-hits').html();
+    let noResults = $('#js-template-noresults').html();
     this.search.addWidget(
       instantsearch.widgets.hits({
-        container: '#hits',
+        container: '#js-hits',
         hitsPerPage: 10,
+        cssClasses: {
+          root: 'flex-row-wrap mb3 debu',
+          item: 'flex-auto w-50 flex'
+        },
         templates: {
           item: hitTemplate,
           empty: noResults
@@ -266,15 +340,15 @@ let Search = {
       })
     );
 
-    // Allow user to further select/deselect facets directly in the hits
-    let hitContainer = $('#hits');
-    hitContainer.on('click', '.js-facet-toggle', (event) => {
-      var target = $(event.currentTarget);
-      var facetName = target.data('facet-name');
-      var facetValue = target.data('facet-value');
-      Search.search.helper.toggleRefinement(facetName, facetValue).search();
-      target.toggleClass('hit-facet__isRefined');
-    });
+    // // Allow user to further select/deselect facets directly in the hits
+    // let hitContainer = $('#hits');
+    // hitContainer.on('click', '.js-facet-toggle', (event) => {
+    //   var target = $(event.currentTarget);
+    //   var facetName = target.data('facet-name');
+    //   var facetValue = target.data('facet-value');
+    //   Search.search.helper.toggleRefinement(facetName, facetValue).search();
+    //   target.toggleClass('hit-facet__isRefined');
+    // });
   },
   addPaginationWidget() {
     this.search.addWidget(

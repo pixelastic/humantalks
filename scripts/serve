@@ -4,7 +4,7 @@
 # if something changes...
 # ...while running the Brunch server at the same time
 parallelshell \
-  "onchange 'app/html/**/*.pug' -- npm run build:html" \
+  "onchange 'app/html/**/*' -- npm run build:html" \
   "brunch watch"
 
 

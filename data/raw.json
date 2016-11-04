@@ -42,7 +42,10 @@
     "description" : "Dans nos organisations agiles et plates, le travail en équipe est au coeur de l'activité et il est un facteur clef de succès. Quelle implication pour une entreprise digitale? Comment incarner cette équation au quotidien? Des pistes de réflexion basée sur l'expérience à LaFourchette.",
     "speakers" : [ {
       "id" : "e4372bac-d32b-4a38-9b76-371682bd142b",
-      "name" : "Florent Poissonnet"
+      "name" : "Florent Poissonnet",
+      "twitter" : "fpoissonnet",
+      "avatar" : "https://pbs.twimg.com/profile_images/707839685180198912/f1dbUxLc_400x400.jpg",
+      "description" : "CTO LaFourchette"
     } ],
     "meetup" : {
       "id" : "25d8433a-f375-4945-996e-0b730bce41b3",
@@ -249,7 +252,10 @@
     "description" : "Dans de nombreuses équipes, en l'absence d'un profil dédié, la responsabilité de l'ergonomie de l'application revient aux développeurs et ça n'est pas sans poser certains problèmes. Nous verrons dans le talk comment quelques passages aux toilettes peuvent nourrir la réflexion sur les interfaces utilisateur que nous produisons.",
     "speakers" : [ {
       "id" : "f5bbc5ac-7dab-4365-a099-553e6c09d40f",
-      "name" : "Christophe Michel"
+      "name" : "Christophe Michel",
+      "twitter" : "christopheml",
+      "avatar" : "https://pbs.twimg.com/profile_images/773575499369029634/gKO3acvl_400x400.jpg",
+      "description" : "Java and Web developer at @ArollaFR - @Epita '05 - Le bullshit enchaînera l'humanité."
     } ],
     "video" : "https://www.youtube.com/watch?v=BUEx02NDKF8",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BUEx02NDKF8\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -288,7 +294,10 @@
     "description" : "Fonctionnalité HTML5, l'application cache, permet de gérer finement votre cache applicatif dans vos applications Web. Je propose de faire ensemble le tour de tout ça et d'apprendre à s'en servir.",
     "speakers" : [ {
       "id" : "579ec5dc-e20d-4382-8537-847e41b8b95e",
-      "name" : "Mathieu Robin"
+      "name" : "Mathieu Robin",
+      "twitter" : "mathrobin",
+      "avatar" : "https://pbs.twimg.com/profile_images/566165922931433472/zq3VQP61_400x400.jpeg",
+      "description" : "Lead dev JS, ex-chroniqueur jQuery. Amateur de bons alcools et de gastronomie. Développeurs de père en fils. Créateur de @AperoJS_Paris et @MatosMaison"
     } ],
     "video" : "https://www.youtube.com/watch?v=iicE_LMKSsw&feature=youtu.be",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/iicE_LMKSsw\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -410,7 +419,7 @@
       "id" : "5d7304a0-3c97-4cd7-b7e7-2ef3027c8b1c",
       "name" : "Thibaut Cheymol",
       "twitter" : "thibaut_cheymol",
-      "avatar" : "https://pbs.twimg.com/profile_images/662973004280963072/QcOPXDTH_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/788736687354634240/GuLeEW9K_400x400.jpg"
     } ],
     "video" : "https://www.youtube.com/watch?v=tEyINYJFaFM",
     "meetup" : {
@@ -805,7 +814,10 @@
     "description" : "Avez-vous déjà eu l'impression de vous être assoupis dans votre carrière, de faire moins de veille qu'à d'autres périodes ? A l'inverse, vous êtes-vous déjà demandé comment sortir du ronron ambiant et \"réveiller\" vos collègues qui vous semblaient manquer de curiosité et de passion sur un projet ?\r\n\r\nCette courte session vise à vous présenter toutes les formules et astuces qui ont permis à très peu de gens chez nous de réveiller une grosse organisation qui s'endormait sur ses lauriers. Si on a réussi ici -sandwichs à la main- pourquoi pas vous ? Attention: effet contagieux ;-)",
     "speakers" : [ {
       "id" : "505c5a9a-585e-4bc9-bf74-b672c779d7c8",
-      "name" : "Thomas Pierrain"
+      "name" : "Thomas Pierrain",
+      "twitter" : "tpierrain",
+      "avatar" : "https://pbs.twimg.com/profile_images/745726209674346500/6_GJ3Vbv_400x400.jpg",
+      "description" : "NFluent creator. Agile from father to son since 1905... Use-case-driven & coding architect #DDD #XP #lowLatency #pragmatic #socialAnimal #BBL #Speaker"
     } ],
     "slides" : "http://fr.slideshare.net/ThomasPierrain/culture-craft-humantalks",
     "meetup" : {
@@ -1135,7 +1147,8 @@
       "id" : "e0d659e8-27b9-4d59-9a0b-faffc215a464",
       "name" : "Florent Biville",
       "twitter" : "fbiville",
-      "avatar" : "https://pbs.twimg.com/profile_images/579207538832482304/BhFaArTs_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/790562624937295873/aqQpsE6H_400x400.jpg",
+      "description" : "Insatiable Learner at @CriteoEng and OSS aficionado. NoCoffee. Kıro padawan. Views are my own, obviously."
     } ],
     "meetup" : {
       "id" : "27a109fd-c63a-425c-a38e-78bc0d130c76",
@@ -1419,7 +1432,10 @@
     "description" : "Plusieurs milliards d'euros sont investis tous les ans par les entreprises françaises pour la formation continue. Vous voulez votre part du gâteau? Moi aussi. Et voilà ce que j'ai vécu pendant une année de formation. Petites et grandes, belles choses ou pas. Tout ce qu'on ne dit pas à la télé.",
     "speakers" : [ {
       "id" : "579ec5dc-e20d-4382-8537-847e41b8b95e",
-      "name" : "Mathieu Robin"
+      "name" : "Mathieu Robin",
+      "twitter" : "mathrobin",
+      "avatar" : "https://pbs.twimg.com/profile_images/566165922931433472/zq3VQP61_400x400.jpeg",
+      "description" : "Lead dev JS, ex-chroniqueur jQuery. Amateur de bons alcools et de gastronomie. Développeurs de père en fils. Créateur de @AperoJS_Paris et @MatosMaison"
     } ],
     "video" : "https://www.youtube.com/watch?v=SXiOtd8hvsI",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/SXiOtd8hvsI\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -2126,7 +2142,10 @@
     "description" : "Salut à toi noble informaticien,\r\n\r\nJe souhaite te raconter quelques petites histoires sur l'un des organes les plus importants de la société moderne : l’hôpital ! Lieu sacré, où on utilise l'informatique au quotidien pour gérer des dizaines de milliers de patients par jour, rien qu'à Paris. Et pourtant, ce monde datant d'une période ancestrale est ponctué de quelques désagréments par rapport à notre monde moderne. Bienvenue dans l'enfer quotidien de nos médecins.",
     "speakers" : [ {
       "id" : "579ec5dc-e20d-4382-8537-847e41b8b95e",
-      "name" : "Mathieu Robin"
+      "name" : "Mathieu Robin",
+      "twitter" : "mathrobin",
+      "avatar" : "https://pbs.twimg.com/profile_images/566165922931433472/zq3VQP61_400x400.jpeg",
+      "description" : "Lead dev JS, ex-chroniqueur jQuery. Amateur de bons alcools et de gastronomie. Développeurs de père en fils. Créateur de @AperoJS_Paris et @MatosMaison"
     } ],
     "meetup" : {
       "id" : "d983877d-9558-4c94-b2be-52dd2af53f2b",
@@ -2163,7 +2182,10 @@
     "description" : "Deux acteurs ont changé ces dernières années le monde de l’UX: Google et Amazon qui ont montré qu’un accès ultra rapide et intuitif au contenu était un élément crucial de l’engagement utilisateur. \r\n\r\nPendant cette présentation, nous allons tenter de comprendre ce lien en découvrant la théorie de \"l'information foraging\" de Pirelli au travers de l’exemple de la recherche \"as-you-type\".",
     "speakers" : [ {
       "id" : "b393a9d2-e717-49ee-9cca-ced74199309c",
-      "name" : "Gaetan Gachet"
+      "name" : "Gaetan Gachet",
+      "twitter" : "gaetangachet",
+      "avatar" : "https://pbs.twimg.com/profile_images/433353814863642625/-EgZ6ylX_400x400.jpeg",
+      "description" : "Head of Business Development at Algolia"
     } ],
     "meetup" : {
       "id" : "cc74be6e-da49-4680-bc53-50e1cda4bcbf",
@@ -2321,7 +2343,10 @@
     "description" : "L'objectif est de présenter Protocol Buffers, un système de sérialisation de données développé initialement par Google et désormais Open Source.",
     "speakers" : [ {
       "id" : "5a4ffdba-c6a3-4372-9f80-849811baceb1",
-      "name" : "Eulriet Estelle"
+      "name" : "Eulriet Estelle",
+      "twitter" : "wbtester2",
+      "avatar" : "https://pbs.twimg.com/profile_images/2621229584/jg432av7bfrjlw4xuvlp_400x400.jpeg",
+      "description" : "ubiquity"
     } ],
     "video" : "https://www.youtube.com/watch?v=IIwQGb3hQCU",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IIwQGb3hQCU\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -2443,7 +2468,9 @@
     "description" : "Nous parlerons de JSweet (http://www.jsweet.org) un transpileur de Java vers JavaScript développé au dessus de TypeScript. Nous nous arrêterons tout d'abord sur la genèse de JSweet, et les motivations qui justifient la création de ce transpiler. Nous entrerons ensuite dans quelques éléments de conception, et en particulier sur la manière dont JSweet parvient à donner accès aux librairies JavaScript. Enfin, nous verrons quelques exemples d'applications.",
     "speakers" : [ {
       "id" : "b1056148-092c-48ff-ae8c-a0d6246c20bd",
-      "name" : "Renaud Pawlak"
+      "name" : "Renaud Pawlak",
+      "twitter" : "renaudpawlak",
+      "avatar" : "https://pbs.twimg.com/profile_images/697514827850375168/9C0osdYn_400x400.png"
     } ],
     "meetup" : {
       "id" : "ab67db44-d2c5-437f-bc4c-c5caa7c204f9",
@@ -2559,7 +2586,10 @@
     "description" : "Prenez le framework JS en vogue du moment, le moteur de rendu 3D aux mille et une demos et partez à l’aventure pour une mise en production !\r\n\r\nDans ce retour d’experience je vous ferais découvrir ce qui se cache derrière cette vitrine technologique et sa viabilité en entreprise.",
     "speakers" : [ {
       "id" : "5aa92da3-0625-46f0-afc8-9ae08890444a",
-      "name" : "Jean-Christophe Honde"
+      "name" : "Jean-Christophe Honde",
+      "twitter" : "honde_jc",
+      "avatar" : "https://pbs.twimg.com/profile_images/453289355377770497/1Lq2P1mE_400x400.jpeg",
+      "description" : "Front-End Developer"
     } ],
     "video" : "https://www.youtube.com/watch?v=mCCW2uTOF7g",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mCCW2uTOF7g\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -3384,7 +3414,8 @@
       "id" : "4e9ae7e4-47ea-4968-bb2a-d8bd10595897",
       "name" : "Nicolas Carlo",
       "twitter" : "nicoespeon",
-      "avatar" : "https://pbs.twimg.com/profile_images/750429808346198017/S414ftFU_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/786463098349682688/MlUsA6TM_400x400.jpg",
+      "description" : "Consultant @OCTOTechnology Organizer of meetups @backbonejsparis, @pariswebComps & @bestofwebconf Freelance Web Developer with #Craftman #Lean #JS #FRP"
     } ],
     "meetup" : {
       "id" : "133976da-5bbd-497d-a4e8-9693ce56294a",
@@ -4783,7 +4814,8 @@
     "description" : "Anciennement développeur web en Freelance à Paris, Romain Coeur est parti à La Loupe (Eure-et-Loir) pour créer une école de développement web. La Wild Code School propose une formation initiale ouverte à tout profils et fortement intégrée au tissus social et économique du territoire. Cela passe par des intervenants locaux qui animent des ateliers, des projets réalisés avec des partenaires et des étudiants issus en majorité du département. Aujourd'hui la promo version beta est formée et les enseignements tirés par les fondateurs de l'école sont nombreux.",
     "speakers" : [ {
       "id" : "223fc520-4a52-40e3-a1e4-9fac633f0eb4",
-      "name" : "Romain Coeur"
+      "name" : "Romain Coeur",
+      "avatar" : "https://avatars1.githubusercontent.com/u/5744428?v=3&s=466"
     } ],
     "video" : "https://www.youtube.com/watch?v=_JxOriDFwbY",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_JxOriDFwbY\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -4869,7 +4901,10 @@
       "description" : "Retrouvez mon application Georing sur le playstore :https://play.google.com/store/apps/details?id=sous.les.apps.georing …"
     }, {
       "id" : "06242a26-4717-4e02-a912-c93fc51a27be",
-      "name" : "Brice Dutheil"
+      "name" : "Brice Dutheil",
+      "twitter" : "BriceDutheil",
+      "avatar" : "https://pbs.twimg.com/profile_images/1128275334/blacksad_medium_400x400.jpg",
+      "description" : "self employed — java developer — mockito core team — Devoxx FR java track lead — cassandra user — distributed system enthusiast // Opinions are my own."
     } ],
     "slides" : "https://speakerdeck.com/dwursteisen/rxjava-getting-started",
     "slidesEmbedCode" : "<script async class=\"speakerdeck-embed\" data-id=\"bb59529019690132d75b3a7131e5e656\" data-ratio=\"1.77777777777778\" src=\"//speakerdeck.com/assets/embed.js\"></script>",
@@ -5350,7 +5385,10 @@
     "description" : "Au fur et à mesure d'un projet, les fichiers de tests sont de plus en plus imposants et peuvent vite devenir complexes à lire et comprendre. Je vous donnerais quelques astuces pour arriver à des tests plus simples et plus facile à comprendre, mais toujours aussi robustes.",
     "speakers" : [ {
       "id" : "bc4a8088-9f22-40d3-aba9-67f611e9ee02",
-      "name" : "Nicolas Mérouze"
+      "name" : "Nicolas Mérouze",
+      "twitter" : "nicolasmerouze",
+      "avatar" : "https://pbs.twimg.com/profile_images/506817629202309121/-qSxmd-s_400x400.jpeg",
+      "description" : "Product Consultant. Hire me at https://www.nicolasmerouze.com "
     } ],
     "meetup" : {
       "id" : "17643d8c-73f3-4ca8-9351-9ecf249ec628",
@@ -5469,7 +5507,10 @@
     "description" : "La croissance fulgurante du chiffre d’affaires et du nombre de clients de Criteo sur ces dernières années a entraîné la croissance d’autres éléments: taille de la PROD, taille de la R&D et bien d’autres. Sans surprise, une telle croissance a un impact sur la manière de travailler tant sur l’organisation et les process que sur la gestion de la PROD. C’est là que la HERO team intervient ! Elle est le gardien de la R&D et s’assure du bon fonctionnement de la plate-forme. Chez Criteo, la HERO team veille !",
     "speakers" : [ {
       "id" : "c7ea27e2-5c3e-4d07-adcd-5d6b7592d252",
-      "name" : "Michel Nguyen"
+      "name" : "Michel Nguyen",
+      "twitter" : "michelnguyen_fr",
+      "avatar" : "https://pbs.twimg.com/profile_images/715508565298057216/RPoT04Wu_400x400.jpg",
+      "description" : "Engineering manager of the HERO team @Criteo"
     } ],
     "meetup" : {
       "id" : "ab67db44-d2c5-437f-bc4c-c5caa7c204f9",
@@ -5882,7 +5923,10 @@
     "description" : "Vagrant est un outil vous permettant de créer des gabarits d'environnements de développement préconfigurés et de les déployer & mettre à jour en un instant.",
     "speakers" : [ {
       "id" : "e85c7008-eff7-440a-a767-2d3a7421d6e3",
-      "name" : "Julien Dubreuil"
+      "name" : "Julien Dubreuil",
+      "twitter" : "juliendubreuil",
+      "avatar" : "https://pbs.twimg.com/profile_images/528916895680851972/NkHoX1Hr_400x400.jpeg",
+      "description" : "#Drupal developer and #Ecommerce consultant. #Freelance. Drupal Paris user group lead organizer."
     } ],
     "slides" : "http://fr.slideshare.net/Juliendubreuil/vagrant-concept",
     "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/gpeIe3WJTYAwLH\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
@@ -5964,7 +6008,10 @@
     "description" : "Quand on est sur son PC avec un navigateur : F12 nous rend toujours un très bon service. Cependant comment avoir la même expérience quand veut débugger le site sur un téléphone ? Des solutions existent mais rien de très simple d’utilisation ou qui fonctionne dans tous les cas. Dans ce talk, je vous présenterais Vorlon.js, un nouvel outil que j'ai co-créé et qui permet d’obtenir l’expérience F12, en remote et pour tous les navigateurs. Teaser : on fera un démo collaborative, tout le monde participera !",
     "speakers" : [ {
       "id" : "61c0be8d-0f91-4352-97f1-34e4b72078dd",
-      "name" : "Etienne Margraff"
+      "name" : "Etienne Margraff",
+      "twitter" : "meulta",
+      "avatar" : "https://pbs.twimg.com/profile_images/695580224268984320/OUqqiHiI_400x400.jpg",
+      "description" : "#vorlonjs.io creator - Senior Software Developer @Microsoft - #babylonjs contributor"
     } ],
     "meetup" : {
       "id" : "25d8433a-f375-4945-996e-0b730bce41b3",
@@ -6282,6 +6329,6 @@
     }
   } ],
   "metas" : {
-    "exec" : 331
+    "exec" : 166
   }
 }

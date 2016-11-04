@@ -1,12 +1,8 @@
-@import './vendors/reveal';
-.reveal { @import './vendors/tachyons'; }
+@import './vendors/tachyons';
 
 @import 'variables';
 @import 'fonts';
 @import 'base';
 
-.reveal {
-  @import 'utils';
-  @import 'code';
-  @import 'contact';
-}
+@import 'utils';
+@import 'custom';
