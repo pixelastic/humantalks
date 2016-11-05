@@ -108,8 +108,8 @@ var Search = {
     });
 
     this.showMoreTemplates = {
-      inactive: '<a class="ais-show-more ais-show-more__inactive">Voir plus</a>',
-      active: '<a class="ais-show-more ais-show-more__active">Voir moins</a>'
+      inactive: '<a class="db tr purple mr2 mt1 pointer">Voir plus »</a>',
+      active: '<a class="db tr purple mr2 mt1 pointer">« Voir moins</a>'
     };
 
     this.websiteUrl = 'https://pixelastic.github.io/humantalks/';
@@ -117,9 +117,7 @@ var Search = {
     this.addSearchBoxWidget();
     this.addStatsWidget();
     this.addSpeakersWidget();
-    // this.addTypeWidget();
-    // this.addRessourcesWidget();
-    // this.addYearWidget();
+    this.addLocationsWidget();
     this.addHitsWidget();
     this.addPaginationWidget();
 
@@ -171,10 +169,6 @@ var Search = {
   },
   transformItem: function transformItem(data) {
     // <!--Todo:-->
-    // <!--Facetting sur les speakers dans la sidebar-->
-    // <!--Facetting sur les lieux dans la sidebar-->
-    // <!--Facetting sur la date dans la sidebar-->
-    // <!--Facetting sur les lieux/speakers/évenement dans les hits-->
     // <!--Lien sur le logo de clear all-->
     // <!--RWD petit écran un résultat par ligne-->
 
@@ -221,7 +215,6 @@ var Search = {
         height: 50,
         width: 50,
         quality: 90,
-        grayscale: true,
         crop: 'scale',
         radius: 'max',
         format: 'auto'
@@ -273,61 +266,6 @@ var Search = {
     };
 
     return displayedData;
-    // // All items are defered loading their images until in viewport, except
-    // // the 4 first
-    // let inViewport = false;
-    // if (Search.lazyloadCounter === undefined || Search.lazyloadCounter < 4) {
-    //   inViewport = true;
-    // }
-    // Search.lazyloadCounter++;
-
-
-    // // Ressources
-    // let video = _.get(data, 'ressources.video');
-    // let slides = _.get(data, 'ressources.slides');
-
-    // // Thumbnail
-    // let thumbnail = data.thumbnail;
-    // if (thumbnail) {
-    //   if (_.startsWith(thumbnail, './img')) {
-    //     thumbnail = `https://pixelastic.github.io/parisweb/${thumbnail}`;
-    //   }
-    //   thumbnail = Search.cloudinary(thumbnail, {
-    //     quality: 90,
-    //     format: 'auto'
-    //   });
-    // }
-    // let thumbnailLink = video || slides;
-
-
-    // // Tags
-    // let tags = _.map(data.tags, (tag, index) => {
-    //   return {
-    //     plainValue: tag,
-    //     highlightedValue: data._highlightResult.tags[index].value,
-    //     isRefined: Search.isRefined('tags', tag),
-    //   }
-    // });
-
-    // let displayData = {
-    //   uuid: data.objectID,
-    //   inViewport,
-    //   isConference,
-    //   isWorkshop,
-    //   title: Search.getHighlightedValue(data, 'title'),
-    //   url: data.url,
-    //   description,
-    //   year: data.year,
-    //   thumbnail,
-    //   thumbnailLink,
-    //   video,
-    //   slides,
-    //   tags,
-    //   authors,
-    //   objectID: data.objectID
-    // };
-
-    // return displayData;
   },
   getHighlightedValue: function getHighlightedValue(object, property) {
     if (!_.has(object, '_highlightResult.' + property + '.value')) {
@@ -352,18 +290,6 @@ var Search = {
       }
     }));
   },
-  addTagsWidget: function addTagsWidget() {
-    this.search.addWidget(instantsearch.widgets.refinementList({
-      container: '#tags',
-      attributeName: 'tags',
-      operator: 'and',
-      limit: 10,
-      showMore: {
-        limit: 20,
-        templates: Search.showMoreTemplates
-      }
-    }));
-  },
   addSpeakersWidget: function addSpeakersWidget() {
     this.search.addWidget(instantsearch.widgets.refinementList({
       container: '#js-speakers',
@@ -374,9 +300,12 @@ var Search = {
         root: '',
         item: '',
         label: 'db relative pointer pa1 hover-purple',
-        count: 'absolute right-0 top-0 mr1 br-pill bg-purple white pa1 f6',
+        count: 'absolute right-0 top-0 mr1 br-pill bg-black-20 purple pa1 f6',
         active: 'b purple',
         checkbox: 'dn'
+      },
+      templates: {
+        'header': '<h3 class="title f2 no-b ma0 purple">Speakers</h3>'
       },
       limit: 10,
       showMore: {
@@ -385,28 +314,28 @@ var Search = {
       }
     }));
   },
-  addTypeWidget: function addTypeWidget() {
+  addLocationsWidget: function addLocationsWidget() {
     this.search.addWidget(instantsearch.widgets.refinementList({
-      container: '#type',
-      attributeName: 'type'
-    }));
-  },
-  addRessourcesWidget: function addRessourcesWidget() {
-    this.search.addWidget(instantsearch.widgets.refinementList({
-      container: '#ressources',
-      attributeName: 'availableRessources',
-      operator: 'and'
-    }));
-  },
-  addYearWidget: function addYearWidget() {
-    this.search.addWidget(instantsearch.widgets.rangeSlider({
-      container: '#year',
-      attributeName: 'year',
-      tooltips: {
-        format: _.parseInt
+      container: '#js-locations',
+      attributeName: 'location',
+      operator: 'or',
+      sortBy: ['isRefined', 'count:desc', 'name:asc'],
+      cssClasses: {
+        root: '',
+        item: '',
+        label: 'db relative pointer pa1 hover-purple',
+        count: 'absolute right-0 top-0 mr1 br-pill bg-black-20 purple pa1 f6',
+        active: 'b purple',
+        checkbox: 'dn'
       },
-      pips: false,
-      step: 1
+      templates: {
+        'header': '<h3 class="title f2 no-b ma0 purple">Lieux</h3>'
+      },
+      limit: 10,
+      showMore: {
+        limit: 20,
+        templates: Search.showMoreTemplates
+      }
     }));
   },
   addHitsWidget: function addHitsWidget() {
