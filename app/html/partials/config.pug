@@ -8,7 +8,7 @@
 
 mixin cloudinary_logo(logo)
   - cloudinary_base = 'https://res.cloudinary.com/pixelastic-humantalks/image/fetch/'
-  - effects = 'w_120,c_scale,q_90,f_auto,e_grayscale'
+  - effects = 'w_120,q_90,f_auto,e_grayscale'
   - websiteurl = `${baseurl}img/sponsors/${logo}.png`
   - fullurl = `${cloudinary_base}${effects}/${websiteurl}`
   .flex-auto.w-20.flex.flex-center

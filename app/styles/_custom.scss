@@ -2,9 +2,19 @@
   color: $purple;
   font-weight: bold;
   .hit--title & {
+    font-weight: normal;
     background-color: #FFDFDF;
     padding-left: .1rem;
     padding-right: .1rem;
+  }
+}
+
+.hit--author {
+  .hit--author-picture {
+    filter: grayscale(100%);
+  }
+  &:hover .hit--author-picture {
+    filter: none;
   }
 }
 

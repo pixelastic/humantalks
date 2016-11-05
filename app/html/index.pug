@@ -2,12 +2,12 @@ include ./partials/config.pug
 
 include ./partials/head.pug
 
-body
+body.oh
   include ./partials/header.pug
-  .flex-row-nowrap.mt5
-    .flex-none.w5.pa2
+  .flex-row-nowrap(style="height:calc(100vh - 4rem)")
+    .flex-none.oy.w5.pa2.br.bw2.b--purple.bg-white
       include ./partials/sidebar.pug
-    .flex-auto
+    .flex-auto.oy.pa2.pr3(style="overflow-x: hidden")
       include ./partials/hits.pug
       include ./partials/templates.html
 

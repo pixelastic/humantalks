@@ -1,23 +1,23 @@
 <script id="js-template-hits" language="x-template">
-  <div class="flex-auto flex-row-nowrap mr2 mt2 bg-white shadow-3 pa2">
+  <div class="flex-auto flex-row-nowrap mb2 ba b--black-30 bg-white shadow-3 pv2 ph3">
 
     <div class="flex-none w5 flex-column-nowrap">
-      <a href="{{thumbnailLink}}" class="flex-auto flex-center flex link">
+      <a href="{{thumbnailLink}}" target="_blank" class="flex-auto flex-center flex link">
         <img src="{{thumbnail}}" class="br2 h4" />
       </a>
       <div class="flex-auto flex-row-nowrap items-end mt2">
-        <a href="{{meetupUrl}}" class="flex-auto link hover-purple tc f6 dark-gray hit--meetup">
+        <a href="{{meetupUrl}}" target="_blank" class="flex-auto link hover-purple tc f6 dark-gray hit--meetup">
           <span class="fa fa-meetup db f3 mb1"></span>
           Meetup
         </a>
         {{#hasVideo}}
-          <a href="{{video}}" class="flex-auto link hover-purple tc f6 dark-gray hit--video">
+          <a href="{{videoUrl}}" target="_blank" class="flex-auto link hover-purple tc f6 dark-gray hit--video">
             <span class="fa fa-youtube db f3 mb1"></span>
             Video
           </a>
         {{/hasVideo}}
         {{#hasSlides}}
-          <a href="{{slides}}" class="flex-auto link hover-purple tc f6 dark-gray hit--slides">
+          <a href="{{slidesUrl}}" target="_blank" class="flex-auto link hover-purple tc f6 dark-gray hit--slides">
             <span class="fa fa-slideshare db f3 mb1"></span>
             Slides
           </a>
@@ -26,11 +26,11 @@
     </div>
 
     <div class="flex-auto flex-column-nowrap pl2 f6 dark-gray">
-      <a href="{{titleLink}}" target="_blank" class="hit--title flex-none link purple b mv2 db f4">{{{title}}}</a>
+      <a href="{{titleLink}}" target="_blank" class="hit--title title f3 no-b flex-none link purple b mv2 db">{{{title}}}</a>
       <div class="mb2 flex-none flex-row-wrap">
         {{#authors}}
-          <a href="{{link}}" class="flex-none mr2 flex-row-nowrap flex-vcenter link dark-gray hover-purple" link dark-gray hover-purple">
-            <img src="{{picture}}" class="h2 flex-none mr2"/>
+          <a href="{{link}}" class="hit--author flex-none mr2 flex-row-nowrap flex-vcenter link dark-gray hover-purple" link dark-gray hover-purple">
+            <img src="{{picture}}" class="hit--author-picture h2 flex-none mr2"/>
             <div class="flex-none">{{{highlightedName}}}</div>
           </a>
         {{/authors}}
@@ -47,60 +47,7 @@
 
 
 <script id="js-template-noresults" language="x-template">
-  <div class="flex-auto b fa2 pa4 ma4 bg-white shadow-4">
-    Aucun résultat
+  <div class="flex-auto b fa2 pa3 ma2 bg-white shadow-4 ba b--black-30 black-80">
+    Aucun résultat. Pourquoi ne pas proposer un talk sur un sujet que vous aimeriez voir abordé?
   </div>
 </script>
-<!-- //       {{#thumbnail}} -->
-<!-- //         <style> -->
-<!-- //           #hit__{{objectID}} .hit--thumbnail:after { -->
-<!-- //             background-image:url({{thumbnail}}) -->
-<!-- //           } -->
-<!-- //         </style> -->
-<!-- //       {{/thumbnail}} -->
-<!-- //       <article id="hit__{{objectID}}" class="hit {{#inViewport}}hit__inViewport{{/inViewport}} {{#isConference}}hit__isConference{{/isConference}} {{#isWorkshop}}hit__isWorkshop{{/isWorkshop}}"> -->
-<!-- //         <a href="https://www.paris-web.fr/{{year}}" target="_blank" class="hit--year">{{year}}</a> -->
-<!-- //         <a href="{{url}}" class="hit--title">{{{title}}}</a> -->
-<!-- //  -->
-<!-- //         <div class="hit--wrapper"> -->
-<!-- //           <div class="hit--ressources"> -->
-<!-- //             {{#thumbnailLink}}<a href="{{thumbnailLink}}">{{/thumbnailLink}} -->
-<!-- //             <div class="hit--thumbnail"></div> -->
-<!-- //             {{#thumbnailLink}}</a>{{/thumbnailLink}} -->
-<!-- //             <div class="hit--external"> -->
-<!-- //               {{#video}}<a href="{{video}}" class="hit--ressource__video">Video</a>{{/video}} -->
-<!-- //               {{#slides}}<a href="{{slides}}" class="hit--ressource__slides">Slides</a>{{/slides}} -->
-<!-- //             </div> -->
-<!-- //           </div> -->
-<!-- //  -->
-<!-- //           <div class="hit--details"> -->
-<!-- //             <ul class="hit--authors"> -->
-<!-- //             {{#authors}}<li  -->
-<!-- //                 class="hit--author js-facet-toggle {{#isRefined}}hit-facet__isRefined{{/isRefined}}"  -->
-<!-- //                 data-facet-name="authors.name" -->
-<!-- //                 data-facet-value="{{plainName}}" -->
-<!-- //                 style="background-image: url({{picture}})" -->
-<!-- //               >{{{highlightedName}}}</li> -->
-<!-- //             {{/authors}} -->
-<!-- //             </ul> -->
-<!-- //             <div class="hit--description"> -->
-<!-- //               <p>{{{description}}}</p> -->
-<!-- //             </div> -->
-<!-- //             <ul class="hit--tags"> -->
-<!-- //             {{#tags}}<li  -->
-<!-- //               class="hit--tag js-facet-toggle {{#isRefined}}hit-facet__isRefined{{/isRefined}}"  -->
-<!-- //               data-facet-name="tags"  -->
-<!-- //               data-facet-value="{{plainValue}}" -->
-<!-- //               >{{{highlightedValue}}}</li> -->
-<!-- //             {{/tags}} -->
-<!-- //             </ul> -->
-<!-- //           </div> -->
-<!-- //         </div> -->
-<!-- //       </article> -->
-<!-- //     </script> -->
-<!-- //     <script id="noResults" language="x-template"> -->
-<!-- //       <div class="hits__noResults"> -->
-<!-- //         <p>Désolé, aucune conférence ni atelier ne correspond à votre recherche.</p> -->
-<!-- //         <p>Si vous ne trouvez pas ce que vous cherchez, pourquoi ne pas proposer un sujet ?</p> -->
-<!-- //       </div> -->
-<!-- //     </script> -->

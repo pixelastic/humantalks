@@ -1,5 +1,5 @@
 // Fonts
-.galano { font-family: 'Galano'; }
+.title { font-family: 'Title'; }
 // Flexbox
 .flex-nogrow { flex-grow: 0; }
 .flex-grow { flex-grow: 1; }
@@ -18,10 +18,13 @@
 .prewrap { white-space: pre-wrap; }
 // Line-height
 .lh-0 { line-height: 0; }
+// Bold
+.no-b { font-weight: normal; }
 // Align
 .justify { text-align: justify; }
 // Overflow
 .oh { overflow: hidden; }
+.oy { overflow-y: auto; }
 // Font-size
 .f7 { font-size: .65rem; }
 .f8 { font-size: .5rem; }
@@ -30,6 +33,8 @@
 .transparent { color: $background; }
 // Backgrounds
 .bg-purple { background-color: $purple };
+// Borders
+.b--purple { border-color: $purple; }
 // Hover
 .hover-purple:hover { color: $purple; }
 // Text shadow
