@@ -26,7 +26,9 @@
     </div>
 
     <div class="flex-auto flex-column-nowrap pl2 f6 dark-gray">
-      <a href="{{titleLink}}" target="_blank" class="hit--title title f3 no-b flex-none link purple b mv2 db">{{{title}}}</a>
+      <a href="{{titleLink}}" target="_blank" class="hit--title title f3 no-b flex-none link purple b mv2 db">
+        {{{title}}}
+      </a>
       <div class="mb2 flex-none flex-row-wrap">
         {{#authors}}
           <a href="{{link}}" class="hit--author flex-none mr2 flex-row-nowrap flex-vcenter link dark-gray hover-purple" link dark-gray hover-purple">
@@ -35,12 +37,14 @@
           </a>
         {{/authors}}
       </div>
-      <div class="flex-auto justify lh-copy">{{{description}}}</div>
+      <div class="flex-auto justify lh-copy">
+        {{{description}}}
+      </div>
       <a href="{{meetupUrl}}" class="hit--location flex-none self-end mt2 link dark-gray hover-purple">
         <div class="tr">
           Présenté le {{readableDate}} chez {{{readableLocation}}}
         </div>
-      </div>
+      </a>
     </div>
   </div>
 </script>
