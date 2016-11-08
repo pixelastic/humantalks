@@ -125,7 +125,8 @@
       "id" : "d94cca0d-6573-4e6f-805b-3befac0d38b3",
       "name" : "Caroline Besnard",
       "twitter" : "carobesnard",
-      "avatar" : "https://pbs.twimg.com/profile_images/612215517533863937/yYsReEr__400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/612215517533863937/yYsReEr__400x400.jpg",
+      "description" : "La curiosité est une qualité à cultiver."
     } ],
     "video" : "https://www.youtube.com/watch?v=aM2Q6bjo0x8",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/aM2Q6bjo0x8\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -168,7 +169,8 @@
       "id" : "fb0ddd7a-3fcf-4a04-ab80-6b10e777be87",
       "name" : "Ori Pekelman",
       "twitter" : "OriPekelman",
-      "avatar" : "https://pbs.twimg.com/profile_images/2290008070/bs49edg28e6c5swpaa09_400x400.png"
+      "avatar" : "https://pbs.twimg.com/profile_images/2290008070/bs49edg28e6c5swpaa09_400x400.png",
+      "description" : "There are no user errors. Only UX bugs and faulty documentation. I hack on platform.sh and organize @DataParis .. personal home page: http://pekelman.com "
     } ],
     "video" : "https://www.youtube.com/watch?v=Gt8LV5qmpg8",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Gt8LV5qmpg8\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -211,7 +213,8 @@
       "id" : "58441488-893c-48ed-99c0-3cd32cf629fb",
       "name" : "Olivier Berthonneau",
       "twitter" : "oberthonneau",
-      "avatar" : "https://pbs.twimg.com/profile_images/700708883929563136/ZlO-Zciz_400x400.jpg"
+      "avatar" : "http://1.gravatar.com/avatar/7fdcc65c63370e0e3f45b29ead60cac9",
+      "description" : "Software developer @nanocloud_com. Life in Paris, heart in the US and turned to the Cloud."
     } ],
     "video" : "https://www.youtube.com/watch?v=m_0sr0TIkQo",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/m_0sr0TIkQo\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -254,7 +257,7 @@
       "id" : "f5bbc5ac-7dab-4365-a099-553e6c09d40f",
       "name" : "Christophe Michel",
       "twitter" : "christopheml",
-      "avatar" : "https://pbs.twimg.com/profile_images/773575499369029634/gKO3acvl_400x400.jpg",
+      "avatar" : "http://1.gravatar.com/avatar/82f3501d455e344246d7fd267085d758",
       "description" : "Java and Web developer at @ArollaFR - @Epita '05 - Le bullshit enchaînera l'humanité."
     } ],
     "video" : "https://www.youtube.com/watch?v=BUEx02NDKF8",
@@ -296,7 +299,7 @@
       "id" : "579ec5dc-e20d-4382-8537-847e41b8b95e",
       "name" : "Mathieu Robin",
       "twitter" : "mathrobin",
-      "avatar" : "https://pbs.twimg.com/profile_images/566165922931433472/zq3VQP61_400x400.jpeg",
+      "avatar" : "http://2.gravatar.com/avatar/e5df5eb24863a86ef4d4c4bc071cb016",
       "description" : "Lead dev JS, ex-chroniqueur jQuery. Amateur de bons alcools et de gastronomie. Développeurs de père en fils. Créateur de @AperoJS_Paris et @MatosMaison"
     } ],
     "video" : "https://www.youtube.com/watch?v=iicE_LMKSsw&feature=youtu.be",
@@ -377,7 +380,8 @@
       "id" : "663cef1c-cb65-432a-8c91-ccd4f5e137b2",
       "name" : "Raphaël Lemaire",
       "twitter" : "rlemaire",
-      "avatar" : "https://pbs.twimg.com/profile_images/745723687798738945/MOIm9GUc_400x400.jpg"
+      "avatar" : "http://2.gravatar.com/avatar/e782b3e5b1abf2a24ef2895332670f0d",
+      "description" : "Dev craftsman freelance, #java #js #agile ( #etc...), épistémophile, écolo, musicien. Co-orga de @bestofwebconf @pariswebComps et @backbonejsparis"
     } ],
     "video" : "https://www.youtube.com/watch?v=4E7I8-jVg7k",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4E7I8-jVg7k\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -419,7 +423,7 @@
       "id" : "5d7304a0-3c97-4cd7-b7e7-2ef3027c8b1c",
       "name" : "Thibaut Cheymol",
       "twitter" : "thibaut_cheymol",
-      "avatar" : "https://pbs.twimg.com/profile_images/788736687354634240/GuLeEW9K_400x400.jpg"
+      "avatar" : "http://2.gravatar.com/avatar/911eb2ca0ec784de27551c00baaee189"
     } ],
     "video" : "https://www.youtube.com/watch?v=tEyINYJFaFM",
     "meetup" : {
@@ -453,6 +457,130 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/"
     }
   }, {
+    "id" : "ec9e5692-8e61-4f95-82a8-c42c21d7cddd",
+    "title" : "Balsamiq Mockup : conceptualiser vos projets en 2min chrono",
+    "description" : "Dans la plus part des projets, nous passons par une phase de conceptualisation afin de poser les grandes briques, définir les chemins que prendront les utilisateurs et imaginer les fonctionnalités auxquelles ils pourront accéder.\r\n\r\nEn général cette phase se fait sur un tableau blanc et est formalisée ensuite tant bien que mal via visio, powerpoint, word et office.\r\n\r\nJe vous propose de découvrir une alternative, pour réaliser vos wireframes de manière simple, rapide, ludique et surtout extrèmement efficace grâce à Balsamiq Mockup.",
+    "speakers" : [ {
+      "id" : "8ce0078b-14b8-4be2-a65a-18837beeb1a5",
+      "name" : "Mathieu Parisot",
+      "twitter" : "matparisot",
+      "avatar" : "https://pbs.twimg.com/profile_images/684439807603400704/CS8z0qCK_400x400.jpg",
+      "description" : "Développeur web freelance, formateur, coorganisateur des Humantalks Paris"
+    } ],
+    "video" : "https://www.youtube.com/watch?v=9LgXke5PqI0",
+    "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/9LgXke5PqI0\" frameborder=\"0\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "bf833cd1-b637-4e38-93f3-3a71297acc9d",
+      "title" : "HumanTalks Paris Juin 2013",
+      "date" : 1370977200000,
+      "venue" : {
+        "id" : "ddb870f9-754c-47b8-9daf-6fa4c015444e",
+        "name" : "Soat",
+        "location" : {
+          "id" : "ChIJKYdgp25y5kcRAUNoU8rycvg",
+          "name" : "Soat",
+          "streetNo" : "89",
+          "street" : "Quai Panhard et Levassor",
+          "postalCode" : "75013",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "89 Quai Panhard et Levassor, 75013 Paris, France",
+          "input" : "Soat, Quai Panhard et Levassor, Paris, France",
+          "coords" : {
+            "lat" : 48.83182499999999,
+            "lng" : 2.379613000000063
+          },
+          "url" : "https://maps.google.com/?cid=17902638419547800321",
+          "website" : "http://www.soat.fr/",
+          "phone" : "+33 1 44 75 42 55"
+        },
+        "logo" : "http://www.soat.fr/wp-content/themes/soat/images/logo.svg"
+      }
+    }
+  }, {
+    "id" : "e9c9ffcc-3ce4-45aa-8ff2-d2be86a854fc",
+    "title" : "Baptême en Machine Learning",
+    "description" : "On entend souvent parler de \"Machine Learning\" dans les applications web \"intelligentes\". Google, Amazon, Apple, Facebook l'utilisent. Mais qu'y a-t-il exactement derrière ce terme obscur ?\r\n\r\nEn complément de la présentation, voici quelques références à consulter :\r\n* SVM (technique de classification illustrée dans la présentation) : sur wikipedia (https://fr.wikipedia.org/wiki/Machine_%C3%A0_vecteurs_de_support) et à Paris sud (http://www.math.u-psud.fr/~blanchard/gtsvm/intro.pdf)\r\n* SVM with polynomial kernel visualization (https://www.youtube.com/watch?v=3liCbRZPrZA)\r\n* Détection de la langue d'un texte avec Google Prediction API (https://cloud.google.com/prediction/docs/quickstart)\r\n* Prédiction du prix de vente d'une maison avec Google Prediction API (http://tpc247.blogspot.fr/2011/10/how-to-use-google-prediction-api-to.html)",
+    "speakers" : [ {
+      "id" : "7b32443d-b6ac-4b88-92c2-c0dae91e3197",
+      "name" : "Louis Dorard",
+      "twitter" : "louisdorard",
+      "avatar" : "http://0.gravatar.com/avatar/ab20e2ef85f6c939136d5dc68a8c85e9"
+    } ],
+    "video" : "https://www.youtube.com/watch?v=3S5HgDWXRA8",
+    "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3S5HgDWXRA8\" frameborder=\"0\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "bf833cd1-b637-4e38-93f3-3a71297acc9d",
+      "title" : "HumanTalks Paris Juin 2013",
+      "date" : 1370977200000,
+      "venue" : {
+        "id" : "ddb870f9-754c-47b8-9daf-6fa4c015444e",
+        "name" : "Soat",
+        "location" : {
+          "id" : "ChIJKYdgp25y5kcRAUNoU8rycvg",
+          "name" : "Soat",
+          "streetNo" : "89",
+          "street" : "Quai Panhard et Levassor",
+          "postalCode" : "75013",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "89 Quai Panhard et Levassor, 75013 Paris, France",
+          "input" : "Soat, Quai Panhard et Levassor, Paris, France",
+          "coords" : {
+            "lat" : 48.83182499999999,
+            "lng" : 2.379613000000063
+          },
+          "url" : "https://maps.google.com/?cid=17902638419547800321",
+          "website" : "http://www.soat.fr/",
+          "phone" : "+33 1 44 75 42 55"
+        },
+        "logo" : "http://www.soat.fr/wp-content/themes/soat/images/logo.svg"
+      }
+    }
+  }, {
+    "id" : "c877465e-6ff6-4888-b716-1229048b4485",
+    "title" : "Be a VRP is sexy",
+    "description" : "1/ A VRP is fuckin SEXY !\r\n\r\n2/ This guy was my nightmare when I was a kid. I thought that if I was not good at school, I’ll end up like him.\r\nDoors shut at your face. Under the rain, the wind and the despised by all. Your wife back at home that is upset by the tiny revenue you have made. Again, tomorrow you'll have to go back, wishing for a brighter day.\r\n\r\n3/ Based on business my experience in the startup world, I have a strong believe: You got to be a VRP to make a startup.\r\n\r\n4/ Startup = $ You got to make money, you got to be a VRP-startup to run a startup.\r\n\r\n4’/ Startup = Customer intimacy You have to know your future cleint by heart.\r\n\r\n4’’/ However, there are no magic tricks or real methodology. Just some tools and the right attitude : being a VRP\r\n\r\n4’’’/ You have to be ready to spend a lot time to understand your customer segment. Be ready for a long ride : a marathon\r\n\r\n5/ Twitter and Foursquare are pure innovation player, that’s really sexy. Look like fun, focus only on product and not adult stuff to worry about. Cool attitude (wearing flip-flop) and VC funded…that’s ROCKS isn't it?\r\n\r\n6/ A Startup is a \"temporary organisation that is looking for a scalable and sustainable business-model\".\r\n\r\n6’/ However, there is a whole fantasy around startup. Look at what we hear about Google and Facebook stories. The fantasy is emphasis by Techcrunch and others. Stop that shit and don’t lie to yourself! Either you are a Hacker (pure innovation player) or a startup.\r\n\r\n7/ The reality is that those hacker CEO’s, without a a suistainable business-model are in reality stressed out, coz they have a high burning rate and VC that are worried and complaining.\r\n\r\n8/ Choice to make: To be stressed out wearing flip-flop or a VRP ? Selling your soul to the VC devil or do the dirty job yourself.\r\n\r\n9/ My choice is to be a VRP. Build a startup that makes money and then do pure innovation stuff. Cash flow and then FUN. Building a team that is well paid and then let them unleash their talent.\r\n\r\n10/ Before I concluded, there is guy that rocks, but also that I hate (too arrogant) Gary Vaynerchuk and Morten Lund. Check-up their story and what they think about being marketing and sales driven.\r\n\r\n11/ So remember VRP is cool. Build a healthy product making organisation. Make money and share it with your team. Be a VRP and have fun later.",
+    "speakers" : [ {
+      "id" : "773fed1a-e85a-4318-ab75-0ab2a781be21",
+      "name" : "Julien Petit",
+      "twitter" : "julien99",
+      "avatar" : "https://pbs.twimg.com/profile_images/775981633874821120/E3VtM1PG_400x400.jpg"
+    } ],
+    "slides" : "http://www.slideshare.net/julien99/vrp-is-sexy-copy",
+    "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/uMQSWD889kIJAf\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
+    "video" : "https://www.youtube.com/watch?v=Lp2i0PTV6BE",
+    "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Lp2i0PTV6BE\" frameborder=\"0\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "30c36697-b10e-457a-8b44-bfca8e8ccde7",
+      "title" : "HumanTalks Paris Avril 2013",
+      "date" : 1365534000000,
+      "venue" : {
+        "id" : "2caa4f9b-0802-4ea4-882f-4fe132691ab0",
+        "name" : "Zenika",
+        "location" : {
+          "id" : "ChIJgZ9sujhu5kcR-sGp3BP8lnA",
+          "name" : "Zenika",
+          "streetNo" : "10",
+          "street" : "Rue de Milan",
+          "postalCode" : "75009",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "10 Rue de Milan, 75009 Paris, France",
+          "input" : "Zenika, Rue de Milan, Paris, France",
+          "coords" : {
+            "lat" : 48.8790862,
+            "lng" : 2.32844369999998
+          },
+          "url" : "https://maps.google.com/?cid=8112948940991218170",
+          "website" : "http://www.zenika.com/",
+          "phone" : "+33 1 45 26 19 15"
+        },
+        "twitter" : "ZenikaIT",
+        "logo" : "http://photos4.meetupstatic.com/photos/event/a/d/b/b/600_452084475.jpeg"
+      }
+    }
+  }, {
     "id" : "32fb9f29-91cd-408c-b4f1-5747325b78d9",
     "title" : "Better tests with mocking and stubbing",
     "description" : "Découvrez  comment utiliser les mocks et les stubs pour mieux isoler les tests.",
@@ -460,7 +588,8 @@
       "id" : "2ac47801-26b0-415b-996c-4a87918f7eaf",
       "name" : "Michel Pigassou",
       "twitter" : "dagnan",
-      "avatar" : "https://pbs.twimg.com/profile_images/526847399814131712/WUrnDe2f_400x400.jpeg"
+      "avatar" : "http://0.gravatar.com/avatar/4bcdd5fb44aa756a70598f3a670a3b0e",
+      "description" : "Software Engineer @Zendesk (previously @8tracks and @Fidzup). I also enjoy cooking!"
     } ],
     "video" : "https://www.youtube.com/watch?v=xRs1M_5-MWY",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xRs1M_5-MWY\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -532,6 +661,46 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/204426542/"
     }
   }, {
+    "id" : "5a88b712-897c-428b-b6df-82ecba3459ab",
+    "title" : "Ce que j'aurais voulu savoir",
+    "description" : "Difficile de réduire \"l'informatique\" à une seule spécialité.\r\nChaque domaine se compose lui-même de nombreuses branches. À l'école ou au travail, il faut pourtant bien choisir un domaine d'expertise.\r\n\r\nMais parfois, une seule connaissance vous manque et vous voilà condamné à réinventer la roue... paradoxal dans un milieu qui déteste ça et fait de son mieux pour l'éviter :)\r\n\r\nCes dix minutes tenteront de donner un aperçu rapide de quelques-uns de ces domaines pour que vous puissiez les garder dans un coin de votre tête, et vous en resservir le moment venu.",
+    "speakers" : [ {
+      "id" : "2ba139cc-1a0f-4aed-8560-2a16251c3608",
+      "name" : "Sylvain Abélard",
+      "twitter" : "abelar_s",
+      "avatar" : "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png",
+      "description" : "Let's solve interesting problems together & make you awesome ― @Faveod dev ・ @ParisRB & @RailsGirlsParis org ・ @zen_m4 podcast ― Relentlessly testing to improve"
+    } ],
+    "slides" : "http://fr.slideshare.net/abelar_s/ce-que-jaurais-voulu-savoir-15177456",
+    "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/zGxTvg4FNpI0i3\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "60a0c698-ad8e-490b-a495-490edf06f0e5",
+      "title" : "HumanTalks Paris Novembre 2012",
+      "date" : 1352833200000,
+      "venue" : {
+        "id" : "343c27e8-7c2a-4e56-92dc-7222a0533a4b",
+        "name" : "Epitech Paris",
+        "location" : {
+          "id" : "ChIJIUVO-X9x5kcRwzm77N_H9CQ",
+          "name" : "24 Rue Pasteur",
+          "streetNo" : "24",
+          "street" : "Rue Pasteur",
+          "postalCode" : "94270",
+          "locality" : "Le Kremlin-Bicêtre",
+          "country" : "France",
+          "formatted" : "24 Rue Pasteur, 94270 Le Kremlin-Bicêtre, France",
+          "input" : "24 Rue Pasteur, Le Kremlin-Bicêtre, France",
+          "coords" : {
+            "lat" : 48.8153291,
+            "lng" : 2.3631676999999627
+          },
+          "url" : "https://maps.google.com/?q=24+Rue+Pasteur,+94270+Le+Kremlin-Bic%C3%AAtre,+France&ftid=0x47e6717ff94e4521:0x24f4c7dfecbb39c3"
+        },
+        "twitter" : "epitech",
+        "logo" : "https://pbs.twimg.com/profile_images/522020491330985986/tKPMMaRj.png"
+      }
+    }
+  }, {
     "id" : "be06eb0c-3881-46a8-9579-20a8ac34b791",
     "title" : "Checkpoint : sécurité des frameworks web",
     "description" : "Rien ne sert de bien tester du point de vue sécurité son application web si l'on oublie de maintenir à jour ses frameworks et son serveur d'application... Retour sur quelques fondamentaux, en pratique souvent négligés ou ignorés.",
@@ -578,7 +747,8 @@
       "id" : "ac2c26f9-3aca-4da9-bc22-b7946c2b9cfe",
       "name" : "Guillaume Bitaudeau",
       "twitter" : "gbitaudeau",
-      "avatar" : "https://pbs.twimg.com/profile_images/378800000414715638/75e1f5912e5c36304e6a244103ed6210_400x400.jpeg"
+      "avatar" : "http://1.gravatar.com/avatar/e26e7714390006906cdc8e9baf84da0f",
+      "description" : "Consultant iOs / Android / Cloud - Associé @AppSonic"
     } ],
     "video" : "https://www.youtube.com/watch?v=pUTacbi8-tQ",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/pUTacbi8-tQ\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -612,6 +782,47 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/"
     }
   }, {
+    "id" : "34e68d98-64ec-4c2f-92f4-bde12556176b",
+    "title" : "Comment j'ai trouvé une copine avec Node.js",
+    "description" : "… et comment j'ai appris Node.js, un certain nombre de ses modules, ainsi qu'Angular.js.\r\n\r\nEn bonus : la vérité sur les sites de rencontre et comment toi aussi tu peux te trouver ta copine en moins de deux semaines ;)",
+    "speakers" : [ {
+      "id" : "bfb100cc-7a5d-4b9b-9ec5-17dc01681c2b",
+      "name" : "Étienne Folio",
+      "twitter" : "ornthalas",
+      "avatar" : "http://1.gravatar.com/avatar/8d9492a5404181c87b5c167d26d26083"
+    } ],
+    "slides" : "https://speakerdeck.com/ornthalas/comment-jai-trouve-une-copine-avec-node-dot-js",
+    "slidesEmbedCode" : "<script async class=\"speakerdeck-embed\" data-id=\"d3abff80764001308df922000a9d0910\" data-ratio=\"1.33333333333333\" src=\"//speakerdeck.com/assets/embed.js\"></script>",
+    "meetup" : {
+      "id" : "44829bcf-c719-4d43-9759-eaa099410673",
+      "title" : "HumanTalks Paris Mars 2013",
+      "date" : 1363114800000,
+      "venue" : {
+        "id" : "9867c450-b6f6-4072-b1d7-2afa2f08e588",
+        "name" : "Xebia",
+        "location" : {
+          "id" : "ChIJ0wnrwMdv5kcRcWS32vLkTp4",
+          "name" : "Xebia - Cabinet de conseil IT",
+          "streetNo" : "156",
+          "street" : "Boulevard Haussmann",
+          "postalCode" : "75008",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "156 Boulevard Haussmann, 75008 Paris, France",
+          "input" : "Xebia - Cabinet de conseil IT, Boulevard Haussmann, Paris, France",
+          "coords" : {
+            "lat" : 48.875559,
+            "lng" : 2.31101799999999
+          },
+          "url" : "https://maps.google.com/?cid=11407306637878715505",
+          "website" : "http://www.xebia.fr/",
+          "phone" : "+33 1 53 89 99 99"
+        },
+        "twitter" : "xebiafr",
+        "logo" : "https://pbs.twimg.com/profile_images/671952647025479684/HFjZ4Hle_400x400.png"
+      }
+    }
+  }, {
     "id" : "a246899b-3e6c-4018-b87e-b54ad8bc1d09",
     "title" : "Comment trouver des clients en tant que Freelance ?",
     "description" : "Les étapes pour se faire connaître au sein de sa communauté, et trouver des clients.",
@@ -619,7 +830,8 @@
       "id" : "ae420fbb-0dc2-4aee-a796-a7dfe1abaefc",
       "name" : "Thibaut Assus",
       "twitter" : "tibastral",
-      "avatar" : "https://pbs.twimg.com/profile_images/378800000846070846/2b3f91e48783ceef89b91ddacd1a02ff_400x400.jpeg"
+      "avatar" : "http://0.gravatar.com/avatar/bc1d5c64922b7870dccc770a3e939486",
+      "description" : "Ruby on Rails developer Organizer at http://meetup.com/parisrb  Cofounder of http://jobboardmaker.com  and http://mipise.com  T. Monk fan & jazz piano performer"
     } ],
     "video" : "https://www.youtube.com/watch?v=cCOTvwCITqs",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cCOTvwCITqs\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -697,7 +909,7 @@
       "id" : "756aad26-0fae-4e03-94f5-33a16f284429",
       "name" : "Raphaël Dubigny",
       "twitter" : "rdubigny",
-      "avatar" : "https://pbs.twimg.com/profile_images/734829260809080837/X5XMbWVu_400x400.jpg"
+      "avatar" : "http://1.gravatar.com/avatar/182c71b4d5d3c5c7bc6bd8278ce2d58c"
     } ],
     "meetup" : {
       "id" : "133976da-5bbd-497d-a4e8-9693ce56294a",
@@ -777,7 +989,8 @@
       "id" : "3a380cf6-e23d-40ad-98b8-10338f96d958",
       "name" : "Richard Hanna",
       "twitter" : "richardhanna",
-      "avatar" : "https://pbs.twimg.com/profile_images/767980654449532929/0_V2rqsK_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/767980654449532929/0_V2rqsK_400x400.jpg",
+      "description" : "Not a US Senator. French webdeveloper #php #symfony #javascript #ReactNative @Elao Paris, citoyen du monde et colombo de cabri."
     } ],
     "meetup" : {
       "id" : "438dd962-6b3f-4c2c-8ff3-9986b1502402",
@@ -809,6 +1022,38 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/"
     }
   }, {
+    "id" : "d17c4082-b630-4910-a7ad-9215cbafd567",
+    "title" : "Création d'addons sur World of Warcraft",
+    "description" : "Code en Lua\r\nInterface en XML\r\nLes outils et docs mis à disposition des développeurs.\r\nPrésentation d'un projet en cours.\r\nExemple de projet terminé.",
+    "speakers" : [ ],
+    "meetup" : {
+      "id" : "60a0c698-ad8e-490b-a495-490edf06f0e5",
+      "title" : "HumanTalks Paris Novembre 2012",
+      "date" : 1352833200000,
+      "venue" : {
+        "id" : "343c27e8-7c2a-4e56-92dc-7222a0533a4b",
+        "name" : "Epitech Paris",
+        "location" : {
+          "id" : "ChIJIUVO-X9x5kcRwzm77N_H9CQ",
+          "name" : "24 Rue Pasteur",
+          "streetNo" : "24",
+          "street" : "Rue Pasteur",
+          "postalCode" : "94270",
+          "locality" : "Le Kremlin-Bicêtre",
+          "country" : "France",
+          "formatted" : "24 Rue Pasteur, 94270 Le Kremlin-Bicêtre, France",
+          "input" : "24 Rue Pasteur, Le Kremlin-Bicêtre, France",
+          "coords" : {
+            "lat" : 48.8153291,
+            "lng" : 2.3631676999999627
+          },
+          "url" : "https://maps.google.com/?q=24+Rue+Pasteur,+94270+Le+Kremlin-Bic%C3%AAtre,+France&ftid=0x47e6717ff94e4521:0x24f4c7dfecbb39c3"
+        },
+        "twitter" : "epitech",
+        "logo" : "https://pbs.twimg.com/profile_images/522020491330985986/tKPMMaRj.png"
+      }
+    }
+  }, {
     "id" : "5ea2ac1f-5970-4a80-a30f-dfc27040b330",
     "title" : "Culture Craft",
     "description" : "Avez-vous déjà eu l'impression de vous être assoupis dans votre carrière, de faire moins de veille qu'à d'autres périodes ? A l'inverse, vous êtes-vous déjà demandé comment sortir du ronron ambiant et \"réveiller\" vos collègues qui vous semblaient manquer de curiosité et de passion sur un projet ?\r\n\r\nCette courte session vise à vous présenter toutes les formules et astuces qui ont permis à très peu de gens chez nous de réveiller une grosse organisation qui s'endormait sur ses lauriers. Si on a réussi ici -sandwichs à la main- pourquoi pas vous ? Attention: effet contagieux ;-)",
@@ -816,7 +1061,7 @@
       "id" : "505c5a9a-585e-4bc9-bf74-b672c779d7c8",
       "name" : "Thomas Pierrain",
       "twitter" : "tpierrain",
-      "avatar" : "https://pbs.twimg.com/profile_images/745726209674346500/6_GJ3Vbv_400x400.jpg",
+      "avatar" : "http://0.gravatar.com/avatar/d626d8946597c5926e3b9d12d22597f5",
       "description" : "NFluent creator. Agile from father to son since 1905... Use-case-driven & coding architect #DDD #XP #lowLatency #pragmatic #socialAnimal #BBL #Speaker"
     } ],
     "slides" : "http://fr.slideshare.net/ThomasPierrain/culture-craft-humantalks",
@@ -858,7 +1103,8 @@
       "id" : "94750b22-d9b2-4b03-92ac-bbfbfb2ba9f6",
       "name" : "Nicolas Baissas",
       "twitter" : "nicolasbaissas",
-      "avatar" : "https://pbs.twimg.com/profile_images/2684674606/68df59463634245e25218d7de4009557_400x400.png"
+      "avatar" : "http://2.gravatar.com/avatar/dfd620dc267d3f8182cafd9837593294",
+      "description" : "Customer Success Engineer @Algolia. Formerly founder @lcdlcreme. @HECParis & @MinesNantes alumni."
     } ],
     "meetup" : {
       "id" : "ab67db44-d2c5-437f-bc4c-c5caa7c204f9",
@@ -895,9 +1141,9 @@
     "description" : "Retour d'expérience et explications de l'Agile UX, le penchant UX de la méthodo Agile. Qu'est-ce que l'Agile UX ? Comment cela fonctionne ? Quels en sont les avantages ? Venez découvrir ma vision de l'UX ;)",
     "speakers" : [ {
       "id" : "f81eaedf-1d3e-4b55-b7cd-eda09f52c6fc",
-      "name" : "Antoine Pezé",
+      "name" : "Antoine",
       "twitter" : "antoine_peze",
-      "avatar" : "https://pbs.twimg.com/profile_images/699622798411567104/Bk9Wnz_I_400x400.jpg",
+      "avatar" : "https://secure.gravatar.com/avatar/c623c5eae6605d61c09984d0b8261b69?d=404",
       "description" : "#UX lover @OCTOTechnology #UserResearch · #Prototype · #Feedback"
     } ],
     "video" : "https://www.youtube.com/watch?v=hqTCFzDj2l4",
@@ -939,7 +1185,8 @@
       "id" : "9242dc34-cc83-436d-9b47-ad4512c84c8d",
       "name" : "Jean-Loup Karst",
       "twitter" : "JeanloupKarst",
-      "avatar" : "https://pbs.twimg.com/profile_images/731882240280530944/GdhKAvis_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/731882240280530944/GdhKAvis_400x400.jpg",
+      "description" : "Helping tech talent find a job they love @Hired_HQ. Vanilla cupcakes enthusiast. ex @breazio cofounder."
     } ],
     "video" : "https://www.youtube.com/watch?v=g30DJ05QN-Y",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/g30DJ05QN-Y\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -973,6 +1220,48 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/"
     }
   }, {
+    "id" : "2567ea14-0ab7-403d-bb2e-7b6ada5d6ad6",
+    "title" : "Devenez Freelance, démissionnez !",
+    "description" : "Il s'agit d'un retour d'expérience destiné aux développeurs hésitant à sauter le pas vers le Freelance.\r\nJ'aborderai les questions à se poser avant de se lancer :\r\n\r\n- Pourquoi devenir Freelance ?\r\n- Quels sont les avantages et inconvénients une fois dans le bain ?\r\n- Quelles sont les conditions à réunir pour se lancer sans trop de risque ?\r\n- Comment se lancer en douceur ?",
+    "speakers" : [ {
+      "id" : "19c2971e-f933-4cb8-bad1-95266360f1c2",
+      "name" : "Matthieu Segret",
+      "twitter" : "MatthieuSegret",
+      "avatar" : "https://pbs.twimg.com/profile_images/645897878431494144/1AFosCZa_400x400.png",
+      "description" : "Directeur associé de @humancoders, centre de formation pour développeur"
+    } ],
+    "slides" : "http://fr.slideshare.net/MatthieuSegret/devenez-freelance",
+    "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/t7vibqXfensJPc\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "2bd5388d-6ffc-47ef-8046-169ee48c1b26",
+      "title" : "HumanTalks Paris Décembre 2012",
+      "date" : 1355252400000,
+      "venue" : {
+        "id" : "8d1d95f4-5746-4215-9115-a03089559c50",
+        "name" : "AF83",
+        "location" : {
+          "id" : "ChIJh4byUBZu5kcRAHiqmu7EwOQ",
+          "name" : "af83",
+          "streetNo" : "15",
+          "street" : "Rue Poissonnière",
+          "postalCode" : "75002",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "15 Rue Poissonnière, 75002 Paris, France",
+          "input" : "af83, Rue Poissonnière, Paris, France",
+          "coords" : {
+            "lat" : 48.869267,
+            "lng" : 2.347725099999934
+          },
+          "url" : "https://maps.google.com/?cid=16483391165252139008",
+          "website" : "http://www.af83.com/",
+          "phone" : "+33 1 42 72 33 32"
+        },
+        "twitter" : "af83",
+        "logo" : "https://pbs.twimg.com/profile_images/590187949670567937/DflwP5TD_400x400.png"
+      }
+    }
+  }, {
     "id" : "dec6b06b-ba51-47c1-a063-b463e0019ba2",
     "title" : "Du 100% pur guice !",
     "description" : "C'est en travaillant sur un backend restful que j'ai découvert Guice. C'est un framwork leger d'injection de dépendances, distribué par google. Au cours de ce talk je partagerai mon expérience sur ce framework, nous verrons comment grace à l'injection nous allons nous débarrasser des \"new\" et des factory et rendre le code plus rapide à développer et facile à tester.",
@@ -980,7 +1269,8 @@
       "id" : "81e2f98e-4924-4c1e-a55b-107eb758437d",
       "name" : "Pauline Iogna",
       "twitter" : "pauline_io",
-      "avatar" : "https://pbs.twimg.com/profile_images/772364154896343041/gk42_oZu_400x400.jpg"
+      "avatar" : "http://1.gravatar.com/avatar/a1acb9660b239024f9483d43981c7319",
+      "description" : "Dev java and @duchessfr active member"
     } ],
     "video" : "https://www.youtube.com/watch?v=HiVdTvzXcfs",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HiVdTvzXcfs\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -1147,7 +1437,7 @@
       "id" : "e0d659e8-27b9-4d59-9a0b-faffc215a464",
       "name" : "Florent Biville",
       "twitter" : "fbiville",
-      "avatar" : "https://pbs.twimg.com/profile_images/790562624937295873/aqQpsE6H_400x400.jpg",
+      "avatar" : "http://0.gravatar.com/avatar/f06979a03b9b522c80cb12def209c31a",
       "description" : "Insatiable Learner at @CriteoEng and OSS aficionado. NoCoffee. Kıro padawan. Views are my own, obviously."
     } ],
     "meetup" : {
@@ -1187,7 +1477,8 @@
       "id" : "edb22992-6ba6-41a8-863e-bcf9cdf666db",
       "name" : "Marc G Gauthier",
       "twitter" : "marcgg",
-      "avatar" : "https://pbs.twimg.com/profile_images/648864591120891906/7-EYTXGI_400x400.jpg"
+      "avatar" : "http://1.gravatar.com/avatar/fb042ce6a66cc962a00576632311c880",
+      "description" : "Trying to build useful software & help others do the same. Director of Engineering @drivy, tech advisor @getbirdly & others, blogger, teacher."
     } ],
     "video" : "https://www.youtube.com/watch?v=EbWBNpCuah0",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EbWBNpCuah0\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -1264,6 +1555,49 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226509764/"
     }
   }, {
+    "id" : "2f9c6fd4-2693-4987-86a1-a15f2bb24b3b",
+    "title" : "Développeurs, montez votre boîte!",
+    "description" : "Aux Etats-Unis, les plus belles success stories du Web viennent des développeurs : Facebook, Google, Twitter, pour n'en citer que quelques-unes.\r\nLes développeurs créent des start-ups, les développent et réussissent à en faire de vrais géants.\r\nEn France au contraire, la création d'entreprise est systématiquement orientée vers les profils commerciaux : l'une des requêtes plus demandées sur les moteurs de recherche est \" comment trouver un associé technique \", comme si les profils techniques ne créaient jamais d'entreprises ;-)\r\nEt l'un des sujets favoris de discussion des entrepreneurs porte sur la difficulté à trouver un associé....technique.\r\n\r\nIl est temps de corriger l'injustice : vous êtes développeur et vous voulez créer votre boite? Alors rejoignez le côté obscure de la force!",
+    "speakers" : [ {
+      "id" : "1c003f1a-b50a-48c5-ae2a-af28a3df6429",
+      "name" : "Fabien Charbit",
+      "twitter" : "fabiencharbit",
+      "avatar" : "http://1.gravatar.com/avatar/b40ef9c2112a17586657c7091fd95d53"
+    } ],
+    "slides" : "http://www.slideshare.net/FabienCharbit/pitch-human-talks",
+    "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/umOvJgvIK2rrGo\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
+    "video" : "https://www.youtube.com/watch?v=0nxDKTJ5Ovc",
+    "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0nxDKTJ5Ovc\" frameborder=\"0\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "30c36697-b10e-457a-8b44-bfca8e8ccde7",
+      "title" : "HumanTalks Paris Avril 2013",
+      "date" : 1365534000000,
+      "venue" : {
+        "id" : "2caa4f9b-0802-4ea4-882f-4fe132691ab0",
+        "name" : "Zenika",
+        "location" : {
+          "id" : "ChIJgZ9sujhu5kcR-sGp3BP8lnA",
+          "name" : "Zenika",
+          "streetNo" : "10",
+          "street" : "Rue de Milan",
+          "postalCode" : "75009",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "10 Rue de Milan, 75009 Paris, France",
+          "input" : "Zenika, Rue de Milan, Paris, France",
+          "coords" : {
+            "lat" : 48.8790862,
+            "lng" : 2.32844369999998
+          },
+          "url" : "https://maps.google.com/?cid=8112948940991218170",
+          "website" : "http://www.zenika.com/",
+          "phone" : "+33 1 45 26 19 15"
+        },
+        "twitter" : "ZenikaIT",
+        "logo" : "http://photos4.meetupstatic.com/photos/event/a/d/b/b/600_452084475.jpeg"
+      }
+    }
+  }, {
     "id" : "d778d38b-f10b-40a8-9016-6a043c12e16e",
     "title" : "Développez rapidement vos propres jeux en Ruby",
     "description" : "Ce talk vous montrera étape par étape comment développer un petit jeu 2D en Ruby à l'aide de la bibliothèque Gosu. Nous allons joindre l'utile à l'agréable en découvrant le langage Ruby tout en s'amusant. Cela vous donnera certainement des idées pour développer vos propres jeux.",
@@ -1271,7 +1605,8 @@
       "id" : "19c2971e-f933-4cb8-bad1-95266360f1c2",
       "name" : "Matthieu Segret",
       "twitter" : "MatthieuSegret",
-      "avatar" : "https://pbs.twimg.com/profile_images/645897878431494144/1AFosCZa_400x400.png"
+      "avatar" : "https://pbs.twimg.com/profile_images/645897878431494144/1AFosCZa_400x400.png",
+      "description" : "Directeur associé de @humancoders, centre de formation pour développeur"
     } ],
     "video" : "https://www.youtube.com/watch?v=0ckw7sxiGoQ",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0ckw7sxiGoQ\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -1311,7 +1646,8 @@
       "id" : "57da2b89-1f1b-44ec-bc41-d8a18e15df3f",
       "name" : "Lucas Bonomi",
       "twitter" : "LukyVj",
-      "avatar" : "https://pbs.twimg.com/profile_images/684063983322677249/DGnckgnN_400x400.jpg"
+      "avatar" : "http://0.gravatar.com/avatar/1ef5a7c2cc326fb4d4bfef8664bdeb49",
+      "description" : "Frontend devsigner @Algolia | CSS, Sass, Node & mobile web enthusiast | @rocket_design | gitch @bullgit - #millisecondsmatter"
     } ],
     "video" : "https://www.youtube.com/watch?v=EAf41LZxoM8",
     "meetup" : {
@@ -1352,7 +1688,8 @@
       "id" : "ebfc651b-43a1-436d-9845-5ef713cff52c",
       "name" : "Thierry Lau",
       "twitter" : "laut3rry",
-      "avatar" : "https://pbs.twimg.com/profile_images/686188572957880321/VNlLHEZr_400x400.jpg"
+      "avatar" : "http://2.gravatar.com/avatar/ba81d93900f929708b2d708f06befe85",
+      "description" : "Front End Developer @ http://www.perfectstay.com  * Fan Of #HTML5 #CSS3 @reactjs #UX and other Web technologies * come from New-Caledonia"
     } ],
     "slides" : "http://lauterry.github.io/slides-prez-angular/",
     "slidesEmbedCode" : "<iframe src=\"http://lauterry.github.io/slides-prez-angular/\" width=\"595\" height=\"485\" frameborder=\"0\"></iframe>",
@@ -1393,7 +1730,8 @@
       "id" : "22919fc6-2a6a-4057-a337-8a1ff6ba327a",
       "name" : "Vincent Massol",
       "twitter" : "vmassol",
-      "avatar" : "https://pbs.twimg.com/profile_images/1209451958/image_400x400.jpg"
+      "avatar" : "http://1.gravatar.com/avatar/0b17060fd5b56172e81e4bfbbcb438e0",
+      "description" : "http://massol.net "
     } ],
     "video" : "https://www.youtube.com/watch?v=d8dkcZWSgHA",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/d8dkcZWSgHA\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -1434,7 +1772,7 @@
       "id" : "579ec5dc-e20d-4382-8537-847e41b8b95e",
       "name" : "Mathieu Robin",
       "twitter" : "mathrobin",
-      "avatar" : "https://pbs.twimg.com/profile_images/566165922931433472/zq3VQP61_400x400.jpeg",
+      "avatar" : "http://2.gravatar.com/avatar/e5df5eb24863a86ef4d4c4bc071cb016",
       "description" : "Lead dev JS, ex-chroniqueur jQuery. Amateur de bons alcools et de gastronomie. Développeurs de père en fils. Créateur de @AperoJS_Paris et @MatosMaison"
     } ],
     "video" : "https://www.youtube.com/watch?v=SXiOtd8hvsI",
@@ -1476,7 +1814,8 @@
       "id" : "81e2f98e-4924-4c1e-a55b-107eb758437d",
       "name" : "Pauline Iogna",
       "twitter" : "pauline_io",
-      "avatar" : "https://pbs.twimg.com/profile_images/772364154896343041/gk42_oZu_400x400.jpg"
+      "avatar" : "http://1.gravatar.com/avatar/a1acb9660b239024f9483d43981c7319",
+      "description" : "Dev java and @duchessfr active member"
     } ],
     "video" : "https://www.youtube.com/watch?v=gLULaMovrSc",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gLULaMovrSc\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -1517,7 +1856,8 @@
       "id" : "9a00e9a8-fe6d-42e6-b693-bc9525632fbf",
       "name" : "Gary Mialaret",
       "twitter" : "TolkiCasts",
-      "avatar" : "https://pbs.twimg.com/profile_images/2651258918/392404d5c4a4bde7d2d55474b95d0e48_400x400.png"
+      "avatar" : "https://pbs.twimg.com/profile_images/2651258918/392404d5c4a4bde7d2d55474b95d0e48_400x400.png",
+      "description" : "French gamer living in Japan - LoL JP Challenger/KR top 1% - Wizards of the Coast Writer (Fr) - Ex project Manager @Ubisoft - Ex LoL shoutcaster for @Ogaming_TV"
     } ],
     "slides" : "http://fr.slideshare.net/GaryMialaret/gagner-aux-tcg-grce-linformatique",
     "meetup" : {
@@ -1594,7 +1934,8 @@
       "id" : "581a82ea-65d5-4731-95d1-3f6c9239d490",
       "name" : "Vincent Daubry",
       "twitter" : "vdaubry",
-      "avatar" : "https://pbs.twimg.com/profile_images/761093391841005568/gtmU_lGe_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/761093391841005568/gtmU_lGe_400x400.jpg",
+      "description" : "Ruby enthusiast, CTO and co-founder of Youboox."
     } ],
     "video" : "https://www.youtube.com/watch?v=vrxW9ae-7UE",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vrxW9ae-7UE\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -1635,7 +1976,8 @@
       "id" : "6d7847a3-dd2f-4268-b404-c652a3f49397",
       "name" : "Ludwine Probst",
       "twitter" : "nivdul",
-      "avatar" : "https://pbs.twimg.com/profile_images/767120442817740800/1PEZwr6w_400x400.jpg"
+      "avatar" : "http://0.gravatar.com/avatar/12fb119c7420fc9ee5b3896c2cceb892",
+      "description" : "developer open source contributor @Nousmotards @LadiesCodeParis co-founder #diversity #womenInTech Traveller & Tech blogger #TechBeyondBorders"
     } ],
     "video" : "https://www.youtube.com/watch?v=G-qW6g0xuwI",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/G-qW6g0xuwI\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -1667,47 +2009,6 @@
         "logo" : "https://www.mozilla.org/media/img/firefox/firefox-256.e2c1fc556816.jpg"
       },
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/168226002/"
-    }
-  }, {
-    "id" : "3cc5f956-1030-41d8-a853-44b1bda634e0",
-    "title" : "GraphQL",
-    "description" : "Pas de description pour le moment",
-    "speakers" : [ {
-      "id" : "7e38dcee-cffa-4b39-98d1-29b3465825f9",
-      "name" : "Stan Chollet",
-      "twitter" : "Stan Chollet",
-      "avatar" : "https://pbs.twimg.com/profile_images/1129897969/stan-social-2010-2-carre_400x400.jpg",
-      "description" : "Développeur chez @dailymotion"
-    } ],
-    "meetup" : {
-      "id" : "6f483568-bd46-4760-88f9-75e88d3b8b79",
-      "title" : "HumanTalks Paris Novembre 2016",
-      "date" : 1478631600000,
-      "venue" : {
-        "id" : "4e7ff2ef-94d1-4ace-82d7-31b3e746e43a",
-        "name" : "Google",
-        "location" : {
-          "id" : "ChIJk39P40lu5kcRukPXG_kHUvg",
-          "name" : "8 Rue de Londres",
-          "streetNo" : "8",
-          "street" : "Rue de Londres",
-          "postalCode" : "75009",
-          "locality" : "Paris",
-          "country" : "France",
-          "formatted" : "8 Rue de Londres, 75009 Paris, France",
-          "input" : "8 Rue de Londres, Paris, France",
-          "coords" : {
-            "lat" : 48.8773522,
-            "lng" : 2.3300371999999925
-          },
-          "url" : "https://maps.google.com/?q=8+Rue+de+Londres,+75009+Paris,+France&ftid=0x47e66e49e34f7f93:0xf85207f91bd743ba"
-        },
-        "capacity" : 200,
-        "twitter" : "GoogleFR",
-        "logo" : "https://pbs.twimg.com/profile_images/768495216881967105/A8-bgDEc_400x400.jpg"
-      },
-      "description" : "Et oui, pour une fois on a de l'avance, par ce que ce n'est pas n'importe quel meetup ! Cette session sera aussi celle de nos 4 ans, et ca passe vite !\r\n\r\nEt cette fois ci nous remercions Google, de nous héberger pour cette session un peu particulière :)",
-      "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/"
     }
   }, {
     "id" : "a7dfd52d-73d2-4e24-b870-c652fd9c8e39",
@@ -1759,7 +2060,8 @@
       "id" : "f04092e0-1b63-4522-9000-689e9e59fff2",
       "name" : "Claude  Falguière",
       "twitter" : "cfalguiere",
-      "avatar" : "https://pbs.twimg.com/profile_images/1117335774/cfalguiere_300_clair_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/1117335774/cfalguiere_300_clair_400x400.jpg",
+      "description" : "Java, Performance, DevOps, Clojure, DataScience, funny ways to learn programming, Devoxx4Kids, ParisJUG, Devoxx, Duchess"
     } ],
     "video" : "https://www.youtube.com/watch?v=9upDU-sfc50",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/9upDU-sfc50\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -1800,7 +2102,8 @@
       "id" : "fe5e620d-7a20-40ef-bb41-f1e8c5a62413",
       "name" : "Brice Coquereau",
       "twitter" : "BriceCq",
-      "avatar" : "https://pbs.twimg.com/profile_images/537979055987892224/GfFxE5DC_400x400.jpeg"
+      "avatar" : "https://pbs.twimg.com/profile_images/537979055987892224/GfFxE5DC_400x400.jpeg",
+      "description" : "Curieux de l'Internet. Je vous aime, and you're awesome! Respectez les femmes. Et les petits chats aussi. :(){ :|:& };:"
     } ],
     "meetup" : {
       "id" : "133976da-5bbd-497d-a4e8-9693ce56294a",
@@ -1876,6 +2179,92 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/208976762/"
     }
   }, {
+    "id" : "db7182ef-cfed-4cbf-8aa9-2e0fb44a0e89",
+    "title" : "Hack Your Motivation",
+    "description" : "Résumé de l'épisode précédent : on peut hacker son cerveau.\r\nMais ça demande des efforts. Peut-on hacker sa motivation ?",
+    "speakers" : [ {
+      "id" : "2ba139cc-1a0f-4aed-8560-2a16251c3608",
+      "name" : "Sylvain Abélard",
+      "twitter" : "abelar_s",
+      "avatar" : "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png",
+      "description" : "Let's solve interesting problems together & make you awesome ― @Faveod dev ・ @ParisRB & @RailsGirlsParis org ・ @zen_m4 podcast ― Relentlessly testing to improve"
+    } ],
+    "slides" : "https://speakerdeck.com/abelar_s/hack-your-motivation",
+    "slidesEmbedCode" : "<script async class=\"speakerdeck-embed\" data-id=\"a12d57706d96013074dc22000a1f8535\" data-ratio=\"1.33333333333333\" src=\"//speakerdeck.com/assets/embed.js\"></script>",
+    "meetup" : {
+      "id" : "44829bcf-c719-4d43-9759-eaa099410673",
+      "title" : "HumanTalks Paris Mars 2013",
+      "date" : 1363114800000,
+      "venue" : {
+        "id" : "9867c450-b6f6-4072-b1d7-2afa2f08e588",
+        "name" : "Xebia",
+        "location" : {
+          "id" : "ChIJ0wnrwMdv5kcRcWS32vLkTp4",
+          "name" : "Xebia - Cabinet de conseil IT",
+          "streetNo" : "156",
+          "street" : "Boulevard Haussmann",
+          "postalCode" : "75008",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "156 Boulevard Haussmann, 75008 Paris, France",
+          "input" : "Xebia - Cabinet de conseil IT, Boulevard Haussmann, Paris, France",
+          "coords" : {
+            "lat" : 48.875559,
+            "lng" : 2.31101799999999
+          },
+          "url" : "https://maps.google.com/?cid=11407306637878715505",
+          "website" : "http://www.xebia.fr/",
+          "phone" : "+33 1 53 89 99 99"
+        },
+        "twitter" : "xebiafr",
+        "logo" : "https://pbs.twimg.com/profile_images/671952647025479684/HFjZ4Hle_400x400.png"
+      }
+    }
+  }, {
+    "id" : "3252b882-a9ec-43e1-b7e9-c33de5ad1415",
+    "title" : "Hack yourself - Dark Side",
+    "description" : "Après la santé, Hack Your Brain et Hack Your Motivation, la série continue !\r\nChercher, trouver et agir sur les points noirs de votre vie est épuisant.\r\nParfois, on a envie de se laisser aller à des aspects moins glorieux\r\nde la nature humaine.\r\nCe talk vous permettra de parvenir à vos fins, malgré le Côté Obscur,\r\nou grâce à celui-ci !",
+    "speakers" : [ {
+      "id" : "2ba139cc-1a0f-4aed-8560-2a16251c3608",
+      "name" : "Sylvain Abélard",
+      "twitter" : "abelar_s",
+      "avatar" : "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png",
+      "description" : "Let's solve interesting problems together & make you awesome ― @Faveod dev ・ @ParisRB & @RailsGirlsParis org ・ @zen_m4 podcast ― Relentlessly testing to improve"
+    } ],
+    "slides" : "http://fr.slideshare.net/abelar_s/hack-your-motivation-darkside",
+    "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/CCM3H2J14bsK2X\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
+    "video" : "https://www.youtube.com/watch?v=OvTZ8dhfDrg",
+    "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OvTZ8dhfDrg\" frameborder=\"0\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "30c36697-b10e-457a-8b44-bfca8e8ccde7",
+      "title" : "HumanTalks Paris Avril 2013",
+      "date" : 1365534000000,
+      "venue" : {
+        "id" : "2caa4f9b-0802-4ea4-882f-4fe132691ab0",
+        "name" : "Zenika",
+        "location" : {
+          "id" : "ChIJgZ9sujhu5kcR-sGp3BP8lnA",
+          "name" : "Zenika",
+          "streetNo" : "10",
+          "street" : "Rue de Milan",
+          "postalCode" : "75009",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "10 Rue de Milan, 75009 Paris, France",
+          "input" : "Zenika, Rue de Milan, Paris, France",
+          "coords" : {
+            "lat" : 48.8790862,
+            "lng" : 2.32844369999998
+          },
+          "url" : "https://maps.google.com/?cid=8112948940991218170",
+          "website" : "http://www.zenika.com/",
+          "phone" : "+33 1 45 26 19 15"
+        },
+        "twitter" : "ZenikaIT",
+        "logo" : "http://photos4.meetupstatic.com/photos/event/a/d/b/b/600_452084475.jpeg"
+      }
+    }
+  }, {
     "id" : "b8cbbee2-95fd-4519-8d53-060009909067",
     "title" : "Hackathon ? Ou comment hacker sa culture d’entreprise",
     "description" : "Découvrez la vie de 2 consultants qui au sein d’une société qui essaye d’unifier ses agences à travers différentes actions, tentent le pari fou de lancer un hackathon externe afin de fédérer autour d’un même objectif et à procurer enfin le saint graal du bonheur au travail. Parviendront-ils à réussir là ou la direction a échoué jusqu’à présent ?",
@@ -1889,7 +2278,7 @@
       "id" : "7e917b0a-ff54-4a6e-83bc-0ff701462e30",
       "name" : "Andre De Sousa",
       "twitter" : "_adesousa",
-      "avatar" : "https://pbs.twimg.com/profile_images/785768614829944832/92RXQ0ym_400x400.jpg",
+      "avatar" : "http://0.gravatar.com/avatar/dcb514f5b1af9b88902a7473ec45e3c9",
       "description" : "Entrepreneur / Agile Coach @valtech_FR, Agile Trainer @valtechtraining / @ITESCIA Teacher / International Speaker / #BreakTheRules Cofounder / Hackathon Orga'"
     } ],
     "meetup" : {
@@ -1920,47 +2309,6 @@
         "logo" : "http://photos2.meetupstatic.com/photos/event/d/3/c/b/600_449814219.jpeg"
       },
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/"
-    }
-  }, {
-    "id" : "27f46689-497a-4ccd-91a8-a54916bc8aeb",
-    "title" : "Hacker-Dev API on the Way",
-    "description" : "Plus un jour ne se passe sans que la sécurité informatique fasse la Une de l’actualité de l’IT, quand ce n’est pas de l’actualité en général. La loi, sous peu, imposera aux entreprises de lourdes sanctions en cas de fuite d’information, or celles-ci sont elles aussi devenues quotidiennes. Conséquence logique, on parle de plus en plus de faire du développement sécurisé. Mais n’est-ce pas là une injonction paradoxale quand on sait que l’état d’esprit du hacker est pour ainsi dire l’inverse de celui du dev ? A travers ce talk, nous allons voir qu'aujourd'hui il est possible de collaborer avec les hackers afin d'intégrer la sécurité au coeur des processus de développement.",
-    "speakers" : [ {
-      "id" : "45f80f05-27f2-4048-a1f6-4463865a206c",
-      "name" : "Kévin Liagre",
-      "twitter" : "_k33n_",
-      "avatar" : "https://pbs.twimg.com/profile_images/706143360965279744/8GIrtA_b_400x400.jpg",
-      "description" : "Lead dev chez Yogosha"
-    } ],
-    "meetup" : {
-      "id" : "6f483568-bd46-4760-88f9-75e88d3b8b79",
-      "title" : "HumanTalks Paris Novembre 2016",
-      "date" : 1478631600000,
-      "venue" : {
-        "id" : "4e7ff2ef-94d1-4ace-82d7-31b3e746e43a",
-        "name" : "Google",
-        "location" : {
-          "id" : "ChIJk39P40lu5kcRukPXG_kHUvg",
-          "name" : "8 Rue de Londres",
-          "streetNo" : "8",
-          "street" : "Rue de Londres",
-          "postalCode" : "75009",
-          "locality" : "Paris",
-          "country" : "France",
-          "formatted" : "8 Rue de Londres, 75009 Paris, France",
-          "input" : "8 Rue de Londres, Paris, France",
-          "coords" : {
-            "lat" : 48.8773522,
-            "lng" : 2.3300371999999925
-          },
-          "url" : "https://maps.google.com/?q=8+Rue+de+Londres,+75009+Paris,+France&ftid=0x47e66e49e34f7f93:0xf85207f91bd743ba"
-        },
-        "capacity" : 200,
-        "twitter" : "GoogleFR",
-        "logo" : "https://pbs.twimg.com/profile_images/768495216881967105/A8-bgDEc_400x400.jpg"
-      },
-      "description" : "Et oui, pour une fois on a de l'avance, par ce que ce n'est pas n'importe quel meetup ! Cette session sera aussi celle de nos 4 ans, et ca passe vite !\r\n\r\nEt cette fois ci nous remercions Google, de nous héberger pour cette session un peu particulière :)",
-      "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/"
     }
   }, {
     "id" : "94471337-a4f7-47a2-86cb-3ababbb279ef",
@@ -2012,7 +2360,8 @@
       "id" : "190cd607-b1ea-4737-bddd-a11f90f2c7bb",
       "name" : "Massil Nait Mouloud",
       "twitter" : "nmassyl",
-      "avatar" : "https://pbs.twimg.com/profile_images/1575131175/Photo0550_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/1575131175/Photo0550_400x400.jpg",
+      "description" : "Math,Category theory,λ Calculus,Types, FP ( Haskell, SML, Scala...) passionate"
     } ],
     "slides" : "http://loic.knuchel.org/blog/wp-content/uploads/2013/11/HumanTalks11_FPhaskell_by_nmassyl.pdf",
     "slidesEmbedCode" : "<object data=\"http://loic.knuchel.org/blog/wp-content/uploads/2013/11/HumanTalks11_FPhaskell_by_nmassyl.pdf\" type=\"application/pdf\" width=\"640\" height=\"480\">alt : <a href=\"http://loic.knuchel.org/blog/wp-content/uploads/2013/11/HumanTalks11_FPhaskell_by_nmassyl.pdf\">http://loic.knuchel.org/blog/wp-content/uploads/2013/11/HumanTalks11_FPhaskell_by_nmassyl.pdf</a></object>",
@@ -2057,7 +2406,8 @@
       "id" : "f5b068dd-bf53-4400-bde9-c49b0f3c04e3",
       "name" : "Mickaël Andrieu",
       "twitter" : "mickael_andrieu",
-      "avatar" : "https://pbs.twimg.com/profile_images/672716508427104256/6oyONEar_400x400.jpg"
+      "avatar" : "http://1.gravatar.com/avatar/c9bef243216af3ddcf5c62bfeed46c68",
+      "description" : "Technical evangelist, Symfony 2|3 developer, open source enthousiast, PrestonBot (proud) father"
     } ],
     "slides" : "http://slides.com/mickaelandrieu/introduction-to-nightmarejs",
     "slidesEmbedCode" : "<iframe src=\"//slides.com/mickaelandrieu/introduction-to-nightmarejs/embed?style=light\" width=\"576\" height=\"420\" scrolling=\"no\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
@@ -2099,7 +2449,8 @@
       "id" : "2ba139cc-1a0f-4aed-8560-2a16251c3608",
       "name" : "Sylvain Abélard",
       "twitter" : "abelar_s",
-      "avatar" : "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png"
+      "avatar" : "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png",
+      "description" : "Let's solve interesting problems together & make you awesome ― @Faveod dev ・ @ParisRB & @RailsGirlsParis org ・ @zen_m4 podcast ― Relentlessly testing to improve"
     } ],
     "slides" : "https://speakerdeck.com/abelar_s/little-needs-big-problems",
     "slidesEmbedCode" : "<script async class=\"speakerdeck-embed\" data-id=\"502402102dd801313a98663820a88a30\" data-ratio=\"1.33333333333333\" src=\"//speakerdeck.com/assets/embed.js\"></script>",
@@ -2137,6 +2488,46 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/148407972/"
     }
   }, {
+    "id" : "eaa9c06d-dad1-442d-9e3e-b1f3aabd0aaa",
+    "title" : "Importance de l'ergonomie dans une application web",
+    "description" : "L'ergonomie et l'interface utilisateur deviennent de plus en plus important de nos jours.\r\n\r\nIl est clair que les utilisateurs sont souvent perdus dans les applications des développeurs et il devient nécessaires de se focaliser sur les interfaces.\r\n\r\nPlan:\r\n\r\n- Why you should care ?\r\n- Introduction au concept de l'ergonomie\r\n- Comment simplifier vos interfaces\r\n- Pour aller plus loin",
+    "speakers" : [ {
+      "id" : "cdf32cfa-8ad9-4e28-998f-2ecf0fc90440",
+      "name" : "Pierre Lechelle",
+      "twitter" : "pierrelechelle",
+      "avatar" : "http://1.gravatar.com/avatar/fb0dcead91228fcc31d9b90af15d0ae3"
+    } ],
+    "video" : "https://www.youtube.com/watch?v=mFwc5KemMiw",
+    "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mFwc5KemMiw\" frameborder=\"0\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "bf833cd1-b637-4e38-93f3-3a71297acc9d",
+      "title" : "HumanTalks Paris Juin 2013",
+      "date" : 1370977200000,
+      "venue" : {
+        "id" : "ddb870f9-754c-47b8-9daf-6fa4c015444e",
+        "name" : "Soat",
+        "location" : {
+          "id" : "ChIJKYdgp25y5kcRAUNoU8rycvg",
+          "name" : "Soat",
+          "streetNo" : "89",
+          "street" : "Quai Panhard et Levassor",
+          "postalCode" : "75013",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "89 Quai Panhard et Levassor, 75013 Paris, France",
+          "input" : "Soat, Quai Panhard et Levassor, Paris, France",
+          "coords" : {
+            "lat" : 48.83182499999999,
+            "lng" : 2.379613000000063
+          },
+          "url" : "https://maps.google.com/?cid=17902638419547800321",
+          "website" : "http://www.soat.fr/",
+          "phone" : "+33 1 44 75 42 55"
+        },
+        "logo" : "http://www.soat.fr/wp-content/themes/soat/images/logo.svg"
+      }
+    }
+  }, {
     "id" : "2169dd73-d63f-40c4-a595-1c7da8837e39",
     "title" : "Informatique en milieu hospitalier. Bienvenue homme de cro-magnon",
     "description" : "Salut à toi noble informaticien,\r\n\r\nJe souhaite te raconter quelques petites histoires sur l'un des organes les plus importants de la société moderne : l’hôpital ! Lieu sacré, où on utilise l'informatique au quotidien pour gérer des dizaines de milliers de patients par jour, rien qu'à Paris. Et pourtant, ce monde datant d'une période ancestrale est ponctué de quelques désagréments par rapport à notre monde moderne. Bienvenue dans l'enfer quotidien de nos médecins.",
@@ -2144,7 +2535,7 @@
       "id" : "579ec5dc-e20d-4382-8537-847e41b8b95e",
       "name" : "Mathieu Robin",
       "twitter" : "mathrobin",
-      "avatar" : "https://pbs.twimg.com/profile_images/566165922931433472/zq3VQP61_400x400.jpeg",
+      "avatar" : "http://2.gravatar.com/avatar/e5df5eb24863a86ef4d4c4bc071cb016",
       "description" : "Lead dev JS, ex-chroniqueur jQuery. Amateur de bons alcools et de gastronomie. Développeurs de père en fils. Créateur de @AperoJS_Paris et @MatosMaison"
     } ],
     "meetup" : {
@@ -2184,7 +2575,7 @@
       "id" : "b393a9d2-e717-49ee-9cca-ced74199309c",
       "name" : "Gaetan Gachet",
       "twitter" : "gaetangachet",
-      "avatar" : "https://pbs.twimg.com/profile_images/433353814863642625/-EgZ6ylX_400x400.jpeg",
+      "avatar" : "http://2.gravatar.com/avatar/4770ddc90d5a180e13cc4545c53d9094",
       "description" : "Head of Business Development at Algolia"
     } ],
     "meetup" : {
@@ -2225,7 +2616,7 @@
       "id" : "ae9412cd-c51c-4167-93db-d5f4bb75ce1d",
       "name" : "Blandine Bourgois",
       "twitter" : "bbourgois",
-      "avatar" : "https://pbs.twimg.com/profile_images/1523927929/axellebb_yahoo.fr_8b9ccfcf_400x400.jpg"
+      "avatar" : "http://1.gravatar.com/avatar/e8950993a9c41349a17276201be78e4c"
     } ],
     "video" : "https://www.youtube.com/watch?v=uWpnYTti48s",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/uWpnYTti48s\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -2266,7 +2657,8 @@
       "id" : "178d8470-16b0-4bba-ba12-b8db18178c39",
       "name" : "Thomas Le Naour",
       "twitter" : "_tlenaour",
-      "avatar" : "https://pbs.twimg.com/profile_images/627606732567642113/ZEhB9QmJ_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/627606732567642113/ZEhB9QmJ_400x400.jpg",
+      "description" : "Consultant Big Data @octotechnology"
     } ],
     "meetup" : {
       "id" : "689f2721-5077-47ea-949b-d1b8b89c6bb1",
@@ -2305,7 +2697,8 @@
       "id" : "ed011d4e-5433-451d-9e53-a28dce5e5488",
       "name" : "Saad Ansari",
       "twitter" : "LeFreelance",
-      "avatar" : "https://pbs.twimg.com/profile_images/1330907939/freelance_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/1330907939/freelance_400x400.jpg",
+      "description" : "Member of the @FabulousLab"
     } ],
     "video" : "https://www.youtube.com/watch?v=NaPj52fJQoU",
     "meetup" : {
@@ -2338,6 +2731,45 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/"
     }
   }, {
+    "id" : "8ebee14c-ac34-40c9-ac76-8f5ebca914ba",
+    "title" : "Introduction à Dart",
+    "description" : "Dart, le nouveau langage Web de Google présenté au public en octobre 2011 a pour objectif de proposer une alternative au JavaScript.\r\n\r\nBien que la version finale ne soit pas encore disponible (pour cela il faudra attendre cet été), Dart est utilisable dès aujourd'hui.\r\n\r\nAu cours de cette présentation nous verrons :\r\n\r\n- comment Dart permet de développer des applications clientes aussi bien que serveurs,\r\n- quelques éléments du langage,\r\n- mais aussi les outils permettant un développement industrialisé et une productivité accrue.",
+    "speakers" : [ {
+      "id" : "fac629d0-667f-4d50-9451-199eecb19edf",
+      "name" : "Yohan Beschi",
+      "twitter" : "yohanbeschi",
+      "avatar" : "https://pbs.twimg.com/profile_images/2837855656/fa299086830447fdb566934af94bf72d_400x400.png"
+    } ],
+    "slides" : "http://fr.slideshare.net/yohanbeschi/introduction-dart/",
+    "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/8J1GzJLmgTmHwZ\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "482107e3-478d-48fa-a787-178d4b4b8172",
+      "title" : "HumanTalks Paris Février 2013",
+      "date" : 1360695600000,
+      "venue" : {
+        "id" : "57439621-0dee-4a74-a88f-cfe8c96a7f90",
+        "name" : "DojoBoost",
+        "location" : {
+          "id" : "ChIJOTfXLA5u5kcRT7lwVynXkHs",
+          "name" : "41 Boulevard Saint-Martin",
+          "streetNo" : "41",
+          "street" : "Boulevard Saint-Martin",
+          "postalCode" : "75010",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "41 Boulevard Saint-Martin, 75010 Paris, France",
+          "input" : "41 Boulevard Saint-Martin, Paris, France",
+          "coords" : {
+            "lat" : 48.8684172,
+            "lng" : 2.357174299999997
+          },
+          "url" : "https://maps.google.com/?q=41+Boulevard+Saint-Martin,+75010+Paris,+France&ftid=0x47e66e0e2cd73739:0x7b90d7295770b94f"
+        },
+        "twitter" : "dojoboost",
+        "logo" : "https://pbs.twimg.com/profile_images/746023521176915972/1rWNGJ0O_400x400.jpg"
+      }
+    }
+  }, {
     "id" : "2153037a-5bf3-4ebc-a76c-84efa61a84ff",
     "title" : "Introduction à Protocol Buffers",
     "description" : "L'objectif est de présenter Protocol Buffers, un système de sérialisation de données développé initialement par Google et désormais Open Source.",
@@ -2345,7 +2777,7 @@
       "id" : "5a4ffdba-c6a3-4372-9f80-849811baceb1",
       "name" : "Eulriet Estelle",
       "twitter" : "wbtester2",
-      "avatar" : "https://pbs.twimg.com/profile_images/2621229584/jg432av7bfrjlw4xuvlp_400x400.jpeg",
+      "avatar" : "http://1.gravatar.com/avatar/fc0d78e85489214337c6a3669569a8d7",
       "description" : "ubiquity"
     } ],
     "video" : "https://www.youtube.com/watch?v=IIwQGb3hQCU",
@@ -2387,7 +2819,8 @@
       "id" : "13524285-54c0-4c0f-8ba7-870dccac4569",
       "name" : "Firas Bessadok",
       "twitter" : "fbessadok",
-      "avatar" : "https://pbs.twimg.com/profile_images/2743487060/ea64a7405a1165aea20d33cb62dd7290_400x400.jpeg"
+      "avatar" : "http://0.gravatar.com/avatar/f7f7e9216b4d0ece11f5a66bfdc5a15e",
+      "description" : "Code writer, Photography lover. http://500px.com/fbessadok  https://github.com/fbessadok "
     } ],
     "video" : "https://www.youtube.com/watch?v=3TngMciGn_E",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3TngMciGn_E\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -2422,6 +2855,87 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/154147792/"
     }
   }, {
+    "id" : "e84e664f-d6d1-4b10-9df6-355c8372e6de",
+    "title" : "J'ai un XSS, et alors ?",
+    "description" : "Un XSS (ou Cross Site Scripting) est une faille dans un site web permettant d'exécuter du code JavaScript.\r\nLorsqu'un XSS est découvert, on se contente souvent d'exécuter : alert('XSS'). Et souvent ça fait bien rire tout le monde.\r\n\r\nDans ce talk, je vous proposerais d'aller plus loin que le simple message et voir les différents types de XSS et ce qu'ils permettent réellement.\r\n\r\nA base de démos et d'exemple nous verrons les malheur que peuvent rencontrer un utilisateur victime de ce genre d'attaque.",
+    "speakers" : [ {
+      "id" : "8a4ed953-1b25-4c18-8d48-7dd33d48bea1",
+      "name" : "Loïc Knuchel",
+      "twitter" : "loicknuchel",
+      "avatar" : "https://secure.gravatar.com/avatar/f755e6e8914df5cbaa74d30dd7de1ae2?d=404",
+      "description" : "Développeur freelance full-stack (Scala, Angular, Ionic) - Fondateur de @cookersapp et @getsaloon - Organisateur des @HumanTalksParis et Workshops Ionic"
+    } ],
+    "meetup" : {
+      "id" : "43fb5a58-b8c6-4e5d-9c18-f3b5397b4f82",
+      "title" : "HumanTalks Paris Mai 2013",
+      "date" : 1368558000000,
+      "venue" : {
+        "id" : "7385f832-3d88-4ffa-82be-1279f238e464",
+        "name" : "Viadeo",
+        "location" : {
+          "id" : "ChIJM2Vr8zhu5kcR154oP2AIKhY",
+          "name" : "Viadeo",
+          "streetNo" : "30",
+          "street" : "Rue de la Victoire",
+          "postalCode" : "75009",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "30 Rue de la Victoire, 75009 Paris, France",
+          "input" : "Viadeo, Rue de la Victoire, Paris, France",
+          "coords" : {
+            "lat" : 48.8751644,
+            "lng" : 2.338019700000018
+          },
+          "url" : "https://maps.google.com/?cid=1597098227325771479",
+          "website" : "http://www.viadeo.com/",
+          "phone" : "+33 1 56 92 09 59"
+        },
+        "logo" : "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Viadeo_Full_Logo.svg/1280px-Viadeo_Full_Logo.svg.png"
+      }
+    }
+  }, {
+    "id" : "ec710e4a-4673-44b8-bf59-b9a0ebe591f2",
+    "title" : "J'exécute, tu exécutes, il exécute...",
+    "description" : "Je traduis en ce moment le livre \"Execute\" de Drew Wilson et Josh Long. La raison est que ce livre m'a montré la voie: \"Exécute lorsque l'inspiration surgis\". J'ai donc attaqué la traduction en finissant de lire les dernières lignes car je souhaitais partager ce livre avec les gens qui ne parlent pas anglais : mon frère, mes amis, ma mère et la société française en général (surtout les jeunes générations).\r\n\r\nJe le fais car je crois que la capacité d'exécution est la qualité première dans une startup (ensuite être un VRP). Je pense qu'il faut célébrer les \"faiseurs\", \"les artisans du web\" et toutes les autres personnes qui sont assez folles pour développer de nouveaux objets et produits.\r\n\r\nNe laissons pas notre voix intérieure nous décourager, exécutons !\r\n\r\nDans ce talk je vais présenter :\r\n\r\n- L'essence même de ce bouquin\r\n- Le relayer au \"mal français\" et aux échecs que font les entrepreneurs (dont mes propres échecs)\r\n- Solliciter les Dévs à produire et encore produire...\"pisser du code c'est sexy!\"",
+    "speakers" : [ {
+      "id" : "773fed1a-e85a-4318-ab75-0ab2a781be21",
+      "name" : "Julien Petit",
+      "twitter" : "julien99",
+      "avatar" : "https://pbs.twimg.com/profile_images/775981633874821120/E3VtM1PG_400x400.jpg"
+    } ],
+    "slides" : "http://www.slideshare.net/julien99/dans-les-mains-de-ceux-qui-execute",
+    "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/kJZe62ITisKb6v\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
+    "video" : "https://www.youtube.com/watch?v=H5vMynlydzw",
+    "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/H5vMynlydzw\" frameborder=\"0\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "43fb5a58-b8c6-4e5d-9c18-f3b5397b4f82",
+      "title" : "HumanTalks Paris Mai 2013",
+      "date" : 1368558000000,
+      "venue" : {
+        "id" : "7385f832-3d88-4ffa-82be-1279f238e464",
+        "name" : "Viadeo",
+        "location" : {
+          "id" : "ChIJM2Vr8zhu5kcR154oP2AIKhY",
+          "name" : "Viadeo",
+          "streetNo" : "30",
+          "street" : "Rue de la Victoire",
+          "postalCode" : "75009",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "30 Rue de la Victoire, 75009 Paris, France",
+          "input" : "Viadeo, Rue de la Victoire, Paris, France",
+          "coords" : {
+            "lat" : 48.8751644,
+            "lng" : 2.338019700000018
+          },
+          "url" : "https://maps.google.com/?cid=1597098227325771479",
+          "website" : "http://www.viadeo.com/",
+          "phone" : "+33 1 56 92 09 59"
+        },
+        "logo" : "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Viadeo_Full_Logo.svg/1280px-Viadeo_Full_Logo.svg.png"
+      }
+    }
+  }, {
     "id" : "63e1aa66-12a4-48eb-bdc2-f22548019ca6",
     "title" : "JHipster, un générateur Yeoman pour AngularJS et Spring Boot",
     "description" : "JHipster est un générateur d'application qui créé une applications Javascript moderne (avec AngularJs, Grunt, Bower, ..) et qui s'intègre de manière transparente dans un back-end Java classique (avec Spring Boot, Spring Data, Hibernate, Maven). \r\nAvec plus de 900 étoiles sur GitHub, 50 contributeurs, et des articles sur infoword et SDTimes, JHipster est devenue en moins d'un an le générateur d'application Spring le plus utilisé. Il est également le 3e générateur Yeoman le plus populaire. \r\nDans cette session vous découvrirez comment créer rapidement une application, la modifier, faire du rechargement à chaud pour le code Java et javascript et déployer le résultat dans le cloud.",
@@ -2429,7 +2943,8 @@
       "id" : "465ca5a6-90f4-4823-a731-fd17209737f1",
       "name" : "Julien Dubois",
       "twitter" : "juliendubois",
-      "avatar" : "https://pbs.twimg.com/profile_images/729555955030044673/jBxOqmsB_400x400.jpg"
+      "avatar" : "http://0.gravatar.com/avatar/e7689b738601c9b2f1d66cd2622f517e",
+      "description" : "Chief Innovation Officer at @ippontech & lead developer of @java_hipster"
     } ],
     "video" : "https://www.youtube.com/watch?v=36v6DIk2jwY",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/36v6DIk2jwY\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -2509,7 +3024,8 @@
       "id" : "353c062e-5f50-4049-b2fc-d2f628aa98ad",
       "name" : "Guillaume Duquesnay",
       "twitter" : "duquesnay",
-      "avatar" : "https://pbs.twimg.com/profile_images/600719141583085570/JIvwfYWT_400x400.jpg"
+      "avatar" : "http://2.gravatar.com/avatar/9909cdb0b7b1aa8ed7eecce50669bf82",
+      "description" : "Agile Coach, Lateral thinker, Coder"
     } ],
     "meetup" : {
       "id" : "0f0813e4-2621-44e1-b06e-35f7eb782e9c",
@@ -2545,9 +3061,10 @@
     "description" : "Le management n'est pas naturel, c'est une technologie, et comme toutes les technos, elle finit forcément par devenir obsolète. L'agilité, en redistribuant les cartes au sein d'équipes auto-organisées a accéléré ce phénomène.Ne serait-il pas possible de concevoir une nouvelle technologie, au sein de laquelle il n'y aurait plus de manager ? L'holacratie, système de gouvernance récent créé en 2007 redéfinit la hiérarchie et la gouvernance de l'équipe jusqu'à l'entreprise. J'ai commencé depuis 1 an à experimenter à notre niveau cette approche chez Soat Agile. Je vous propose de vous présenter l'Holacratie suivi d'un retour d'experience qui répondra à la question que tout le monde se pose ; la disparition prochaine des managers est-elle annoncé ?",
     "speakers" : [ {
       "id" : "711d1e26-df42-48fa-aecf-2d40f08cc602",
-      "name" : "Olivier Lelan",
+      "name" : "Olivier Le Lan",
       "twitter" : "o_olelan",
-      "avatar" : "https://pbs.twimg.com/profile_images/2215872688/lol7_400x400.png"
+      "avatar" : "https://pbs.twimg.com/profile_images/2215872688/lol7_400x400.png",
+      "description" : "Agile Coach / Culture Hacker / Music Addict"
     } ],
     "video" : "https://www.youtube.com/watch?v=Wp19qp_ETxs",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Wp19qp_ETxs\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -2579,6 +3096,49 @@
         "logo" : "http://valtech.developpez.com/images/valtech.gif"
       },
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220728329/"
+    }
+  }, {
+    "id" : "2eb94610-12bf-42d9-b4cf-109d6c1e9acc",
+    "title" : "L'avenir passe par les Web Components, la preuve par dix !",
+    "description" : "Templating, encapsulation, éléments customs, databinding... La standardisation est en marche : Bienvenue aux Web Components. En 10 points, je vous montrerai ce qui est en train de se préparer dans vos navigateurs et ce que cela va nous permettre à nous, développeurs.",
+    "speakers" : [ {
+      "id" : "36ae3f7f-485a-4caa-a75f-b9389ff7f8a8",
+      "name" : "Julien Vey",
+      "twitter" : "julienvey",
+      "avatar" : "http://2.gravatar.com/avatar/33f4da946e4712d9aac7ea915fdc71e4"
+    } ],
+    "slides" : "https://speakerdeck.com/julienvey/lavenir-passe-par-les-web-components-la-preuve-par-dix",
+    "slidesEmbedCode" : "<script async class=\"speakerdeck-embed\" data-id=\"f374f2d0833801303e6622000a1f81f1\" data-ratio=\"1.33333333333333\" src=\"//speakerdeck.com/assets/embed.js\"></script>",
+    "video" : "https://www.youtube.com/watch?v=lxZk7X1iIdI",
+    "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lxZk7X1iIdI\" frameborder=\"0\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "30c36697-b10e-457a-8b44-bfca8e8ccde7",
+      "title" : "HumanTalks Paris Avril 2013",
+      "date" : 1365534000000,
+      "venue" : {
+        "id" : "2caa4f9b-0802-4ea4-882f-4fe132691ab0",
+        "name" : "Zenika",
+        "location" : {
+          "id" : "ChIJgZ9sujhu5kcR-sGp3BP8lnA",
+          "name" : "Zenika",
+          "streetNo" : "10",
+          "street" : "Rue de Milan",
+          "postalCode" : "75009",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "10 Rue de Milan, 75009 Paris, France",
+          "input" : "Zenika, Rue de Milan, Paris, France",
+          "coords" : {
+            "lat" : 48.8790862,
+            "lng" : 2.32844369999998
+          },
+          "url" : "https://maps.google.com/?cid=8112948940991218170",
+          "website" : "http://www.zenika.com/",
+          "phone" : "+33 1 45 26 19 15"
+        },
+        "twitter" : "ZenikaIT",
+        "logo" : "http://photos4.meetupstatic.com/photos/event/a/d/b/b/600_452084475.jpeg"
+      }
     }
   }, {
     "id" : "29cd1850-5ca7-4e71-9578-f1ce878fd3ef",
@@ -2628,7 +3188,8 @@
     "description" : "Nous ne savons toujours pas ce qu'est la conscience, mais nous commençons à connaître les symptômes et les troubles mentaux les plus courants. \r\n\r\nJ'illustrerai à travers quelques exemples très courts qu'une entreprise d'une certaine taille peut présenter, en tant qu'organisme collectif, la plupart des maladies mentales graves qui justifieraient chez un être humain un enfermement ou un traitement médical intensif, ou comment faire de \"grands malades\" à partir de personnes relativement saines. \r\n\r\nC'est une façon de prendre avec humour et culture le caractère souvent déshumanisant du travail en entreprise. On le rapprochera de points de vue de plus en plus à la mode comme \"l'émergence\". A chacun d'utiliser cette autre grille de lecture à son profit.",
     "speakers" : [ {
       "id" : "5368ee60-73df-4cc4-bd72-8b1ab2c6ec58",
-      "name" : "Olivier Gerard"
+      "name" : "Olivier Gerard",
+      "avatar" : "http://1.gravatar.com/avatar/d9c550c19e95286c4eef4f79e4420c31"
     } ],
     "video" : "https://www.youtube.com/watch?v=STsrVWhx4jQ",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/STsrVWhx4jQ\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -2669,7 +3230,8 @@
       "id" : "4cf0b58b-2b5d-4771-89e3-dd89734f48dc",
       "name" : "Frédéric Fadel",
       "twitter" : "FredyFadel",
-      "avatar" : "https://pbs.twimg.com/profile_images/3587765306/e148a2af3a0dc74b925e3ff89944e6b8_400x400.png"
+      "avatar" : "https://pbs.twimg.com/profile_images/3587765306/e148a2af3a0dc74b925e3ff89944e6b8_400x400.png",
+      "description" : "Code Eliminator"
     } ],
     "slides" : "http://www.slideshare.net/fredyfadel/linfinie-ou-lhistoire-de-la-mathmatisation-de-la-logique",
     "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/MeImnYBxpmkLE2\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
@@ -2703,6 +3265,44 @@
         "logo" : "https://trello-attachments.s3.amazonaws.com/567720f0ee63444029a905f7/1280x286/591c3d12af68952e891c4452e21847dd/Deezer.svg.png"
       },
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/"
+    }
+  }, {
+    "id" : "09ae1b6e-b5a5-4a77-b561-96cbb45a7134",
+    "title" : "L'intelligence est un muscle, pas une quantité finie",
+    "description" : "Nous, développeurs, avons un travail \"cognitif\". Nos construisons des oeuvres de l'esprit, mais comment se construit cet esprit ?\r\n\r\nJ'aimerais lancer une séquence de talks à mi-chemin entre \"hackez votre cerveau\" et \"les stages de l'expertise\".\r\n\r\nLoin de proposer une définition de l'intelligence, je vous propose une première approche entre éducation, formation et autocritique.",
+    "speakers" : [ {
+      "id" : "2ba139cc-1a0f-4aed-8560-2a16251c3608",
+      "name" : "Sylvain Abélard",
+      "twitter" : "abelar_s",
+      "avatar" : "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png",
+      "description" : "Let's solve interesting problems together & make you awesome ― @Faveod dev ・ @ParisRB & @RailsGirlsParis org ・ @zen_m4 podcast ― Relentlessly testing to improve"
+    } ],
+    "meetup" : {
+      "id" : "482107e3-478d-48fa-a787-178d4b4b8172",
+      "title" : "HumanTalks Paris Février 2013",
+      "date" : 1360695600000,
+      "venue" : {
+        "id" : "57439621-0dee-4a74-a88f-cfe8c96a7f90",
+        "name" : "DojoBoost",
+        "location" : {
+          "id" : "ChIJOTfXLA5u5kcRT7lwVynXkHs",
+          "name" : "41 Boulevard Saint-Martin",
+          "streetNo" : "41",
+          "street" : "Boulevard Saint-Martin",
+          "postalCode" : "75010",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "41 Boulevard Saint-Martin, 75010 Paris, France",
+          "input" : "41 Boulevard Saint-Martin, Paris, France",
+          "coords" : {
+            "lat" : 48.8684172,
+            "lng" : 2.357174299999997
+          },
+          "url" : "https://maps.google.com/?q=41+Boulevard+Saint-Martin,+75010+Paris,+France&ftid=0x47e66e0e2cd73739:0x7b90d7295770b94f"
+        },
+        "twitter" : "dojoboost",
+        "logo" : "https://pbs.twimg.com/profile_images/746023521176915972/1rWNGJ0O_400x400.jpg"
+      }
     }
   }, {
     "id" : "9fa52ce8-43e8-4e8f-b29d-d1ddac4f8142",
@@ -2755,7 +3355,8 @@
       "id" : "3842a776-9c6a-49be-a482-f100a18155b2",
       "name" : "Pierre Pezziardi",
       "twitter" : "ppezziardi",
-      "avatar" : "https://pbs.twimg.com/profile_images/635828826866642944/nOvN6C7A_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/635828826866642944/nOvN6C7A_400x400.jpg",
+      "description" : "Innovation fellow: IT, lean, debureaucratization and Rock&Roll #startupdetat @sg_map, partner @Kissbankers, co-founder @OCTOTechnology @LGPM93 @opencbs_com"
     } ],
     "video" : "https://www.youtube.com/watch?v=dvjsf8FRhY8",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dvjsf8FRhY8\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -2797,7 +3398,8 @@
       "id" : "c02f1338-e4d5-4417-b27b-456ea22b419f",
       "name" : "David Rousset",
       "twitter" : "davrous",
-      "avatar" : "https://pbs.twimg.com/profile_images/657221270279462912/tEnlrmuz_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/657221270279462912/tEnlrmuz_400x400.jpg",
+      "description" : "Web Standards Prog. Manager / Author of #BabylonJS & #VorlonJS / Papa différent: http://facecacheeduhandicap.com  / Composer: http://soundcloud.com/david-rousset "
     } ],
     "meetup" : {
       "id" : "a02f2832-9f93-4d8a-8f57-5a21f540a78d",
@@ -2836,7 +3438,8 @@
       "id" : "c35e52b1-15f2-484e-b77e-0d446ce6f2b2",
       "name" : "Yannick Grenzinger",
       "twitter" : "ygrenzinger",
-      "avatar" : "https://pbs.twimg.com/profile_images/668349256932171776/7Ma808uw_400x400.png"
+      "avatar" : "http://1.gravatar.com/avatar/243ed6e0c253e674512d807730c4b08f",
+      "description" : "(c)TO @CarbonParis Software craftsman coding since 1999. Continuous learner passionate about UX, product & psychology. Practicing Systema martial art."
     } ],
     "video" : "https://www.youtube.com/watch?v=0z2kyjie3LU",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0z2kyjie3LU\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -2877,7 +3480,8 @@
       "id" : "5b003af1-f77b-4cd6-9b39-9b7a4024276a",
       "name" : "Alexis Moroz",
       "twitter" : "Alexis_Moroz",
-      "avatar" : "https://pbs.twimg.com/profile_images/1228859868/Avatar_400x400.jpg"
+      "avatar" : "http://1.gravatar.com/avatar/bb4db8504853547f672d8f619f3d0b06",
+      "description" : "Game Designer"
     } ],
     "video" : "https://www.youtube.com/watch?v=CxtnIa2ss50",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CxtnIa2ss50\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -2918,7 +3522,8 @@
       "id" : "c35e52b1-15f2-484e-b77e-0d446ce6f2b2",
       "name" : "Yannick Grenzinger",
       "twitter" : "ygrenzinger",
-      "avatar" : "https://pbs.twimg.com/profile_images/668349256932171776/7Ma808uw_400x400.png"
+      "avatar" : "http://1.gravatar.com/avatar/243ed6e0c253e674512d807730c4b08f",
+      "description" : "(c)TO @CarbonParis Software craftsman coding since 1999. Continuous learner passionate about UX, product & psychology. Practicing Systema martial art."
     } ],
     "video" : "https://www.youtube.com/watch?v=rrMwbQf7D7M",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rrMwbQf7D7M\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -2950,6 +3555,48 @@
         "logo" : "http://www.la-cordee.net/wp-content/uploads/CORDEE_LOGO_2016_OK-02_small.png"
       },
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/156823782/"
+    }
+  }, {
+    "id" : "d550dd82-39ff-4f2d-bd5c-bd109a6e92db",
+    "title" : "La santé du geek au geek",
+    "description" : "Mal aux yeux ? Mal au dos ? Fatigué ?\r\n\r\nAprès ans de geekitude, je pense avoir eu un bon aperçu de soucis de santé bénins, mais pénibles et envahissants.\r\nJe rencontre beaucoup de gens qui souffrent de fatigue, mal de dos, mal aux yeux, et en ignorent la raison.\r\n\r\nSans être médecin et en évitant le côté moralisateur, je vais tenter de faire un petit tour d'horizon de solutions simples pour éviter le plus gros des ennuis.\r\n\r\nÀ voir si vous avez mal à la tête, au dos, aux épaules, aux poignets, aux yeux... que vous manquez de sommeil, ou que vous allez encore bien mais ne voulez pas que ça vous arrive :)",
+    "speakers" : [ {
+      "id" : "2ba139cc-1a0f-4aed-8560-2a16251c3608",
+      "name" : "Sylvain Abélard",
+      "twitter" : "abelar_s",
+      "avatar" : "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png",
+      "description" : "Let's solve interesting problems together & make you awesome ― @Faveod dev ・ @ParisRB & @RailsGirlsParis org ・ @zen_m4 podcast ― Relentlessly testing to improve"
+    } ],
+    "slides" : "https://speakerdeck.com/abelar_s/health-tips-from-geek-to-geek",
+    "slidesEmbedCode" : "<script async class=\"speakerdeck-embed\" data-id=\"cceea26025bd01301b7722000a1d01ad\" data-ratio=\"1.33333333333333\" src=\"//speakerdeck.com/assets/embed.js\"></script>",
+    "meetup" : {
+      "id" : "2bd5388d-6ffc-47ef-8046-169ee48c1b26",
+      "title" : "HumanTalks Paris Décembre 2012",
+      "date" : 1355252400000,
+      "venue" : {
+        "id" : "8d1d95f4-5746-4215-9115-a03089559c50",
+        "name" : "AF83",
+        "location" : {
+          "id" : "ChIJh4byUBZu5kcRAHiqmu7EwOQ",
+          "name" : "af83",
+          "streetNo" : "15",
+          "street" : "Rue Poissonnière",
+          "postalCode" : "75002",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "15 Rue Poissonnière, 75002 Paris, France",
+          "input" : "af83, Rue Poissonnière, Paris, France",
+          "coords" : {
+            "lat" : 48.869267,
+            "lng" : 2.347725099999934
+          },
+          "url" : "https://maps.google.com/?cid=16483391165252139008",
+          "website" : "http://www.af83.com/",
+          "phone" : "+33 1 42 72 33 32"
+        },
+        "twitter" : "af83",
+        "logo" : "https://pbs.twimg.com/profile_images/590187949670567937/DflwP5TD_400x400.png"
+      }
     }
   }, {
     "id" : "9f19d8ff-1749-4d64-8b1f-7aa0dae8fdf0",
@@ -2991,6 +3638,87 @@
         "logo" : "http://photos4.meetupstatic.com/photos/event/a/d/b/b/600_452084475.jpeg"
       },
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/"
+    }
+  }, {
+    "id" : "345a6482-f30d-4cf6-a81e-0ce9880a8519",
+    "title" : "Le Geospatial Indexing de MongoDb",
+    "description" : "De plus en plus de services sont alimentés de données géolocalisées. Que votre projet recense des hôtels, des critiques de restaurants ou des radars automatiques, vous devez pouvoir proposer la recherche dans une zone donnée.\r\n\r\nEn tant que développeur, vous pouvez choisir de délèguer cette tâche à un outil particulier (Lucene Spatial Search, Hibernate Spatial Search) ou d'utiliser une BDD vous offrant directement cette possibilité.\r\n\r\nMongoDb propose un système d'indexation geospaciale, voyons comment l'utiliser.\r\n\r\nDans ce talk j'utiliserai du code en java, mais MongoDb est accessible via n'importe quel langage et il y a peu de différences dans la façon d'accéder aux données.",
+    "speakers" : [ {
+      "id" : "5dc4a6ea-c34f-422c-8158-c68fc3c550f8",
+      "name" : "Hugo Cordier",
+      "twitter" : "HugoCrd",
+      "avatar" : "https://pbs.twimg.com/profile_images/2178564382/profil.jpg"
+    } ],
+    "meetup" : {
+      "id" : "2bd5388d-6ffc-47ef-8046-169ee48c1b26",
+      "title" : "HumanTalks Paris Décembre 2012",
+      "date" : 1355252400000,
+      "venue" : {
+        "id" : "8d1d95f4-5746-4215-9115-a03089559c50",
+        "name" : "AF83",
+        "location" : {
+          "id" : "ChIJh4byUBZu5kcRAHiqmu7EwOQ",
+          "name" : "af83",
+          "streetNo" : "15",
+          "street" : "Rue Poissonnière",
+          "postalCode" : "75002",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "15 Rue Poissonnière, 75002 Paris, France",
+          "input" : "af83, Rue Poissonnière, Paris, France",
+          "coords" : {
+            "lat" : 48.869267,
+            "lng" : 2.347725099999934
+          },
+          "url" : "https://maps.google.com/?cid=16483391165252139008",
+          "website" : "http://www.af83.com/",
+          "phone" : "+33 1 42 72 33 32"
+        },
+        "twitter" : "af83",
+        "logo" : "https://pbs.twimg.com/profile_images/590187949670567937/DflwP5TD_400x400.png"
+      }
+    }
+  }, {
+    "id" : "5430fe90-7139-4700-bead-1c27871f402e",
+    "title" : "Le Templating en Javascript",
+    "description" : "Vous avez encore des concaténations de chaines partout dans votre code Javascript dès que vous insérez un élément dans le DOM ?\r\n\r\nDécouvrez rapidement comment mieux gérer tout ça et faciliter la maintenance du code avec une présentation rapide de frameworks vous permettant de mettre en place facilement du templating dans vos sites webs.",
+    "speakers" : [ {
+      "id" : "8ce0078b-14b8-4be2-a65a-18837beeb1a5",
+      "name" : "Mathieu Parisot",
+      "twitter" : "matparisot",
+      "avatar" : "https://pbs.twimg.com/profile_images/684439807603400704/CS8z0qCK_400x400.jpg",
+      "description" : "Développeur web freelance, formateur, coorganisateur des Humantalks Paris"
+    } ],
+    "slides" : "http://fr.slideshare.net/soatexpert/templating-en-javascript",
+    "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/niUClOgHVz7Q8t\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "2bd5388d-6ffc-47ef-8046-169ee48c1b26",
+      "title" : "HumanTalks Paris Décembre 2012",
+      "date" : 1355252400000,
+      "venue" : {
+        "id" : "8d1d95f4-5746-4215-9115-a03089559c50",
+        "name" : "AF83",
+        "location" : {
+          "id" : "ChIJh4byUBZu5kcRAHiqmu7EwOQ",
+          "name" : "af83",
+          "streetNo" : "15",
+          "street" : "Rue Poissonnière",
+          "postalCode" : "75002",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "15 Rue Poissonnière, 75002 Paris, France",
+          "input" : "af83, Rue Poissonnière, Paris, France",
+          "coords" : {
+            "lat" : 48.869267,
+            "lng" : 2.347725099999934
+          },
+          "url" : "https://maps.google.com/?cid=16483391165252139008",
+          "website" : "http://www.af83.com/",
+          "phone" : "+33 1 42 72 33 32"
+        },
+        "twitter" : "af83",
+        "logo" : "https://pbs.twimg.com/profile_images/590187949670567937/DflwP5TD_400x400.png"
+      }
     }
   }, {
     "id" : "1d1206ac-9fb8-4368-aa06-3d22d9efdb75",
@@ -3129,7 +3857,8 @@
       "id" : "cae5c1f1-7073-4e6a-8551-b2df3d4dc473",
       "name" : "Pierre Chapuis",
       "twitter" : "pchapuis",
-      "avatar" : "https://pbs.twimg.com/profile_images/378800000274174191/a5cde2b996e7609d073603edc8b365dc_400x400.png"
+      "avatar" : "https://pbs.twimg.com/profile_images/378800000274174191/a5cde2b996e7609d073603edc8b365dc_400x400.png",
+      "description" : "SOA, distributed systems, Lua, Unix, tech history. @meetlima, ex- @moodstocks. Alum @TelecomBretagne & @CranfieldUni."
     } ],
     "slides" : "http://files.catwell.info/presentations/2013-07-human-talks-mobile-perf/",
     "meetup" : {
@@ -3203,6 +3932,43 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/"
     }
   }, {
+    "id" : "35df0b22-3e29-4c54-97ea-ddfe4ccb5056",
+    "title" : "Lean start-up : créer sa boite sans lever de fonds",
+    "description" : "Un talk qui ne parle pas de techno, mais qui peut en intéresser plus d'un :\r\n\r\n- Comment bien s'associer ?\r\n- Comment démarrer sa boite sans financement ?\r\n- Comment être rentable dès la première année ?\r\n\r\nPrincipes du lean-startup, et retour d'expérience avec JobTeaser.",
+    "speakers" : [ {
+      "id" : "951aafd6-d03f-46c0-9ba5-fc8c4f2eb7ea",
+      "name" : "Nicolas Lombard"
+    } ],
+    "meetup" : {
+      "id" : "44829bcf-c719-4d43-9759-eaa099410673",
+      "title" : "HumanTalks Paris Mars 2013",
+      "date" : 1363114800000,
+      "venue" : {
+        "id" : "9867c450-b6f6-4072-b1d7-2afa2f08e588",
+        "name" : "Xebia",
+        "location" : {
+          "id" : "ChIJ0wnrwMdv5kcRcWS32vLkTp4",
+          "name" : "Xebia - Cabinet de conseil IT",
+          "streetNo" : "156",
+          "street" : "Boulevard Haussmann",
+          "postalCode" : "75008",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "156 Boulevard Haussmann, 75008 Paris, France",
+          "input" : "Xebia - Cabinet de conseil IT, Boulevard Haussmann, Paris, France",
+          "coords" : {
+            "lat" : 48.875559,
+            "lng" : 2.31101799999999
+          },
+          "url" : "https://maps.google.com/?cid=11407306637878715505",
+          "website" : "http://www.xebia.fr/",
+          "phone" : "+33 1 53 89 99 99"
+        },
+        "twitter" : "xebiafr",
+        "logo" : "https://pbs.twimg.com/profile_images/671952647025479684/HFjZ4Hle_400x400.png"
+      }
+    }
+  }, {
     "id" : "3b87acd3-5260-4c8c-98bd-75f84a3a5d29",
     "title" : "Learn You a Brainfuck for Great Good !",
     "description" : "Ce talk a pour vocation de faire un tour rapide des langages ésotériques, et de détailler leurs fondements théoriques. \r\n\r\nL'idée est de mettre en avant le fait qu'apprendre et comprendre des langages ésotériques aide à avoir une meilleur vision du développement en général. Illustrations en Brainfuck et en Piet.",
@@ -3210,7 +3976,8 @@
       "id" : "9905f99b-296d-4d37-a5c4-4469bcd3ff45",
       "name" : "Antoine Leblanc",
       "twitter" : "nicuveo",
-      "avatar" : "https://pbs.twimg.com/profile_images/717503130456494081/EPfSRMJQ_400x400.jpg"
+      "avatar" : "http://0.gravatar.com/avatar/d7b0dfff3ee3c7b1eba8ac9e9a3b43b6",
+      "description" : "Geek, gamer, feminist ally, geek, music lover, and geek. Mainly geek. My cutie mark is a lambda. He / his / him."
     } ],
     "video" : "https://www.youtube.com/watch?v=1LEDsHHR6PA",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1LEDsHHR6PA\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -3251,7 +4018,8 @@
       "id" : "d94cca0d-6573-4e6f-805b-3befac0d38b3",
       "name" : "Caroline Besnard",
       "twitter" : "carobesnard",
-      "avatar" : "https://pbs.twimg.com/profile_images/612215517533863937/yYsReEr__400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/612215517533863937/yYsReEr__400x400.jpg",
+      "description" : "La curiosité est une qualité à cultiver."
     } ],
     "meetup" : {
       "id" : "b8bf246c-c245-40ae-a243-bb724be8c3dd",
@@ -3331,7 +4099,8 @@
       "id" : "8a4fe547-1604-4874-a164-d888bd75f781",
       "name" : "Ellène Siber Dijoux",
       "twitter" : "ElleneSiber",
-      "avatar" : "https://pbs.twimg.com/profile_images/634674964/ellene.dijoux_gmail.com_ed2d144c_400x400.jpg"
+      "avatar" : "http://2.gravatar.com/avatar/33fc11f88b25d361cbb8bdf12fc47cca",
+      "description" : "Développeure Java freelance, membre active chez @DuchessFr et dessinatrice pour le loisir via @uneviededev"
     } ],
     "video" : "https://www.youtube.com/watch?v=CTEwKK2Bpno",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CTEwKK2Bpno\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -3372,7 +4141,8 @@
       "id" : "901f6419-bd1c-4b14-8133-000cd218143e",
       "name" : "Nicolas Babel",
       "twitter" : "nicbaboul",
-      "avatar" : "https://pbs.twimg.com/profile_images/578610229786644482/UR4qrVLf_400x400.png"
+      "avatar" : "https://pbs.twimg.com/profile_images/578610229786644482/UR4qrVLf_400x400.png",
+      "description" : "Intéressé par la digitalisation des fonctions maketing et vente et par la démocratie réelle. Bosse chez @JL_Consulting"
     } ],
     "slides" : "http://fr.slideshare.net/motwin_community/20150126-latence-10-minutes-human-talk",
     "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/34YRdQHkxwpl59\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
@@ -3414,7 +4184,7 @@
       "id" : "4e9ae7e4-47ea-4968-bb2a-d8bd10595897",
       "name" : "Nicolas Carlo",
       "twitter" : "nicoespeon",
-      "avatar" : "https://pbs.twimg.com/profile_images/786463098349682688/MlUsA6TM_400x400.jpg",
+      "avatar" : "http://2.gravatar.com/avatar/46978c87c5c75cea5d05a61fa8b7d95b",
       "description" : "Consultant @OCTOTechnology Organizer of meetups @backbonejsparis, @pariswebComps & @bestofwebconf Freelance Web Developer with #Craftman #Lean #JS #FRP"
     } ],
     "meetup" : {
@@ -3455,7 +4225,8 @@
       "id" : "32a3ed7d-9b9d-4bfb-9524-337a52cba419",
       "name" : "Antoine Reux",
       "twitter" : "CrankFlash",
-      "avatar" : "https://pbs.twimg.com/profile_images/3081520350/8a3fb24b1b9bc65c035cd493e5b9a130_400x400.png"
+      "avatar" : "http://0.gravatar.com/avatar/1c61fe8ab8d2916c9ab08ef825d667e3",
+      "description" : "Student in software engineering."
     } ],
     "video" : "https://www.youtube.com/watch?v=Lu8nwkgfVIg",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Lu8nwkgfVIg\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -3487,6 +4258,48 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/"
     }
   }, {
+    "id" : "5e949a5d-dddd-46a0-bca5-e5dc1c15b5d0",
+    "title" : "Lipstick on a Pig Extreme Makeover Edition",
+    "description" : "Ma prez d'#apidays en version folle (et en Français!)",
+    "speakers" : [ {
+      "id" : "fb0ddd7a-3fcf-4a04-ab80-6b10e777be87",
+      "name" : "Ori Pekelman",
+      "twitter" : "OriPekelman",
+      "avatar" : "https://pbs.twimg.com/profile_images/2290008070/bs49edg28e6c5swpaa09_400x400.png",
+      "description" : "There are no user errors. Only UX bugs and faulty documentation. I hack on platform.sh and organize @DataParis .. personal home page: http://pekelman.com "
+    } ],
+    "slides" : "http://pekelman.com/presentations/apidays/",
+    "slidesEmbedCode" : "<iframe src=\"http://pekelman.com/presentations/apidays/\" width=\"595\" height=\"485\" frameborder=\"0\"></iframe>",
+    "meetup" : {
+      "id" : "2bd5388d-6ffc-47ef-8046-169ee48c1b26",
+      "title" : "HumanTalks Paris Décembre 2012",
+      "date" : 1355252400000,
+      "venue" : {
+        "id" : "8d1d95f4-5746-4215-9115-a03089559c50",
+        "name" : "AF83",
+        "location" : {
+          "id" : "ChIJh4byUBZu5kcRAHiqmu7EwOQ",
+          "name" : "af83",
+          "streetNo" : "15",
+          "street" : "Rue Poissonnière",
+          "postalCode" : "75002",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "15 Rue Poissonnière, 75002 Paris, France",
+          "input" : "af83, Rue Poissonnière, Paris, France",
+          "coords" : {
+            "lat" : 48.869267,
+            "lng" : 2.347725099999934
+          },
+          "url" : "https://maps.google.com/?cid=16483391165252139008",
+          "website" : "http://www.af83.com/",
+          "phone" : "+33 1 42 72 33 32"
+        },
+        "twitter" : "af83",
+        "logo" : "https://pbs.twimg.com/profile_images/590187949670567937/DflwP5TD_400x400.png"
+      }
+    }
+  }, {
     "id" : "f3484200-a84a-411d-8bc3-5304c1b36d98",
     "title" : "Lithium: Comment isoler la sources des erreurs",
     "description" : "Lithium est un outil qui a pour but de reproduire la réaction d'un programme en réduisant le fichier fournie en entrée.  Cette outil est très pratique quand il est utilisé avec de la génération automatique de tests ou que les tests sont trop large pour s'y attaquer rapidement à la main.",
@@ -3494,7 +4307,8 @@
       "id" : "6241266a-fc65-4a5a-93fd-7a88d4482468",
       "name" : "Nicolas B. Pierron",
       "twitter" : "nbpname",
-      "avatar" : "https://pbs.twimg.com/profile_images/3348548011/5e7bfe36304265d5cc5c6f79a9af7622_400x400.jpeg"
+      "avatar" : "https://pbs.twimg.com/profile_images/3348548011/5e7bfe36304265d5cc5c6f79a9af7622_400x400.jpeg",
+      "description" : "Wait! How did I manage to get more followers than tweets?"
     } ],
     "video" : "https://www.youtube.com/watch?v=TB4o3ztUaQw",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/TB4o3ztUaQw\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -3535,7 +4349,8 @@
       "id" : "58a52bc7-56c1-4798-9a9a-019cb32a86d8",
       "name" : "Vianney Lecroart",
       "twitter" : "acemtp",
-      "avatar" : "https://pbs.twimg.com/profile_images/782980862505877509/PlaZ3Qzi_400x400.jpg"
+      "avatar" : "http://0.gravatar.com/avatar/85b54c9b60eac1bc9ce678844445d27d",
+      "description" : "Founder of @talkusio; Your help desk. In Slack • @meteorjs Paris ambassador"
     } ],
     "video" : "https://www.youtube.com/watch?v=Kirit9Xl6ZM",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Kirit9Xl6ZM\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -3576,7 +4391,8 @@
       "id" : "f5b068dd-bf53-4400-bde9-c49b0f3c04e3",
       "name" : "Mickaël Andrieu",
       "twitter" : "mickael_andrieu",
-      "avatar" : "https://pbs.twimg.com/profile_images/672716508427104256/6oyONEar_400x400.jpg"
+      "avatar" : "http://1.gravatar.com/avatar/c9bef243216af3ddcf5c62bfeed46c68",
+      "description" : "Technical evangelist, Symfony 2|3 developer, open source enthousiast, PrestonBot (proud) father"
     } ],
     "slides" : "https://speakerdeck.com/mickaelandrieu/10-minutes-pour-choisir-sa-licence-open-source",
     "slidesEmbedCode" : "<script async class=\"speakerdeck-embed\" data-id=\"553b9b48a6184f66866ad13b6216e357\" data-ratio=\"1.77777777777778\" src=\"//speakerdeck.com/assets/embed.js\"></script>",
@@ -3610,6 +4426,48 @@
         "logo" : "https://trello-attachments.s3.amazonaws.com/567720f0ee63444029a905f7/1280x286/591c3d12af68952e891c4452e21847dd/Deezer.svg.png"
       },
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/"
+    }
+  }, {
+    "id" : "d9a3c93b-c352-4d25-97a8-da199e426e88",
+    "title" : "Make sense of your (big) data!",
+    "description" : "Et si on fabriquait des dashboards selon notre besoin au moment où nous en avons besoin ?\r\n\r\nJe vous ferai découvrir lors de cette session comment coupler la puissance d'Elasticsearch et la simplicité de Kibana pour analyser sans efforts vos données, qu'elles proviennent de Twitter, de vos logs de Prod ou de vos données marketing...",
+    "speakers" : [ {
+      "id" : "8693f85b-e328-4a16-a5a7-6677d9a2cb1c",
+      "name" : "David Pilato",
+      "twitter" : "dadoonet",
+      "avatar" : "http://0.gravatar.com/avatar/20049a614b7f6838dc87b4bc39c42079"
+    } ],
+    "slides" : "http://www.slideshare.net/dadoonet/human-talks-make-sense-of-your-big-data",
+    "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/MHXII0X2urSDEk\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
+    "video" : "https://www.youtube.com/watch?v=MlqeY0YzrKU",
+    "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MlqeY0YzrKU\" frameborder=\"0\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "bf833cd1-b637-4e38-93f3-3a71297acc9d",
+      "title" : "HumanTalks Paris Juin 2013",
+      "date" : 1370977200000,
+      "venue" : {
+        "id" : "ddb870f9-754c-47b8-9daf-6fa4c015444e",
+        "name" : "Soat",
+        "location" : {
+          "id" : "ChIJKYdgp25y5kcRAUNoU8rycvg",
+          "name" : "Soat",
+          "streetNo" : "89",
+          "street" : "Quai Panhard et Levassor",
+          "postalCode" : "75013",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "89 Quai Panhard et Levassor, 75013 Paris, France",
+          "input" : "Soat, Quai Panhard et Levassor, Paris, France",
+          "coords" : {
+            "lat" : 48.83182499999999,
+            "lng" : 2.379613000000063
+          },
+          "url" : "https://maps.google.com/?cid=17902638419547800321",
+          "website" : "http://www.soat.fr/",
+          "phone" : "+33 1 44 75 42 55"
+        },
+        "logo" : "http://www.soat.fr/wp-content/themes/soat/images/logo.svg"
+      }
     }
   }, {
     "id" : "1edcce4f-8b09-4897-b9c9-ab3d6f58eb36",
@@ -3697,6 +4555,47 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/"
     }
   }, {
+    "id" : "ee86a07d-323b-4b92-a399-b90dbaa92ab5",
+    "title" : "Mise au régime avec Spring Data",
+    "description" : "Marre du boilerplate incessant dans vos DAOs ?\r\nUn nouvel attribut en base demande 2h d'effort pour l'exposer ?\r\n\r\nDégraissons nos applications avec Spring Data et retrouvons notre efficacité !",
+    "speakers" : [ {
+      "id" : "e0d659e8-27b9-4d59-9a0b-faffc215a464",
+      "name" : "Florent Biville",
+      "twitter" : "fbiville",
+      "avatar" : "http://0.gravatar.com/avatar/f06979a03b9b522c80cb12def209c31a",
+      "description" : "Insatiable Learner at @CriteoEng and OSS aficionado. NoCoffee. Kıro padawan. Views are my own, obviously."
+    } ],
+    "video" : "https://www.youtube.com/watch?v=mHh1y6IOrjI",
+    "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mHh1y6IOrjI\" frameborder=\"0\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "43fb5a58-b8c6-4e5d-9c18-f3b5397b4f82",
+      "title" : "HumanTalks Paris Mai 2013",
+      "date" : 1368558000000,
+      "venue" : {
+        "id" : "7385f832-3d88-4ffa-82be-1279f238e464",
+        "name" : "Viadeo",
+        "location" : {
+          "id" : "ChIJM2Vr8zhu5kcR154oP2AIKhY",
+          "name" : "Viadeo",
+          "streetNo" : "30",
+          "street" : "Rue de la Victoire",
+          "postalCode" : "75009",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "30 Rue de la Victoire, 75009 Paris, France",
+          "input" : "Viadeo, Rue de la Victoire, Paris, France",
+          "coords" : {
+            "lat" : 48.8751644,
+            "lng" : 2.338019700000018
+          },
+          "url" : "https://maps.google.com/?cid=1597098227325771479",
+          "website" : "http://www.viadeo.com/",
+          "phone" : "+33 1 56 92 09 59"
+        },
+        "logo" : "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Viadeo_Full_Logo.svg/1280px-Viadeo_Full_Logo.svg.png"
+      }
+    }
+  }, {
     "id" : "7cf50a0c-75ee-4798-874e-ca0077360b4a",
     "title" : "Modular coverage tools for the modern web",
     "description" : "Je vous présenterai esnext-coverage, un nouvel outil de mesure de qualité de code JavaScript (ES6+). On parlera (sans trop rentrer dans les détails) du concept d’instrumentation de code en utilisant le transformer plugin de Babel, du workflow d’utilisation et de génération de rapports dynamiques de couverture de tests unitaires ou d'intégration.",
@@ -3704,7 +4603,8 @@
       "id" : "96c686e0-1164-45e1-8b2c-ad964eb8b00c",
       "name" : "Oleg Sklyanchuk",
       "twitter" : "olegskl",
-      "avatar" : "https://pbs.twimg.com/profile_images/474156955745808385/27Yg6B2D_400x400.jpeg"
+      "avatar" : "https://pbs.twimg.com/profile_images/474156955745808385/27Yg6B2D_400x400.jpeg",
+      "description" : "Web Application Developer, Motorcyclist and Photographer."
     } ],
     "video" : "https://www.youtube.com/watch?v=RUh4QOaT_60",
     "meetup" : {
@@ -3780,6 +4680,46 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/"
     }
   }, {
+    "id" : "0353bac6-0a50-471c-a249-174f92e401de",
+    "title" : "NoSSII ou le modèle Lateral Thoughts",
+    "description" : "Dans le monde du service en Informatique, il existe un certain nombre de schéma bien distincts :\r\n\r\n- d'une part les indépendants, qui sont par nature, libre mais seuls;\r\n- d'autre part les SSII, où la liberté est plus rare et l'innovation difficile;\r\n\r\nLateral Thoughts représente un modèle alternatif que nous avons construit, pour concilier liberté, innovation et communauté. \r\nJe vais essayer de vous présenter en 10 minutes ce que représente ce modèle, que nous ne sommes plus seuls à porter, sous le nom de NoSSII.",
+    "speakers" : [ {
+      "id" : "0249e576-c74d-4446-9a23-72a718133a2a",
+      "name" : "Olivier Girardot",
+      "twitter" : "ogirardot",
+      "avatar" : "http://2.gravatar.com/avatar/def754b0d38c0f7e7a282c47ac6ce85e"
+    } ],
+    "video" : "https://www.youtube.com/watch?v=stsFXk9npnc",
+    "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/stsFXk9npnc\" frameborder=\"0\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "43fb5a58-b8c6-4e5d-9c18-f3b5397b4f82",
+      "title" : "HumanTalks Paris Mai 2013",
+      "date" : 1368558000000,
+      "venue" : {
+        "id" : "7385f832-3d88-4ffa-82be-1279f238e464",
+        "name" : "Viadeo",
+        "location" : {
+          "id" : "ChIJM2Vr8zhu5kcR154oP2AIKhY",
+          "name" : "Viadeo",
+          "streetNo" : "30",
+          "street" : "Rue de la Victoire",
+          "postalCode" : "75009",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "30 Rue de la Victoire, 75009 Paris, France",
+          "input" : "Viadeo, Rue de la Victoire, Paris, France",
+          "coords" : {
+            "lat" : 48.8751644,
+            "lng" : 2.338019700000018
+          },
+          "url" : "https://maps.google.com/?cid=1597098227325771479",
+          "website" : "http://www.viadeo.com/",
+          "phone" : "+33 1 56 92 09 59"
+        },
+        "logo" : "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Viadeo_Full_Logo.svg/1280px-Viadeo_Full_Logo.svg.png"
+      }
+    }
+  }, {
     "id" : "d7363d44-9d0f-427e-9883-1cdbdf0490ef",
     "title" : "Nuun Framework : Standard building blocks for framework designers",
     "description" : "Créez votre propre framework Java avec Nuun: vos conventions, vos règles, votre framework.",
@@ -3787,7 +4727,8 @@
       "id" : "7a5b2610-aa7d-4318-889c-a786fe030ec5",
       "name" : "Epo Jemba",
       "twitter" : "ejemba",
-      "avatar" : "https://pbs.twimg.com/profile_images/1191495685/AD34hIhSAxrYTTAGx1499QqfebYGhRVdNvJ0r7wudF6miSyLAX-7dCAcY1cccFrGRrEQcttDyW688ukZ7ART7ItleYNu-m-kPWkIJDgPFq7MWnYtZOxSo6Y_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/1191495685/AD34hIhSAxrYTTAGx1499QqfebYGhRVdNvJ0r7wudF6miSyLAX-7dCAcY1cccFrGRrEQcttDyW688ukZ7ART7ItleYNu-m-kPWkIJDgPFq7MWnYtZOxSo6Y_400x400.jpg",
+      "description" : "Senior Framework & Software Architect 14y of Java and a newly Go addict. Owner and Designer of nuun-framework #gnu_linux #free #java #go #and_many_more"
     } ],
     "slides" : "http://slides.com/epojemba/nuun-framework",
     "slidesEmbedCode" : "<iframe src=\"//slides.com/epojemba/nuun-framework/embed?style=light\" width=\"576\" height=\"420\" scrolling=\"no\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
@@ -3919,7 +4860,8 @@
       "id" : "4cf0b58b-2b5d-4771-89e3-dd89734f48dc",
       "name" : "Frédéric Fadel",
       "twitter" : "FredyFadel",
-      "avatar" : "https://pbs.twimg.com/profile_images/3587765306/e148a2af3a0dc74b925e3ff89944e6b8_400x400.png"
+      "avatar" : "https://pbs.twimg.com/profile_images/3587765306/e148a2af3a0dc74b925e3ff89944e6b8_400x400.png",
+      "description" : "Code Eliminator"
     } ],
     "slides" : "https://onedrive.live.com/view.aspx?resid=E66DEE7C5AA54223!42602&ithint=file%2cpptx&app=PowerPoint&authkey=!AFm6uCuoXSDMFMM",
     "video" : "https://www.youtube.com/watch?v=Okz-tFyfu64",
@@ -3961,7 +4903,7 @@
       "id" : "a78f416e-c3f1-492a-b4c6-d3630e065154",
       "name" : "Paul Molin",
       "twitter" : "paulmolin42",
-      "avatar" : "https://pbs.twimg.com/profile_images/578117892048191488/gMoyWVZU_400x400.jpeg"
+      "avatar" : "http://0.gravatar.com/avatar/0ae2f6577b99e571f2a9cef5c0cd45e6"
     } ],
     "meetup" : {
       "id" : "133976da-5bbd-497d-a4e8-9693ce56294a",
@@ -4001,7 +4943,8 @@
       "id" : "2bae9d39-c9ca-4792-92cd-a94c00303ead",
       "name" : "Alexandre Victoor",
       "twitter" : "alex_victoor",
-      "avatar" : "https://pbs.twimg.com/profile_images/658643249742114816/VPD3w3Iy_400x400.png"
+      "avatar" : "https://pbs.twimg.com/profile_images/658643249742114816/VPD3w3Iy_400x400.png",
+      "description" : "Happy father of 3 kids, software architect working in Paris, opensource fanboy, interested by Java, .NET technologies and everything that runs in a browser"
     } ],
     "video" : "https://www.youtube.com/watch?v=ck2dIrrVTWs",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ck2dIrrVTWs\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -4123,7 +5066,8 @@
       "id" : "8a247e20-98ff-49ea-9ce0-e58e6440b4a9",
       "name" : "Alexandre Estela",
       "twitter" : "alx_estela",
-      "avatar" : "https://pbs.twimg.com/profile_images/780667822267588609/dB657o4L_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/780667822267588609/dB657o4L_400x400.jpg",
+      "description" : "API & Collaboration enthusiast, IoT maker, Startup facilitator"
     } ],
     "video" : "https://www.youtube.com/watch?v=-7LWklt079c",
     "meetup" : {
@@ -4199,7 +5143,8 @@
       "id" : "c8df375b-5e8f-4942-8966-6b20e4b4269f",
       "name" : "Christophe Robillard",
       "twitter" : "krichtof",
-      "avatar" : "https://pbs.twimg.com/profile_images/3156909329/f8431b847ce237c186ebdbb782e32eb3_400x400.jpeg"
+      "avatar" : "http://2.gravatar.com/avatar/e8f6f2cce6baadb867e6836fe57b3596",
+      "description" : "@MonsieurRobi, geek, de gauche, fondateur de @MerciEdgar, developpeur freelance #startupdetat pour @betagouv, manager de @Simonnet2( #UberLesSalaudsEtMesOvaires)"
     } ],
     "slides" : "http://slides.com/krichtof/pourquoi-je-passe-au-business-model-open-source",
     "slidesEmbedCode" : "<iframe src=\"//slides.com/krichtof/pourquoi-je-passe-au-business-model-open-source/embed?style=light\" width=\"576\" height=\"420\" scrolling=\"no\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
@@ -4234,6 +5179,46 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/"
     }
   }, {
+    "id" : "86c4cbc1-887c-43a4-8ffd-40fea55aaed5",
+    "title" : "Pourquoi rejoindre une SSII ?",
+    "description" : "Votre carrière stagne ? Votre vie sentimentale n'est pas au top ? Votre voiture est encore en panne ? Vous ne supportez plus tous ces indépendants qui tentent de vous convaincre de les rejoindre ?\r\n\r\nVous avez la passion du challenge et de la réussite, une réelle soif d'apprendre et la volonté de faire partie des meilleurs ? Vous souhaitez faire carrière dans une entreprise où la coopération est plus qu’un concept ?\r\n\r\nVenez découvrir pourquoi rejoindre une grande SSII vous permettra d'être plus épanoui(e) dans votre vie professionnelle et amoureuse.",
+    "speakers" : [ {
+      "id" : "8ce0078b-14b8-4be2-a65a-18837beeb1a5",
+      "name" : "Mathieu Parisot",
+      "twitter" : "matparisot",
+      "avatar" : "https://pbs.twimg.com/profile_images/684439807603400704/CS8z0qCK_400x400.jpg",
+      "description" : "Développeur web freelance, formateur, coorganisateur des Humantalks Paris"
+    } ],
+    "slides" : "http://fr.slideshare.net/soatexpert/pourquoi-rejoindre-une-ssii",
+    "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/yYTznqxndS2ndZ\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "482107e3-478d-48fa-a787-178d4b4b8172",
+      "title" : "HumanTalks Paris Février 2013",
+      "date" : 1360695600000,
+      "venue" : {
+        "id" : "57439621-0dee-4a74-a88f-cfe8c96a7f90",
+        "name" : "DojoBoost",
+        "location" : {
+          "id" : "ChIJOTfXLA5u5kcRT7lwVynXkHs",
+          "name" : "41 Boulevard Saint-Martin",
+          "streetNo" : "41",
+          "street" : "Boulevard Saint-Martin",
+          "postalCode" : "75010",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "41 Boulevard Saint-Martin, 75010 Paris, France",
+          "input" : "41 Boulevard Saint-Martin, Paris, France",
+          "coords" : {
+            "lat" : 48.8684172,
+            "lng" : 2.357174299999997
+          },
+          "url" : "https://maps.google.com/?q=41+Boulevard+Saint-Martin,+75010+Paris,+France&ftid=0x47e66e0e2cd73739:0x7b90d7295770b94f"
+        },
+        "twitter" : "dojoboost",
+        "logo" : "https://pbs.twimg.com/profile_images/746023521176915972/1rWNGJ0O_400x400.jpg"
+      }
+    }
+  }, {
     "id" : "8640b52a-26a2-483a-bb9b-c390178347a4",
     "title" : "Pourquoi vous ne devriez jamais écrire AES ou SHA dans votre code ?",
     "description" : "L'utilisation directe d'algorithmes cryptographiques réputés sûrs ne suffit pas à garantir la sécurité de nos applications. Par ex., l'emploi de SHA + un salt pour l'authentification par mot de passe ou l'usage seul de l'AES pour le chiffrement des données ne sont pas sûrs. Lors de ce talk, à travers un rapide panorama des attaques possibles et le cassage en live d'un système basé sur AES, vous comprendrez que le développeur doit se placer à un niveau d'abstraction plus élevé qu'il n'a l'habitude de le faire. Vous découvriez également des bibliothèques dont l'API résouds ces problèmes.",
@@ -4241,7 +5226,8 @@
       "id" : "e03185f2-5f3c-46ec-988c-f716bf52b9ea",
       "name" : "Thierry Abaléa",
       "twitter" : "thierryabalea",
-      "avatar" : "https://pbs.twimg.com/profile_images/642763456727412736/baeG-8tq_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/642763456727412736/baeG-8tq_400x400.jpg",
+      "description" : "A passionate developer interested in every fields of computer science and software engineering, a huge fan of challenges. CTO of http://fluo.com "
     } ],
     "video" : "https://www.youtube.com/watch?v=h30-7VCFMvw",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/h30-7VCFMvw\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -4273,47 +5259,6 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/"
     }
   }, {
-    "id" : "d1afa770-59e7-40a7-a36d-a77c32541419",
-    "title" : "Prise de parole en public, quelques conseils",
-    "description" : "Vous avez envie de partager votre experience mais vous avez peur de monter sur scène ? Ou alors vous pensez que ce que vous avez à raconter n'intéressera personne ? Dans ce talk je vais vous partager quelques conseils qui m'ont beaucoup aidés pour vaincre mon stress et écrire mes présentations. Je prends désormais beaucoup de plaisir à monter sur scène et je souhaite vous partager ces petits secrets.",
-    "speakers" : [ {
-      "id" : "5602d5b5-73a7-43be-90bf-4229dd3a4fae",
-      "name" : "Tim Carry",
-      "twitter" : "pixelastic",
-      "avatar" : "https://secure.gravatar.com/avatar/a2f9d5672798ac7ef42b871652a58fb0?d=404",
-      "description" : "Developer Advocate at @Algolia. Web craftsman and vim user. #HumanTalksParis and #TechLunch organizer."
-    } ],
-    "meetup" : {
-      "id" : "6f483568-bd46-4760-88f9-75e88d3b8b79",
-      "title" : "HumanTalks Paris Novembre 2016",
-      "date" : 1478631600000,
-      "venue" : {
-        "id" : "4e7ff2ef-94d1-4ace-82d7-31b3e746e43a",
-        "name" : "Google",
-        "location" : {
-          "id" : "ChIJk39P40lu5kcRukPXG_kHUvg",
-          "name" : "8 Rue de Londres",
-          "streetNo" : "8",
-          "street" : "Rue de Londres",
-          "postalCode" : "75009",
-          "locality" : "Paris",
-          "country" : "France",
-          "formatted" : "8 Rue de Londres, 75009 Paris, France",
-          "input" : "8 Rue de Londres, Paris, France",
-          "coords" : {
-            "lat" : 48.8773522,
-            "lng" : 2.3300371999999925
-          },
-          "url" : "https://maps.google.com/?q=8+Rue+de+Londres,+75009+Paris,+France&ftid=0x47e66e49e34f7f93:0xf85207f91bd743ba"
-        },
-        "capacity" : 200,
-        "twitter" : "GoogleFR",
-        "logo" : "https://pbs.twimg.com/profile_images/768495216881967105/A8-bgDEc_400x400.jpg"
-      },
-      "description" : "Et oui, pour une fois on a de l'avance, par ce que ce n'est pas n'importe quel meetup ! Cette session sera aussi celle de nos 4 ans, et ca passe vite !\r\n\r\nEt cette fois ci nous remercions Google, de nous héberger pour cette session un peu particulière :)",
-      "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/"
-    }
-  }, {
     "id" : "46eb375e-6717-4576-9c65-24cb9726e98c",
     "title" : "Procrastination : ce que dit la science",
     "description" : "« Mouais je vais plutôt commencer ça demain tiens » ou « j’ai ce super projet en tête depuis 6 mois mais impossible de m’y mettre ». \r\nProcrastiner c’est volontairement retarder une action même en sachant que la situation va se dégrader suite à ce retard. \r\nMais alors pourquoi sommes-nous tous de grands procrastinateurs ? Et surtout comment nous en sortir ? \r\nZoom sur quelques résultats des sciences cognitives pour comprendre les ressorts et les remèdes à la procrastination.",
@@ -4321,7 +5266,8 @@
       "id" : "ad924a8e-83ae-4010-a419-83c22537dc39",
       "name" : "Ismaël Héry",
       "twitter" : "Ismael_Hery",
-      "avatar" : "https://pbs.twimg.com/profile_images/1409535623/Photo_IHE_400x400.png"
+      "avatar" : "https://pbs.twimg.com/profile_images/1409535623/Photo_IHE_400x400.png",
+      "description" : "Coach teams to deliver greater digital products and services faster. Previously @OCTOTechnology, @lemondefr. Rock and mountain climbing. Write @TempsReconquis"
     } ],
     "meetup" : {
       "id" : "b8bf246c-c245-40ae-a243-bb724be8c3dd",
@@ -4361,7 +5307,8 @@
       "id" : "88d1fb09-c6d9-47f5-99a9-539d77d3a3ac",
       "name" : "Fabien Vauchelles",
       "twitter" : "fabienv",
-      "avatar" : "https://pbs.twimg.com/profile_images/601035621252083712/e7q362D6_400x400.jpg"
+      "avatar" : "http://0.gravatar.com/avatar/a775e033308c1bfbd0bbc86b298e4e06",
+      "description" : "CTO @ZelrosHQ, #developer, #speaker, #chatbot and #machinelearning addict."
     } ],
     "slides" : "http://fabienvauchelles.github.io/scrapoxy-talk-ht2015/",
     "slidesEmbedCode" : "<iframe src=\"http://fabienvauchelles.github.io/scrapoxy-talk-ht2015/\" width=\"595\" height=\"485\" frameborder=\"0\"></iframe>",
@@ -4404,7 +5351,8 @@
       "id" : "30499b06-0f25-4997-b188-e0971f110511",
       "name" : "Eric Vernié",
       "twitter" : "EricVernie",
-      "avatar" : "https://pbs.twimg.com/profile_images/2730086448/42f9f79157f601f94fea46da0e52f171_400x400.jpeg"
+      "avatar" : "http://2.gravatar.com/avatar/18ecbbbae0f0d2e7fa9b204302191b75",
+      "description" : "Technical Evangelist chez Microsoft France. En charge du développement"
     } ],
     "video" : "https://www.youtube.com/watch?v=07VPVTCV4cc",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/07VPVTCV4cc\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -4445,7 +5393,8 @@
       "id" : "6d7847a3-dd2f-4268-b404-c652a3f49397",
       "name" : "Ludwine Probst",
       "twitter" : "nivdul",
-      "avatar" : "https://pbs.twimg.com/profile_images/767120442817740800/1PEZwr6w_400x400.jpg"
+      "avatar" : "http://0.gravatar.com/avatar/12fb119c7420fc9ee5b3896c2cceb892",
+      "description" : "developer open source contributor @Nousmotards @LadiesCodeParis co-founder #diversity #womenInTech Traveller & Tech blogger #TechBeyondBorders"
     } ],
     "meetup" : {
       "id" : "27a109fd-c63a-425c-a38e-78bc0d130c76",
@@ -4484,7 +5433,8 @@
       "id" : "ad4d1651-71b1-4e80-84cb-4d602675ce05",
       "name" : "Antoine Berthelin",
       "twitter" : "aberthelin",
-      "avatar" : "https://pbs.twimg.com/profile_images/862849747/photo_copy_400x400.jpg"
+      "avatar" : "http://0.gravatar.com/avatar/c8eb2d273c63216a221d0e89ee8f7c9a",
+      "description" : "CTO de transition freelance, associé AppSonic"
     } ],
     "video" : "https://www.youtube.com/watch?v=1HUBzpaDEZU",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1HUBzpaDEZU\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -4567,7 +5517,8 @@
       "id" : "446a13fc-9e39-40b9-80c5-a6cff759b4b0",
       "name" : "Yves Pasteur",
       "twitter" : "ypasteur",
-      "avatar" : "https://pbs.twimg.com/profile_images/3586468713/cfb696b80ca5430cb051f00893706e05_400x400.jpeg"
+      "avatar" : "https://pbs.twimg.com/profile_images/3586468713/cfb696b80ca5430cb051f00893706e05_400x400.jpeg",
+      "description" : "Flâneur impénitent"
     } ],
     "video" : "https://www.youtube.com/watch?v=dOmL1QVbx4Q",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dOmL1QVbx4Q\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -4608,7 +5559,8 @@
       "id" : "d10030b0-56fd-47d2-8766-203c845fa391",
       "name" : "Michel Domenjoud",
       "twitter" : "mdomenjoud",
-      "avatar" : "https://pbs.twimg.com/profile_images/712757181444190210/oxNyatGc_400x400.jpg"
+      "avatar" : "http://0.gravatar.com/avatar/b60d9cc38a80694b39c3a40b8dac600f",
+      "description" : "Software Craftsman. Seeking ways of having better places with better code."
     } ],
     "slides" : "http://fr.slideshare.net/mdomenjoud/human-talks-ratez-vos-revues-de-code-en-5-leons",
     "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/N2R8LT5murmjZh\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
@@ -4695,7 +5647,8 @@
       "id" : "58441488-893c-48ed-99c0-3cd32cf629fb",
       "name" : "Olivier Berthonneau",
       "twitter" : "oberthonneau",
-      "avatar" : "https://pbs.twimg.com/profile_images/700708883929563136/ZlO-Zciz_400x400.jpg"
+      "avatar" : "http://1.gravatar.com/avatar/7fdcc65c63370e0e3f45b29ead60cac9",
+      "description" : "Software developer @nanocloud_com. Life in Paris, heart in the US and turned to the Cloud."
     } ],
     "video" : "https://www.youtube.com/watch?v=tq5jbplFlHA",
     "meetup" : {
@@ -4729,6 +5682,46 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/"
     }
   }, {
+    "id" : "7429f264-0487-4c37-9d1e-01764c47c7c1",
+    "title" : "Reprenez le contrôle sur les Google Apps !",
+    "description" : "Vous travaillez au quotidien avec les excellents outils que Google met à votre disposition sur votre compte Google Apps mais vous aimeriez ajouter des fonctionnalités propres à votre projet ?\r\n\r\nGoogle a pensé à vous en développant Apps Script (https://developers.google.com/apps-script) !\r\n\r\nDurant ce talk je vous propose un aperçu des fonctionnalités offertes et d'un exemple d'usage via UniShared (unishared.com).",
+    "speakers" : [ {
+      "id" : "617089b4-0d59-4aee-9185-cf4fb257caf0",
+      "name" : "Arnaud Breton",
+      "twitter" : "arnaud_breton",
+      "avatar" : "https://pbs.twimg.com/profile_images/716241066375180288/HqG-hhnh_400x400.jpg",
+      "description" : "Keep being amazed by the #World. Always. Head of API / Dev Relations @mailjet. Part of the @imaginek12 winter 2013 cohort. #ParisMarathon 2014 and 2016 finisher"
+    } ],
+    "slides" : "http://fr.slideshare.net/arnaudbreton/reprenez-le-contrle-sur-les-google-apps-15156890",
+    "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/CPFgppfW8F6zNm\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "60a0c698-ad8e-490b-a495-490edf06f0e5",
+      "title" : "HumanTalks Paris Novembre 2012",
+      "date" : 1352833200000,
+      "venue" : {
+        "id" : "343c27e8-7c2a-4e56-92dc-7222a0533a4b",
+        "name" : "Epitech Paris",
+        "location" : {
+          "id" : "ChIJIUVO-X9x5kcRwzm77N_H9CQ",
+          "name" : "24 Rue Pasteur",
+          "streetNo" : "24",
+          "street" : "Rue Pasteur",
+          "postalCode" : "94270",
+          "locality" : "Le Kremlin-Bicêtre",
+          "country" : "France",
+          "formatted" : "24 Rue Pasteur, 94270 Le Kremlin-Bicêtre, France",
+          "input" : "24 Rue Pasteur, Le Kremlin-Bicêtre, France",
+          "coords" : {
+            "lat" : 48.8153291,
+            "lng" : 2.3631676999999627
+          },
+          "url" : "https://maps.google.com/?q=24+Rue+Pasteur,+94270+Le+Kremlin-Bic%C3%AAtre,+France&ftid=0x47e6717ff94e4521:0x24f4c7dfecbb39c3"
+        },
+        "twitter" : "epitech",
+        "logo" : "https://pbs.twimg.com/profile_images/522020491330985986/tKPMMaRj.png"
+      }
+    }
+  }, {
     "id" : "bb567e3c-b4c5-4555-a786-5526cff1e4ba",
     "title" : "Retour d'expérience : De Heroku à EC2 @ Youboox",
     "description" : "Chez Youboox fait pas mal de processing de livres (beaucoup de livres). \r\nComment et pourquoi nous sommes passé d'une infra 100% PaaS sur Heroku à une infra hybride avec Heroku pour l'API et AWS pour les jobs",
@@ -4736,7 +5729,8 @@
       "id" : "581a82ea-65d5-4731-95d1-3f6c9239d490",
       "name" : "Vincent Daubry",
       "twitter" : "vdaubry",
-      "avatar" : "https://pbs.twimg.com/profile_images/761093391841005568/gtmU_lGe_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/761093391841005568/gtmU_lGe_400x400.jpg",
+      "description" : "Ruby enthusiast, CTO and co-founder of Youboox."
     } ],
     "video" : "https://www.youtube.com/watch?v=OPKSuqm5RvA",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OPKSuqm5RvA\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -4774,9 +5768,9 @@
     "description" : "Découvrez le Sprint, cette nouvelle méthodologie, inspirée par Google Ventures, qui permet de concrétiser en 5 jours une idée. A travers un retour d'expérience, venez comprendre les enjeux ainsi que les objectifs de cette méthode.",
     "speakers" : [ {
       "id" : "f81eaedf-1d3e-4b55-b7cd-eda09f52c6fc",
-      "name" : "Antoine Pezé",
+      "name" : "Antoine",
       "twitter" : "antoine_peze",
-      "avatar" : "https://pbs.twimg.com/profile_images/699622798411567104/Bk9Wnz_I_400x400.jpg",
+      "avatar" : "https://secure.gravatar.com/avatar/c623c5eae6605d61c09984d0b8261b69?d=404",
       "description" : "#UX lover @OCTOTechnology #UserResearch · #Prototype · #Feedback"
     } ],
     "meetup" : {
@@ -4856,7 +5850,8 @@
       "id" : "1dee4088-053a-4150-a65b-8d249ac230ce",
       "name" : "Laure Némée",
       "twitter" : "Zazoun",
-      "avatar" : "https://pbs.twimg.com/profile_images/133826900/n770482651_398589_3194_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/133826900/n770482651_398589_3194_400x400.jpg",
+      "description" : "CTO @ Leetchi & Mangopay"
     } ],
     "video" : "https://www.youtube.com/watch?v=A_A3gm11Ttc",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/A_A3gm11Ttc\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -4890,6 +5885,45 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/142883912/"
     }
   }, {
+    "id" : "842ac8b0-b4f4-4343-ad2d-0ecbec1e3638",
+    "title" : "Retour sur l'organisation d'événements \"tech\"",
+    "description" : "Sur les 2 dernières années j'ai participé à la création ou organisation de :\r\n\r\n- meetups gratuits d'une vingtaine de personnes à 150 personnes\r\n- meetups payants réunissants environ 100 personnes\r\n- meetups en anglais en France (et oui, on peut)\r\n- une conférence en anglais, à Paris, avec 550 participants et 12 orateurs internationaux\r\n\r\nDe ces expériences, j'en ai tiré des conclusions que je souhaiterais vous présenter pour vous permettre de vous lancer dans la création d'une communauté centrée autour vos technologies préférées.",
+    "speakers" : [ {
+      "id" : "dc612ec4-6e10-430c-a7c2-3ff6fb690f58",
+      "name" : "Thomas Bassetto"
+    } ],
+    "slides" : "http://slides.com/tbassetto/creer-une-communaute-technique/",
+    "slidesEmbedCode" : "<iframe src=\"//slides.com/tbassetto/creer-une-communaute-technique/embed?style=light\" width=\"576\" height=\"420\" scrolling=\"no\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "2bd5388d-6ffc-47ef-8046-169ee48c1b26",
+      "title" : "HumanTalks Paris Décembre 2012",
+      "date" : 1355252400000,
+      "venue" : {
+        "id" : "8d1d95f4-5746-4215-9115-a03089559c50",
+        "name" : "AF83",
+        "location" : {
+          "id" : "ChIJh4byUBZu5kcRAHiqmu7EwOQ",
+          "name" : "af83",
+          "streetNo" : "15",
+          "street" : "Rue Poissonnière",
+          "postalCode" : "75002",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "15 Rue Poissonnière, 75002 Paris, France",
+          "input" : "af83, Rue Poissonnière, Paris, France",
+          "coords" : {
+            "lat" : 48.869267,
+            "lng" : 2.347725099999934
+          },
+          "url" : "https://maps.google.com/?cid=16483391165252139008",
+          "website" : "http://www.af83.com/",
+          "phone" : "+33 1 42 72 33 32"
+        },
+        "twitter" : "af83",
+        "logo" : "https://pbs.twimg.com/profile_images/590187949670567937/DflwP5TD_400x400.png"
+      }
+    }
+  }, {
     "id" : "2750574c-1754-49fd-88ba-df890235980e",
     "title" : "RxJava, Getting Started",
     "description" : "Les applications sont de plus en plus interconnectées. Une architecture type WOA (Web Oriented Archiecture) et l’utilisation des micros-services nécessitent de faire de plus en plus d’appel à différents services web. Comment composer un résultat à partir de ces différents services, sans avoir à ce soucier de l’ordre dans lequel les serveurs vont répondre ? \r\n\r\nRxJava offre une manière élégante de faire de l’asynchrone et de la composition au sein de son application. Nous vous exposerons les concepts de Rx (Reactive eXtension) avant de vous montrer une mise en application.",
@@ -4903,7 +5937,7 @@
       "id" : "06242a26-4717-4e02-a912-c93fc51a27be",
       "name" : "Brice Dutheil",
       "twitter" : "BriceDutheil",
-      "avatar" : "https://pbs.twimg.com/profile_images/1128275334/blacksad_medium_400x400.jpg",
+      "avatar" : "http://0.gravatar.com/avatar/f31c7fbcbb0766d0632d96fd7e74b649",
       "description" : "self employed — java developer — mockito core team — Devoxx FR java track lead — cassandra user — distributed system enthusiast // Opinions are my own."
     } ],
     "slides" : "https://speakerdeck.com/dwursteisen/rxjava-getting-started",
@@ -5024,7 +6058,8 @@
       "id" : "bcef33c3-7d6d-450f-9b16-05766ecdf7ae",
       "name" : "Jean-Philippe Encausse",
       "twitter" : "JpEncausse",
-      "avatar" : "https://pbs.twimg.com/profile_images/458869214158131202/dU-p9aEm_400x400.png"
+      "avatar" : "http://2.gravatar.com/avatar/52f87ab37cbd1f96d4170a20fd8203da",
+      "description" : "R&D Engineer, Tech Evangelist, #Maker of SARAH (http://sarah.encausse.net ) Expert #IoT & #NUI at VISEO. Enthusiast #Hacker, #3DPrinting, #SmartHome, #VR"
     } ],
     "meetup" : {
       "id" : "a02f2832-9f93-4d8a-8f57-5a21f540a78d",
@@ -5142,7 +6177,8 @@
       "id" : "1e7ac206-0c7d-42f4-bf48-1d130e99ff95",
       "name" : "Lucas Girardin",
       "twitter" : "pykpyky",
-      "avatar" : "https://pbs.twimg.com/profile_images/490876444138950656/mSla9bpA_400x400.jpeg"
+      "avatar" : "https://pbs.twimg.com/profile_images/490876444138950656/mSla9bpA_400x400.jpeg",
+      "description" : "Microsoftee, blogueur et panda, a écrit sur le #ShadowIT, MACH a #Microsoft Microsoftee, blogueur and panda, I wrote on the #ShadowIT, MACH at #Microsoft"
     } ],
     "slides" : "http://fr.slideshare.net/LucasGirardin/human-talk-shadow-it-invitable-ou-pas-par-lucas-girardin-pykpyky",
     "meetup" : {
@@ -5182,7 +6218,8 @@
       "id" : "2ba139cc-1a0f-4aed-8560-2a16251c3608",
       "name" : "Sylvain Abélard",
       "twitter" : "abelar_s",
-      "avatar" : "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png"
+      "avatar" : "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png",
+      "description" : "Let's solve interesting problems together & make you awesome ― @Faveod dev ・ @ParisRB & @RailsGirlsParis org ・ @zen_m4 podcast ― Relentlessly testing to improve"
     } ],
     "video" : "https://www.youtube.com/watch?v=ZxHgqw8a08c",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ZxHgqw8a08c\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -5265,7 +6302,7 @@
       "id" : "294c2104-d8cb-45ef-8422-b228a669d35c",
       "name" : "Mehdi Ben Haj Abbes",
       "twitter" : "MehdiAbbes",
-      "avatar" : "https://pbs.twimg.com/profile_images/756216038497267712/nwP3m3M__400x400.jpg"
+      "avatar" : "http://1.gravatar.com/avatar/c40e9bb1a2e981fb910b194fb4b2d4a3"
     } ],
     "meetup" : {
       "id" : "7abb0aae-eeb5-490b-8aff-743c30fe3c6e",
@@ -5347,7 +6384,8 @@
       "id" : "fa06547a-95fd-40f2-b89c-8664f529a500",
       "name" : "Frank Rousseau",
       "twitter" : "gelnior",
-      "avatar" : "https://pbs.twimg.com/profile_images/762041842506534912/fKkJeCSV_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/762041842506534912/fKkJeCSV_400x400.jpg",
+      "description" : "Software maker since 1997. I tweet about programming, startups and self-hosted apps. http://hackerevents.org  maintainer."
     } ],
     "video" : "https://www.youtube.com/watch?v=AbMNR2P29p4",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AbMNR2P29p4\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -5462,6 +6500,84 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/225674334/"
     }
   }, {
+    "id" : "4b7337f1-bd91-41d4-a5bc-abe3a8802b0a",
+    "title" : "Tester son idée en quelques heures",
+    "description" : "Après de nombreuses participations à des Startup Weekend, je me suis aperçu que les gens testaient peu leurs idées avant de se lancer dans le développement du service complet.\r\n\r\nVoici 10 moyens d’affiner et tester votre idée avec le moins d’effort possible. Ils vous permettront de mieux répondre aux besoins de vos clients et d’aller plus vite vers la bonne idée.",
+    "speakers" : [ {
+      "id" : "563da1c5-fbe9-4c6f-bc55-849ed16df410",
+      "name" : "Camille Roux",
+      "twitter" : "CamilleRoux",
+      "avatar" : "https://pbs.twimg.com/profile_images/739905900782161922/WI-8gFNV.jpg"
+    } ],
+    "slides" : "http://www.slideshare.net/camilleroux/tester-son-ide-en-quelques-heures",
+    "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/hvxiJUhMmXxbbY\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "60a0c698-ad8e-490b-a495-490edf06f0e5",
+      "title" : "HumanTalks Paris Novembre 2012",
+      "date" : 1352833200000,
+      "venue" : {
+        "id" : "343c27e8-7c2a-4e56-92dc-7222a0533a4b",
+        "name" : "Epitech Paris",
+        "location" : {
+          "id" : "ChIJIUVO-X9x5kcRwzm77N_H9CQ",
+          "name" : "24 Rue Pasteur",
+          "streetNo" : "24",
+          "street" : "Rue Pasteur",
+          "postalCode" : "94270",
+          "locality" : "Le Kremlin-Bicêtre",
+          "country" : "France",
+          "formatted" : "24 Rue Pasteur, 94270 Le Kremlin-Bicêtre, France",
+          "input" : "24 Rue Pasteur, Le Kremlin-Bicêtre, France",
+          "coords" : {
+            "lat" : 48.8153291,
+            "lng" : 2.3631676999999627
+          },
+          "url" : "https://maps.google.com/?q=24+Rue+Pasteur,+94270+Le+Kremlin-Bic%C3%AAtre,+France&ftid=0x47e6717ff94e4521:0x24f4c7dfecbb39c3"
+        },
+        "twitter" : "epitech",
+        "logo" : "https://pbs.twimg.com/profile_images/522020491330985986/tKPMMaRj.png"
+      }
+    }
+  }, {
+    "id" : "b294755e-6749-4380-9e5f-4bb89a703d43",
+    "title" : "Tests de charge avec Gatling",
+    "description" : "Vous êtes développeur web, votre application est presque terminée, et vous vous apprétez à la pousser en production.\r\n\r\nL'équipe marketing (ou le bouche à oreille) à fait son boulot, et vous espérez faire le buzz... Mais êtes-vous sûrs de ne pas risquer le FreeMobile-effect ?\r\n\r\nJe vous présenterai donc Gatling, un outil de tests de charge nouvelle génération qui se veut extrêment performant (notamment grâce à son architecture totalement asynchrone) et simple à utiliser grâce à son DSL.",
+    "speakers" : [ {
+      "id" : "3fa1288c-6a5c-4f36-8da9-65f6f5f1be24",
+      "name" : "Romain Sertelon",
+      "twitter" : "BluePyth",
+      "avatar" : "http://2.gravatar.com/avatar/9fe2948167b1c6a12e4ba388ec9d9376"
+    } ],
+    "slides" : "http://fr.slideshare.net/BluePyth/gatling-humantalks",
+    "slidesEmbedCode" : "<iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/F9o8jVcdl3EQVG\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "482107e3-478d-48fa-a787-178d4b4b8172",
+      "title" : "HumanTalks Paris Février 2013",
+      "date" : 1360695600000,
+      "venue" : {
+        "id" : "57439621-0dee-4a74-a88f-cfe8c96a7f90",
+        "name" : "DojoBoost",
+        "location" : {
+          "id" : "ChIJOTfXLA5u5kcRT7lwVynXkHs",
+          "name" : "41 Boulevard Saint-Martin",
+          "streetNo" : "41",
+          "street" : "Boulevard Saint-Martin",
+          "postalCode" : "75010",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "41 Boulevard Saint-Martin, 75010 Paris, France",
+          "input" : "41 Boulevard Saint-Martin, Paris, France",
+          "coords" : {
+            "lat" : 48.8684172,
+            "lng" : 2.357174299999997
+          },
+          "url" : "https://maps.google.com/?q=41+Boulevard+Saint-Martin,+75010+Paris,+France&ftid=0x47e66e0e2cd73739:0x7b90d7295770b94f"
+        },
+        "twitter" : "dojoboost",
+        "logo" : "https://pbs.twimg.com/profile_images/746023521176915972/1rWNGJ0O_400x400.jpg"
+      }
+    }
+  }, {
     "id" : "b90c74d3-fb12-49b2-9fde-27f5c2f8bb12",
     "title" : "Tests sur tout les fronts",
     "description" : "Maîtriser et fiabiliser son code est aujourd’hui incontournable pour tout développeur devant faire face à des architectures web de plus en plus riches et complexes. Trop souvent délaissés, il existe pourtant des outils pour réaliser des tests front-end d’applications Web et répondre aux besoins d’un développement de qualité.",
@@ -5469,7 +6585,7 @@
       "id" : "fb2f9207-5820-442d-800c-39ffb64f88a6",
       "name" : "William Ong",
       "twitter" : "Wyam",
-      "avatar" : "https://pbs.twimg.com/profile_images/478922840469954560/aZsSkJdA_400x400.jpeg"
+      "avatar" : "http://0.gravatar.com/avatar/a4a3a8c3746abe56f151cd115c346282"
     } ],
     "meetup" : {
       "id" : "cc74be6e-da49-4680-bc53-50e1cda4bcbf",
@@ -5588,7 +6704,8 @@
       "id" : "4b8cde83-5e2d-489f-a344-b0ad6bf84e5a",
       "name" : "Wilfried Woivre",
       "twitter" : "wilfriedwoivre",
-      "avatar" : "https://pbs.twimg.com/profile_images/2751803686/c36d2a261a411585d49df88335af637d_400x400.png"
+      "avatar" : "https://pbs.twimg.com/profile_images/2751803686/c36d2a261a411585d49df88335af637d_400x400.png",
+      "description" : "#MVP #Azure #MicrosoftAzure (ex #WindowsAzure) ! Big fan of #CloudComputing Expert at @SoatExpertsNET ! http://blog.soat.fr "
     } ],
     "video" : "https://www.youtube.com/watch?v=mOKlilD4Pco",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mOKlilD4Pco\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -5629,12 +6746,14 @@
       "id" : "e15687aa-4fae-497d-b198-fe6a939662f5",
       "name" : "Jean-Baptiste Lemée",
       "twitter" : "jblemee",
-      "avatar" : "https://pbs.twimg.com/profile_images/712730547588571136/NguMd0Fu_400x400.jpg"
+      "avatar" : "http://0.gravatar.com/avatar/390932d3eed77135012a9accca4b2c59",
+      "description" : "https://hopwork.com  Developer and Founder"
     }, {
       "id" : "f5858e30-50a6-4e56-b0eb-710aaba9d798",
       "name" : "Vincent Huguet",
       "twitter" : "vhuguet",
-      "avatar" : "https://pbs.twimg.com/profile_images/517757068153864192/zbFzbWe8_400x400.png"
+      "avatar" : "http://0.gravatar.com/avatar/e8699dfe1fa77815123dcbe9dc81113d",
+      "description" : "http://Hopwork.com  Founder. Hopwork is the place to look for the best freelancers."
     } ],
     "video" : "https://www.youtube.com/watch?v=QvzCnHUlIgA",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QvzCnHUlIgA\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -5666,45 +6785,6 @@
         "logo" : "http://www.koworkr.com/uploads/brands/61/56d6ea746b8a4.jpeg"
       },
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/"
-    }
-  }, {
-    "id" : "4167cd68-7702-47ea-911e-7442eb840fb0",
-    "title" : "Tout ce que vous pensez savoir sur la couleur est faux",
-    "description" : "Où comment j'ai appris beaucoup trop de choses sur la couleur en travaillant sur un appareil photo. La couleur a-t-elle vraiment trois dimensions ? Pourquoi ça n'a pas de sens de faire des calculs en RGB ? C'est quoi la balance des blancs ?",
-    "speakers" : [ {
-      "id" : "335dbe66-76da-4d28-89f3-42d2742d19bb",
-      "name" : "Maryla",
-      "description" : "Google Cultural Institute"
-    } ],
-    "meetup" : {
-      "id" : "6f483568-bd46-4760-88f9-75e88d3b8b79",
-      "title" : "HumanTalks Paris Novembre 2016",
-      "date" : 1478631600000,
-      "venue" : {
-        "id" : "4e7ff2ef-94d1-4ace-82d7-31b3e746e43a",
-        "name" : "Google",
-        "location" : {
-          "id" : "ChIJk39P40lu5kcRukPXG_kHUvg",
-          "name" : "8 Rue de Londres",
-          "streetNo" : "8",
-          "street" : "Rue de Londres",
-          "postalCode" : "75009",
-          "locality" : "Paris",
-          "country" : "France",
-          "formatted" : "8 Rue de Londres, 75009 Paris, France",
-          "input" : "8 Rue de Londres, Paris, France",
-          "coords" : {
-            "lat" : 48.8773522,
-            "lng" : 2.3300371999999925
-          },
-          "url" : "https://maps.google.com/?q=8+Rue+de+Londres,+75009+Paris,+France&ftid=0x47e66e49e34f7f93:0xf85207f91bd743ba"
-        },
-        "capacity" : 200,
-        "twitter" : "GoogleFR",
-        "logo" : "https://pbs.twimg.com/profile_images/768495216881967105/A8-bgDEc_400x400.jpg"
-      },
-      "description" : "Et oui, pour une fois on a de l'avance, par ce que ce n'est pas n'importe quel meetup ! Cette session sera aussi celle de nos 4 ans, et ca passe vite !\r\n\r\nEt cette fois ci nous remercions Google, de nous héberger pour cette session un peu particulière :)",
-      "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/"
     }
   }, {
     "id" : "c6f03502-52ba-486f-b4a6-c6905c966879",
@@ -5748,6 +6828,45 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/226509764/"
     }
   }, {
+    "id" : "f9b108c3-42e6-4c52-8800-d1d20a0d58af",
+    "title" : "Tu devrais faire du Lua !",
+    "description" : "Tu connais le langage Lua ?\r\n\r\nTu savais que c'est l'un des langages de programmation dynamiques les plus simples ? Qu'une implémentation écrite par un type tout seul atteint des performances dépassant C sur certains benchmarks scientifiques ? Que c'est un des langages les plus connus de l'industrie du jeu vidéo, également utilisé par des projets comme Lightroom de Adobe, VLC, Redis, NetBSD ou Wikipedia ?\r\n\r\nTu savais que faire du Lua te permettra de comprendre ce qu'est vraiment un objet ? Qu'il te rendra riche, célèbre et te fera trouver l'amour (ou pas) ?\r\n\r\nTu devrais faire du Lua. Si tu en doutes, viens voir ce talk, j'essaierai de te convaincre.",
+    "speakers" : [ {
+      "id" : "cae5c1f1-7073-4e6a-8551-b2df3d4dc473",
+      "name" : "Pierre Chapuis",
+      "twitter" : "pchapuis",
+      "avatar" : "https://pbs.twimg.com/profile_images/378800000274174191/a5cde2b996e7609d073603edc8b365dc_400x400.png",
+      "description" : "SOA, distributed systems, Lua, Unix, tech history. @meetlima, ex- @moodstocks. Alum @TelecomBretagne & @CranfieldUni."
+    } ],
+    "slides" : "http://files.catwell.info/presentations/2013-02-human-talks-lua/fr.html",
+    "meetup" : {
+      "id" : "482107e3-478d-48fa-a787-178d4b4b8172",
+      "title" : "HumanTalks Paris Février 2013",
+      "date" : 1360695600000,
+      "venue" : {
+        "id" : "57439621-0dee-4a74-a88f-cfe8c96a7f90",
+        "name" : "DojoBoost",
+        "location" : {
+          "id" : "ChIJOTfXLA5u5kcRT7lwVynXkHs",
+          "name" : "41 Boulevard Saint-Martin",
+          "streetNo" : "41",
+          "street" : "Boulevard Saint-Martin",
+          "postalCode" : "75010",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "41 Boulevard Saint-Martin, 75010 Paris, France",
+          "input" : "41 Boulevard Saint-Martin, Paris, France",
+          "coords" : {
+            "lat" : 48.8684172,
+            "lng" : 2.357174299999997
+          },
+          "url" : "https://maps.google.com/?q=41+Boulevard+Saint-Martin,+75010+Paris,+France&ftid=0x47e66e0e2cd73739:0x7b90d7295770b94f"
+        },
+        "twitter" : "dojoboost",
+        "logo" : "https://pbs.twimg.com/profile_images/746023521176915972/1rWNGJ0O_400x400.jpg"
+      }
+    }
+  }, {
     "id" : "2ce8c493-acd5-48bb-b408-eabdc1e205cd",
     "title" : "UX / Créa - Les dévs et les créas devraient mieux s'entendre !",
     "description" : "En moins de 10 ans, le métier de web designer a évolué aussi vite que les technologies ce qui implique une remise en question régulière et peut-être même permanente sur cette profession et ses limites d'intervention dans la conception et execution d'un projet. Comme pour les Chasseurs*, il y a le bon designer et le mauvais designer. Cette intervention a pour but de partager mes retours d'expériences via des anecdotes en tant que formatrice en école, webdesigner pour l'annonceur / en agence et aujourd'hui en tant qu'entrepreneuse. \r\n\r\n*Référence aux sketch des Inconnus : http://www.youtube.com/watch?v=QuGcoOJKXT8",
@@ -5755,7 +6874,8 @@
       "id" : "cadb8a5f-611c-417a-a9f2-34fd08368597",
       "name" : "Jacinthe Busson",
       "twitter" : "jacinthe_",
-      "avatar" : "https://pbs.twimg.com/profile_images/506860208371404800/qYavmqCa_400x400.jpeg"
+      "avatar" : "http://1.gravatar.com/avatar/cce92925bbe7e0cd4683fecf65dfad49",
+      "description" : "Co-fondatrice de http://Kontestapp.com  & http://Elegantt.com  | Ambassadeur France Trello | Auteur de http://Ergophile.com  & http://UXtimeline.com "
     } ],
     "slides" : "http://jacinthebusson.com/humantalks/index.html",
     "video" : "https://www.youtube.com/watch?v=SORZkklLKCk",
@@ -5843,7 +6963,8 @@
       "id" : "70731e8f-de9e-430e-a02a-d82eb1a454c5",
       "name" : "Gregory Isabelli",
       "twitter" : "boardgamearena",
-      "avatar" : "https://pbs.twimg.com/profile_images/745914996123643904/UGqutrlf_400x400.jpg"
+      "avatar" : "https://pbs.twimg.com/profile_images/745914996123643904/UGqutrlf_400x400.jpg",
+      "description" : "Play board games online !"
     } ],
     "video" : "https://www.youtube.com/watch?v=gCotCm5qYmE",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gCotCm5qYmE\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -5884,7 +7005,8 @@
       "id" : "ba0ef43f-e436-4a4b-8e10-04bd0b982e9e",
       "name" : "Jonathan Beurel",
       "twitter" : "jonathanbeurel",
-      "avatar" : "https://pbs.twimg.com/profile_images/710159694514556929/VRhRCmg0_400x400.jpg"
+      "avatar" : "http://2.gravatar.com/avatar/94ef5e4eb2ca41f5aec797b4c04c9282",
+      "description" : "Agile & Lean Web Developer @Theodo @Trello Ambassador France. Kaizen, Problem Solver, Speaker, Proud Father :-)"
     } ],
     "video" : "https://www.youtube.com/watch?v=qvaYpzTHRBc",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/qvaYpzTHRBc\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -5958,6 +7080,47 @@
         "logo" : "http://www.jusderaisin.com/wp-content/uploads/2013/12/LeCamping.png"
       },
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/"
+    }
+  }, {
+    "id" : "5c4fc703-8861-4db2-aa79-9f4ba5ceb2e2",
+    "title" : "Vert.x framework web polyglotte",
+    "description" : "Nous sommes tous des développeurs polyglottes. Nous savons que chaque langage, avec ses avantages et inconvénients, répond à des besoins spécifiques.\r\nVert.x va dans ce sens et propose de rassembler les langages exécutables par la JVM pour leur permettre de travailler ensemble.\r\n\r\n15 minutes pour faire le point sur la philosophie du framework. On parlera aussi d'architecture événementielle, de modules qui dialoguent via un event bus, de concurrence et de scaling horizontal.",
+    "speakers" : [ {
+      "id" : "5dc4a6ea-c34f-422c-8158-c68fc3c550f8",
+      "name" : "Hugo Cordier",
+      "twitter" : "HugoCrd",
+      "avatar" : "https://pbs.twimg.com/profile_images/2178564382/profil.jpg"
+    } ],
+    "video" : "https://www.youtube.com/watch?v=8CIT9nfkfVM",
+    "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8CIT9nfkfVM\" frameborder=\"0\" allowfullscreen></iframe>",
+    "meetup" : {
+      "id" : "30c36697-b10e-457a-8b44-bfca8e8ccde7",
+      "title" : "HumanTalks Paris Avril 2013",
+      "date" : 1365534000000,
+      "venue" : {
+        "id" : "2caa4f9b-0802-4ea4-882f-4fe132691ab0",
+        "name" : "Zenika",
+        "location" : {
+          "id" : "ChIJgZ9sujhu5kcR-sGp3BP8lnA",
+          "name" : "Zenika",
+          "streetNo" : "10",
+          "street" : "Rue de Milan",
+          "postalCode" : "75009",
+          "locality" : "Paris",
+          "country" : "France",
+          "formatted" : "10 Rue de Milan, 75009 Paris, France",
+          "input" : "Zenika, Rue de Milan, Paris, France",
+          "coords" : {
+            "lat" : 48.8790862,
+            "lng" : 2.32844369999998
+          },
+          "url" : "https://maps.google.com/?cid=8112948940991218170",
+          "website" : "http://www.zenika.com/",
+          "phone" : "+33 1 45 26 19 15"
+        },
+        "twitter" : "ZenikaIT",
+        "logo" : "http://photos4.meetupstatic.com/photos/event/a/d/b/b/600_452084475.jpeg"
+      }
     }
   }, {
     "id" : "d0a456ea-0b11-4eff-aa80-421b9639cab1",
@@ -6094,7 +7257,8 @@
       "id" : "c4b6c780-879a-4b9a-9e17-695b58d90592",
       "name" : "Benjamin Digne",
       "twitter" : "Bndigne",
-      "avatar" : "https://pbs.twimg.com/profile_images/2576924505/lg00ebeuepjbsqjbaucs_400x400.jpeg"
+      "avatar" : "https://pbs.twimg.com/profile_images/2576924505/lg00ebeuepjbsqjbaucs_400x400.jpeg",
+      "description" : "Product Specialist @algolia"
     } ],
     "video" : "https://www.youtube.com/watch?v=oObnt3CvDRs",
     "meetup" : {
@@ -6134,7 +7298,8 @@
       "id" : "e135bd43-8739-4dfd-9bcf-b4fd8953c64e",
       "name" : "Michal Svacha",
       "twitter" : "miguelitinho",
-      "avatar" : "https://pbs.twimg.com/profile_images/588375564156796929/CZp_4MW5_400x400.png"
+      "avatar" : "https://pbs.twimg.com/profile_images/588375564156796929/CZp_4MW5_400x400.png",
+      "description" : "Teaching machines to learn about health @ MSD"
     } ],
     "video" : "https://www.youtube.com/watch?v=k2lJiiDzhaE",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/k2lJiiDzhaE\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -6175,7 +7340,8 @@
       "id" : "90297a38-932b-4d95-84df-fd186140ebdc",
       "name" : "Woody Rousseau",
       "twitter" : "WoodyRousseau",
-      "avatar" : "https://pbs.twimg.com/profile_images/529182053690916864/JSgvKvRr_400x400.jpeg"
+      "avatar" : "http://0.gravatar.com/avatar/16164bf6304a2b2c8ed67b5c04c731d2",
+      "description" : "Full-stack web developer @Theodo, Javascript, AngularJS and Ionic enthousiast"
     } ],
     "meetup" : {
       "id" : "689f2721-5077-47ea-949b-d1b8b89c6bb1",
@@ -6207,12 +7373,51 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230195850/"
     }
   }, {
+    "id" : "433a26b6-c1bb-47c4-b478-be47aeb68f05",
+    "title" : "Zetascale",
+    "description" : "Parce que Webscale c'est pour des bébés.\r\n\r\nDans ce talk nous traiterons des échelles différentes du picoscale au zetascale",
+    "speakers" : [ {
+      "id" : "fb0ddd7a-3fcf-4a04-ab80-6b10e777be87",
+      "name" : "Ori Pekelman",
+      "twitter" : "OriPekelman",
+      "avatar" : "https://pbs.twimg.com/profile_images/2290008070/bs49edg28e6c5swpaa09_400x400.png",
+      "description" : "There are no user errors. Only UX bugs and faulty documentation. I hack on platform.sh and organize @DataParis .. personal home page: http://pekelman.com "
+    } ],
+    "meetup" : {
+      "id" : "60a0c698-ad8e-490b-a495-490edf06f0e5",
+      "title" : "HumanTalks Paris Novembre 2012",
+      "date" : 1352833200000,
+      "venue" : {
+        "id" : "343c27e8-7c2a-4e56-92dc-7222a0533a4b",
+        "name" : "Epitech Paris",
+        "location" : {
+          "id" : "ChIJIUVO-X9x5kcRwzm77N_H9CQ",
+          "name" : "24 Rue Pasteur",
+          "streetNo" : "24",
+          "street" : "Rue Pasteur",
+          "postalCode" : "94270",
+          "locality" : "Le Kremlin-Bicêtre",
+          "country" : "France",
+          "formatted" : "24 Rue Pasteur, 94270 Le Kremlin-Bicêtre, France",
+          "input" : "24 Rue Pasteur, Le Kremlin-Bicêtre, France",
+          "coords" : {
+            "lat" : 48.8153291,
+            "lng" : 2.3631676999999627
+          },
+          "url" : "https://maps.google.com/?q=24+Rue+Pasteur,+94270+Le+Kremlin-Bic%C3%AAtre,+France&ftid=0x47e6717ff94e4521:0x24f4c7dfecbb39c3"
+        },
+        "twitter" : "epitech",
+        "logo" : "https://pbs.twimg.com/profile_images/522020491330985986/tKPMMaRj.png"
+      }
+    }
+  }, {
     "id" : "deca9bf2-30a1-4e83-b8f0-4d5d44de0261",
     "title" : "git-deliver : le déploiement pro pour tous",
     "description" : "On est souvent réduit à écrire des scripts bancals pour gérer le déploiement de fichiers de configuration, de scripts, ou de code en langages dynamiques (PHP, Ruby, Nodejs, Perl...)Vous avez été impressionnés par la simplicité du déploiement Ruby on Rails de Heroku par un simple \"git push\" ? Savez-vous que vous pouvez faire la même chose sur vos propres serveurs avec git deliver ? Déployez de manière simple, traçable et atomique grâce à la puissance de Git et de SSH.",
     "speakers" : [ {
       "id" : "790c7757-995c-428a-81b4-74ea82e41688",
-      "name" : "Arnaud Bétrémieux"
+      "name" : "Arnaud Bétrémieux",
+      "avatar" : "http://2.gravatar.com/avatar/efb7400127947b18b25bb54ec1d255ed"
     } ],
     "video" : "https://www.youtube.com/watch?v=8ISf4n4VXpk",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8ISf4n4VXpk\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -6246,45 +7451,44 @@
       "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/181483902/"
     }
   }, {
-    "id" : "5531ae8f-e5a1-4b4e-b62a-6f1130db6f6a",
-    "title" : "www : The Web Will Win",
-    "description" : "La plupart de nous écrivons tous les jours sur un clavier. Cependant nous nous demandons pas souvent pourquoi les touches sont organisées comme cela. Nous connaissons au moins l'existence du QWERTY et de l'AZERTY mais il existe bien plus de layouts. Il y a un an (et demi) j'ai commencé à apprendre le dvorak. Un mois plus tard j'ai commencé à l'utiliser dans la vie de tous les jours. Trois mois après cela j'ai doublé ma vitesse de frappe. Aujourd'hui je l'utilise toujours. Je vais donc vous parler de pourquoi j'ai décidé de changer de layout de clavier, comment je m'y suis pris, quels sont les résultats et comment vous pouvez faire, vous, pour changer de layout de clavier. J'aborderais des sujets tels que la santé des mains, les types de clavier, la vitesse de frappe et le touch typing.",
+    "id" : "1dfead16-fc79-4a11-aac2-906f0f91a227",
+    "title" : "jQuery spaghettis, ne pas rater sa sauce bolognaise",
+    "description" : "Après quelques années de développement web et notamment JavaScript, j'ai beaucoup travaillé avec le framework jQuery. Je suis également, depuis 2 ans, chroniqueur francophone de l'actualité de celui-ci et de ses pendants graphique et mobile. Cette activité m'a permit d'acquérir quelques astuces pour éviter de nombreux pièges. Je vous propose donc de vous expliquer ma façon de travailler, les trucs et astuces concernés et qui, j'espère, vous aideront à ne pas vous empêtrer dans votre code.\r\nAu planning je vous propose des plugins, une meilleure gestion de vos évènements et une amélioration des performances de votre code. Sans oublier bien sûr une meilleure organisation ;)",
     "speakers" : [ {
-      "id" : "74bb8707-8338-4a35-b4f1-61ee6c59b6d8",
-      "name" : "Olivier Leplus",
-      "twitter" : "olivierleplus",
-      "avatar" : "https://pbs.twimg.com/profile_images/459265225221353473/xilGJIvG_400x400.jpeg",
-      "description" : "Developer Relations at Google"
+      "id" : "579ec5dc-e20d-4382-8537-847e41b8b95e",
+      "name" : "Mathieu Robin",
+      "twitter" : "mathrobin",
+      "avatar" : "http://2.gravatar.com/avatar/e5df5eb24863a86ef4d4c4bc071cb016",
+      "description" : "Lead dev JS, ex-chroniqueur jQuery. Amateur de bons alcools et de gastronomie. Développeurs de père en fils. Créateur de @AperoJS_Paris et @MatosMaison"
     } ],
     "meetup" : {
-      "id" : "6f483568-bd46-4760-88f9-75e88d3b8b79",
-      "title" : "HumanTalks Paris Novembre 2016",
-      "date" : 1478631600000,
+      "id" : "2bd5388d-6ffc-47ef-8046-169ee48c1b26",
+      "title" : "HumanTalks Paris Décembre 2012",
+      "date" : 1355252400000,
       "venue" : {
-        "id" : "4e7ff2ef-94d1-4ace-82d7-31b3e746e43a",
-        "name" : "Google",
+        "id" : "8d1d95f4-5746-4215-9115-a03089559c50",
+        "name" : "AF83",
         "location" : {
-          "id" : "ChIJk39P40lu5kcRukPXG_kHUvg",
-          "name" : "8 Rue de Londres",
-          "streetNo" : "8",
-          "street" : "Rue de Londres",
-          "postalCode" : "75009",
+          "id" : "ChIJh4byUBZu5kcRAHiqmu7EwOQ",
+          "name" : "af83",
+          "streetNo" : "15",
+          "street" : "Rue Poissonnière",
+          "postalCode" : "75002",
           "locality" : "Paris",
           "country" : "France",
-          "formatted" : "8 Rue de Londres, 75009 Paris, France",
-          "input" : "8 Rue de Londres, Paris, France",
+          "formatted" : "15 Rue Poissonnière, 75002 Paris, France",
+          "input" : "af83, Rue Poissonnière, Paris, France",
           "coords" : {
-            "lat" : 48.8773522,
-            "lng" : 2.3300371999999925
+            "lat" : 48.869267,
+            "lng" : 2.347725099999934
           },
-          "url" : "https://maps.google.com/?q=8+Rue+de+Londres,+75009+Paris,+France&ftid=0x47e66e49e34f7f93:0xf85207f91bd743ba"
+          "url" : "https://maps.google.com/?cid=16483391165252139008",
+          "website" : "http://www.af83.com/",
+          "phone" : "+33 1 42 72 33 32"
         },
-        "capacity" : 200,
-        "twitter" : "GoogleFR",
-        "logo" : "https://pbs.twimg.com/profile_images/768495216881967105/A8-bgDEc_400x400.jpg"
-      },
-      "description" : "Et oui, pour une fois on a de l'avance, par ce que ce n'est pas n'importe quel meetup ! Cette session sera aussi celle de nos 4 ans, et ca passe vite !\r\n\r\nEt cette fois ci nous remercions Google, de nous héberger pour cette session un peu particulière :)",
-      "meetupUrl" : "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/"
+        "twitter" : "af83",
+        "logo" : "https://pbs.twimg.com/profile_images/590187949670567937/DflwP5TD_400x400.png"
+      }
     }
   }, {
     "id" : "3818ddb4-16dc-412b-9eef-596e2a995dbb",
@@ -6294,7 +7498,8 @@
       "id" : "2aa20613-befb-4b5a-8514-c58ca8179728",
       "name" : "Pascal Batty",
       "twitter" : "scalbatty",
-      "avatar" : "https://pbs.twimg.com/profile_images/687025215298256896/YqxkaaUw_400x400.jpg"
+      "avatar" : "http://0.gravatar.com/avatar/7af8162d235a3ae15f128fff8dfcf335",
+      "description" : "I solve problems. I play too much. Pardon my french."
     } ],
     "video" : "https://www.youtube.com/watch?v=hdM1wltUTyQ",
     "videoEmbedCode" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hdM1wltUTyQ\" frameborder=\"0\" allowfullscreen></iframe>",
@@ -6329,6 +7534,6 @@
     }
   } ],
   "metas" : {
-    "exec" : 166
+    "exec" : 360
   }
 }

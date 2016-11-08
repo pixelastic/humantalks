@@ -101,7 +101,7 @@
       {
         "name": "Olivier Berthonneau",
         "twitter": "oberthonneau",
-        "picture": "https://pbs.twimg.com/profile_images/700708883929563136/ZlO-Zciz_400x400.jpg"
+        "picture": "http://1.gravatar.com/avatar/7fdcc65c63370e0e3f45b29ead60cac9"
       }
     ],
     "slides": null,
@@ -120,7 +120,7 @@
       {
         "name": "Christophe Michel",
         "twitter": "christopheml",
-        "picture": "https://pbs.twimg.com/profile_images/773575499369029634/gKO3acvl_400x400.jpg"
+        "picture": "http://1.gravatar.com/avatar/82f3501d455e344246d7fd267085d758"
       }
     ],
     "slides": null,
@@ -139,7 +139,7 @@
       {
         "name": "Mathieu Robin",
         "twitter": "mathrobin",
-        "picture": "https://pbs.twimg.com/profile_images/566165922931433472/zq3VQP61_400x400.jpeg"
+        "picture": "http://2.gravatar.com/avatar/e5df5eb24863a86ef4d4c4bc071cb016"
       }
     ],
     "slides": null,
@@ -177,7 +177,7 @@
       {
         "name": "Raphaël Lemaire",
         "twitter": "rlemaire",
-        "picture": "https://pbs.twimg.com/profile_images/745723687798738945/MOIm9GUc_400x400.jpg"
+        "picture": "http://2.gravatar.com/avatar/e782b3e5b1abf2a24ef2895332670f0d"
       }
     ],
     "slides": null,
@@ -196,7 +196,7 @@
       {
         "name": "Thibaut Cheymol",
         "twitter": "thibaut_cheymol",
-        "picture": "https://pbs.twimg.com/profile_images/788736687354634240/GuLeEW9K_400x400.jpg"
+        "picture": "http://2.gravatar.com/avatar/911eb2ca0ec784de27551c00baaee189"
       }
     ],
     "slides": null,
@@ -209,13 +209,70 @@
     "timestamp": 1473793200
   },
   {
+    "title": "Balsamiq Mockup : conceptualiser vos projets en 2min chrono",
+    "description": "Dans la plus part des projets, nous passons par une phase de conceptualisation afin de poser les grandes briques, définir les chemins que prendront les utilisateurs et imaginer les fonctionnalités auxquelles ils pourront accéder.\r\n\r\nEn général cette phase se fait sur un tableau blanc et est formalisée ensuite tant bien que mal via visio, powerpoint, word et office.\r\n\r\nJe vous propose de découvrir une alternative, pour réaliser vos wireframes de manière simple, rapide, ludique et surtout extrèmement efficace grâce à Balsamiq Mockup.",
+    "authors": [
+      {
+        "name": "Mathieu Parisot",
+        "twitter": "matparisot",
+        "picture": "https://pbs.twimg.com/profile_images/684439807603400704/CS8z0qCK_400x400.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=9LgXke5PqI0",
+    "thumbnail": "./img/thumbnails/ec9e5692-8e61-4f95-82a8-c42c21d7cddd_video.jpg",
+    "location": "Soat",
+    "location_logo": "./img/thumbnails/ddb870f9-754c-47b8-9daf-6fa4c015444e_location.svg",
+    "meetup": null,
+    "date": "2013-06-11",
+    "timestamp": 1370977200
+  },
+  {
+    "title": "Baptême en Machine Learning",
+    "description": "On entend souvent parler de \"Machine Learning\" dans les applications web \"intelligentes\". Google, Amazon, Apple, Facebook l'utilisent. Mais qu'y a-t-il exactement derrière ce terme obscur ?\r\n\r\nEn complément de la présentation, voici quelques références à consulter :\r\n* SVM (technique de classification illustrée dans la présentation) : sur wikipedia (https://fr.wikipedia.org/wiki/Machine_%C3%A0_vecteurs_de_support) et à Paris sud (http://www.math.u-psud.fr/~blanchard/gtsvm/intro.pdf)\r\n* SVM with polynomial kernel visualization (https://www.youtube.com/watch?v=3liCbRZPrZA)\r\n* Détection de la langue d'un texte avec Google Prediction API (https://cloud.google.com/prediction/docs/quickstart)\r\n* Prédiction du prix de vente d'une maison avec Google Prediction API (http://tpc247.blogspot.fr/2011/10/how-to-use-google-prediction-api-to.html)",
+    "authors": [
+      {
+        "name": "Louis Dorard",
+        "twitter": "louisdorard",
+        "picture": "http://0.gravatar.com/avatar/ab20e2ef85f6c939136d5dc68a8c85e9"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=3S5HgDWXRA8",
+    "thumbnail": "./img/thumbnails/e9c9ffcc-3ce4-45aa-8ff2-d2be86a854fc_video.jpg",
+    "location": "Soat",
+    "location_logo": "./img/thumbnails/ddb870f9-754c-47b8-9daf-6fa4c015444e_location.svg",
+    "meetup": null,
+    "date": "2013-06-11",
+    "timestamp": 1370977200
+  },
+  {
+    "title": "Be a VRP is sexy",
+    "description": "1/ A VRP is fuckin SEXY !\r\n\r\n2/ This guy was my nightmare when I was a kid. I thought that if I was not good at school, I’ll end up like him.\r\nDoors shut at your face. Under the rain, the wind and the despised by all. Your wife back at home that is upset by the tiny revenue you have made. Again, tomorrow you'll have to go back, wishing for a brighter day.\r\n\r\n3/ Based on business my experience in the startup world, I have a strong believe: You got to be a VRP to make a startup.\r\n\r\n4/ Startup = $ You got to make money, you got to be a VRP-startup to run a startup.\r\n\r\n4’/ Startup = Customer intimacy You have to know your future cleint by heart.\r\n\r\n4’’/ However, there are no magic tricks or real methodology. Just some tools and the right attitude : being a VRP\r\n\r\n4’’’/ You have to be ready to spend a lot time to understand your customer segment. Be ready for a long ride : a marathon\r\n\r\n5/ Twitter and Foursquare are pure innovation player, that’s really sexy. Look like fun, focus only on product and not adult stuff to worry about. Cool attitude (wearing flip-flop) and VC funded…that’s ROCKS isn't it?\r\n\r\n6/ A Startup is a \"temporary organisation that is looking for a scalable and sustainable business-model\".\r\n\r\n6’/ However, there is a whole fantasy around startup. Look at what we hear about Google and Facebook stories. The fantasy is emphasis by Techcrunch and others. Stop that shit and don’t lie to yourself! Either you are a Hacker (pure innovation player) or a startup.\r\n\r\n7/ The reality is that those hacker CEO’s, without a a suistainable business-model are in reality stressed out, coz they have a high burning rate and VC that are worried and complaining.\r\n\r\n8/ Choice to make: To be stressed out wearing flip-flop or a VRP ? Selling your soul to the VC devil or do the dirty job yourself.\r\n\r\n9/ My choice is to be a VRP. Build a startup that makes money and then do pure innovation stuff. Cash flow and then FUN. Building a team that is well paid and then let them unleash their talent.\r\n\r\n10/ Before I concluded, there is guy that rocks, but also that I hate (too arrogant) Gary Vaynerchuk and Morten Lund. Check-up their story and what they think about being marketing and sales driven.\r\n\r\n11/ So remember VRP is cool. Build a healthy product making organisation. Make money and share it with your team. Be a VRP and have fun later.",
+    "authors": [
+      {
+        "name": "Julien Petit",
+        "twitter": "julien99",
+        "picture": "https://pbs.twimg.com/profile_images/775981633874821120/E3VtM1PG_400x400.jpg"
+      }
+    ],
+    "slides": "http://www.slideshare.net/julien99/vrp-is-sexy-copy",
+    "video": "https://www.youtube.com/watch?v=Lp2i0PTV6BE",
+    "thumbnail": "./img/thumbnails/c877465e-6ff6-4888-b716-1229048b4485_slides.jpg",
+    "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
+    "meetup": null,
+    "date": "2013-04-09",
+    "timestamp": 1365534000
+  },
+  {
     "title": "Better tests with mocking and stubbing",
     "description": "Découvrez  comment utiliser les mocks et les stubs pour mieux isoler les tests.",
     "authors": [
       {
         "name": "Michel Pigassou",
         "twitter": "dagnan",
-        "picture": "https://pbs.twimg.com/profile_images/526847399814131712/WUrnDe2f_400x400.jpeg"
+        "picture": "http://0.gravatar.com/avatar/4bcdd5fb44aa756a70598f3a670a3b0e"
       }
     ],
     "slides": null,
@@ -247,6 +304,25 @@
     "timestamp": 1410289200
   },
   {
+    "title": "Ce que j'aurais voulu savoir",
+    "description": "Difficile de réduire \"l'informatique\" à une seule spécialité.\r\nChaque domaine se compose lui-même de nombreuses branches. À l'école ou au travail, il faut pourtant bien choisir un domaine d'expertise.\r\n\r\nMais parfois, une seule connaissance vous manque et vous voilà condamné à réinventer la roue... paradoxal dans un milieu qui déteste ça et fait de son mieux pour l'éviter :)\r\n\r\nCes dix minutes tenteront de donner un aperçu rapide de quelques-uns de ces domaines pour que vous puissiez les garder dans un coin de votre tête, et vous en resservir le moment venu.",
+    "authors": [
+      {
+        "name": "Sylvain Abélard",
+        "twitter": "abelar_s",
+        "picture": "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/abelar_s/ce-que-jaurais-voulu-savoir-15177456",
+    "video": null,
+    "thumbnail": "./img/thumbnails/5a88b712-897c-428b-b6df-82ecba3459ab_slides.jpg",
+    "location": "Epitech Paris",
+    "location_logo": "./img/thumbnails/343c27e8-7c2a-4e56-92dc-7222a0533a4b_location.png",
+    "meetup": null,
+    "date": "2012-11-13",
+    "timestamp": 1352833200
+  },
+  {
     "title": "Checkpoint : sécurité des frameworks web",
     "description": "Rien ne sert de bien tester du point de vue sécurité son application web si l'on oublie de maintenir à jour ses frameworks et son serveur d'application... Retour sur quelques fondamentaux, en pratique souvent négligés ou ignorés.",
     "authors": [
@@ -272,7 +348,7 @@
       {
         "name": "Guillaume Bitaudeau",
         "twitter": "gbitaudeau",
-        "picture": "https://pbs.twimg.com/profile_images/378800000414715638/75e1f5912e5c36304e6a244103ed6210_400x400.jpeg"
+        "picture": "http://1.gravatar.com/avatar/e26e7714390006906cdc8e9baf84da0f"
       }
     ],
     "slides": null,
@@ -285,13 +361,32 @@
     "timestamp": 1378839600
   },
   {
+    "title": "Comment j'ai trouvé une copine avec Node.js",
+    "description": "… et comment j'ai appris Node.js, un certain nombre de ses modules, ainsi qu'Angular.js.\r\n\r\nEn bonus : la vérité sur les sites de rencontre et comment toi aussi tu peux te trouver ta copine en moins de deux semaines ;)",
+    "authors": [
+      {
+        "name": "Étienne Folio",
+        "twitter": "ornthalas",
+        "picture": "http://1.gravatar.com/avatar/8d9492a5404181c87b5c167d26d26083"
+      }
+    ],
+    "slides": "https://speakerdeck.com/ornthalas/comment-jai-trouve-une-copine-avec-node-dot-js",
+    "video": null,
+    "thumbnail": "./img/thumbnails/34e68d98-64ec-4c2f-92f4-bde12556176b_slides.jpg",
+    "location": "Xebia",
+    "location_logo": "./img/thumbnails/9867c450-b6f6-4072-b1d7-2afa2f08e588_location.png",
+    "meetup": null,
+    "date": "2013-03-12",
+    "timestamp": 1363114800
+  },
+  {
     "title": "Comment trouver des clients en tant que Freelance ?",
     "description": "Les étapes pour se faire connaître au sein de sa communauté, et trouver des clients.",
     "authors": [
       {
         "name": "Thibaut Assus",
         "twitter": "tibastral",
-        "picture": "https://pbs.twimg.com/profile_images/378800000846070846/2b3f91e48783ceef89b91ddacd1a02ff_400x400.jpeg"
+        "picture": "http://0.gravatar.com/avatar/bc1d5c64922b7870dccc770a3e939486"
       }
     ],
     "slides": null,
@@ -329,7 +424,7 @@
       {
         "name": "Raphaël Dubigny",
         "twitter": "rdubigny",
-        "picture": "https://pbs.twimg.com/profile_images/734829260809080837/X5XMbWVu_400x400.jpg"
+        "picture": "http://1.gravatar.com/avatar/182c71b4d5d3c5c7bc6bd8278ce2d58c"
       }
     ],
     "slides": null,
@@ -380,13 +475,28 @@
     "timestamp": 1413313200
   },
   {
+    "title": "Création d'addons sur World of Warcraft",
+    "description": "Code en Lua\r\nInterface en XML\r\nLes outils et docs mis à disposition des développeurs.\r\nPrésentation d'un projet en cours.\r\nExemple de projet terminé.",
+    "authors": [
+
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Epitech Paris",
+    "location_logo": "./img/thumbnails/343c27e8-7c2a-4e56-92dc-7222a0533a4b_location.png",
+    "meetup": null,
+    "date": "2012-11-13",
+    "timestamp": 1352833200
+  },
+  {
     "title": "Culture Craft",
     "description": "Avez-vous déjà eu l'impression de vous être assoupis dans votre carrière, de faire moins de veille qu'à d'autres périodes ? A l'inverse, vous êtes-vous déjà demandé comment sortir du ronron ambiant et \"réveiller\" vos collègues qui vous semblaient manquer de curiosité et de passion sur un projet ?\r\n\r\nCette courte session vise à vous présenter toutes les formules et astuces qui ont permis à très peu de gens chez nous de réveiller une grosse organisation qui s'endormait sur ses lauriers. Si on a réussi ici -sandwichs à la main- pourquoi pas vous ? Attention: effet contagieux ;-)",
     "authors": [
       {
         "name": "Thomas Pierrain",
         "twitter": "tpierrain",
-        "picture": "https://pbs.twimg.com/profile_images/745726209674346500/6_GJ3Vbv_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/d626d8946597c5926e3b9d12d22597f5"
       }
     ],
     "slides": "http://fr.slideshare.net/ThomasPierrain/culture-craft-humantalks",
@@ -405,7 +515,7 @@
       {
         "name": "Nicolas Baissas",
         "twitter": "nicolasbaissas",
-        "picture": "https://pbs.twimg.com/profile_images/2684674606/68df59463634245e25218d7de4009557_400x400.png"
+        "picture": "http://2.gravatar.com/avatar/dfd620dc267d3f8182cafd9837593294"
       }
     ],
     "slides": null,
@@ -422,9 +532,9 @@
     "description": "Retour d'expérience et explications de l'Agile UX, le penchant UX de la méthodo Agile. Qu'est-ce que l'Agile UX ? Comment cela fonctionne ? Quels en sont les avantages ? Venez découvrir ma vision de l'UX ;)",
     "authors": [
       {
-        "name": "Antoine Pezé",
+        "name": "Antoine",
         "twitter": "antoine_peze",
-        "picture": "https://pbs.twimg.com/profile_images/699622798411567104/Bk9Wnz_I_400x400.jpg"
+        "picture": "https://secure.gravatar.com/avatar/c623c5eae6605d61c09984d0b8261b69?d=404"
       }
     ],
     "slides": null,
@@ -456,13 +566,32 @@
     "timestamp": 1413313200
   },
   {
+    "title": "Devenez Freelance, démissionnez !",
+    "description": "Il s'agit d'un retour d'expérience destiné aux développeurs hésitant à sauter le pas vers le Freelance.\r\nJ'aborderai les questions à se poser avant de se lancer :\r\n\r\n- Pourquoi devenir Freelance ?\r\n- Quels sont les avantages et inconvénients une fois dans le bain ?\r\n- Quelles sont les conditions à réunir pour se lancer sans trop de risque ?\r\n- Comment se lancer en douceur ?",
+    "authors": [
+      {
+        "name": "Matthieu Segret",
+        "twitter": "MatthieuSegret",
+        "picture": "https://pbs.twimg.com/profile_images/645897878431494144/1AFosCZa_400x400.png"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/MatthieuSegret/devenez-freelance",
+    "video": null,
+    "thumbnail": "./img/thumbnails/2567ea14-0ab7-403d-bb2e-7b6ada5d6ad6_slides.jpg",
+    "location": "AF83",
+    "location_logo": "./img/thumbnails/8d1d95f4-5746-4215-9115-a03089559c50_location.png",
+    "meetup": null,
+    "date": "2012-12-11",
+    "timestamp": 1355252400
+  },
+  {
     "title": "Du 100% pur guice !",
     "description": "C'est en travaillant sur un backend restful que j'ai découvert Guice. C'est un framwork leger d'injection de dépendances, distribué par google. Au cours de ce talk je partagerai mon expérience sur ce framework, nous verrons comment grace à l'injection nous allons nous débarrasser des \"new\" et des factory et rendre le code plus rapide à développer et facile à tester.",
     "authors": [
       {
         "name": "Pauline Iogna",
         "twitter": "pauline_io",
-        "picture": "https://pbs.twimg.com/profile_images/772364154896343041/gk42_oZu_400x400.jpg"
+        "picture": "http://1.gravatar.com/avatar/a1acb9660b239024f9483d43981c7319"
       }
     ],
     "slides": null,
@@ -538,7 +667,7 @@
       {
         "name": "Florent Biville",
         "twitter": "fbiville",
-        "picture": "https://pbs.twimg.com/profile_images/790562624937295873/aqQpsE6H_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/f06979a03b9b522c80cb12def209c31a"
       }
     ],
     "slides": null,
@@ -557,7 +686,7 @@
       {
         "name": "Marc G Gauthier",
         "twitter": "marcgg",
-        "picture": "https://pbs.twimg.com/profile_images/648864591120891906/7-EYTXGI_400x400.jpg"
+        "picture": "http://1.gravatar.com/avatar/fb042ce6a66cc962a00576632311c880"
       }
     ],
     "slides": null,
@@ -589,6 +718,25 @@
     "timestamp": 1449601200
   },
   {
+    "title": "Développeurs, montez votre boîte!",
+    "description": "Aux Etats-Unis, les plus belles success stories du Web viennent des développeurs : Facebook, Google, Twitter, pour n'en citer que quelques-unes.\r\nLes développeurs créent des start-ups, les développent et réussissent à en faire de vrais géants.\r\nEn France au contraire, la création d'entreprise est systématiquement orientée vers les profils commerciaux : l'une des requêtes plus demandées sur les moteurs de recherche est \" comment trouver un associé technique \", comme si les profils techniques ne créaient jamais d'entreprises ;-)\r\nEt l'un des sujets favoris de discussion des entrepreneurs porte sur la difficulté à trouver un associé....technique.\r\n\r\nIl est temps de corriger l'injustice : vous êtes développeur et vous voulez créer votre boite? Alors rejoignez le côté obscure de la force!",
+    "authors": [
+      {
+        "name": "Fabien Charbit",
+        "twitter": "fabiencharbit",
+        "picture": "http://1.gravatar.com/avatar/b40ef9c2112a17586657c7091fd95d53"
+      }
+    ],
+    "slides": "http://www.slideshare.net/FabienCharbit/pitch-human-talks",
+    "video": "https://www.youtube.com/watch?v=0nxDKTJ5Ovc",
+    "thumbnail": "./img/thumbnails/2f9c6fd4-2693-4987-86a1-a15f2bb24b3b_slides.jpg",
+    "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
+    "meetup": null,
+    "date": "2013-04-09",
+    "timestamp": 1365534000
+  },
+  {
     "title": "Développez rapidement vos propres jeux en Ruby",
     "description": "Ce talk vous montrera étape par étape comment développer un petit jeu 2D en Ruby à l'aide de la bibliothèque Gosu. Nous allons joindre l'utile à l'agréable en découvrant le langage Ruby tout en s'amusant. Cela vous donnera certainement des idées pour développer vos propres jeux.",
     "authors": [
@@ -614,7 +762,7 @@
       {
         "name": "Lucas Bonomi",
         "twitter": "LukyVj",
-        "picture": "https://pbs.twimg.com/profile_images/684063983322677249/DGnckgnN_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/1ef5a7c2cc326fb4d4bfef8664bdeb49"
       }
     ],
     "slides": null,
@@ -633,7 +781,7 @@
       {
         "name": "Thierry Lau",
         "twitter": "laut3rry",
-        "picture": "https://pbs.twimg.com/profile_images/686188572957880321/VNlLHEZr_400x400.jpg"
+        "picture": "http://2.gravatar.com/avatar/ba81d93900f929708b2d708f06befe85"
       }
     ],
     "slides": "http://lauterry.github.io/slides-prez-angular/",
@@ -652,7 +800,7 @@
       {
         "name": "Vincent Massol",
         "twitter": "vmassol",
-        "picture": "https://pbs.twimg.com/profile_images/1209451958/image_400x400.jpg"
+        "picture": "http://1.gravatar.com/avatar/0b17060fd5b56172e81e4bfbbcb438e0"
       }
     ],
     "slides": null,
@@ -671,7 +819,7 @@
       {
         "name": "Mathieu Robin",
         "twitter": "mathrobin",
-        "picture": "https://pbs.twimg.com/profile_images/566165922931433472/zq3VQP61_400x400.jpeg"
+        "picture": "http://2.gravatar.com/avatar/e5df5eb24863a86ef4d4c4bc071cb016"
       }
     ],
     "slides": null,
@@ -690,7 +838,7 @@
       {
         "name": "Pauline Iogna",
         "twitter": "pauline_io",
-        "picture": "https://pbs.twimg.com/profile_images/772364154896343041/gk42_oZu_400x400.jpg"
+        "picture": "http://1.gravatar.com/avatar/a1acb9660b239024f9483d43981c7319"
       }
     ],
     "slides": null,
@@ -762,7 +910,7 @@
       {
         "name": "Ludwine Probst",
         "twitter": "nivdul",
-        "picture": "https://pbs.twimg.com/profile_images/767120442817740800/1PEZwr6w_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/12fb119c7420fc9ee5b3896c2cceb892"
       }
     ],
     "slides": null,
@@ -773,25 +921,6 @@
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/168226002/",
     "date": "2014-03-11",
     "timestamp": 1394564400
-  },
-  {
-    "title": "GraphQL",
-    "description": "Pas de description pour le moment",
-    "authors": [
-      {
-        "name": "Stan Chollet",
-        "twitter": "Stan Chollet",
-        "picture": "https://pbs.twimg.com/profile_images/1129897969/stan-social-2010-2-carre_400x400.jpg"
-      }
-    ],
-    "slides": null,
-    "video": null,
-    "thumbnail": null,
-    "location": "Google",
-    "location_logo": "./img/thumbnails/4e7ff2ef-94d1-4ace-82d7-31b3e746e43a_location.jpg",
-    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
-    "date": "2016-11-08",
-    "timestamp": 1478631600
   },
   {
     "title": "Génération d'éléments graphiques pour les développeurs web",
@@ -870,6 +999,44 @@
     "timestamp": 1413313200
   },
   {
+    "title": "Hack Your Motivation",
+    "description": "Résumé de l'épisode précédent : on peut hacker son cerveau.\r\nMais ça demande des efforts. Peut-on hacker sa motivation ?",
+    "authors": [
+      {
+        "name": "Sylvain Abélard",
+        "twitter": "abelar_s",
+        "picture": "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png"
+      }
+    ],
+    "slides": "https://speakerdeck.com/abelar_s/hack-your-motivation",
+    "video": null,
+    "thumbnail": "./img/thumbnails/db7182ef-cfed-4cbf-8aa9-2e0fb44a0e89_slides.jpg",
+    "location": "Xebia",
+    "location_logo": "./img/thumbnails/9867c450-b6f6-4072-b1d7-2afa2f08e588_location.png",
+    "meetup": null,
+    "date": "2013-03-12",
+    "timestamp": 1363114800
+  },
+  {
+    "title": "Hack yourself - Dark Side",
+    "description": "Après la santé, Hack Your Brain et Hack Your Motivation, la série continue !\r\nChercher, trouver et agir sur les points noirs de votre vie est épuisant.\r\nParfois, on a envie de se laisser aller à des aspects moins glorieux\r\nde la nature humaine.\r\nCe talk vous permettra de parvenir à vos fins, malgré le Côté Obscur,\r\nou grâce à celui-ci !",
+    "authors": [
+      {
+        "name": "Sylvain Abélard",
+        "twitter": "abelar_s",
+        "picture": "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/abelar_s/hack-your-motivation-darkside",
+    "video": "https://www.youtube.com/watch?v=OvTZ8dhfDrg",
+    "thumbnail": "./img/thumbnails/3252b882-a9ec-43e1-b7e9-c33de5ad1415_slides.jpg",
+    "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
+    "meetup": null,
+    "date": "2013-04-09",
+    "timestamp": 1365534000
+  },
+  {
     "title": "Hackathon ? Ou comment hacker sa culture d’entreprise",
     "description": "Découvrez la vie de 2 consultants qui au sein d’une société qui essaye d’unifier ses agences à travers différentes actions, tentent le pari fou de lancer un hackathon externe afin de fédérer autour d’un même objectif et à procurer enfin le saint graal du bonheur au travail. Parviendront-ils à réussir là ou la direction a échoué jusqu’à présent ?",
     "authors": [
@@ -881,7 +1048,7 @@
       {
         "name": "Andre De Sousa",
         "twitter": "_adesousa",
-        "picture": "https://pbs.twimg.com/profile_images/785768614829944832/92RXQ0ym_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/dcb514f5b1af9b88902a7473ec45e3c9"
       }
     ],
     "slides": null,
@@ -892,25 +1059,6 @@
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/230972776/",
     "date": "2016-05-10",
     "timestamp": 1462906800
-  },
-  {
-    "title": "Hacker-Dev API on the Way",
-    "description": "Plus un jour ne se passe sans que la sécurité informatique fasse la Une de l’actualité de l’IT, quand ce n’est pas de l’actualité en général. La loi, sous peu, imposera aux entreprises de lourdes sanctions en cas de fuite d’information, or celles-ci sont elles aussi devenues quotidiennes. Conséquence logique, on parle de plus en plus de faire du développement sécurisé. Mais n’est-ce pas là une injonction paradoxale quand on sait que l’état d’esprit du hacker est pour ainsi dire l’inverse de celui du dev ? A travers ce talk, nous allons voir qu'aujourd'hui il est possible de collaborer avec les hackers afin d'intégrer la sécurité au coeur des processus de développement.",
-    "authors": [
-      {
-        "name": "Kévin Liagre",
-        "twitter": "_k33n_",
-        "picture": "https://pbs.twimg.com/profile_images/706143360965279744/8GIrtA_b_400x400.jpg"
-      }
-    ],
-    "slides": null,
-    "video": null,
-    "thumbnail": null,
-    "location": "Google",
-    "location_logo": "./img/thumbnails/4e7ff2ef-94d1-4ace-82d7-31b3e746e43a_location.jpg",
-    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
-    "date": "2016-11-08",
-    "timestamp": 1478631600
   },
   {
     "title": "Hardware Design: The Programmer's Paradox",
@@ -957,7 +1105,7 @@
       {
         "name": "Mickaël Andrieu",
         "twitter": "mickael_andrieu",
-        "picture": "https://pbs.twimg.com/profile_images/672716508427104256/6oyONEar_400x400.jpg"
+        "picture": "http://1.gravatar.com/avatar/c9bef243216af3ddcf5c62bfeed46c68"
       }
     ],
     "slides": "http://slides.com/mickaelandrieu/introduction-to-nightmarejs",
@@ -989,13 +1137,32 @@
     "timestamp": 1384282800
   },
   {
+    "title": "Importance de l'ergonomie dans une application web",
+    "description": "L'ergonomie et l'interface utilisateur deviennent de plus en plus important de nos jours.\r\n\r\nIl est clair que les utilisateurs sont souvent perdus dans les applications des développeurs et il devient nécessaires de se focaliser sur les interfaces.\r\n\r\nPlan:\r\n\r\n- Why you should care ?\r\n- Introduction au concept de l'ergonomie\r\n- Comment simplifier vos interfaces\r\n- Pour aller plus loin",
+    "authors": [
+      {
+        "name": "Pierre Lechelle",
+        "twitter": "pierrelechelle",
+        "picture": "http://1.gravatar.com/avatar/fb0dcead91228fcc31d9b90af15d0ae3"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=mFwc5KemMiw",
+    "thumbnail": "./img/thumbnails/eaa9c06d-dad1-442d-9e3e-b1f3aabd0aaa_video.jpg",
+    "location": "Soat",
+    "location_logo": "./img/thumbnails/ddb870f9-754c-47b8-9daf-6fa4c015444e_location.svg",
+    "meetup": null,
+    "date": "2013-06-11",
+    "timestamp": 1370977200
+  },
+  {
     "title": "Informatique en milieu hospitalier. Bienvenue homme de cro-magnon",
     "description": "Salut à toi noble informaticien,\r\n\r\nJe souhaite te raconter quelques petites histoires sur l'un des organes les plus importants de la société moderne : l’hôpital ! Lieu sacré, où on utilise l'informatique au quotidien pour gérer des dizaines de milliers de patients par jour, rien qu'à Paris. Et pourtant, ce monde datant d'une période ancestrale est ponctué de quelques désagréments par rapport à notre monde moderne. Bienvenue dans l'enfer quotidien de nos médecins.",
     "authors": [
       {
         "name": "Mathieu Robin",
         "twitter": "mathrobin",
-        "picture": "https://pbs.twimg.com/profile_images/566165922931433472/zq3VQP61_400x400.jpeg"
+        "picture": "http://2.gravatar.com/avatar/e5df5eb24863a86ef4d4c4bc071cb016"
       }
     ],
     "slides": null,
@@ -1014,7 +1181,7 @@
       {
         "name": "Gaetan Gachet",
         "twitter": "gaetangachet",
-        "picture": "https://pbs.twimg.com/profile_images/433353814863642625/-EgZ6ylX_400x400.jpeg"
+        "picture": "http://2.gravatar.com/avatar/4770ddc90d5a180e13cc4545c53d9094"
       }
     ],
     "slides": null,
@@ -1033,7 +1200,7 @@
       {
         "name": "Blandine Bourgois",
         "twitter": "bbourgois",
-        "picture": "https://pbs.twimg.com/profile_images/1523927929/axellebb_yahoo.fr_8b9ccfcf_400x400.jpg"
+        "picture": "http://1.gravatar.com/avatar/e8950993a9c41349a17276201be78e4c"
       }
     ],
     "slides": null,
@@ -1084,13 +1251,32 @@
     "timestamp": 1452625200
   },
   {
+    "title": "Introduction à Dart",
+    "description": "Dart, le nouveau langage Web de Google présenté au public en octobre 2011 a pour objectif de proposer une alternative au JavaScript.\r\n\r\nBien que la version finale ne soit pas encore disponible (pour cela il faudra attendre cet été), Dart est utilisable dès aujourd'hui.\r\n\r\nAu cours de cette présentation nous verrons :\r\n\r\n- comment Dart permet de développer des applications clientes aussi bien que serveurs,\r\n- quelques éléments du langage,\r\n- mais aussi les outils permettant un développement industrialisé et une productivité accrue.",
+    "authors": [
+      {
+        "name": "Yohan Beschi",
+        "twitter": "yohanbeschi",
+        "picture": "https://pbs.twimg.com/profile_images/2837855656/fa299086830447fdb566934af94bf72d_400x400.png"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/yohanbeschi/introduction-dart/",
+    "video": null,
+    "thumbnail": "./img/thumbnails/8ebee14c-ac34-40c9-ac76-8f5ebca914ba_slides.jpg",
+    "location": "DojoBoost",
+    "location_logo": "./img/thumbnails/57439621-0dee-4a74-a88f-cfe8c96a7f90_location.jpg",
+    "meetup": null,
+    "date": "2013-02-12",
+    "timestamp": 1360695600
+  },
+  {
     "title": "Introduction à Protocol Buffers",
     "description": "L'objectif est de présenter Protocol Buffers, un système de sérialisation de données développé initialement par Google et désormais Open Source.",
     "authors": [
       {
         "name": "Eulriet Estelle",
         "twitter": "wbtester2",
-        "picture": "https://pbs.twimg.com/profile_images/2621229584/jg432av7bfrjlw4xuvlp_400x400.jpeg"
+        "picture": "http://1.gravatar.com/avatar/fc0d78e85489214337c6a3669569a8d7"
       }
     ],
     "slides": null,
@@ -1109,7 +1295,7 @@
       {
         "name": "Firas Bessadok",
         "twitter": "fbessadok",
-        "picture": "https://pbs.twimg.com/profile_images/2743487060/ea64a7405a1165aea20d33cb62dd7290_400x400.jpeg"
+        "picture": "http://0.gravatar.com/avatar/f7f7e9216b4d0ece11f5a66bfdc5a15e"
       }
     ],
     "slides": null,
@@ -1122,13 +1308,51 @@
     "timestamp": 1386702000
   },
   {
+    "title": "J'ai un XSS, et alors ?",
+    "description": "Un XSS (ou Cross Site Scripting) est une faille dans un site web permettant d'exécuter du code JavaScript.\r\nLorsqu'un XSS est découvert, on se contente souvent d'exécuter : alert('XSS'). Et souvent ça fait bien rire tout le monde.\r\n\r\nDans ce talk, je vous proposerais d'aller plus loin que le simple message et voir les différents types de XSS et ce qu'ils permettent réellement.\r\n\r\nA base de démos et d'exemple nous verrons les malheur que peuvent rencontrer un utilisateur victime de ce genre d'attaque.",
+    "authors": [
+      {
+        "name": "Loïc Knuchel",
+        "twitter": "loicknuchel",
+        "picture": "https://secure.gravatar.com/avatar/f755e6e8914df5cbaa74d30dd7de1ae2?d=404"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Viadeo",
+    "location_logo": "./img/thumbnails/7385f832-3d88-4ffa-82be-1279f238e464_location.png",
+    "meetup": null,
+    "date": "2013-05-14",
+    "timestamp": 1368558000
+  },
+  {
+    "title": "J'exécute, tu exécutes, il exécute...",
+    "description": "Je traduis en ce moment le livre \"Execute\" de Drew Wilson et Josh Long. La raison est que ce livre m'a montré la voie: \"Exécute lorsque l'inspiration surgis\". J'ai donc attaqué la traduction en finissant de lire les dernières lignes car je souhaitais partager ce livre avec les gens qui ne parlent pas anglais : mon frère, mes amis, ma mère et la société française en général (surtout les jeunes générations).\r\n\r\nJe le fais car je crois que la capacité d'exécution est la qualité première dans une startup (ensuite être un VRP). Je pense qu'il faut célébrer les \"faiseurs\", \"les artisans du web\" et toutes les autres personnes qui sont assez folles pour développer de nouveaux objets et produits.\r\n\r\nNe laissons pas notre voix intérieure nous décourager, exécutons !\r\n\r\nDans ce talk je vais présenter :\r\n\r\n- L'essence même de ce bouquin\r\n- Le relayer au \"mal français\" et aux échecs que font les entrepreneurs (dont mes propres échecs)\r\n- Solliciter les Dévs à produire et encore produire...\"pisser du code c'est sexy!\"",
+    "authors": [
+      {
+        "name": "Julien Petit",
+        "twitter": "julien99",
+        "picture": "https://pbs.twimg.com/profile_images/775981633874821120/E3VtM1PG_400x400.jpg"
+      }
+    ],
+    "slides": "http://www.slideshare.net/julien99/dans-les-mains-de-ceux-qui-execute",
+    "video": "https://www.youtube.com/watch?v=H5vMynlydzw",
+    "thumbnail": "./img/thumbnails/ec710e4a-4673-44b8-bf59-b9a0ebe591f2_slides.jpg",
+    "location": "Viadeo",
+    "location_logo": "./img/thumbnails/7385f832-3d88-4ffa-82be-1279f238e464_location.png",
+    "meetup": null,
+    "date": "2013-05-14",
+    "timestamp": 1368558000
+  },
+  {
     "title": "JHipster, un générateur Yeoman pour AngularJS et Spring Boot",
     "description": "JHipster est un générateur d'application qui créé une applications Javascript moderne (avec AngularJs, Grunt, Bower, ..) et qui s'intègre de manière transparente dans un back-end Java classique (avec Spring Boot, Spring Data, Hibernate, Maven). \r\nAvec plus de 900 étoiles sur GitHub, 50 contributeurs, et des articles sur infoword et SDTimes, JHipster est devenue en moins d'un an le générateur d'application Spring le plus utilisé. Il est également le 3e générateur Yeoman le plus populaire. \r\nDans cette session vous découvrirez comment créer rapidement une application, la modifier, faire du rechargement à chaud pour le code Java et javascript et déployer le résultat dans le cloud.",
     "authors": [
       {
         "name": "Julien Dubois",
         "twitter": "juliendubois",
-        "picture": "https://pbs.twimg.com/profile_images/729555955030044673/jBxOqmsB_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/e7689b738601c9b2f1d66cd2622f517e"
       }
     ],
     "slides": null,
@@ -1166,7 +1390,7 @@
       {
         "name": "Guillaume Duquesnay",
         "twitter": "duquesnay",
-        "picture": "https://pbs.twimg.com/profile_images/600719141583085570/JIvwfYWT_400x400.jpg"
+        "picture": "http://2.gravatar.com/avatar/9909cdb0b7b1aa8ed7eecce50669bf82"
       }
     ],
     "slides": null,
@@ -1183,7 +1407,7 @@
     "description": "Le management n'est pas naturel, c'est une technologie, et comme toutes les technos, elle finit forcément par devenir obsolète. L'agilité, en redistribuant les cartes au sein d'équipes auto-organisées a accéléré ce phénomène.Ne serait-il pas possible de concevoir une nouvelle technologie, au sein de laquelle il n'y aurait plus de manager ? L'holacratie, système de gouvernance récent créé en 2007 redéfinit la hiérarchie et la gouvernance de l'équipe jusqu'à l'entreprise. J'ai commencé depuis 1 an à experimenter à notre niveau cette approche chez Soat Agile. Je vous propose de vous présenter l'Holacratie suivi d'un retour d'experience qui répondra à la question que tout le monde se pose ; la disparition prochaine des managers est-elle annoncé ?",
     "authors": [
       {
-        "name": "Olivier Lelan",
+        "name": "Olivier Le Lan",
         "twitter": "o_olelan",
         "picture": "https://pbs.twimg.com/profile_images/2215872688/lol7_400x400.png"
       }
@@ -1196,6 +1420,25 @@
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220728329/",
     "date": "2015-03-10",
     "timestamp": 1426014000
+  },
+  {
+    "title": "L'avenir passe par les Web Components, la preuve par dix !",
+    "description": "Templating, encapsulation, éléments customs, databinding... La standardisation est en marche : Bienvenue aux Web Components. En 10 points, je vous montrerai ce qui est en train de se préparer dans vos navigateurs et ce que cela va nous permettre à nous, développeurs.",
+    "authors": [
+      {
+        "name": "Julien Vey",
+        "twitter": "julienvey",
+        "picture": "http://2.gravatar.com/avatar/33f4da946e4712d9aac7ea915fdc71e4"
+      }
+    ],
+    "slides": "https://speakerdeck.com/julienvey/lavenir-passe-par-les-web-components-la-preuve-par-dix",
+    "video": "https://www.youtube.com/watch?v=lxZk7X1iIdI",
+    "thumbnail": "./img/thumbnails/2eb94610-12bf-42d9-b4cf-109d6c1e9acc_slides.jpg",
+    "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
+    "meetup": null,
+    "date": "2013-04-09",
+    "timestamp": 1365534000
   },
   {
     "title": "L'aventure Famous/Angular",
@@ -1223,7 +1466,7 @@
       {
         "name": "Olivier Gerard",
         "twitter": null,
-        "picture": null
+        "picture": "http://1.gravatar.com/avatar/d9c550c19e95286c4eef4f79e4420c31"
       }
     ],
     "slides": null,
@@ -1253,6 +1496,25 @@
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/227549458/",
     "date": "2016-01-12",
     "timestamp": 1452625200
+  },
+  {
+    "title": "L'intelligence est un muscle, pas une quantité finie",
+    "description": "Nous, développeurs, avons un travail \"cognitif\". Nos construisons des oeuvres de l'esprit, mais comment se construit cet esprit ?\r\n\r\nJ'aimerais lancer une séquence de talks à mi-chemin entre \"hackez votre cerveau\" et \"les stages de l'expertise\".\r\n\r\nLoin de proposer une définition de l'intelligence, je vous propose une première approche entre éducation, formation et autocritique.",
+    "authors": [
+      {
+        "name": "Sylvain Abélard",
+        "twitter": "abelar_s",
+        "picture": "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "DojoBoost",
+    "location_logo": "./img/thumbnails/57439621-0dee-4a74-a88f-cfe8c96a7f90_location.jpg",
+    "meetup": null,
+    "date": "2013-02-12",
+    "timestamp": 1360695600
   },
   {
     "title": "L'intrapreneuriat, qu'est-ce que c'est ?",
@@ -1318,7 +1580,7 @@
       {
         "name": "Yannick Grenzinger",
         "twitter": "ygrenzinger",
-        "picture": "https://pbs.twimg.com/profile_images/668349256932171776/7Ma808uw_400x400.png"
+        "picture": "http://1.gravatar.com/avatar/243ed6e0c253e674512d807730c4b08f"
       }
     ],
     "slides": null,
@@ -1337,7 +1599,7 @@
       {
         "name": "Alexis Moroz",
         "twitter": "Alexis_Moroz",
-        "picture": "https://pbs.twimg.com/profile_images/1228859868/Avatar_400x400.jpg"
+        "picture": "http://1.gravatar.com/avatar/bb4db8504853547f672d8f619f3d0b06"
       }
     ],
     "slides": null,
@@ -1356,7 +1618,7 @@
       {
         "name": "Yannick Grenzinger",
         "twitter": "ygrenzinger",
-        "picture": "https://pbs.twimg.com/profile_images/668349256932171776/7Ma808uw_400x400.png"
+        "picture": "http://1.gravatar.com/avatar/243ed6e0c253e674512d807730c4b08f"
       }
     ],
     "slides": null,
@@ -1367,6 +1629,25 @@
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/156823782/",
     "date": "2014-01-14",
     "timestamp": 1389726000
+  },
+  {
+    "title": "La santé du geek au geek",
+    "description": "Mal aux yeux ? Mal au dos ? Fatigué ?\r\n\r\nAprès ans de geekitude, je pense avoir eu un bon aperçu de soucis de santé bénins, mais pénibles et envahissants.\r\nJe rencontre beaucoup de gens qui souffrent de fatigue, mal de dos, mal aux yeux, et en ignorent la raison.\r\n\r\nSans être médecin et en évitant le côté moralisateur, je vais tenter de faire un petit tour d'horizon de solutions simples pour éviter le plus gros des ennuis.\r\n\r\nÀ voir si vous avez mal à la tête, au dos, aux épaules, aux poignets, aux yeux... que vous manquez de sommeil, ou que vous allez encore bien mais ne voulez pas que ça vous arrive :)",
+    "authors": [
+      {
+        "name": "Sylvain Abélard",
+        "twitter": "abelar_s",
+        "picture": "https://pbs.twimg.com/profile_images/3479978019/1d87f3ae6d2c7aa4c1e32cbcf68ba5af_400x400.png"
+      }
+    ],
+    "slides": "https://speakerdeck.com/abelar_s/health-tips-from-geek-to-geek",
+    "video": null,
+    "thumbnail": "./img/thumbnails/d550dd82-39ff-4f2d-bd5c-bd109a6e92db_slides.jpg",
+    "location": "AF83",
+    "location_logo": "./img/thumbnails/8d1d95f4-5746-4215-9115-a03089559c50_location.png",
+    "meetup": null,
+    "date": "2012-12-11",
+    "timestamp": 1355252400
   },
   {
     "title": "Lancement d'API.gouv.fr",
@@ -1386,6 +1667,44 @@
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/232412051/",
     "date": "2016-07-12",
     "timestamp": 1468350000
+  },
+  {
+    "title": "Le Geospatial Indexing de MongoDb",
+    "description": "De plus en plus de services sont alimentés de données géolocalisées. Que votre projet recense des hôtels, des critiques de restaurants ou des radars automatiques, vous devez pouvoir proposer la recherche dans une zone donnée.\r\n\r\nEn tant que développeur, vous pouvez choisir de délèguer cette tâche à un outil particulier (Lucene Spatial Search, Hibernate Spatial Search) ou d'utiliser une BDD vous offrant directement cette possibilité.\r\n\r\nMongoDb propose un système d'indexation geospaciale, voyons comment l'utiliser.\r\n\r\nDans ce talk j'utiliserai du code en java, mais MongoDb est accessible via n'importe quel langage et il y a peu de différences dans la façon d'accéder aux données.",
+    "authors": [
+      {
+        "name": "Hugo Cordier",
+        "twitter": "HugoCrd",
+        "picture": "https://pbs.twimg.com/profile_images/2178564382/profil.jpg"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "AF83",
+    "location_logo": "./img/thumbnails/8d1d95f4-5746-4215-9115-a03089559c50_location.png",
+    "meetup": null,
+    "date": "2012-12-11",
+    "timestamp": 1355252400
+  },
+  {
+    "title": "Le Templating en Javascript",
+    "description": "Vous avez encore des concaténations de chaines partout dans votre code Javascript dès que vous insérez un élément dans le DOM ?\r\n\r\nDécouvrez rapidement comment mieux gérer tout ça et faciliter la maintenance du code avec une présentation rapide de frameworks vous permettant de mettre en place facilement du templating dans vos sites webs.",
+    "authors": [
+      {
+        "name": "Mathieu Parisot",
+        "twitter": "matparisot",
+        "picture": "https://pbs.twimg.com/profile_images/684439807603400704/CS8z0qCK_400x400.jpg"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/soatexpert/templating-en-javascript",
+    "video": null,
+    "thumbnail": "./img/thumbnails/5430fe90-7139-4700-bead-1c27871f402e_slides.jpg",
+    "location": "AF83",
+    "location_logo": "./img/thumbnails/8d1d95f4-5746-4215-9115-a03089559c50_location.png",
+    "meetup": null,
+    "date": "2012-12-11",
+    "timestamp": 1355252400
   },
   {
     "title": "Le développement email désormais accessible à tous avec MJML",
@@ -1483,13 +1802,32 @@
     "timestamp": 1431457200
   },
   {
+    "title": "Lean start-up : créer sa boite sans lever de fonds",
+    "description": "Un talk qui ne parle pas de techno, mais qui peut en intéresser plus d'un :\r\n\r\n- Comment bien s'associer ?\r\n- Comment démarrer sa boite sans financement ?\r\n- Comment être rentable dès la première année ?\r\n\r\nPrincipes du lean-startup, et retour d'expérience avec JobTeaser.",
+    "authors": [
+      {
+        "name": "Nicolas Lombard",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Xebia",
+    "location_logo": "./img/thumbnails/9867c450-b6f6-4072-b1d7-2afa2f08e588_location.png",
+    "meetup": null,
+    "date": "2013-03-12",
+    "timestamp": 1363114800
+  },
+  {
     "title": "Learn You a Brainfuck for Great Good !",
     "description": "Ce talk a pour vocation de faire un tour rapide des langages ésotériques, et de détailler leurs fondements théoriques. \r\n\r\nL'idée est de mettre en avant le fait qu'apprendre et comprendre des langages ésotériques aide à avoir une meilleur vision du développement en général. Illustrations en Brainfuck et en Piet.",
     "authors": [
       {
         "name": "Antoine Leblanc",
         "twitter": "nicuveo",
-        "picture": "https://pbs.twimg.com/profile_images/717503130456494081/EPfSRMJQ_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/d7b0dfff3ee3c7b1eba8ac9e9a3b43b6"
       }
     ],
     "slides": null,
@@ -1546,7 +1884,7 @@
       {
         "name": "Ellène Siber Dijoux",
         "twitter": "ElleneSiber",
-        "picture": "https://pbs.twimg.com/profile_images/634674964/ellene.dijoux_gmail.com_ed2d144c_400x400.jpg"
+        "picture": "http://2.gravatar.com/avatar/33fc11f88b25d361cbb8bdf12fc47cca"
       }
     ],
     "slides": null,
@@ -1584,7 +1922,7 @@
       {
         "name": "Nicolas Carlo",
         "twitter": "nicoespeon",
-        "picture": "https://pbs.twimg.com/profile_images/786463098349682688/MlUsA6TM_400x400.jpg"
+        "picture": "http://2.gravatar.com/avatar/46978c87c5c75cea5d05a61fa8b7d95b"
       }
     ],
     "slides": null,
@@ -1603,7 +1941,7 @@
       {
         "name": "Antoine Reux",
         "twitter": "CrankFlash",
-        "picture": "https://pbs.twimg.com/profile_images/3081520350/8a3fb24b1b9bc65c035cd493e5b9a130_400x400.png"
+        "picture": "http://0.gravatar.com/avatar/1c61fe8ab8d2916c9ab08ef825d667e3"
       }
     ],
     "slides": null,
@@ -1614,6 +1952,25 @@
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/",
     "date": "2014-07-08",
     "timestamp": 1404846000
+  },
+  {
+    "title": "Lipstick on a Pig Extreme Makeover Edition",
+    "description": "Ma prez d'#apidays en version folle (et en Français!)",
+    "authors": [
+      {
+        "name": "Ori Pekelman",
+        "twitter": "OriPekelman",
+        "picture": "https://pbs.twimg.com/profile_images/2290008070/bs49edg28e6c5swpaa09_400x400.png"
+      }
+    ],
+    "slides": "http://pekelman.com/presentations/apidays/",
+    "video": null,
+    "thumbnail": "./img/thumbnails/5e949a5d-dddd-46a0-bca5-e5dc1c15b5d0_slides.png",
+    "location": "AF83",
+    "location_logo": "./img/thumbnails/8d1d95f4-5746-4215-9115-a03089559c50_location.png",
+    "meetup": null,
+    "date": "2012-12-11",
+    "timestamp": 1355252400
   },
   {
     "title": "Lithium: Comment isoler la sources des erreurs",
@@ -1641,7 +1998,7 @@
       {
         "name": "Vianney Lecroart",
         "twitter": "acemtp",
-        "picture": "https://pbs.twimg.com/profile_images/782980862505877509/PlaZ3Qzi_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/85b54c9b60eac1bc9ce678844445d27d"
       }
     ],
     "slides": null,
@@ -1660,7 +2017,7 @@
       {
         "name": "Mickaël Andrieu",
         "twitter": "mickael_andrieu",
-        "picture": "https://pbs.twimg.com/profile_images/672716508427104256/6oyONEar_400x400.jpg"
+        "picture": "http://1.gravatar.com/avatar/c9bef243216af3ddcf5c62bfeed46c68"
       }
     ],
     "slides": "https://speakerdeck.com/mickaelandrieu/10-minutes-pour-choisir-sa-licence-open-source",
@@ -1671,6 +2028,25 @@
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/222070402/",
     "date": "2015-05-12",
     "timestamp": 1431457200
+  },
+  {
+    "title": "Make sense of your (big) data!",
+    "description": "Et si on fabriquait des dashboards selon notre besoin au moment où nous en avons besoin ?\r\n\r\nJe vous ferai découvrir lors de cette session comment coupler la puissance d'Elasticsearch et la simplicité de Kibana pour analyser sans efforts vos données, qu'elles proviennent de Twitter, de vos logs de Prod ou de vos données marketing...",
+    "authors": [
+      {
+        "name": "David Pilato",
+        "twitter": "dadoonet",
+        "picture": "http://0.gravatar.com/avatar/20049a614b7f6838dc87b4bc39c42079"
+      }
+    ],
+    "slides": "http://www.slideshare.net/dadoonet/human-talks-make-sense-of-your-big-data",
+    "video": "https://www.youtube.com/watch?v=MlqeY0YzrKU",
+    "thumbnail": "./img/thumbnails/d9a3c93b-c352-4d25-97a8-da199e426e88_slides.jpg",
+    "location": "Soat",
+    "location_logo": "./img/thumbnails/ddb870f9-754c-47b8-9daf-6fa4c015444e_location.svg",
+    "meetup": null,
+    "date": "2013-06-11",
+    "timestamp": 1370977200
   },
   {
     "title": "Make your business SPOF-Less",
@@ -1711,6 +2087,25 @@
     "timestamp": 1423594800
   },
   {
+    "title": "Mise au régime avec Spring Data",
+    "description": "Marre du boilerplate incessant dans vos DAOs ?\r\nUn nouvel attribut en base demande 2h d'effort pour l'exposer ?\r\n\r\nDégraissons nos applications avec Spring Data et retrouvons notre efficacité !",
+    "authors": [
+      {
+        "name": "Florent Biville",
+        "twitter": "fbiville",
+        "picture": "http://0.gravatar.com/avatar/f06979a03b9b522c80cb12def209c31a"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=mHh1y6IOrjI",
+    "thumbnail": "./img/thumbnails/ee86a07d-323b-4b92-a399-b90dbaa92ab5_video.jpg",
+    "location": "Viadeo",
+    "location_logo": "./img/thumbnails/7385f832-3d88-4ffa-82be-1279f238e464_location.png",
+    "meetup": null,
+    "date": "2013-05-14",
+    "timestamp": 1368558000
+  },
+  {
     "title": "Modular coverage tools for the modern web",
     "description": "Je vous présenterai esnext-coverage, un nouvel outil de mesure de qualité de code JavaScript (ES6+). On parlera (sans trop rentrer dans les détails) du concept d’instrumentation de code en utilisant le transformer plugin de Babel, du workflow d’utilisation et de génération de rapports dynamiques de couverture de tests unitaires ou d'intégration.",
     "authors": [
@@ -1747,6 +2142,25 @@
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/219274109/",
     "date": "2015-01-13",
     "timestamp": 1421175600
+  },
+  {
+    "title": "NoSSII ou le modèle Lateral Thoughts",
+    "description": "Dans le monde du service en Informatique, il existe un certain nombre de schéma bien distincts :\r\n\r\n- d'une part les indépendants, qui sont par nature, libre mais seuls;\r\n- d'autre part les SSII, où la liberté est plus rare et l'innovation difficile;\r\n\r\nLateral Thoughts représente un modèle alternatif que nous avons construit, pour concilier liberté, innovation et communauté. \r\nJe vais essayer de vous présenter en 10 minutes ce que représente ce modèle, que nous ne sommes plus seuls à porter, sous le nom de NoSSII.",
+    "authors": [
+      {
+        "name": "Olivier Girardot",
+        "twitter": "ogirardot",
+        "picture": "http://2.gravatar.com/avatar/def754b0d38c0f7e7a282c47ac6ce85e"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=stsFXk9npnc",
+    "thumbnail": "./img/thumbnails/0353bac6-0a50-471c-a249-174f92e401de_video.jpg",
+    "location": "Viadeo",
+    "location_logo": "./img/thumbnails/7385f832-3d88-4ffa-82be-1279f238e464_location.png",
+    "meetup": null,
+    "date": "2013-05-14",
+    "timestamp": 1368558000
   },
   {
     "title": "Nuun Framework : Standard building blocks for framework designers",
@@ -1831,7 +2245,7 @@
       {
         "name": "Paul Molin",
         "twitter": "paulmolin42",
-        "picture": "https://pbs.twimg.com/profile_images/578117892048191488/gMoyWVZU_400x400.jpeg"
+        "picture": "http://0.gravatar.com/avatar/0ae2f6577b99e571f2a9cef5c0cd45e6"
       }
     ],
     "slides": null,
@@ -1941,7 +2355,7 @@
       {
         "name": "Christophe Robillard",
         "twitter": "krichtof",
-        "picture": "https://pbs.twimg.com/profile_images/3156909329/f8431b847ce237c186ebdbb782e32eb3_400x400.jpeg"
+        "picture": "http://2.gravatar.com/avatar/e8f6f2cce6baadb867e6836fe57b3596"
       }
     ],
     "slides": "http://slides.com/krichtof/pourquoi-je-passe-au-business-model-open-source",
@@ -1952,6 +2366,25 @@
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/220031568/",
     "date": "2015-02-10",
     "timestamp": 1423594800
+  },
+  {
+    "title": "Pourquoi rejoindre une SSII ?",
+    "description": "Votre carrière stagne ? Votre vie sentimentale n'est pas au top ? Votre voiture est encore en panne ? Vous ne supportez plus tous ces indépendants qui tentent de vous convaincre de les rejoindre ?\r\n\r\nVous avez la passion du challenge et de la réussite, une réelle soif d'apprendre et la volonté de faire partie des meilleurs ? Vous souhaitez faire carrière dans une entreprise où la coopération est plus qu’un concept ?\r\n\r\nVenez découvrir pourquoi rejoindre une grande SSII vous permettra d'être plus épanoui(e) dans votre vie professionnelle et amoureuse.",
+    "authors": [
+      {
+        "name": "Mathieu Parisot",
+        "twitter": "matparisot",
+        "picture": "https://pbs.twimg.com/profile_images/684439807603400704/CS8z0qCK_400x400.jpg"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/soatexpert/pourquoi-rejoindre-une-ssii",
+    "video": null,
+    "thumbnail": "./img/thumbnails/86c4cbc1-887c-43a4-8ffd-40fea55aaed5_slides.jpg",
+    "location": "DojoBoost",
+    "location_logo": "./img/thumbnails/57439621-0dee-4a74-a88f-cfe8c96a7f90_location.jpg",
+    "meetup": null,
+    "date": "2013-02-12",
+    "timestamp": 1360695600
   },
   {
     "title": "Pourquoi vous ne devriez jamais écrire AES ou SHA dans votre code ?",
@@ -1971,25 +2404,6 @@
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/192126782/",
     "date": "2014-07-08",
     "timestamp": 1404846000
-  },
-  {
-    "title": "Prise de parole en public, quelques conseils",
-    "description": "Vous avez envie de partager votre experience mais vous avez peur de monter sur scène ? Ou alors vous pensez que ce que vous avez à raconter n'intéressera personne ? Dans ce talk je vais vous partager quelques conseils qui m'ont beaucoup aidés pour vaincre mon stress et écrire mes présentations. Je prends désormais beaucoup de plaisir à monter sur scène et je souhaite vous partager ces petits secrets.",
-    "authors": [
-      {
-        "name": "Tim Carry",
-        "twitter": "pixelastic",
-        "picture": "https://secure.gravatar.com/avatar/a2f9d5672798ac7ef42b871652a58fb0?d=404"
-      }
-    ],
-    "slides": null,
-    "video": null,
-    "thumbnail": null,
-    "location": "Google",
-    "location_logo": "./img/thumbnails/4e7ff2ef-94d1-4ace-82d7-31b3e746e43a_location.jpg",
-    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
-    "date": "2016-11-08",
-    "timestamp": 1478631600
   },
   {
     "title": "Procrastination : ce que dit la science",
@@ -2017,7 +2431,7 @@
       {
         "name": "Fabien Vauchelles",
         "twitter": "fabienv",
-        "picture": "https://pbs.twimg.com/profile_images/601035621252083712/e7q362D6_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/a775e033308c1bfbd0bbc86b298e4e06"
       }
     ],
     "slides": "http://fabienvauchelles.github.io/scrapoxy-talk-ht2015/",
@@ -2036,7 +2450,7 @@
       {
         "name": "Eric Vernié",
         "twitter": "EricVernie",
-        "picture": "https://pbs.twimg.com/profile_images/2730086448/42f9f79157f601f94fea46da0e52f171_400x400.jpeg"
+        "picture": "http://2.gravatar.com/avatar/18ecbbbae0f0d2e7fa9b204302191b75"
       }
     ],
     "slides": null,
@@ -2055,7 +2469,7 @@
       {
         "name": "Ludwine Probst",
         "twitter": "nivdul",
-        "picture": "https://pbs.twimg.com/profile_images/767120442817740800/1PEZwr6w_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/12fb119c7420fc9ee5b3896c2cceb892"
       }
     ],
     "slides": null,
@@ -2074,7 +2488,7 @@
       {
         "name": "Antoine Berthelin",
         "twitter": "aberthelin",
-        "picture": "https://pbs.twimg.com/profile_images/862849747/photo_copy_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/c8eb2d273c63216a221d0e89ee8f7c9a"
       }
     ],
     "slides": null,
@@ -2131,7 +2545,7 @@
       {
         "name": "Michel Domenjoud",
         "twitter": "mdomenjoud",
-        "picture": "https://pbs.twimg.com/profile_images/712757181444190210/oxNyatGc_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/b60d9cc38a80694b39c3a40b8dac600f"
       }
     ],
     "slides": "http://fr.slideshare.net/mdomenjoud/human-talks-ratez-vos-revues-de-code-en-5-leons",
@@ -2174,7 +2588,7 @@
       {
         "name": "Olivier Berthonneau",
         "twitter": "oberthonneau",
-        "picture": "https://pbs.twimg.com/profile_images/700708883929563136/ZlO-Zciz_400x400.jpg"
+        "picture": "http://1.gravatar.com/avatar/7fdcc65c63370e0e3f45b29ead60cac9"
       }
     ],
     "slides": null,
@@ -2185,6 +2599,25 @@
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/233912259/",
     "date": "2016-09-13",
     "timestamp": 1473793200
+  },
+  {
+    "title": "Reprenez le contrôle sur les Google Apps !",
+    "description": "Vous travaillez au quotidien avec les excellents outils que Google met à votre disposition sur votre compte Google Apps mais vous aimeriez ajouter des fonctionnalités propres à votre projet ?\r\n\r\nGoogle a pensé à vous en développant Apps Script (https://developers.google.com/apps-script) !\r\n\r\nDurant ce talk je vous propose un aperçu des fonctionnalités offertes et d'un exemple d'usage via UniShared (unishared.com).",
+    "authors": [
+      {
+        "name": "Arnaud Breton",
+        "twitter": "arnaud_breton",
+        "picture": "https://pbs.twimg.com/profile_images/716241066375180288/HqG-hhnh_400x400.jpg"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/arnaudbreton/reprenez-le-contrle-sur-les-google-apps-15156890",
+    "video": null,
+    "thumbnail": "./img/thumbnails/7429f264-0487-4c37-9d1e-01764c47c7c1_slides.jpg",
+    "location": "Epitech Paris",
+    "location_logo": "./img/thumbnails/343c27e8-7c2a-4e56-92dc-7222a0533a4b_location.png",
+    "meetup": null,
+    "date": "2012-11-13",
+    "timestamp": 1352833200
   },
   {
     "title": "Retour d'expérience : De Heroku à EC2 @ Youboox",
@@ -2210,9 +2643,9 @@
     "description": "Découvrez le Sprint, cette nouvelle méthodologie, inspirée par Google Ventures, qui permet de concrétiser en 5 jours une idée. A travers un retour d'expérience, venez comprendre les enjeux ainsi que les objectifs de cette méthode.",
     "authors": [
       {
-        "name": "Antoine Pezé",
+        "name": "Antoine",
         "twitter": "antoine_peze",
-        "picture": "https://pbs.twimg.com/profile_images/699622798411567104/Bk9Wnz_I_400x400.jpg"
+        "picture": "https://secure.gravatar.com/avatar/c623c5eae6605d61c09984d0b8261b69?d=404"
       }
     ],
     "slides": null,
@@ -2263,6 +2696,25 @@
     "timestamp": 1381258800
   },
   {
+    "title": "Retour sur l'organisation d'événements \"tech\"",
+    "description": "Sur les 2 dernières années j'ai participé à la création ou organisation de :\r\n\r\n- meetups gratuits d'une vingtaine de personnes à 150 personnes\r\n- meetups payants réunissants environ 100 personnes\r\n- meetups en anglais en France (et oui, on peut)\r\n- une conférence en anglais, à Paris, avec 550 participants et 12 orateurs internationaux\r\n\r\nDe ces expériences, j'en ai tiré des conclusions que je souhaiterais vous présenter pour vous permettre de vous lancer dans la création d'une communauté centrée autour vos technologies préférées.",
+    "authors": [
+      {
+        "name": "Thomas Bassetto",
+        "twitter": null,
+        "picture": null
+      }
+    ],
+    "slides": "http://slides.com/tbassetto/creer-une-communaute-technique/",
+    "video": null,
+    "thumbnail": "./img/thumbnails/842ac8b0-b4f4-4343-ad2d-0ecbec1e3638_slides.jpg",
+    "location": "AF83",
+    "location_logo": "./img/thumbnails/8d1d95f4-5746-4215-9115-a03089559c50_location.png",
+    "meetup": null,
+    "date": "2012-12-11",
+    "timestamp": 1355252400
+  },
+  {
     "title": "RxJava, Getting Started",
     "description": "Les applications sont de plus en plus interconnectées. Une architecture type WOA (Web Oriented Archiecture) et l’utilisation des micros-services nécessitent de faire de plus en plus d’appel à différents services web. Comment composer un résultat à partir de ces différents services, sans avoir à ce soucier de l’ordre dans lequel les serveurs vont répondre ? \r\n\r\nRxJava offre une manière élégante de faire de l’asynchrone et de la composition au sein de son application. Nous vous exposerons les concepts de Rx (Reactive eXtension) avant de vous montrer une mise en application.",
     "authors": [
@@ -2274,7 +2726,7 @@
       {
         "name": "Brice Dutheil",
         "twitter": "BriceDutheil",
-        "picture": "https://pbs.twimg.com/profile_images/1128275334/blacksad_medium_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/f31c7fbcbb0766d0632d96fd7e74b649"
       }
     ],
     "slides": "https://speakerdeck.com/dwursteisen/rxjava-getting-started",
@@ -2331,7 +2783,7 @@
       {
         "name": "Jean-Philippe Encausse",
         "twitter": "JpEncausse",
-        "picture": "https://pbs.twimg.com/profile_images/458869214158131202/dU-p9aEm_400x400.png"
+        "picture": "http://2.gravatar.com/avatar/52f87ab37cbd1f96d4170a20fd8203da"
       }
     ],
     "slides": null,
@@ -2445,7 +2897,7 @@
       {
         "name": "Mehdi Ben Haj Abbes",
         "twitter": "MehdiAbbes",
-        "picture": "https://pbs.twimg.com/profile_images/756216038497267712/nwP3m3M__400x400.jpg"
+        "picture": "http://1.gravatar.com/avatar/c40e9bb1a2e981fb910b194fb4b2d4a3"
       }
     ],
     "slides": null,
@@ -2534,13 +2986,51 @@
     "timestamp": 1444762800
   },
   {
+    "title": "Tester son idée en quelques heures",
+    "description": "Après de nombreuses participations à des Startup Weekend, je me suis aperçu que les gens testaient peu leurs idées avant de se lancer dans le développement du service complet.\r\n\r\nVoici 10 moyens d’affiner et tester votre idée avec le moins d’effort possible. Ils vous permettront de mieux répondre aux besoins de vos clients et d’aller plus vite vers la bonne idée.",
+    "authors": [
+      {
+        "name": "Camille Roux",
+        "twitter": "CamilleRoux",
+        "picture": "https://pbs.twimg.com/profile_images/739905900782161922/WI-8gFNV.jpg"
+      }
+    ],
+    "slides": "http://www.slideshare.net/camilleroux/tester-son-ide-en-quelques-heures",
+    "video": null,
+    "thumbnail": "./img/thumbnails/4b7337f1-bd91-41d4-a5bc-abe3a8802b0a_slides.jpg",
+    "location": "Epitech Paris",
+    "location_logo": "./img/thumbnails/343c27e8-7c2a-4e56-92dc-7222a0533a4b_location.png",
+    "meetup": null,
+    "date": "2012-11-13",
+    "timestamp": 1352833200
+  },
+  {
+    "title": "Tests de charge avec Gatling",
+    "description": "Vous êtes développeur web, votre application est presque terminée, et vous vous apprétez à la pousser en production.\r\n\r\nL'équipe marketing (ou le bouche à oreille) à fait son boulot, et vous espérez faire le buzz... Mais êtes-vous sûrs de ne pas risquer le FreeMobile-effect ?\r\n\r\nJe vous présenterai donc Gatling, un outil de tests de charge nouvelle génération qui se veut extrêment performant (notamment grâce à son architecture totalement asynchrone) et simple à utiliser grâce à son DSL.",
+    "authors": [
+      {
+        "name": "Romain Sertelon",
+        "twitter": "BluePyth",
+        "picture": "http://2.gravatar.com/avatar/9fe2948167b1c6a12e4ba388ec9d9376"
+      }
+    ],
+    "slides": "http://fr.slideshare.net/BluePyth/gatling-humantalks",
+    "video": null,
+    "thumbnail": "./img/thumbnails/b294755e-6749-4380-9e5f-4bb89a703d43_slides.jpg",
+    "location": "DojoBoost",
+    "location_logo": "./img/thumbnails/57439621-0dee-4a74-a88f-cfe8c96a7f90_location.jpg",
+    "meetup": null,
+    "date": "2013-02-12",
+    "timestamp": 1360695600
+  },
+  {
     "title": "Tests sur tout les fronts",
     "description": "Maîtriser et fiabiliser son code est aujourd’hui incontournable pour tout développeur devant faire face à des architectures web de plus en plus riches et complexes. Trop souvent délaissés, il existe pourtant des outils pour réaliser des tests front-end d’applications Web et répondre aux besoins d’un développement de qualité.",
     "authors": [
       {
         "name": "William Ong",
         "twitter": "Wyam",
-        "picture": "https://pbs.twimg.com/profile_images/478922840469954560/aZsSkJdA_400x400.jpeg"
+        "picture": "http://0.gravatar.com/avatar/a4a3a8c3746abe56f151cd115c346282"
       }
     ],
     "slides": null,
@@ -2616,12 +3106,12 @@
       {
         "name": "Jean-Baptiste Lemée",
         "twitter": "jblemee",
-        "picture": "https://pbs.twimg.com/profile_images/712730547588571136/NguMd0Fu_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/390932d3eed77135012a9accca4b2c59"
       },
       {
         "name": "Vincent Huguet",
         "twitter": "vhuguet",
-        "picture": "https://pbs.twimg.com/profile_images/517757068153864192/zbFzbWe8_400x400.png"
+        "picture": "http://0.gravatar.com/avatar/e8699dfe1fa77815123dcbe9dc81113d"
       }
     ],
     "slides": null,
@@ -2632,25 +3122,6 @@
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/137484932/",
     "date": "2013-09-10",
     "timestamp": 1378839600
-  },
-  {
-    "title": "Tout ce que vous pensez savoir sur la couleur est faux",
-    "description": "Où comment j'ai appris beaucoup trop de choses sur la couleur en travaillant sur un appareil photo. La couleur a-t-elle vraiment trois dimensions ? Pourquoi ça n'a pas de sens de faire des calculs en RGB ? C'est quoi la balance des blancs ?",
-    "authors": [
-      {
-        "name": "Maryla",
-        "twitter": null,
-        "picture": null
-      }
-    ],
-    "slides": null,
-    "video": null,
-    "thumbnail": null,
-    "location": "Google",
-    "location_logo": "./img/thumbnails/4e7ff2ef-94d1-4ace-82d7-31b3e746e43a_location.jpg",
-    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
-    "date": "2016-11-08",
-    "timestamp": 1478631600
   },
   {
     "title": "Transhumanisme, l’avènement de la singularité",
@@ -2672,13 +3143,32 @@
     "timestamp": 1449601200
   },
   {
+    "title": "Tu devrais faire du Lua !",
+    "description": "Tu connais le langage Lua ?\r\n\r\nTu savais que c'est l'un des langages de programmation dynamiques les plus simples ? Qu'une implémentation écrite par un type tout seul atteint des performances dépassant C sur certains benchmarks scientifiques ? Que c'est un des langages les plus connus de l'industrie du jeu vidéo, également utilisé par des projets comme Lightroom de Adobe, VLC, Redis, NetBSD ou Wikipedia ?\r\n\r\nTu savais que faire du Lua te permettra de comprendre ce qu'est vraiment un objet ? Qu'il te rendra riche, célèbre et te fera trouver l'amour (ou pas) ?\r\n\r\nTu devrais faire du Lua. Si tu en doutes, viens voir ce talk, j'essaierai de te convaincre.",
+    "authors": [
+      {
+        "name": "Pierre Chapuis",
+        "twitter": "pchapuis",
+        "picture": "https://pbs.twimg.com/profile_images/378800000274174191/a5cde2b996e7609d073603edc8b365dc_400x400.png"
+      }
+    ],
+    "slides": "http://files.catwell.info/presentations/2013-02-human-talks-lua/fr.html",
+    "video": null,
+    "thumbnail": null,
+    "location": "DojoBoost",
+    "location_logo": "./img/thumbnails/57439621-0dee-4a74-a88f-cfe8c96a7f90_location.jpg",
+    "meetup": null,
+    "date": "2013-02-12",
+    "timestamp": 1360695600
+  },
+  {
     "title": "UX / Créa - Les dévs et les créas devraient mieux s'entendre !",
     "description": "En moins de 10 ans, le métier de web designer a évolué aussi vite que les technologies ce qui implique une remise en question régulière et peut-être même permanente sur cette profession et ses limites d'intervention dans la conception et execution d'un projet. Comme pour les Chasseurs*, il y a le bon designer et le mauvais designer. Cette intervention a pour but de partager mes retours d'expériences via des anecdotes en tant que formatrice en école, webdesigner pour l'annonceur / en agence et aujourd'hui en tant qu'entrepreneuse. \r\n\r\n*Référence aux sketch des Inconnus : http://www.youtube.com/watch?v=QuGcoOJKXT8",
     "authors": [
       {
         "name": "Jacinthe Busson",
         "twitter": "jacinthe_",
-        "picture": "https://pbs.twimg.com/profile_images/506860208371404800/qYavmqCa_400x400.jpeg"
+        "picture": "http://1.gravatar.com/avatar/cce92925bbe7e0cd4683fecf65dfad49"
       }
     ],
     "slides": "http://jacinthebusson.com/humantalks/index.html",
@@ -2735,7 +3225,7 @@
       {
         "name": "Jonathan Beurel",
         "twitter": "jonathanbeurel",
-        "picture": "https://pbs.twimg.com/profile_images/710159694514556929/VRhRCmg0_400x400.jpg"
+        "picture": "http://2.gravatar.com/avatar/94ef5e4eb2ca41f5aec797b4c04c9282"
       }
     ],
     "slides": null,
@@ -2765,6 +3255,25 @@
     "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/126207802/",
     "date": "2013-07-09",
     "timestamp": 1373396400
+  },
+  {
+    "title": "Vert.x framework web polyglotte",
+    "description": "Nous sommes tous des développeurs polyglottes. Nous savons que chaque langage, avec ses avantages et inconvénients, répond à des besoins spécifiques.\r\nVert.x va dans ce sens et propose de rassembler les langages exécutables par la JVM pour leur permettre de travailler ensemble.\r\n\r\n15 minutes pour faire le point sur la philosophie du framework. On parlera aussi d'architecture événementielle, de modules qui dialoguent via un event bus, de concurrence et de scaling horizontal.",
+    "authors": [
+      {
+        "name": "Hugo Cordier",
+        "twitter": "HugoCrd",
+        "picture": "https://pbs.twimg.com/profile_images/2178564382/profil.jpg"
+      }
+    ],
+    "slides": null,
+    "video": "https://www.youtube.com/watch?v=8CIT9nfkfVM",
+    "thumbnail": "./img/thumbnails/5c4fc703-8861-4db2-aa79-9f4ba5ceb2e2_video.jpg",
+    "location": "Zenika",
+    "location_logo": "./img/thumbnails/2caa4f9b-0802-4ea4-882f-4fe132691ab0_location.jpeg",
+    "meetup": null,
+    "date": "2013-04-09",
+    "timestamp": 1365534000
   },
   {
     "title": "Vim. Y a vraiment des gens qui codent avec ça ?",
@@ -2868,7 +3377,7 @@
       {
         "name": "Woody Rousseau",
         "twitter": "WoodyRousseau",
-        "picture": "https://pbs.twimg.com/profile_images/529182053690916864/JSgvKvRr_400x400.jpeg"
+        "picture": "http://0.gravatar.com/avatar/16164bf6304a2b2c8ed67b5c04c731d2"
       }
     ],
     "slides": null,
@@ -2881,13 +3390,32 @@
     "timestamp": 1460487600
   },
   {
+    "title": "Zetascale",
+    "description": "Parce que Webscale c'est pour des bébés.\r\n\r\nDans ce talk nous traiterons des échelles différentes du picoscale au zetascale",
+    "authors": [
+      {
+        "name": "Ori Pekelman",
+        "twitter": "OriPekelman",
+        "picture": "https://pbs.twimg.com/profile_images/2290008070/bs49edg28e6c5swpaa09_400x400.png"
+      }
+    ],
+    "slides": null,
+    "video": null,
+    "thumbnail": null,
+    "location": "Epitech Paris",
+    "location_logo": "./img/thumbnails/343c27e8-7c2a-4e56-92dc-7222a0533a4b_location.png",
+    "meetup": null,
+    "date": "2012-11-13",
+    "timestamp": 1352833200
+  },
+  {
     "title": "git-deliver : le déploiement pro pour tous",
     "description": "On est souvent réduit à écrire des scripts bancals pour gérer le déploiement de fichiers de configuration, de scripts, ou de code en langages dynamiques (PHP, Ruby, Nodejs, Perl...)Vous avez été impressionnés par la simplicité du déploiement Ruby on Rails de Heroku par un simple \"git push\" ? Savez-vous que vous pouvez faire la même chose sur vos propres serveurs avec git deliver ? Déployez de manière simple, traçable et atomique grâce à la puissance de Git et de SSH.",
     "authors": [
       {
         "name": "Arnaud Bétrémieux",
         "twitter": null,
-        "picture": null
+        "picture": "http://2.gravatar.com/avatar/efb7400127947b18b25bb54ec1d255ed"
       }
     ],
     "slides": null,
@@ -2900,23 +3428,23 @@
     "timestamp": 1400007600
   },
   {
-    "title": "www : The Web Will Win",
-    "description": "La plupart de nous écrivons tous les jours sur un clavier. Cependant nous nous demandons pas souvent pourquoi les touches sont organisées comme cela. Nous connaissons au moins l'existence du QWERTY et de l'AZERTY mais il existe bien plus de layouts. Il y a un an (et demi) j'ai commencé à apprendre le dvorak. Un mois plus tard j'ai commencé à l'utiliser dans la vie de tous les jours. Trois mois après cela j'ai doublé ma vitesse de frappe. Aujourd'hui je l'utilise toujours. Je vais donc vous parler de pourquoi j'ai décidé de changer de layout de clavier, comment je m'y suis pris, quels sont les résultats et comment vous pouvez faire, vous, pour changer de layout de clavier. J'aborderais des sujets tels que la santé des mains, les types de clavier, la vitesse de frappe et le touch typing.",
+    "title": "jQuery spaghettis, ne pas rater sa sauce bolognaise",
+    "description": "Après quelques années de développement web et notamment JavaScript, j'ai beaucoup travaillé avec le framework jQuery. Je suis également, depuis 2 ans, chroniqueur francophone de l'actualité de celui-ci et de ses pendants graphique et mobile. Cette activité m'a permit d'acquérir quelques astuces pour éviter de nombreux pièges. Je vous propose donc de vous expliquer ma façon de travailler, les trucs et astuces concernés et qui, j'espère, vous aideront à ne pas vous empêtrer dans votre code.\r\nAu planning je vous propose des plugins, une meilleure gestion de vos évènements et une amélioration des performances de votre code. Sans oublier bien sûr une meilleure organisation ;)",
     "authors": [
       {
-        "name": "Olivier Leplus",
-        "twitter": "olivierleplus",
-        "picture": "https://pbs.twimg.com/profile_images/459265225221353473/xilGJIvG_400x400.jpeg"
+        "name": "Mathieu Robin",
+        "twitter": "mathrobin",
+        "picture": "http://2.gravatar.com/avatar/e5df5eb24863a86ef4d4c4bc071cb016"
       }
     ],
     "slides": null,
     "video": null,
     "thumbnail": null,
-    "location": "Google",
-    "location_logo": "./img/thumbnails/4e7ff2ef-94d1-4ace-82d7-31b3e746e43a_location.jpg",
-    "meetup": "http://www.meetup.com/fr-FR/HumanTalks-Paris/events/234463432/",
-    "date": "2016-11-08",
-    "timestamp": 1478631600
+    "location": "AF83",
+    "location_logo": "./img/thumbnails/8d1d95f4-5746-4215-9115-a03089559c50_location.png",
+    "meetup": null,
+    "date": "2012-12-11",
+    "timestamp": 1355252400
   },
   {
     "title": "Écrire sur Internet, c'est plus facile avec Markdown !",
@@ -2925,7 +3453,7 @@
       {
         "name": "Pascal Batty",
         "twitter": "scalbatty",
-        "picture": "https://pbs.twimg.com/profile_images/687025215298256896/YqxkaaUw_400x400.jpg"
+        "picture": "http://0.gravatar.com/avatar/7af8162d235a3ae15f128fff8dfcf335"
       }
     ],
     "slides": null,
